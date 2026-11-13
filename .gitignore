@@ -2,5 +2,3 @@ _site/
 .quarto/
 **/*.quarto_ipynb
 __pycache__/
-
-/.quarto/
