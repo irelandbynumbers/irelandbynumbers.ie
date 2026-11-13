@@ -3,4 +3,6 @@ title: "Jobs and unemployment"
 description: "How many people are in work, and the unemployment rate."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+The unemployment rate peaked at 16.1% in late 2011 and has been below 5% for most of the period since 2022. Unemployment among people aged 15 to 24 has been higher than the overall rate throughout, and rises further in downturns.
+
+{{< chart economy-unemployment >}}

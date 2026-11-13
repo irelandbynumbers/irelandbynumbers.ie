@@ -2,13 +2,13 @@
 # thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
 - title: "Building new homes"
   path: new-homes.qmd
-  image: ../images/topic-housing.svg
+  image: ../images/charts/housing-completions.png
   description: "How many new homes are completed each year, and of what type."
 - title: "House prices"
   path: prices.qmd
-  image: ../images/topic-housing.svg
+  image: ../images/charts/housing-prices.png
   description: "How the price of homes has moved, nationally and by area."
 - title: "Rents"
   path: rents.qmd
-  image: ../images/topic-housing.svg
+  image: ../images/charts/housing-rents-map.png
   description: "How rents have changed for new tenancies."

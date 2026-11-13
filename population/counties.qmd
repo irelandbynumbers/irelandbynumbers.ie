@@ -3,4 +3,6 @@ title: "Where people live"
 description: "The population of each county at every census, and where it has grown fastest."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+The census has counted the population of every county since 1841. Most counties have fewer people today than they had before the Great Famine of the 1840s. Leitrim in 2022 had about 23% of its 1841 population. Dublin had almost four times as many people, and Kildare, Meath, Wicklow and Louth had also grown past their 1841 level.
+
+{{< chart population-county-map >}}

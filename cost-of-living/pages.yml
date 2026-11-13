@@ -2,9 +2,9 @@
 # thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
 - title: "Inflation"
   path: inflation.qmd
-  image: ../images/topic-cost-of-living.svg
+  image: ../images/charts/cost-of-living-inflation.png
   description: "How fast consumer prices are rising, month by month."
 - title: "Prices by category"
   path: prices-by-category.qmd
-  image: ../images/topic-cost-of-living.svg
+  image: ../images/charts/cost-of-living-price-change-by-group.png
   description: "Which goods and services have risen most, from energy to food to rent."

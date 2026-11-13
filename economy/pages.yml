@@ -2,13 +2,13 @@
 # thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
 - title: "Jobs and unemployment"
   path: jobs.qmd
-  image: ../images/topic-economy.svg
+  image: ../images/charts/economy-unemployment.png
   description: "How many people are in work, and the unemployment rate."
 - title: "The size of the economy"
   path: size.qmd
-  image: ../images/topic-economy.svg
+  image: ../images/charts/economy-gdp-gni.png
   description: "GDP and modified gross national income (GNI*), and why they differ."
 - title: "Earnings"
   path: earnings.qmd
-  image: ../images/topic-economy.svg
+  image: ../images/charts/economy-earnings.png
   description: "Average weekly earnings, and how they compare with prices."

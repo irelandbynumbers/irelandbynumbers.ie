@@ -220,5 +220,23 @@
    }
   ],
   "built": "2026-11-13"
+ },
+ {
+  "id": "crime-thefts",
+  "topic": "crime",
+  "title": "Recorded thefts and burglaries",
+  "subtitle": "Number of theft and burglary incidents recorded by An Garda Síochána each year, by type, 2003 to 2025.",
+  "kind": "chart",
+  "page": "/charts/crime-thefts.html",
+  "csv": "/charts/crime-thefts.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Recorded crime incidents (CJA01)",
+    "url": "https://data.cso.ie/table/CJA01",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
  }
 ]

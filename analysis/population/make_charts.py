@@ -68,7 +68,7 @@ def county_map():
     # Colour runs from far below 1841 (orange) through 100% (neutral) to above it (blue).
     fig = figures.county_map(d[["census_year", "county", "percent_of_1841", "population"]], "county", "percent_of_1841",
                              time="census_year", colorscale=style.DIVERGING, value_format=".0f", suffix="%",
-                             legend_title="Population as a percentage of 1841", zmin=0, zmax=200,
+                             legend_title="% of 1841 population", zmin=0, zmax=200,
                              hover_extra="Population %{customdata[3]:,}")
     Chart(
         id="population-county-map", topic=TOPIC, kind="map", height=640,
@@ -77,7 +77,7 @@ def county_map():
                  "Use the slider to move through the census years.",
         sources=[Source.cso("F1001", "Population at Each Census")],
         notes=["100% means a county had the same population as in 1841, the last census before the Great Famine. "
-               "Counties above 200% (Dublin, and more recently some counties around it) are shown in the darkest blue."],
+               "Counties above 200% are shown in the darkest blue. In 2022 these were Dublin and Kildare."],
         data=d, figure=fig,
     ).write()
 

@@ -3,4 +3,10 @@ title: "Population over time"
 description: "How Ireland's population has grown, and how births, deaths and migration drive the change."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+About 5.5 million people lived in Ireland in April 2026, according to CSO estimates. The population was 2.8 million in 1961 and has grown in every year since then apart from 1988 to 1990.
+
+{{< chart population-total >}}
+
+The population changes through natural increase (births minus deaths) and net migration (people arriving minus people leaving). Births have outnumbered deaths in every year shown. Net migration has swung between large inflows and outflows, with more people leaving than arriving in the late 1980s and early 1990s, and again from 2010 to 2014.
+
+{{< chart population-change >}}

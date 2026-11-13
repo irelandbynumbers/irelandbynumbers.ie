@@ -100,6 +100,6 @@ def earnings():
         notes=["Earnings are gross, before tax, and include irregular payments such as bonuses. They cover all employees, "
                "full-time and part-time, so changes in the mix of jobs and hours also move the average.",
                f"The price-adjusted line uses the Consumer Price Index averaged over each quarter, so every figure is shown in {label} prices.",
-               "Figures are not seasonally adjusted, so earnings tend to rise at the end of each year when bonuses are paid."],
+               "Figures are not seasonally adjusted, so some of the movement from quarter to quarter is seasonal."],
         data=d, figure=fig,
     ).write()

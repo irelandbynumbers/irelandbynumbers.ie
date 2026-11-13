@@ -21,3 +21,7 @@
 - [Average weekly earnings](/charts/economy-earnings.html). Average weekly earnings of employees, in cash terms and adjusted for consumer prices (in 2026 Q2 prices), 2008 Q1 to 2026 Q2. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/economy-earnings.csv)
 - [GDP and modified gross national income](/charts/economy-gdp-gni.html). Gross domestic product (GDP) and modified gross national income (GNI*) in billions of euro at current prices, 1995 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/economy-gdp-gni.csv)
 - [Unemployment rate](/charts/economy-unemployment.html). Percentage of people in the labour force who are unemployed, seasonally adjusted, January 1998 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/economy-unemployment.csv)
+
+## [Crime](/crime/)
+
+- [Recorded thefts and burglaries](/charts/crime-thefts.html). Number of theft and burglary incidents recorded by An Garda Síochána each year, by type, 2003 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/crime-thefts.csv)
