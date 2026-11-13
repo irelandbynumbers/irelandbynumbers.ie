@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.facts import millions, pct_change
 
 TOPIC = "population"
 
@@ -20,8 +21,11 @@ def population_total():
     d = d[["Year", "VALUE"]].rename(columns={"VALUE": "population"})
     d["population"] = (d["population"] * 1000).round().astype(int)   # published in thousands
     first, last = d.iloc[0], d.iloc[-1]
+    ten = d[d.Year == last.Year - 10].iloc[0]
     Chart(
         id="population-total", topic=TOPIC,
+        key_fact=f"An estimated {millions(last.population)} people lived in the State in April {last.Year}, "
+                 f"{pct_change(last.population, ten.population)} on {ten.Year}.",
         title="Population of Ireland",
         subtitle=f"Estimated number of people living in the State each April, {first.Year} to {last.Year}.",
         sources=[Source.cso("PEA01", "Population Estimates (Persons in April)")],
@@ -44,8 +48,13 @@ def population_change():
                         colours=[style.BLUE, style.INK_3, style.ORANGE], label_last=False)
     fig.update_layout(showlegend=True, legend=style.legend_top(), margin=dict(t=40))
     fig.add_hline(y=0, line=dict(color=style.INK_3, width=1))
+    y = d.iloc[-1]
+    migration = (f"net migration added {y.net_migration:,} people" if y.net_migration >= 0
+                 else f"net migration reduced the population by {-y.net_migration:,}")
     Chart(
         id="population-change", topic=TOPIC,
+        key_fact=f"In the twelve months to April {y.Year} there were {y.births:,} births and {y.deaths:,} deaths, "
+                 f"and {migration}.",
         title="Births, deaths and migration",
         subtitle=f"People born, people who died, and net migration (people arriving minus people leaving) "
                  f"in the twelve months to April, {d.Year.min()} to {d.Year.max()}.",
@@ -70,8 +79,10 @@ def county_map():
                              time="census_year", colorscale=style.DIVERGING, value_format=".0f", suffix="%",
                              legend_title="% of 1841 population", zmin=0, zmax=200,
                              hover_extra="Population %{customdata[3]:,}")
+    fewer = int((d[d.census_year == latest].percent_of_1841 < 100).sum())
     Chart(
         id="population-county-map", topic=TOPIC, kind="map", height=640,
+        key_fact=f"At the {latest} census, {fewer} of the 26 counties had fewer people than in 1841.",
         title="County populations since 1841",
         subtitle=f"Population of each county at each census from 1841 to {latest}, as a percentage of its 1841 population. "
                  "Use the slider to move through the census years.",
@@ -91,8 +102,11 @@ def age_shares():
     fig = figures.lines(out, "Year", {"under_15": "Children under 15", "aged_65_plus": "People aged 65 and over"},
                         value_format=".1f", suffix="%", y_range=[0, 35], label_last=False)
     fig.update_layout(showlegend=True, legend=style.legend_top(), margin=dict(t=40))
+    a, b = out.iloc[0], out.iloc[-1]
     Chart(
         id="population-ageing", topic=TOPIC,
+        key_fact=f"People aged 65 and over made up {b.aged_65_plus:.1f}% of the population in {b.Year:.0f}, "
+                 f"compared with {a.aged_65_plus:.1f}% in {a.Year:.0f}.",
         title="Children and older people as a share of the population",
         subtitle=f"Percentage of the population aged under 15 and aged 65 and over, {out.Year.min()} to {out.Year.max()}.",
         sources=[Source.cso("PEA01", "Population Estimates (Persons in April)")],

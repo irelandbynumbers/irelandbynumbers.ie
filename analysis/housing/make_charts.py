@@ -25,8 +25,11 @@ def completions():
                        text=f"<b>{last.completions:,.0f}</b>", font=dict(color=style.INK, size=13))
     fig.update_layout(style.base_layout(bargap=0.25, xaxis=style.axis(dtick=1, showline=True),
                                         yaxis=style.value_axis(tickformat="~s")))
+    prev = d.iloc[-2]
     Chart(
         id="housing-completions", topic=TOPIC,
+        key_fact=f"{last.completions:,.0f} new homes were completed in {last.Year}, compared with "
+                 f"{prev.completions:,.0f} in {prev.Year}.",
         title="New homes completed each year",
         subtitle=f"Number of new dwellings completed in Ireland, {d.Year.min()} to {d.Year.max()}.",
         sources=[Source.cso("NDA01", "New Dwelling Completions")],
@@ -55,8 +58,11 @@ def house_prices():
     fig.update_yaxes(tickformat=".0f")
     fig.add_hline(y=100, line=dict(color=style.CONTEXT, width=1, dash="dot"))
     latest = pd.to_datetime(d.date.iloc[-1]).strftime("%B %Y")
+    gap = d.ireland.iloc[-1] - 100
     Chart(
         id="housing-prices", topic=TOPIC,
+        key_fact=f"In {latest}, house prices nationally were {abs(gap):.0f}% {'above' if gap >= 0 else 'below'} their 2015 average, "
+                 "before adjusting for inflation.",
         title="House prices",
         subtitle=f"Residential Property Price Index, January 2005 to {latest}. 100 is the average price level in 2015.",
         sources=[Source.cso("HPM09", "Residential Property Price Index")],
@@ -78,8 +84,12 @@ def rents_map():
     fig.data[1].hovertemplate = "<b>%{location}</b><br>€%{z:,.0f} a month<extra></extra>"
     for fr in fig.frames:
         fr.data[1].hovertemplate = fig.data[1].hovertemplate
+    y = d[d.year == d.year.max()].sort_values("average_monthly_rent")
+    lo, hi = y.iloc[0], y.iloc[-1]
     Chart(
         id="housing-rents-map", topic=TOPIC, kind="map", height=640,
+        key_fact=f"In {hi.year}, the average monthly rent on a new tenancy ranged from €{lo.average_monthly_rent:,} in "
+                 f"{lo.county} to €{hi.average_monthly_rent:,} in {hi.county}.",
         title="Average rent by county",
         subtitle=f"Average monthly rent on new private tenancies registered with the Residential Tenancies Board, "
                  f"{d.year.min()} to {d.year.max()}. Use the slider to move through the years.",

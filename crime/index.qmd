@@ -13,7 +13,11 @@ listing:
   sort-ui: false
 ---
 
+{{< irish crime >}}
+
 These pages show crime recorded by An Garda Síochána, as published by the Central Statistics Office, broken down by type of offence and by area. The CSO publishes recorded crime statistics under reservation, because of concerns about the quality of some of the underlying records, and the notes on each chart explain what that means for the figures.
+
+{{< key-facts crime-thefts >}}
 
 :::{#pages}
 :::

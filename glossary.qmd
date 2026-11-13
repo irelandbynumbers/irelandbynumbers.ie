@@ -1,0 +1,86 @@
+---
+title: "Glossary"
+description: "Plain-English explanations of the terms used in the charts on Ireland by Numbers."
+---
+
+Plain-English explanations of terms used on the site, in alphabetical order.
+
+## Adjusted for inflation {#real-terms}
+
+A figure adjusted for inflation shows what an amount of money would buy at today's prices, so that figures from different years can be compared fairly. It is sometimes called a figure in real terms. A figure that is not adjusted is said to be in cash terms or at current prices.
+
+## Census {#census}
+
+A count of everyone in the State on one night, carried out by the Central Statistics Office. Ireland's census is usually held every five years, and the most recent was in April 2022. Between censuses, the population is estimated.
+
+## Consumer Price Index (CPI) {#cpi}
+
+The CSO's main measure of the prices households pay. It tracks the prices of a fixed basket of goods and services, weighted by how much households spend on each. The change in the index over twelve months is the usual measure of [inflation](#inflation).
+
+## Current prices {#current-prices}
+
+Figures in the money of each year, with no adjustment for changes in prices. Also called cash terms. See [adjusted for inflation](#real-terms).
+
+## Dwelling completion {#dwelling-completion}
+
+A new house or apartment counted as finished. The CSO counts a new dwelling as completed when it is first connected to the electricity network.
+
+## GDP (gross domestic product) {#gdp}
+
+The total value of the goods and services produced in a country in a year. It is the most common measure of the size of an economy. In Ireland, GDP is pushed up by the accounts of a number of large multinational companies, so it overstates the income of people living here. See [GNI\*](#gni-star).
+
+## GNI\* (modified gross national income) {#gni-star}
+
+A measure of the size of Ireland's domestic economy, introduced by the CSO in 2017. It starts from national income and removes the effects of multinational companies that most distort Irish figures, such as the profits of companies that moved their headquarters to Ireland, and the depreciation of intellectual property and leased aircraft owned by foreign companies here.
+
+## Index {#index}
+
+A way of showing how something has changed relative to a starting point, called the base period, which is set to 100. An index of 120 means the value is 20% higher than in the base period. An index shows change over time, not the level of prices or values.
+
+## Inflation {#inflation}
+
+The rate at which prices rise, usually measured as the change in the [Consumer Price Index](#cpi) compared with the same month a year earlier. Negative inflation means prices are falling on average.
+
+## Labour force {#labour-force}
+
+Everyone aged 15 to 74 who is either in work or [unemployed](#unemployed). People who are neither working nor looking for work, such as many students, retired people and full-time carers, are not part of the labour force.
+
+## Net migration {#net-migration}
+
+The number of people who moved to Ireland in a year minus the number who moved away. A positive figure means more people arrived than left. Migration is estimated, not counted, and the estimates are revised after each [census](#census).
+
+## Percentage point {#percentage-point}
+
+The difference between two percentages. If unemployment rises from 4% to 5%, it has risen by one percentage point, which is a rise of 25% in the rate itself.
+
+## Population estimate {#population-estimate}
+
+The CSO's estimate of how many people live in the State each April, between censuses. It starts from the latest census and adds births, takes away deaths and adds [net migration](#net-migration).
+
+## Recorded crime {#recorded-crime}
+
+Crimes reported to or discovered by An Garda Síochána and recorded on its systems. Recorded crime can change because of how often people report crimes and how they are recorded, as well as because of how often crimes happen.
+
+## Residential Property Price Index {#rppi}
+
+The CSO's measure of house and apartment prices, based on the prices paid for homes, as filed with the Revenue Commissioners. It compares like with like, adjusting for the type, size and location of homes sold. It is an [index](#index), with 100 as the average price level in 2015.
+
+## RTB (Residential Tenancies Board) {#rtb}
+
+The public body that registers private tenancies. The average rents on Ireland by Numbers are the rents agreed on new tenancies registered with the RTB, which can differ from the rents paid on existing tenancies.
+
+## Seasonally adjusted {#seasonally-adjusted}
+
+Adjusted to remove the usual pattern of the seasons, such as more people finding work in summer, so that a change from one month to the next shows the underlying trend.
+
+## Statistics under reservation {#under-reservation}
+
+A label the CSO uses when the quality of a set of statistics does not yet fully meet its standards for official statistics. Recorded crime figures are currently published under reservation. They are still the best available figures, but should be read with care.
+
+## Unemployed {#unemployed}
+
+A person is unemployed if they do not have a job, are available to start work within the next two weeks, and have looked for work in the past four weeks. This is the international definition used by the CSO. It is not the same as the number of people claiming a jobseeker's payment.
+
+## Unemployment rate {#unemployment-rate}
+
+The number of people who are [unemployed](#unemployed) as a percentage of the [labour force](#labour-force).

@@ -1,0 +1,26 @@
+# Irish-language titles and summaries for each topic. They appear at the top of
+# each topic page once `approved` is set to true, after a fluent speaker has
+# checked them. Until then they are drafts and do not appear on the site.
+approved: false
+topics:
+  population:
+    title: "Daonra"
+    summary: "Cé mhéad duine atá ina gcónaí in Éirinn, cá bhfuil siad ina gcónaí, agus conas atá sé sin ag athrú."
+  housing:
+    title: "Tithíocht"
+    summary: "Cé mhéad teach nua a thógtar, agus costas tithe le ceannach agus le ligean ar cíos."
+  cost-of-living:
+    title: "Costas maireachtála"
+    summary: "Conas a d'athraigh praghsanna do thomhaltóirí, agus na costais is mó a d'ardaigh."
+  economy:
+    title: "An geilleagar agus obair"
+    summary: "Poist, dífhostaíocht, tuilleamh agus méid an gheilleagair."
+  education:
+    title: "Oideachas"
+    summary: "Scoileanna, daltaí agus pátrúnacht scoileanna."
+  crime:
+    title: "Coireacht"
+    summary: "Coireacht a taifeadadh de réir cineáil, ó ghoid agus coireacht a bhaineann le gluaisteáin go hionsaí."
+  counties:
+    title: "Contaetha"
+    summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

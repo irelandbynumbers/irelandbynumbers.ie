@@ -31,8 +31,11 @@ def thefts_by_type():
     series = {cols[k]: v for k, v in THEFT.items()}
     fig = figures.lines(d, "Year", series, label_last=False, y_range=[0, d[list(cols.values())].max().max() * 1.08])
     fig.update_layout(showlegend=True, legend=style.legend_top(), margin=dict(t=64))
+    a, b = d.iloc[0], d.iloc[-1]
     Chart(
         id="crime-thefts", topic=TOPIC,
+        key_fact=f"{b.theft_from_shops:,} thefts from shops were recorded in {b.Year}, compared with "
+                 f"{a.theft_from_shops:,} in {a.Year}.",
         title="Recorded thefts and burglaries",
         subtitle=f"Number of theft and burglary incidents recorded by An Garda Síochána each year, by type, {d.Year.min()} to {d.Year.max()}.",
         sources=[Source.cso("CJA01", "Recorded crime incidents")],

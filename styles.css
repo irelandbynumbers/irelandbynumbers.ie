@@ -123,3 +123,36 @@
   .timeline-step { border-top: 0; border-left: 2px solid #c9c7c0; padding: 0 0 1rem 1.1rem; }
   .timeline-step::before { top: 2px; left: -7px; }
 }
+
+/* Key facts at the top of a topic or county page. */
+.key-facts {
+  margin: 1.25rem 0 1.75rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #2a78d6;
+  background: #f3f2ee;
+  border-radius: 0 6px 6px 0;
+}
+.key-facts .key-facts-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #52514e;
+  border: 0;
+  padding: 0;
+}
+.key-facts ul { margin: 0; padding-left: 1.1rem; }
+.key-facts li { margin: 0.25rem 0; }
+.key-facts p { margin: 0.35rem 0; }
+.key-fact-link { font-size: 0.9rem; white-space: nowrap; }
+
+/* Irish title and summary on a topic page. */
+.irish { margin: -0.5rem 0 1.25rem; color: #52514e; }
+.irish p { margin: 0 0 0.25rem; }
+
+/* Chart of the week date. */
+.cotw-date { color: #52514e; font-size: 0.9rem; }
+
+/* The list of county pages. */
+.county-list { margin: 1rem 0 1.5rem; line-height: 2; }

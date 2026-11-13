@@ -3,6 +3,7 @@ import pandas as pd
 
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.facts import higher_lower
 
 TOPIC = "economy"
 
@@ -28,6 +29,7 @@ def unemployment():
     latest = pd.to_datetime(d.date.iloc[-1]).strftime("%B %Y")
     Chart(
         id="economy-unemployment", topic=TOPIC,
+        key_fact=f"The unemployment rate was {d.aged_15_74.iloc[-1]:.1f}% in {latest}, seasonally adjusted.",
         title="Unemployment rate",
         subtitle=f"Percentage of people in the labour force who are unemployed, seasonally adjusted, {first} to {latest}.",
         sources=[Source.cso("MUM01", "Seasonally Adjusted Monthly Unemployment")],
@@ -49,8 +51,10 @@ def gdp_gni():
     d = d[["Year", "gdp", "gni_star"]]
     fig = figures.lines(d, "Year", {"gdp": "GDP", "gni_star": "GNI*"}, value_format=",.0f", prefix="€", suffix="bn",
                         y_range=[0, d.gdp.max() * 1.08])
+    y = d.iloc[-1]
     Chart(
         id="economy-gdp-gni", topic=TOPIC,
+        key_fact=f"In {y.Year:.0f}, GNI* was €{y.gni_star:,.0f} billion, {y.gni_star / y.gdp * 100:.0f}% of GDP.",
         title="GDP and modified gross national income",
         subtitle=f"Gross domestic product (GDP) and modified gross national income (GNI*) in billions of euro at current prices, "
                  f"{d.Year.min()} to {d.Year.max()}.",
@@ -90,8 +94,13 @@ def earnings():
     for tr in fig.data:
         tr.customdata = d.quarter
     label = latest.replace("Q", " Q")
+    now, year_ago = d.iloc[-1], d.iloc[-5]
+    real = f"in_{latest}_prices"
     Chart(
         id="economy-earnings", topic=TOPIC,
+        key_fact=f"Average weekly earnings were €{now.weekly_earnings:,.0f} in {label}, "
+                 f"{higher_lower((now.weekly_earnings / year_ago.weekly_earnings - 1) * 100)} than a year earlier, "
+                 f"or {higher_lower((now[real] / year_ago[real] - 1) * 100)} after adjusting for prices.",
         title="Average weekly earnings",
         subtitle=f"Average weekly earnings of employees, in cash terms and adjusted for consumer prices "
                  f"(in {label} prices), {d.quarter.iloc[0].replace('Q', ' Q')} to {label}.",
