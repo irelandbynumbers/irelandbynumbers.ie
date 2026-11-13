@@ -1,0 +1,609 @@
+STATISTIC,STATISTIC Label,TLIST(A1),Year,C02541V03076,Component,UNIT,VALUE
+PEA15,Annual Population Change,1951,1951,1,Annual births,Thousand,
+PEA15,Annual Population Change,1951,1951,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1951,1951,3,Natural increase,Thousand,26.6
+PEA15,Annual Population Change,1951,1951,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1951,1951,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1951,1951,6,Net migration,Thousand,-35.0
+PEA15,Annual Population Change,1951,1951,7,Population change,Thousand,-8.4
+PEA15,Annual Population Change,1951,1951,8,Population,Thousand,2960.6
+PEA15,Annual Population Change,1952,1952,1,Annual births,Thousand,
+PEA15,Annual Population Change,1952,1952,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1952,1952,3,Natural increase,Thousand,27.3
+PEA15,Annual Population Change,1952,1952,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1952,1952,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1952,1952,6,Net migration,Thousand,-35.0
+PEA15,Annual Population Change,1952,1952,7,Population change,Thousand,-7.7
+PEA15,Annual Population Change,1952,1952,8,Population,Thousand,2952.9
+PEA15,Annual Population Change,1953,1953,1,Annual births,Thousand,
+PEA15,Annual Population Change,1953,1953,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1953,1953,3,Natural increase,Thousand,29.1
+PEA15,Annual Population Change,1953,1953,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1953,1953,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1953,1953,6,Net migration,Thousand,-33.0
+PEA15,Annual Population Change,1953,1953,7,Population change,Thousand,-3.9
+PEA15,Annual Population Change,1953,1953,8,Population,Thousand,2949.0
+PEA15,Annual Population Change,1954,1954,1,Annual births,Thousand,
+PEA15,Annual Population Change,1954,1954,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1954,1954,3,Natural increase,Thousand,28.2
+PEA15,Annual Population Change,1954,1954,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1954,1954,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1954,1954,6,Net migration,Thousand,-36.0
+PEA15,Annual Population Change,1954,1954,7,Population change,Thousand,-7.8
+PEA15,Annual Population Change,1954,1954,8,Population,Thousand,2941.2
+PEA15,Annual Population Change,1955,1955,1,Annual births,Thousand,
+PEA15,Annual Population Change,1955,1955,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1955,1955,3,Natural increase,Thousand,24.7
+PEA15,Annual Population Change,1955,1955,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1955,1955,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1955,1955,6,Net migration,Thousand,-45.0
+PEA15,Annual Population Change,1955,1955,7,Population change,Thousand,-20.3
+PEA15,Annual Population Change,1955,1955,8,Population,Thousand,2920.9
+PEA15,Annual Population Change,1956,1956,1,Annual births,Thousand,
+PEA15,Annual Population Change,1956,1956,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1956,1956,3,Natural increase,Thousand,25.6
+PEA15,Annual Population Change,1956,1956,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1956,1956,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1956,1956,6,Net migration,Thousand,-48.0
+PEA15,Annual Population Change,1956,1956,7,Population change,Thousand,-22.4
+PEA15,Annual Population Change,1956,1956,8,Population,Thousand,2898.5
+PEA15,Annual Population Change,1957,1957,1,Annual births,Thousand,
+PEA15,Annual Population Change,1957,1957,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1957,1957,3,Natural increase,Thousand,27.8
+PEA15,Annual Population Change,1957,1957,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1957,1957,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1957,1957,6,Net migration,Thousand,-41.0
+PEA15,Annual Population Change,1957,1957,7,Population change,Thousand,-13.2
+PEA15,Annual Population Change,1957,1957,8,Population,Thousand,2885.3
+PEA15,Annual Population Change,1958,1958,1,Annual births,Thousand,
+PEA15,Annual Population Change,1958,1958,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1958,1958,3,Natural increase,Thousand,25.4
+PEA15,Annual Population Change,1958,1958,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1958,1958,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1958,1958,6,Net migration,Thousand,-58.0
+PEA15,Annual Population Change,1958,1958,7,Population change,Thousand,-32.6
+PEA15,Annual Population Change,1958,1958,8,Population,Thousand,2852.7
+PEA15,Annual Population Change,1959,1959,1,Annual births,Thousand,
+PEA15,Annual Population Change,1959,1959,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1959,1959,3,Natural increase,Thousand,24.9
+PEA15,Annual Population Change,1959,1959,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1959,1959,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1959,1959,6,Net migration,Thousand,-32.0
+PEA15,Annual Population Change,1959,1959,7,Population change,Thousand,-7.1
+PEA15,Annual Population Change,1959,1959,8,Population,Thousand,2845.6
+PEA15,Annual Population Change,1960,1960,1,Annual births,Thousand,
+PEA15,Annual Population Change,1960,1960,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1960,1960,3,Natural increase,Thousand,27.5
+PEA15,Annual Population Change,1960,1960,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1960,1960,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1960,1960,6,Net migration,Thousand,-41.0
+PEA15,Annual Population Change,1960,1960,7,Population change,Thousand,-13.5
+PEA15,Annual Population Change,1960,1960,8,Population,Thousand,2832.1
+PEA15,Annual Population Change,1961,1961,1,Annual births,Thousand,
+PEA15,Annual Population Change,1961,1961,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1961,1961,3,Natural increase,Thousand,26.2
+PEA15,Annual Population Change,1961,1961,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1961,1961,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1961,1961,6,Net migration,Thousand,-40.0
+PEA15,Annual Population Change,1961,1961,7,Population change,Thousand,-13.8
+PEA15,Annual Population Change,1961,1961,8,Population,Thousand,2818.3
+PEA15,Annual Population Change,1962,1962,1,Annual births,Thousand,
+PEA15,Annual Population Change,1962,1962,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1962,1962,3,Natural increase,Thousand,26.8
+PEA15,Annual Population Change,1962,1962,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1962,1962,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1962,1962,6,Net migration,Thousand,-15.0
+PEA15,Annual Population Change,1962,1962,7,Population change,Thousand,11.8
+PEA15,Annual Population Change,1962,1962,8,Population,Thousand,2830.1
+PEA15,Annual Population Change,1963,1963,1,Annual births,Thousand,
+PEA15,Annual Population Change,1963,1963,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1963,1963,3,Natural increase,Thousand,27.9
+PEA15,Annual Population Change,1963,1963,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1963,1963,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1963,1963,6,Net migration,Thousand,-8.0
+PEA15,Annual Population Change,1963,1963,7,Population change,Thousand,19.9
+PEA15,Annual Population Change,1963,1963,8,Population,Thousand,2850.0
+PEA15,Annual Population Change,1964,1964,1,Annual births,Thousand,
+PEA15,Annual Population Change,1964,1964,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1964,1964,3,Natural increase,Thousand,30.8
+PEA15,Annual Population Change,1964,1964,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1964,1964,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1964,1964,6,Net migration,Thousand,-17.0
+PEA15,Annual Population Change,1964,1964,7,Population change,Thousand,13.8
+PEA15,Annual Population Change,1964,1964,8,Population,Thousand,2863.8
+PEA15,Annual Population Change,1965,1965,1,Annual births,Thousand,
+PEA15,Annual Population Change,1965,1965,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1965,1965,3,Natural increase,Thousand,32.0
+PEA15,Annual Population Change,1965,1965,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1965,1965,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1965,1965,6,Net migration,Thousand,-20.0
+PEA15,Annual Population Change,1965,1965,7,Population change,Thousand,12.0
+PEA15,Annual Population Change,1965,1965,8,Population,Thousand,2875.8
+PEA15,Annual Population Change,1966,1966,1,Annual births,Thousand,
+PEA15,Annual Population Change,1966,1966,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1966,1966,3,Natural increase,Thousand,29.2
+PEA15,Annual Population Change,1966,1966,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1966,1966,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1966,1966,6,Net migration,Thousand,-21.0
+PEA15,Annual Population Change,1966,1966,7,Population change,Thousand,8.2
+PEA15,Annual Population Change,1966,1966,8,Population,Thousand,2884.0
+PEA15,Annual Population Change,1967,1967,1,Annual births,Thousand,
+PEA15,Annual Population Change,1967,1967,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1967,1967,3,Natural increase,Thousand,28.7
+PEA15,Annual Population Change,1967,1967,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1967,1967,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1967,1967,6,Net migration,Thousand,-13.0
+PEA15,Annual Population Change,1967,1967,7,Population change,Thousand,15.7
+PEA15,Annual Population Change,1967,1967,8,Population,Thousand,2899.7
+PEA15,Annual Population Change,1968,1968,1,Annual births,Thousand,
+PEA15,Annual Population Change,1968,1968,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1968,1968,3,Natural increase,Thousand,28.5
+PEA15,Annual Population Change,1968,1968,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1968,1968,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1968,1968,6,Net migration,Thousand,-16.0
+PEA15,Annual Population Change,1968,1968,7,Population change,Thousand,12.5
+PEA15,Annual Population Change,1968,1968,8,Population,Thousand,2912.2
+PEA15,Annual Population Change,1969,1969,1,Annual births,Thousand,
+PEA15,Annual Population Change,1969,1969,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1969,1969,3,Natural increase,Thousand,28.0
+PEA15,Annual Population Change,1969,1969,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1969,1969,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1969,1969,6,Net migration,Thousand,-15.0
+PEA15,Annual Population Change,1969,1969,7,Population change,Thousand,13.0
+PEA15,Annual Population Change,1969,1969,8,Population,Thousand,2925.2
+PEA15,Annual Population Change,1970,1970,1,Annual births,Thousand,
+PEA15,Annual Population Change,1970,1970,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1970,1970,3,Natural increase,Thousand,29.7
+PEA15,Annual Population Change,1970,1970,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1970,1970,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1970,1970,6,Net migration,Thousand,-5.0
+PEA15,Annual Population Change,1970,1970,7,Population change,Thousand,24.7
+PEA15,Annual Population Change,1970,1970,8,Population,Thousand,2949.9
+PEA15,Annual Population Change,1971,1971,1,Annual births,Thousand,
+PEA15,Annual Population Change,1971,1971,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1971,1971,3,Natural increase,Thousand,33.3
+PEA15,Annual Population Change,1971,1971,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1971,1971,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1971,1971,6,Net migration,Thousand,-5.0
+PEA15,Annual Population Change,1971,1971,7,Population change,Thousand,28.3
+PEA15,Annual Population Change,1971,1971,8,Population,Thousand,2978.2
+PEA15,Annual Population Change,1972,1972,1,Annual births,Thousand,
+PEA15,Annual Population Change,1972,1972,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1972,1972,3,Natural increase,Thousand,35.2
+PEA15,Annual Population Change,1972,1972,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1972,1972,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1972,1972,6,Net migration,Thousand,11.0
+PEA15,Annual Population Change,1972,1972,7,Population change,Thousand,46.2
+PEA15,Annual Population Change,1972,1972,8,Population,Thousand,3024.4
+PEA15,Annual Population Change,1973,1973,1,Annual births,Thousand,
+PEA15,Annual Population Change,1973,1973,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1973,1973,3,Natural increase,Thousand,35.6
+PEA15,Annual Population Change,1973,1973,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1973,1973,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1973,1973,6,Net migration,Thousand,13.0
+PEA15,Annual Population Change,1973,1973,7,Population change,Thousand,48.6
+PEA15,Annual Population Change,1973,1973,8,Population,Thousand,3073.0
+PEA15,Annual Population Change,1974,1974,1,Annual births,Thousand,
+PEA15,Annual Population Change,1974,1974,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1974,1974,3,Natural increase,Thousand,34.9
+PEA15,Annual Population Change,1974,1974,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1974,1974,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1974,1974,6,Net migration,Thousand,16.0
+PEA15,Annual Population Change,1974,1974,7,Population change,Thousand,50.9
+PEA15,Annual Population Change,1974,1974,8,Population,Thousand,3123.9
+PEA15,Annual Population Change,1975,1975,1,Annual births,Thousand,
+PEA15,Annual Population Change,1975,1975,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1975,1975,3,Natural increase,Thousand,33.3
+PEA15,Annual Population Change,1975,1975,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1975,1975,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1975,1975,6,Net migration,Thousand,20.0
+PEA15,Annual Population Change,1975,1975,7,Population change,Thousand,53.3
+PEA15,Annual Population Change,1975,1975,8,Population,Thousand,3177.2
+PEA15,Annual Population Change,1976,1976,1,Annual births,Thousand,
+PEA15,Annual Population Change,1976,1976,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1976,1976,3,Natural increase,Thousand,34.6
+PEA15,Annual Population Change,1976,1976,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1976,1976,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1976,1976,6,Net migration,Thousand,16.0
+PEA15,Annual Population Change,1976,1976,7,Population change,Thousand,50.6
+PEA15,Annual Population Change,1976,1976,8,Population,Thousand,3227.8
+PEA15,Annual Population Change,1977,1977,1,Annual births,Thousand,
+PEA15,Annual Population Change,1977,1977,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1977,1977,3,Natural increase,Thousand,34.1
+PEA15,Annual Population Change,1977,1977,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1977,1977,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1977,1977,6,Net migration,Thousand,10.0
+PEA15,Annual Population Change,1977,1977,7,Population change,Thousand,44.1
+PEA15,Annual Population Change,1977,1977,8,Population,Thousand,3271.9
+PEA15,Annual Population Change,1978,1978,1,Annual births,Thousand,
+PEA15,Annual Population Change,1978,1978,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1978,1978,3,Natural increase,Thousand,35.1
+PEA15,Annual Population Change,1978,1978,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1978,1978,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1978,1978,6,Net migration,Thousand,7.0
+PEA15,Annual Population Change,1978,1978,7,Population change,Thousand,42.1
+PEA15,Annual Population Change,1978,1978,8,Population,Thousand,3314.0
+PEA15,Annual Population Change,1979,1979,1,Annual births,Thousand,
+PEA15,Annual Population Change,1979,1979,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1979,1979,3,Natural increase,Thousand,38.2
+PEA15,Annual Population Change,1979,1979,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1979,1979,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1979,1979,6,Net migration,Thousand,16.0
+PEA15,Annual Population Change,1979,1979,7,Population change,Thousand,54.2
+PEA15,Annual Population Change,1979,1979,8,Population,Thousand,3368.2
+PEA15,Annual Population Change,1980,1980,1,Annual births,Thousand,
+PEA15,Annual Population Change,1980,1980,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1980,1980,3,Natural increase,Thousand,40.8
+PEA15,Annual Population Change,1980,1980,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1980,1980,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1980,1980,6,Net migration,Thousand,-8.0
+PEA15,Annual Population Change,1980,1980,7,Population change,Thousand,32.8
+PEA15,Annual Population Change,1980,1980,8,Population,Thousand,3401.0
+PEA15,Annual Population Change,1981,1981,1,Annual births,Thousand,
+PEA15,Annual Population Change,1981,1981,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1981,1981,3,Natural increase,Thousand,40.4
+PEA15,Annual Population Change,1981,1981,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1981,1981,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1981,1981,6,Net migration,Thousand,2.0
+PEA15,Annual Population Change,1981,1981,7,Population change,Thousand,42.4
+PEA15,Annual Population Change,1981,1981,8,Population,Thousand,3443.4
+PEA15,Annual Population Change,1982,1982,1,Annual births,Thousand,
+PEA15,Annual Population Change,1982,1982,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1982,1982,3,Natural increase,Thousand,37.6
+PEA15,Annual Population Change,1982,1982,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1982,1982,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1982,1982,6,Net migration,Thousand,-1.0
+PEA15,Annual Population Change,1982,1982,7,Population change,Thousand,36.6
+PEA15,Annual Population Change,1982,1982,8,Population,Thousand,3480.0
+PEA15,Annual Population Change,1983,1983,1,Annual births,Thousand,
+PEA15,Annual Population Change,1983,1983,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1983,1983,3,Natural increase,Thousand,38.0
+PEA15,Annual Population Change,1983,1983,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1983,1983,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1983,1983,6,Net migration,Thousand,-14.0
+PEA15,Annual Population Change,1983,1983,7,Population change,Thousand,24.0
+PEA15,Annual Population Change,1983,1983,8,Population,Thousand,3504.0
+PEA15,Annual Population Change,1984,1984,1,Annual births,Thousand,
+PEA15,Annual Population Change,1984,1984,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1984,1984,3,Natural increase,Thousand,34.0
+PEA15,Annual Population Change,1984,1984,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1984,1984,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1984,1984,6,Net migration,Thousand,-9.0
+PEA15,Annual Population Change,1984,1984,7,Population change,Thousand,25.0
+PEA15,Annual Population Change,1984,1984,8,Population,Thousand,3529.0
+PEA15,Annual Population Change,1985,1985,1,Annual births,Thousand,
+PEA15,Annual Population Change,1985,1985,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1985,1985,3,Natural increase,Thousand,31.0
+PEA15,Annual Population Change,1985,1985,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1985,1985,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1985,1985,6,Net migration,Thousand,-20.0
+PEA15,Annual Population Change,1985,1985,7,Population change,Thousand,11.0
+PEA15,Annual Population Change,1985,1985,8,Population,Thousand,3540.0
+PEA15,Annual Population Change,1986,1986,1,Annual births,Thousand,
+PEA15,Annual Population Change,1986,1986,2,Annual deaths,Thousand,
+PEA15,Annual Population Change,1986,1986,3,Natural increase,Thousand,28.6
+PEA15,Annual Population Change,1986,1986,4,Immigrants,Thousand,
+PEA15,Annual Population Change,1986,1986,5,Emigrants,Thousand,
+PEA15,Annual Population Change,1986,1986,6,Net migration,Thousand,-28.0
+PEA15,Annual Population Change,1986,1986,7,Population change,Thousand,0.6
+PEA15,Annual Population Change,1986,1986,8,Population,Thousand,3540.6
+PEA15,Annual Population Change,1987,1987,1,Annual births,Thousand,61.2
+PEA15,Annual Population Change,1987,1987,2,Annual deaths,Thousand,32.2
+PEA15,Annual Population Change,1987,1987,3,Natural increase,Thousand,29.0
+PEA15,Annual Population Change,1987,1987,4,Immigrants,Thousand,17.2
+PEA15,Annual Population Change,1987,1987,5,Emigrants,Thousand,40.2
+PEA15,Annual Population Change,1987,1987,6,Net migration,Thousand,-23.0
+PEA15,Annual Population Change,1987,1987,7,Population change,Thousand,5.9
+PEA15,Annual Population Change,1987,1987,8,Population,Thousand,3546.5
+PEA15,Annual Population Change,1988,1988,1,Annual births,Thousand,57.8
+PEA15,Annual Population Change,1988,1988,2,Annual deaths,Thousand,31.6
+PEA15,Annual Population Change,1988,1988,3,Natural increase,Thousand,26.2
+PEA15,Annual Population Change,1988,1988,4,Immigrants,Thousand,19.2
+PEA15,Annual Population Change,1988,1988,5,Emigrants,Thousand,61.1
+PEA15,Annual Population Change,1988,1988,6,Net migration,Thousand,-41.9
+PEA15,Annual Population Change,1988,1988,7,Population change,Thousand,-15.8
+PEA15,Annual Population Change,1988,1988,8,Population,Thousand,3530.7
+PEA15,Annual Population Change,1989,1989,1,Annual births,Thousand,53.6
+PEA15,Annual Population Change,1989,1989,2,Annual deaths,Thousand,31.0
+PEA15,Annual Population Change,1989,1989,3,Natural increase,Thousand,22.6
+PEA15,Annual Population Change,1989,1989,4,Immigrants,Thousand,26.7
+PEA15,Annual Population Change,1989,1989,5,Emigrants,Thousand,70.6
+PEA15,Annual Population Change,1989,1989,6,Net migration,Thousand,-43.9
+PEA15,Annual Population Change,1989,1989,7,Population change,Thousand,-21.2
+PEA15,Annual Population Change,1989,1989,8,Population,Thousand,3509.5
+PEA15,Annual Population Change,1990,1990,1,Annual births,Thousand,51.9
+PEA15,Annual Population Change,1990,1990,2,Annual deaths,Thousand,32.8
+PEA15,Annual Population Change,1990,1990,3,Natural increase,Thousand,19.1
+PEA15,Annual Population Change,1990,1990,4,Immigrants,Thousand,33.3
+PEA15,Annual Population Change,1990,1990,5,Emigrants,Thousand,56.3
+PEA15,Annual Population Change,1990,1990,6,Net migration,Thousand,-22.9
+PEA15,Annual Population Change,1990,1990,7,Population change,Thousand,-3.7
+PEA15,Annual Population Change,1990,1990,8,Population,Thousand,3505.8
+PEA15,Annual Population Change,1991,1991,1,Annual births,Thousand,53.1
+PEA15,Annual Population Change,1991,1991,2,Annual deaths,Thousand,31.1
+PEA15,Annual Population Change,1991,1991,3,Natural increase,Thousand,22.0
+PEA15,Annual Population Change,1991,1991,4,Immigrants,Thousand,33.3
+PEA15,Annual Population Change,1991,1991,5,Emigrants,Thousand,35.3
+PEA15,Annual Population Change,1991,1991,6,Net migration,Thousand,-2.0
+PEA15,Annual Population Change,1991,1991,7,Population change,Thousand,19.9
+PEA15,Annual Population Change,1991,1991,8,Population,Thousand,3525.7
+PEA15,Annual Population Change,1992,1992,1,Annual births,Thousand,52.8
+PEA15,Annual Population Change,1992,1992,2,Annual deaths,Thousand,31.4
+PEA15,Annual Population Change,1992,1992,3,Natural increase,Thousand,21.4
+PEA15,Annual Population Change,1992,1992,4,Immigrants,Thousand,40.7
+PEA15,Annual Population Change,1992,1992,5,Emigrants,Thousand,33.4
+PEA15,Annual Population Change,1992,1992,6,Net migration,Thousand,7.4
+PEA15,Annual Population Change,1992,1992,7,Population change,Thousand,28.8
+PEA15,Annual Population Change,1992,1992,8,Population,Thousand,3554.5
+PEA15,Annual Population Change,1993,1993,1,Annual births,Thousand,50.4
+PEA15,Annual Population Change,1993,1993,2,Annual deaths,Thousand,30.4
+PEA15,Annual Population Change,1993,1993,3,Natural increase,Thousand,20.0
+PEA15,Annual Population Change,1993,1993,4,Immigrants,Thousand,34.7
+PEA15,Annual Population Change,1993,1993,5,Emigrants,Thousand,35.1
+PEA15,Annual Population Change,1993,1993,6,Net migration,Thousand,-0.4
+PEA15,Annual Population Change,1993,1993,7,Population change,Thousand,19.6
+PEA15,Annual Population Change,1993,1993,8,Population,Thousand,3574.1
+PEA15,Annual Population Change,1994,1994,1,Annual births,Thousand,49.1
+PEA15,Annual Population Change,1994,1994,2,Annual deaths,Thousand,32.6
+PEA15,Annual Population Change,1994,1994,3,Natural increase,Thousand,16.6
+PEA15,Annual Population Change,1994,1994,4,Immigrants,Thousand,30.1
+PEA15,Annual Population Change,1994,1994,5,Emigrants,Thousand,34.8
+PEA15,Annual Population Change,1994,1994,6,Net migration,Thousand,-4.7
+PEA15,Annual Population Change,1994,1994,7,Population change,Thousand,11.8
+PEA15,Annual Population Change,1994,1994,8,Population,Thousand,3585.9
+PEA15,Annual Population Change,1995,1995,1,Annual births,Thousand,48.4
+PEA15,Annual Population Change,1995,1995,2,Annual deaths,Thousand,31.2
+PEA15,Annual Population Change,1995,1995,3,Natural increase,Thousand,17.2
+PEA15,Annual Population Change,1995,1995,4,Immigrants,Thousand,31.2
+PEA15,Annual Population Change,1995,1995,5,Emigrants,Thousand,33.1
+PEA15,Annual Population Change,1995,1995,6,Net migration,Thousand,-1.9
+PEA15,Annual Population Change,1995,1995,7,Population change,Thousand,15.4
+PEA15,Annual Population Change,1995,1995,8,Population,Thousand,3601.3
+PEA15,Annual Population Change,1996,1996,1,Annual births,Thousand,48.8
+PEA15,Annual Population Change,1996,1996,2,Annual deaths,Thousand,32.0
+PEA15,Annual Population Change,1996,1996,3,Natural increase,Thousand,16.7
+PEA15,Annual Population Change,1996,1996,4,Immigrants,Thousand,39.2
+PEA15,Annual Population Change,1996,1996,5,Emigrants,Thousand,31.2
+PEA15,Annual Population Change,1996,1996,6,Net migration,Thousand,8.0
+PEA15,Annual Population Change,1996,1996,7,Population change,Thousand,24.8
+PEA15,Annual Population Change,1996,1996,8,Population,Thousand,3626.1
+PEA15,Annual Population Change,1997,1997,1,Annual births,Thousand,50.7
+PEA15,Annual Population Change,1997,1997,2,Annual deaths,Thousand,31.7
+PEA15,Annual Population Change,1997,1997,3,Natural increase,Thousand,19.0
+PEA15,Annual Population Change,1997,1997,4,Immigrants,Thousand,44.5
+PEA15,Annual Population Change,1997,1997,5,Emigrants,Thousand,25.3
+PEA15,Annual Population Change,1997,1997,6,Net migration,Thousand,19.2
+PEA15,Annual Population Change,1997,1997,7,Population change,Thousand,38.2
+PEA15,Annual Population Change,1997,1997,8,Population,Thousand,3664.3
+PEA15,Annual Population Change,1998,1998,1,Annual births,Thousand,52.7
+PEA15,Annual Population Change,1998,1998,2,Annual deaths,Thousand,31.2
+PEA15,Annual Population Change,1998,1998,3,Natural increase,Thousand,21.5
+PEA15,Annual Population Change,1998,1998,4,Immigrants,Thousand,46.0
+PEA15,Annual Population Change,1998,1998,5,Emigrants,Thousand,28.6
+PEA15,Annual Population Change,1998,1998,6,Net migration,Thousand,17.4
+PEA15,Annual Population Change,1998,1998,7,Population change,Thousand,38.8
+PEA15,Annual Population Change,1998,1998,8,Population,Thousand,3703.1
+PEA15,Annual Population Change,1999,1999,1,Annual births,Thousand,53.7
+PEA15,Annual Population Change,1999,1999,2,Annual deaths,Thousand,32.4
+PEA15,Annual Population Change,1999,1999,3,Natural increase,Thousand,21.2
+PEA15,Annual Population Change,1999,1999,4,Immigrants,Thousand,48.9
+PEA15,Annual Population Change,1999,1999,5,Emigrants,Thousand,31.5
+PEA15,Annual Population Change,1999,1999,6,Net migration,Thousand,17.3
+PEA15,Annual Population Change,1999,1999,7,Population change,Thousand,38.5
+PEA15,Annual Population Change,1999,1999,8,Population,Thousand,3741.6
+PEA15,Annual Population Change,2000,2000,1,Annual births,Thousand,54.0
+PEA15,Annual Population Change,2000,2000,2,Annual deaths,Thousand,32.1
+PEA15,Annual Population Change,2000,2000,3,Natural increase,Thousand,21.8
+PEA15,Annual Population Change,2000,2000,4,Immigrants,Thousand,52.6
+PEA15,Annual Population Change,2000,2000,5,Emigrants,Thousand,26.6
+PEA15,Annual Population Change,2000,2000,6,Net migration,Thousand,26.0
+PEA15,Annual Population Change,2000,2000,7,Population change,Thousand,47.9
+PEA15,Annual Population Change,2000,2000,8,Population,Thousand,3789.5
+PEA15,Annual Population Change,2001,2001,1,Annual births,Thousand,55.1
+PEA15,Annual Population Change,2001,2001,2,Annual deaths,Thousand,30.2
+PEA15,Annual Population Change,2001,2001,3,Natural increase,Thousand,24.8
+PEA15,Annual Population Change,2001,2001,4,Immigrants,Thousand,59.0
+PEA15,Annual Population Change,2001,2001,5,Emigrants,Thousand,26.2
+PEA15,Annual Population Change,2001,2001,6,Net migration,Thousand,32.8
+PEA15,Annual Population Change,2001,2001,7,Population change,Thousand,57.7
+PEA15,Annual Population Change,2001,2001,8,Population,Thousand,3847.2
+PEA15,Annual Population Change,2002,2002,1,Annual births,Thousand,58.1
+PEA15,Annual Population Change,2002,2002,2,Annual deaths,Thousand,29.3
+PEA15,Annual Population Change,2002,2002,3,Natural increase,Thousand,28.8
+PEA15,Annual Population Change,2002,2002,4,Immigrants,Thousand,66.9
+PEA15,Annual Population Change,2002,2002,5,Emigrants,Thousand,25.6
+PEA15,Annual Population Change,2002,2002,6,Net migration,Thousand,41.3
+PEA15,Annual Population Change,2002,2002,7,Population change,Thousand,70.0
+PEA15,Annual Population Change,2002,2002,8,Population,Thousand,3917.2
+PEA15,Annual Population Change,2003,2003,1,Annual births,Thousand,60.8
+PEA15,Annual Population Change,2003,2003,2,Annual deaths,Thousand,28.9
+PEA15,Annual Population Change,2003,2003,3,Natural increase,Thousand,31.9
+PEA15,Annual Population Change,2003,2003,4,Immigrants,Thousand,60.0
+PEA15,Annual Population Change,2003,2003,5,Emigrants,Thousand,29.3
+PEA15,Annual Population Change,2003,2003,6,Net migration,Thousand,30.7
+PEA15,Annual Population Change,2003,2003,7,Population change,Thousand,62.6
+PEA15,Annual Population Change,2003,2003,8,Population,Thousand,3979.9
+PEA15,Annual Population Change,2004,2004,1,Annual births,Thousand,62.0
+PEA15,Annual Population Change,2004,2004,2,Annual deaths,Thousand,28.6
+PEA15,Annual Population Change,2004,2004,3,Natural increase,Thousand,33.3
+PEA15,Annual Population Change,2004,2004,4,Immigrants,Thousand,58.5
+PEA15,Annual Population Change,2004,2004,5,Emigrants,Thousand,26.5
+PEA15,Annual Population Change,2004,2004,6,Net migration,Thousand,32.0
+PEA15,Annual Population Change,2004,2004,7,Population change,Thousand,65.3
+PEA15,Annual Population Change,2004,2004,8,Population,Thousand,4045.2
+PEA15,Annual Population Change,2005,2005,1,Annual births,Thousand,61.4
+PEA15,Annual Population Change,2005,2005,2,Annual deaths,Thousand,27.9
+PEA15,Annual Population Change,2005,2005,3,Natural increase,Thousand,33.5
+PEA15,Annual Population Change,2005,2005,4,Immigrants,Thousand,84.6
+PEA15,Annual Population Change,2005,2005,5,Emigrants,Thousand,29.4
+PEA15,Annual Population Change,2005,2005,6,Net migration,Thousand,55.1
+PEA15,Annual Population Change,2005,2005,7,Population change,Thousand,88.6
+PEA15,Annual Population Change,2005,2005,8,Population,Thousand,4133.8
+PEA15,Annual Population Change,2006,2006,1,Annual births,Thousand,61.2
+PEA15,Annual Population Change,2006,2006,2,Annual deaths,Thousand,27.0
+PEA15,Annual Population Change,2006,2006,3,Natural increase,Thousand,34.2
+PEA15,Annual Population Change,2006,2006,4,Immigrants,Thousand,107.8
+PEA15,Annual Population Change,2006,2006,5,Emigrants,Thousand,36.0
+PEA15,Annual Population Change,2006,2006,6,Net migration,Thousand,71.8
+PEA15,Annual Population Change,2006,2006,7,Population change,Thousand,106.0
+PEA15,Annual Population Change,2006,2006,8,Population,Thousand,4232.9
+PEA15,Annual Population Change,2007,2007,1,Annual births,Thousand,66.6
+PEA15,Annual Population Change,2007,2007,2,Annual deaths,Thousand,28.4
+PEA15,Annual Population Change,2007,2007,3,Natural increase,Thousand,38.2
+PEA15,Annual Population Change,2007,2007,4,Immigrants,Thousand,151.1
+PEA15,Annual Population Change,2007,2007,5,Emigrants,Thousand,46.3
+PEA15,Annual Population Change,2007,2007,6,Net migration,Thousand,104.8
+PEA15,Annual Population Change,2007,2007,7,Population change,Thousand,142.9
+PEA15,Annual Population Change,2007,2007,8,Population,Thousand,4375.8
+PEA15,Annual Population Change,2008,2008,1,Annual births,Thousand,73.0
+PEA15,Annual Population Change,2008,2008,2,Annual deaths,Thousand,28.0
+PEA15,Annual Population Change,2008,2008,3,Natural increase,Thousand,44.9
+PEA15,Annual Population Change,2008,2008,4,Immigrants,Thousand,113.5
+PEA15,Annual Population Change,2008,2008,5,Emigrants,Thousand,49.2
+PEA15,Annual Population Change,2008,2008,6,Net migration,Thousand,64.3
+PEA15,Annual Population Change,2008,2008,7,Population change,Thousand,109.2
+PEA15,Annual Population Change,2008,2008,8,Population,Thousand,4485.1
+PEA15,Annual Population Change,2009,2009,1,Annual births,Thousand,75.3
+PEA15,Annual Population Change,2009,2009,2,Annual deaths,Thousand,28.6
+PEA15,Annual Population Change,2009,2009,3,Natural increase,Thousand,46.7
+PEA15,Annual Population Change,2009,2009,4,Immigrants,Thousand,73.7
+PEA15,Annual Population Change,2009,2009,5,Emigrants,Thousand,72.0
+PEA15,Annual Population Change,2009,2009,6,Net migration,Thousand,1.6
+PEA15,Annual Population Change,2009,2009,7,Population change,Thousand,48.3
+PEA15,Annual Population Change,2009,2009,8,Population,Thousand,4533.4
+PEA15,Annual Population Change,2010,2010,1,Annual births,Thousand,77.2
+PEA15,Annual Population Change,2010,2010,2,Annual deaths,Thousand,28.4
+PEA15,Annual Population Change,2010,2010,3,Natural increase,Thousand,48.8
+PEA15,Annual Population Change,2010,2010,4,Immigrants,Thousand,41.8
+PEA15,Annual Population Change,2010,2010,5,Emigrants,Thousand,69.2
+PEA15,Annual Population Change,2010,2010,6,Net migration,Thousand,-27.5
+PEA15,Annual Population Change,2010,2010,7,Population change,Thousand,21.4
+PEA15,Annual Population Change,2010,2010,8,Population,Thousand,4554.8
+PEA15,Annual Population Change,2011,2011,1,Annual births,Thousand,75.1
+PEA15,Annual Population Change,2011,2011,2,Annual deaths,Thousand,27.7
+PEA15,Annual Population Change,2011,2011,3,Natural increase,Thousand,47.5
+PEA15,Annual Population Change,2011,2011,4,Immigrants,Thousand,53.3
+PEA15,Annual Population Change,2011,2011,5,Emigrants,Thousand,80.6
+PEA15,Annual Population Change,2011,2011,6,Net migration,Thousand,-27.4
+PEA15,Annual Population Change,2011,2011,7,Population change,Thousand,20.1
+PEA15,Annual Population Change,2011,2011,8,Population,Thousand,4574.9
+PEA15,Annual Population Change,2012,2012,1,Annual births,Thousand,73.2
+PEA15,Annual Population Change,2012,2012,2,Annual deaths,Thousand,28.7
+PEA15,Annual Population Change,2012,2012,3,Natural increase,Thousand,44.5
+PEA15,Annual Population Change,2012,2012,4,Immigrants,Thousand,57.3
+PEA15,Annual Population Change,2012,2012,5,Emigrants,Thousand,83.0
+PEA15,Annual Population Change,2012,2012,6,Net migration,Thousand,-25.7
+PEA15,Annual Population Change,2012,2012,7,Population change,Thousand,18.8
+PEA15,Annual Population Change,2012,2012,8,Population,Thousand,4593.7
+PEA15,Annual Population Change,2013,2013,1,Annual births,Thousand,69.4
+PEA15,Annual Population Change,2013,2013,2,Annual deaths,Thousand,29.8
+PEA15,Annual Population Change,2013,2013,3,Natural increase,Thousand,39.6
+PEA15,Annual Population Change,2013,2013,4,Immigrants,Thousand,62.7
+PEA15,Annual Population Change,2013,2013,5,Emigrants,Thousand,81.3
+PEA15,Annual Population Change,2013,2013,6,Net migration,Thousand,-18.7
+PEA15,Annual Population Change,2013,2013,7,Population change,Thousand,21.0
+PEA15,Annual Population Change,2013,2013,8,Population,Thousand,4614.7
+PEA15,Annual Population Change,2014,2014,1,Annual births,Thousand,68.4
+PEA15,Annual Population Change,2014,2014,2,Annual deaths,Thousand,29.2
+PEA15,Annual Population Change,2014,2014,3,Natural increase,Thousand,39.2
+PEA15,Annual Population Change,2014,2014,4,Immigrants,Thousand,66.5
+PEA15,Annual Population Change,2014,2014,5,Emigrants,Thousand,75.0
+PEA15,Annual Population Change,2014,2014,6,Net migration,Thousand,-8.5
+PEA15,Annual Population Change,2014,2014,7,Population change,Thousand,30.8
+PEA15,Annual Population Change,2014,2014,8,Population,Thousand,4645.4
+PEA15,Annual Population Change,2015,2015,1,Annual births,Thousand,66.4
+PEA15,Annual Population Change,2015,2015,2,Annual deaths,Thousand,29.9
+PEA15,Annual Population Change,2015,2015,3,Natural increase,Thousand,36.5
+PEA15,Annual Population Change,2015,2015,4,Immigrants,Thousand,75.9
+PEA15,Annual Population Change,2015,2015,5,Emigrants,Thousand,70.0
+PEA15,Annual Population Change,2015,2015,6,Net migration,Thousand,5.9
+PEA15,Annual Population Change,2015,2015,7,Population change,Thousand,42.3
+PEA15,Annual Population Change,2015,2015,8,Population,Thousand,4687.8
+PEA15,Annual Population Change,2016,2016,1,Annual births,Thousand,65.4
+PEA15,Annual Population Change,2016,2016,2,Annual deaths,Thousand,29.8
+PEA15,Annual Population Change,2016,2016,3,Natural increase,Thousand,35.6
+PEA15,Annual Population Change,2016,2016,4,Immigrants,Thousand,82.3
+PEA15,Annual Population Change,2016,2016,5,Emigrants,Thousand,66.2
+PEA15,Annual Population Change,2016,2016,6,Net migration,Thousand,16.2
+PEA15,Annual Population Change,2016,2016,7,Population change,Thousand,51.8
+PEA15,Annual Population Change,2016,2016,8,Population,Thousand,4739.6
+PEA15,Annual Population Change,2017,2017,1,Annual births,Thousand,63.4
+PEA15,Annual Population Change,2017,2017,2,Annual deaths,Thousand,31.3
+PEA15,Annual Population Change,2017,2017,3,Natural increase,Thousand,32.1
+PEA15,Annual Population Change,2017,2017,4,Immigrants,Thousand,95.3
+PEA15,Annual Population Change,2017,2017,5,Emigrants,Thousand,56.1
+PEA15,Annual Population Change,2017,2017,6,Net migration,Thousand,39.2
+PEA15,Annual Population Change,2017,2017,7,Population change,Thousand,71.3
+PEA15,Annual Population Change,2017,2017,8,Population,Thousand,4810.9
+PEA15,Annual Population Change,2018,2018,1,Annual births,Thousand,61.6
+PEA15,Annual Population Change,2018,2018,2,Annual deaths,Thousand,32.0
+PEA15,Annual Population Change,2018,2018,3,Natural increase,Thousand,29.6
+PEA15,Annual Population Change,2018,2018,4,Immigrants,Thousand,96.0
+PEA15,Annual Population Change,2018,2018,5,Emigrants,Thousand,51.6
+PEA15,Annual Population Change,2018,2018,6,Net migration,Thousand,44.4
+PEA15,Annual Population Change,2018,2018,7,Population change,Thousand,74.0
+PEA15,Annual Population Change,2018,2018,8,Population,Thousand,4884.9
+PEA15,Annual Population Change,2019,2019,1,Annual births,Thousand,60.5
+PEA15,Annual Population Change,2019,2019,2,Annual deaths,Thousand,30.9
+PEA15,Annual Population Change,2019,2019,3,Natural increase,Thousand,29.6
+PEA15,Annual Population Change,2019,2019,4,Immigrants,Thousand,97.1
+PEA15,Annual Population Change,2019,2019,5,Emigrants,Thousand,53.1
+PEA15,Annual Population Change,2019,2019,6,Net migration,Thousand,44.0
+PEA15,Annual Population Change,2019,2019,7,Population change,Thousand,73.6
+PEA15,Annual Population Change,2019,2019,8,Population,Thousand,4958.5
+PEA15,Annual Population Change,2020,2020,1,Annual births,Thousand,59.1
+PEA15,Annual Population Change,2020,2020,2,Annual deaths,Thousand,32.4
+PEA15,Annual Population Change,2020,2020,3,Natural increase,Thousand,26.7
+PEA15,Annual Population Change,2020,2020,4,Immigrants,Thousand,95.6
+PEA15,Annual Population Change,2020,2020,5,Emigrants,Thousand,50.9
+PEA15,Annual Population Change,2020,2020,6,Net migration,Thousand,44.7
+PEA15,Annual Population Change,2020,2020,7,Population change,Thousand,71.4
+PEA15,Annual Population Change,2020,2020,8,Population,Thousand,5029.9
+PEA15,Annual Population Change,2021,2021,1,Annual births,Thousand,57.3
+PEA15,Annual Population Change,2021,2021,2,Annual deaths,Thousand,34.3
+PEA15,Annual Population Change,2021,2021,3,Natural increase,Thousand,23.0
+PEA15,Annual Population Change,2021,2021,4,Immigrants,Thousand,74.1
+PEA15,Annual Population Change,2021,2021,5,Emigrants,Thousand,52.3
+PEA15,Annual Population Change,2021,2021,6,Net migration,Thousand,21.8
+PEA15,Annual Population Change,2021,2021,7,Population change,Thousand,44.8
+PEA15,Annual Population Change,2021,2021,8,Population,Thousand,5074.7
+PEA15,Annual Population Change,2022,2022,1,Annual births,Thousand,59.7
+PEA15,Annual Population Change,2022,2022,2,Annual deaths,Thousand,33.6
+PEA15,Annual Population Change,2022,2022,3,Natural increase,Thousand,26.1
+PEA15,Annual Population Change,2022,2022,4,Immigrants,Thousand,107.8
+PEA15,Annual Population Change,2022,2022,5,Emigrants,Thousand,56.1
+PEA15,Annual Population Change,2022,2022,6,Net migration,Thousand,51.7
+PEA15,Annual Population Change,2022,2022,7,Population change,Thousand,77.8
+PEA15,Annual Population Change,2022,2022,8,Population,Thousand,5184.0
+PEA15,Annual Population Change,2023,2023,1,Annual births,Thousand,55.5
+PEA15,Annual Population Change,2023,2023,2,Annual deaths,Thousand,35.5
+PEA15,Annual Population Change,2023,2023,3,Natural increase,Thousand,20.0
+PEA15,Annual Population Change,2023,2023,4,Immigrants,Thousand,141.6
+PEA15,Annual Population Change,2023,2023,5,Emigrants,Thousand,64.0
+PEA15,Annual Population Change,2023,2023,6,Net migration,Thousand,77.6
+PEA15,Annual Population Change,2023,2023,7,Population change,Thousand,97.6
+PEA15,Annual Population Change,2023,2023,8,Population,Thousand,5281.6
+PEA15,Annual Population Change,2024,2024,1,Annual births,Thousand,54.2
+PEA15,Annual Population Change,2024,2024,2,Annual deaths,Thousand,34.8
+PEA15,Annual Population Change,2024,2024,3,Natural increase,Thousand,19.4
+PEA15,Annual Population Change,2024,2024,4,Immigrants,Thousand,149.2
+PEA15,Annual Population Change,2024,2024,5,Emigrants,Thousand,69.9
+PEA15,Annual Population Change,2024,2024,6,Net migration,Thousand,79.3
+PEA15,Annual Population Change,2024,2024,7,Population change,Thousand,98.7
+PEA15,Annual Population Change,2024,2024,8,Population,Thousand,5380.3
+PEA15,Annual Population Change,2025,2025,1,Annual births,Thousand,54.4
+PEA15,Annual Population Change,2025,2025,2,Annual deaths,Thousand,35.8
+PEA15,Annual Population Change,2025,2025,3,Natural increase,Thousand,18.6
+PEA15,Annual Population Change,2025,2025,4,Immigrants,Thousand,125.3
+PEA15,Annual Population Change,2025,2025,5,Emigrants,Thousand,65.6
+PEA15,Annual Population Change,2025,2025,6,Net migration,Thousand,59.7
+PEA15,Annual Population Change,2025,2025,7,Population change,Thousand,78.3
+PEA15,Annual Population Change,2025,2025,8,Population,Thousand,5458.6
+PEA15,Annual Population Change,2026,2026,1,Annual births,Thousand,54.3
+PEA15,Annual Population Change,2026,2026,2,Annual deaths,Thousand,35.4
+PEA15,Annual Population Change,2026,2026,3,Natural increase,Thousand,18.8
+PEA15,Annual Population Change,2026,2026,4,Immigrants,Thousand,110.6
+PEA15,Annual Population Change,2026,2026,5,Emigrants,Thousand,62.5
+PEA15,Annual Population Change,2026,2026,6,Net migration,Thousand,48.1
+PEA15,Annual Population Change,2026,2026,7,Population change,Thousand,66.9
+PEA15,Annual Population Change,2026,2026,8,Population,Thousand,5525.6

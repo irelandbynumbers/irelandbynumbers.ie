@@ -23,11 +23,16 @@ def table_url(code):
     return f"https://data.cso.ie/table/{code}"
 
 
-def fetch(code, refresh=None):
+def fetch(code, refresh=None, where=None):
     """A CSO table as a DataFrame, with the label columns PxStat gives each dimension.
 
     PxStat's CSV has a code column and a label column for each dimension (for
     example "C02199V02655" and "Sex"); this keeps the labels, the unit and the value.
+
+    `where` keeps only some rows of a large table before it is saved, as a dict
+    of column label to the values to keep, for example
+    {"Statistic Label": ["Consumer Price Index"], "Detailed Sub Indices": ["All Items"]}.
+    Change it and run with refresh=True to save the new selection.
     """
     refresh = REFRESH if refresh is None else refresh
     path = os.path.join(CACHE, f"{code}.csv")
@@ -35,10 +40,12 @@ def fetch(code, refresh=None):
         req = urllib.request.Request(API.format(code=code), headers={"User-Agent": "irelandbynumbers.ie data build"})
         with urllib.request.urlopen(req, timeout=180) as r:
             raw = r.read()
-        df = pd.read_csv(io.BytesIO(raw), encoding="utf-8-sig")
+        df = pd.read_csv(io.BytesIO(raw), encoding="utf-8-sig", low_memory=False)
+        for col, values in (where or {}).items():
+            df = df[df[col].isin(values)]
         os.makedirs(CACHE, exist_ok=True)
         df.to_csv(path, index=False)
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, low_memory=False)
     keep = [c for c in df.columns if not _is_code_column(c)]
     return df[keep]
 

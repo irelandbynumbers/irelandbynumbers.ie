@@ -1,0 +1,224 @@
+[
+ {
+  "id": "population-ageing",
+  "topic": "population",
+  "title": "Children and older people as a share of the population",
+  "subtitle": "Percentage of the population aged under 15 and aged 65 and over, 1950 to 2026.",
+  "kind": "chart",
+  "page": "/charts/population-ageing.html",
+  "csv": "/charts/population-ageing.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population Estimates (Persons in April) (PEA01)",
+    "url": "https://data.cso.ie/table/PEA01",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "population-change",
+  "topic": "population",
+  "title": "Births, deaths and migration",
+  "subtitle": "People born, people who died, and net migration (people arriving minus people leaving) in the twelve months to April, 1987 to 2026.",
+  "kind": "chart",
+  "page": "/charts/population-change.html",
+  "csv": "/charts/population-change.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Annual Population Change (PEA15)",
+    "url": "https://data.cso.ie/table/PEA15",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "population-county-map",
+  "topic": "population",
+  "title": "County populations since 1841",
+  "subtitle": "Population of each county at each census from 1841 to 2022, as a percentage of its 1841 population. Use the slider to move through the census years.",
+  "kind": "map",
+  "page": "/charts/population-county-map.html",
+  "csv": "/charts/population-county-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "population-total",
+  "topic": "population",
+  "title": "Population of Ireland",
+  "subtitle": "Estimated number of people living in the State each April, 1950 to 2026.",
+  "kind": "chart",
+  "page": "/charts/population-total.html",
+  "csv": "/charts/population-total.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population Estimates (Persons in April) (PEA01)",
+    "url": "https://data.cso.ie/table/PEA01",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "housing-completions",
+  "topic": "housing",
+  "title": "New homes completed each year",
+  "subtitle": "Number of new dwellings completed in Ireland, 2012 to 2025.",
+  "kind": "chart",
+  "page": "/charts/housing-completions.html",
+  "csv": "/charts/housing-completions.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "New Dwelling Completions (NDA01)",
+    "url": "https://data.cso.ie/table/NDA01",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "housing-prices",
+  "topic": "housing",
+  "title": "House prices",
+  "subtitle": "Residential Property Price Index, January 2005 to August 2026. 100 is the average price level in 2015.",
+  "kind": "chart",
+  "page": "/charts/housing-prices.html",
+  "csv": "/charts/housing-prices.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Residential Property Price Index (HPM09)",
+    "url": "https://data.cso.ie/table/HPM09",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "housing-rents-map",
+  "topic": "housing",
+  "title": "Average rent by county",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025. Use the slider to move through the years.",
+  "kind": "map",
+  "page": "/charts/housing-rents-map.html",
+  "csv": "/charts/housing-rents-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "cost-of-living-inflation",
+  "topic": "cost-of-living",
+  "title": "Inflation",
+  "subtitle": "Change in consumer prices compared with the same month a year earlier, November 1996 to October 2026.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-inflation.html",
+  "csv": "/charts/cost-of-living-inflation.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Consumer Price Index (CPM20)",
+    "url": "https://data.cso.ie/table/CPM20",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "cost-of-living-price-change-by-group",
+  "topic": "cost-of-living",
+  "title": "Price changes by type of spending",
+  "subtitle": "Change in consumer prices for each main group of goods and services, October 2021 to October 2026.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-price-change-by-group.html",
+  "csv": "/charts/cost-of-living-price-change-by-group.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Consumer Price Index (CPM20)",
+    "url": "https://data.cso.ie/table/CPM20",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "economy-earnings",
+  "topic": "economy",
+  "title": "Average weekly earnings",
+  "subtitle": "Average weekly earnings of employees, in cash terms and adjusted for consumer prices (in 2026 Q2 prices), 2008 Q1 to 2026 Q2.",
+  "kind": "chart",
+  "page": "/charts/economy-earnings.html",
+  "csv": "/charts/economy-earnings.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Average Earnings, Hours Worked, Employment and Labour Costs (EHQ03)",
+    "url": "https://data.cso.ie/table/EHQ03",
+    "licence": "CC BY 4.0"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Consumer Price Index (CPM20)",
+    "url": "https://data.cso.ie/table/CPM20",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "economy-gdp-gni",
+  "topic": "economy",
+  "title": "GDP and modified gross national income",
+  "subtitle": "Gross domestic product (GDP) and modified gross national income (GNI*) in billions of euro at current prices, 1995 to 2025.",
+  "kind": "chart",
+  "page": "/charts/economy-gdp-gni.html",
+  "csv": "/charts/economy-gdp-gni.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Modified Gross National Income at Current Market Prices (NA001)",
+    "url": "https://data.cso.ie/table/NA001",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ },
+ {
+  "id": "economy-unemployment",
+  "topic": "economy",
+  "title": "Unemployment rate",
+  "subtitle": "Percentage of people in the labour force who are unemployed, seasonally adjusted, January 1998 to October 2026.",
+  "kind": "chart",
+  "page": "/charts/economy-unemployment.html",
+  "csv": "/charts/economy-unemployment.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Seasonally Adjusted Monthly Unemployment (MUM01)",
+    "url": "https://data.cso.ie/table/MUM01",
+    "licence": "CC BY 4.0"
+   }
+  ],
+  "built": "2026-11-13"
+ }
+]
