@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ireland by Numbers",
+    "section": "",
+    "text": "Ireland by Numbers is an independent project that turns Ireland’s open data into charts, maps and short analysis. The Central Statistics Office, government departments and public bodies publish a great deal of data, but most of it sits in tables that few people have time to dig through. Each page here takes one question, answers it with the published numbers, and links to the data and code behind every figure, so anyone can check it and reuse it."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Ireland by Numbers",
+    "section": "Projects",
+    "text": "Projects\nThe first projects are on the way."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Ireland by Numbers takes official Irish statistics and makes them readable: a chart or map, a few sentences on what it shows, and the data and code behind each one.\nMy name is Maedbh King. Ireland by Numbers is independent of my employer and is done in my own time. I also run Fianaise, on evidence about Irish public life."
+  },
+  {
+    "objectID": "about.html#corrections",
+    "href": "about.html#corrections",
+    "title": "About",
+    "section": "Corrections",
+    "text": "Corrections\nIf you spot a mistake, please open an issue on GitHub (there is a form for corrections). Corrections are made in the open, and the change history of every page is public on GitHub.\nText and figures are licensed CC BY 4.0: reuse them freely, with credit to Ireland by Numbers. Code is MIT licensed. The underlying data belongs to its publishers and keeps their licences (see Data & code)."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data & code",
+    "section": "",
+    "text": "Every figure on Ireland by Numbers is built from public data by code in the irelandbynumbers.ie repository. The data belongs to its publishers and keeps their licences.\nEach dataset is listed here, with its publisher, the pages that use it and when it was pulled, as projects are added."
+  },
+  {
+    "objectID": "data.html#code",
+    "href": "data.html#code",
+    "title": "Data & code",
+    "section": "Code",
+    "text": "Code\n\nanalysis/: one folder per project, with the scripts that fetch the data and draw its figures."
+  }
+]
