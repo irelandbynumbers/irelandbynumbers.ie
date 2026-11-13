@@ -1,0 +1,11 @@
+---
+title: "Data & code"
+---
+
+Every figure on Ireland by Numbers is built from public data by code in the [irelandbynumbers.ie repository](https://github.com/irelandbynumbers/irelandbynumbers.ie). The data belongs to its publishers and keeps their licences.
+
+Each dataset is listed here, with its publisher, the pages that use it and when it was pulled, as projects are added.
+
+## Code
+
+- [`analysis/`](https://github.com/irelandbynumbers/irelandbynumbers.ie/tree/main/analysis): one folder per project, with the scripts that fetch the data and draw its figures.

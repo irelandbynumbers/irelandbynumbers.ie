@@ -1,0 +1,10 @@
+---
+title: "Ireland by Numbers"
+subtitle: "Irish statistics, from open data"
+---
+
+Ireland by Numbers is an independent project that turns Ireland's open data into charts, maps and short analysis. The Central Statistics Office, government departments and public bodies publish a great deal of data, but most of it sits in tables that few people have time to dig through. Each page here takes one question, answers it with the published numbers, and links to the data and code behind every figure, so anyone can check it and reuse it.
+
+## Projects
+
+The first projects are on the way.

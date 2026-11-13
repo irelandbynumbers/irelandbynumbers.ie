@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - CNAME
+    - figures/**
+
+website:
+  title: "Ireland by Numbers"
+  description: "Irish statistics, from open data."
+  site-url: "https://irelandbynumbers.ie"
+  repo-url: https://github.com/irelandbynumbers/irelandbynumbers.ie
+  navbar:
+    left:
+      - href: data.qmd
+        text: Data & code
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/irelandbynumbers/irelandbynumbers.ie
+        aria-label: GitHub
+  page-footer:
+    center: "Ireland by Numbers: Irish statistics, from open data · Text and figures CC BY 4.0, code MIT · [Corrections](/about.qmd#corrections)"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
