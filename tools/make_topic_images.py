@@ -113,10 +113,61 @@ def crime():
     return svg("".join(b), "A car and a padlock")
 
 
+def migration():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a plane climbing away
+    b.append(f'<g transform="translate(330 150) rotate(-18)">'
+             f'<rect x="-120" y="-18" width="240" height="36" rx="18" fill="{BLUE}"/>'
+             f'<path d="M-10 -10L-70 -95H-40L40 -10Z" fill="{DARK}"/><path d="M-10 10L-70 95H-40L40 10Z" fill="{DARK}"/>'
+             f'<path d="M-110 -10L-140 -55H-118L-80 -10Z" fill="{DARK}"/>'
+             f'<circle cx="95" cy="-4" r="6" fill="#fff"/><circle cx="70" cy="-4" r="6" fill="#fff"/><circle cx="45" cy="-4" r="6" fill="#fff"/></g>')
+    # a suitcase
+    b.append(f'<rect x="90" y="245" width="130" height="90" rx="10" fill="{ORANGE}"/>'
+             f'<path d="M130 245V228H180V245" stroke="{INK}" stroke-width="7" fill="none"/>'
+             f'<path d="M120 245V335M190 245V335" stroke="#fff" stroke-width="6" opacity=".6"/>')
+    return svg("".join(b), "A plane taking off and a suitcase")
+
+
+def health():
+    b = []
+    # a heart with a pulse line
+    b.append(f'<path d="M300 330C170 245 120 190 120 140A70 70 0 0 1 300 110A70 70 0 0 1 480 140C480 190 430 245 300 330Z" fill="{BLUE}"/>'
+             f'<path d="M60 200H220L245 150L275 255L305 175L325 200H540" stroke="{ORANGE}" stroke-width="9" fill="none" '
+             f'stroke-linecap="round" stroke-linejoin="round"/>')
+    return svg("".join(b), "A heart with a pulse line")
+
+
+def environment():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a wind turbine
+    b.append(f'<path d="M395 330L405 150H415L425 330Z" fill="{GREY}"/>'
+             f'<g transform="translate(410 150)">'
+             + "".join(f'<path d="M0 0L-9 -110Q0 -122 9 -110Z" fill="#fff" stroke="{GREY}" stroke-width="3" transform="rotate({a})"/>'
+                       for a in (10, 130, 250))
+             + f'<circle r="11" fill="{DARK}"/></g>')
+    # a tree and a cloud
+    b.append(f'<rect x="165" y="250" width="22" height="80" fill="{INK}" opacity=".7"/>'
+             f'<circle cx="176" cy="215" r="62" fill="{AQUA}"/>'
+             f'<path d="M80 120a32 32 0 0 1 58 -18a40 40 0 0 1 74 18a28 28 0 0 1 0 56H95a28 28 0 0 1 -15 -56Z" fill="#fff" stroke="{GREY}" stroke-width="3"/>')
+    return svg("".join(b), "A wind turbine, a tree and a cloud")
+
+
+def irish_language():
+    b = []
+    # two speech bubbles
+    b.append(f'<path d="M70 80H330Q350 80 350 100V220Q350 240 330 240H160L110 290V240H90Q70 240 70 220V100Q70 80 90 80Z" fill="{BLUE}"/>'
+             f'<path d="M270 150H510Q530 150 530 170V280Q530 300 510 300H490V345L445 300H290Q270 300 270 280V170Q270 150 290 150Z" fill="{AQUA}"/>'
+             f'<text x="210" y="178" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#fff">Dia</text>'
+             f'<text x="400" y="248" text-anchor="middle" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#fff">duit</text>')
+    return svg("".join(b), "Two speech bubbles saying Dia duit")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
-                     ("economy", economy), ("education", education), ("crime", crime)]:
+                     ("economy", economy), ("education", education), ("crime", crime),
+                     ("migration", migration), ("health", health), ("environment", environment),
+                     ("irish-language", irish_language)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

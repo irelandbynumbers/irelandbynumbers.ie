@@ -24,3 +24,15 @@ topics:
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."
+  migration:
+    title: "Imirce"
+    summary: "Cé mhéad duine a thagann go hÉirinn agus a fhágann í, cá as a dtagann siad agus cá dtéann siad."
+  health:
+    title: "Sláinte"
+    summary: "Cé chomh fada is a mhaireann daoine, agus conas a d'athraigh na príomhchúiseanna báis."
+  environment:
+    title: "Comhshaol agus aeráid"
+    summary: "Astaíochtaí gás ceaptha teasa, cá as a dtagann siad, agus conas a sheasann Éire i gcomparáid leis an AE."
+  irish-language:
+    title: "An Ghaeilge"
+    summary: "Cé mhéad duine a labhraíonn Gaeilge, cé chomh minic, agus sa Ghaeltacht."

@@ -1,0 +1,9 @@
+---
+title: "Life expectancy"
+description: "How long people in Ireland live compared with the EU average."
+image: ../images/social/health-life-expectancy.png
+---
+
+Life expectancy at birth in Ireland has been higher than the EU average in every year since 2018, the first year in this series. In 2024 it was 83.1 years in Ireland and 81.5 years across the 27 EU countries. Life expectancy fell slightly in 2020 and 2021 in both Ireland and the EU, the years of the COVID-19 pandemic.
+
+{{< chart health-life-expectancy >}}

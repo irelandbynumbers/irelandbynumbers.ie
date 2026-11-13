@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Moving to and from Ireland"
+  path: flows.qmd
+  image: ../images/charts/migration-flows.png
+  description: "How many people arrive in Ireland and leave it each year."
+- title: "Where people come from and go to"
+  path: places.qmd
+  image: ../images/charts/migration-by-place.png
+  description: "The countries immigrants come from and emigrants go to."

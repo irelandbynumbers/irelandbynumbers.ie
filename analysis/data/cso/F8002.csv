@@ -1,0 +1,1396 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C02199V02655,Sex,C04104V04868,County of Usual Residence,UNIT,VALUE
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,IE0,State,Number,4370631.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,51991.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,508177.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,198168.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,257491.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,250997.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,198860.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,90805.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,76014.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,37075.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,116578.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,173544.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,72893.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,82003.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,138394.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,129643.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,111951.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,494486.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,139537.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,183092.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,151519.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,108529.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,72471.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,166624.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,30352.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,125129.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,61243.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,62640.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,69457.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,153477.0
+F8002C01,Population 3 years and over,2011,2011,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,57491.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,IE0,State,Number,2161466.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,26093.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,247353.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,94385.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,125995.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,122378.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,98805.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,45420.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,38249.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,18659.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,57533.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,86553.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,36514.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,40685.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,68397.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,64014.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,55614.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,244887.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,69616.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,91271.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,75838.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,53779.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,34967.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,83927.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,15429.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,62583.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,30888.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,31028.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,35069.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,76588.0
+F8002C01,Population 3 years and over,2011,2011,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,28949.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,IE0,State,Number,2209165.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,25898.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,260824.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,103783.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,131496.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,128619.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,100055.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,45385.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,37765.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,18416.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,59045.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,86991.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,36379.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,41318.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,69997.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,65629.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,56337.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,249599.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,69921.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,91821.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,75681.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,54750.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,37504.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,82697.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,14923.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,62546.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,30355.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,31612.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,34388.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,76889.0
+F8002C01,Population 3 years and over,2011,2011,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,28542.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,IE0,State,Number,4569261.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,54597.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,535779.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,209845.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,281741.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,266235.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,212479.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,95134.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,80912.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,39137.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,123406.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,186105.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,74677.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,84973.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,143730.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,136629.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,114372.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,520936.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,142609.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,187210.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,153202.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,111747.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,75799.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,171966.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,30771.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,125628.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,62027.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,63101.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,72870.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,152973.0
+F8002C01,Population 3 years and over,2016,2016,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,58671.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,IE0,State,Number,2255697.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,27293.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,262720.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,100353.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,137879.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,129807.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,105376.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,47402.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,40888.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,19701.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,60826.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,92221.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,37142.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,42167.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,70626.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,67207.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,56484.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,257443.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,70444.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,93443.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,76395.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,55372.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,36350.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,86060.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,15429.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,62508.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,31093.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,31128.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,36685.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,75771.0
+F8002C01,Population 3 years and over,2016,2016,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,29484.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,IE0,State,Number,2313564.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,27304.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,273059.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,109492.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,143862.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,136428.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,107103.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,47732.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,40024.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,19436.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,62580.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,93884.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,37535.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,42806.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,73104.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,69422.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,57888.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,263493.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,72165.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,93767.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,76807.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,56375.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,39449.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,85906.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,15342.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,63120.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,30934.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,31973.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,36185.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,77202.0
+F8002C01,Population 3 years and over,2016,2016,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,29187.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,IE0,State,Number,4975713.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,59931.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,574971.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,226477.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,318295.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,290124.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,238680.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,100737.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,88600.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,45198.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,134778.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,212563.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,80333.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,92826.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,158568.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,150663.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,123728.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,564688.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,151592.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,202763.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,162319.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,123428.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,82073.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,186508.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,33936.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,133358.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,67854.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,67925.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,78633.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,161435.0
+F8002C01,Population 3 years and over,2022,2022,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,62729.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,IE0,State,Number,2455828.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,29774.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,282636.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,108267.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,156290.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,141602.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,118636.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,50117.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,44601.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,22647.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,66345.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,105716.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,40167.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,45995.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,78107.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,73886.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,60846.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,279005.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,74906.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,100945.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,80729.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,61089.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,39241.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,93021.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,16925.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,66031.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,33943.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,33366.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,39487.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,79928.0
+F8002C01,Population 3 years and over,2022,2022,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,31580.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,IE0,State,Number,2519885.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,30157.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,292335.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,118210.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,162005.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,148522.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,120044.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,50620.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,43999.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,22551.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,68433.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,106847.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,40166.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,46831.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,80461.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,76777.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,62882.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,285683.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,76686.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,101818.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,81590.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,62339.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,42832.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,93487.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,17011.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,67327.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,33911.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,34559.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,39146.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,81507.0
+F8002C01,Population 3 years and over,2022,2022,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,31149.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,IE0,State,Number,1774437.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,19972.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,162879.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,83000.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,96537.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,89850.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,83526.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,38619.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,31311.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,14388.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,42106.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,68259.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,28178.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,32771.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,50936.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,48502.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,53853.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,224102.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,64105.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,81420.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,67338.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,46746.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,31866.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,84962.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,12644.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,56935.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,26875.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,26211.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,25280.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,58998.0
+F8002C02,Irish speakers,2011,2011,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,22268.0
+F8002C02,Irish speakers,2011,2011,1,Male,IE0,State,Number,800850.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,8867.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,71781.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,37168.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,43567.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,40471.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,37703.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,17296.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,13850.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,6501.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,18970.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,30747.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,12511.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,14532.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,22257.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,21665.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,24708.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,103191.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,29196.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,37063.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,30713.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,21416.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,14136.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,39909.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,5718.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,25666.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,11931.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,11392.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,11121.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,26830.0
+F8002C02,Irish speakers,2011,2011,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,9974.0
+F8002C02,Irish speakers,2011,2011,2,Female,IE0,State,Number,973587.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,11105.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,91098.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,45832.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,52970.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,49379.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,45823.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,21323.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,17461.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,7887.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,23136.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,37512.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,15667.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,18239.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,28679.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,26837.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,29145.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,120911.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,34909.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,44357.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,36625.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,25330.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,17730.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,45053.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,6926.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,31269.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,14944.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,14819.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,14159.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,32168.0
+F8002C02,Irish speakers,2011,2011,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,12294.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,IE0,State,Number,1761420.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,20243.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,156436.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,83172.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,100989.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,90816.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,85426.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,38722.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,32485.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,14057.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,42047.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,71763.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,27807.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,32209.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,51230.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,49955.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,52482.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,224139.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,61597.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,77313.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,65391.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,45321.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,31140.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,84249.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,12300.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,55097.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,25825.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,25196.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,25210.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,56738.0
+F8002C02,Irish speakers,2016,2016,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,22065.0
+F8002C02,Irish speakers,2016,2016,1,Male,IE0,State,Number,792643.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,8890.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,69573.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,37280.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,45746.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,40925.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,38604.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,17301.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,14524.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,6297.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,18796.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,32211.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,12237.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,14321.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,22325.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,22284.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,23843.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,102622.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,27923.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,34842.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,29416.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,20583.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,13637.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,39179.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,5442.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,24704.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,11406.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,11009.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,11152.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,25667.0
+F8002C02,Irish speakers,2016,2016,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,9904.0
+F8002C02,Irish speakers,2016,2016,2,Female,IE0,State,Number,968777.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,11353.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,86863.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,45892.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,55243.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,49891.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,46822.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,21421.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,17961.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,7760.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,23251.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,39552.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,15570.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,17888.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,28905.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,27671.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,28639.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,121517.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,33674.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,42471.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,35975.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,24738.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,17503.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,45070.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,6858.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,30393.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,14419.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,14187.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,14058.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,31071.0
+F8002C02,Irish speakers,2016,2016,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,12161.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,IE0,State,Number,1873997.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,21426.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,162400.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,93899.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,113366.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,98014.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,95484.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,41037.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,33538.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,14993.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,44078.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,80822.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,28231.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,33598.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,55198.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,56012.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,54437.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,238226.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,62877.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,78172.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,66003.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,48106.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,32708.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,89222.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,13153.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,56346.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,26853.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,26506.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,26591.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,59130.0
+F8002C02,Irish speakers,2022,2022,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,23571.0
+F8002C02,Irish speakers,2022,2022,1,Male,IE0,State,Number,843826.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,9370.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,72519.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,42344.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,51782.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,44206.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,43215.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,18357.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,14762.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,6705.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,19748.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,36325.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,12347.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,15018.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,24174.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,24863.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,24835.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,108787.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,28291.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,35372.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,29740.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,21825.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,14481.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,41424.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,5877.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,25061.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,11944.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,11550.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,11738.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,26661.0
+F8002C02,Irish speakers,2022,2022,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,10505.0
+F8002C02,Irish speakers,2022,2022,2,Female,IE0,State,Number,1030171.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,12056.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,89881.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,51555.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,61584.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,53808.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,52269.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,22680.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,18776.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,8288.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,24330.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,44497.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,15884.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,18580.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,31024.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,31149.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,29602.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,129439.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,34586.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,42800.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,36263.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,26281.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,18227.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,47798.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,7276.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,31285.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,14909.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,14956.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,14853.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,32469.0
+F8002C02,Irish speakers,2022,2022,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,13066.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,IE0,State,Number,2507312.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,30877.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,326811.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,111783.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,155263.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,155644.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,112261.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,50694.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,42770.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,21982.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,72206.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,102334.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,43663.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,47700.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,85218.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,79141.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,55789.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,261006.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,72845.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,98308.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,81743.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,59910.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,38810.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,79459.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,16973.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,66234.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,33359.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,34842.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,42669.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,92471.0
+F8002C03,Non - Irish speakers,2011,2011,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,34547.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,IE0,State,Number,1312713.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,16606.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,165587.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,55562.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,79346.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,79091.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,59418.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,27342.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,23116.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,11774.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,37330.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,54162.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,23383.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,25357.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,44987.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,41254.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,29683.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,136656.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,39057.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,52398.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,43772.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,31392.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,19909.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,42796.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,9322.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,35839.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,18339.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,18823.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,23120.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,48697.0
+F8002C03,Non - Irish speakers,2011,2011,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,18595.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,IE0,State,Number,1194599.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,14271.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,161224.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,56221.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,75917.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,76553.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,52843.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,23352.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,19654.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,10208.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,34876.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,48172.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,20280.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,22343.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,40231.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,37887.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,26106.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,124350.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,33788.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,45910.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,37971.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,28518.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,18901.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,36663.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,7651.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,30395.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,15020.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,16019.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,19549.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,43774.0
+F8002C03,Non - Irish speakers,2011,2011,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,15952.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,IE0,State,Number,2667945.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,32896.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,344099.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,122056.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,170284.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,166519.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,122671.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,54659.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,45831.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,24035.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,77770.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,110244.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,45056.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,50592.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,89462.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,83653.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,58889.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,284114.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,76315.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,104198.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,84602.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,63261.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,41542.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,84286.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,17676.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,68059.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,35124.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,36236.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,46003.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,92365.0
+F8002C03,Non - Irish speakers,2016,2016,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,35448.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,IE0,State,Number,1387498.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,17575.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,173743.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,60745.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,86625.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,84218.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,64388.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,29140.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,24602.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,12825.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,40086.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,57805.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,23871.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,26671.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,46735.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,43355.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,31042.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,147965.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,40143.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,55588.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,45196.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,33074.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,21067.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,45031.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,9539.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,36456.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,19080.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,19260.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,24668.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,48096.0
+F8002C03,Non - Irish speakers,2016,2016,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,18909.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,IE0,State,Number,1280447.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,15321.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,170356.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,61311.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,83659.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,82301.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,58283.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,25519.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,21229.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,11210.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,37684.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,52439.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,21185.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,23921.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,42727.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,40298.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,27847.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,136149.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,36172.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,48610.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,39406.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,30187.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,20475.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,39255.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,8137.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,31603.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,16044.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,16976.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,21335.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,44269.0
+F8002C03,Non - Irish speakers,2016,2016,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,16539.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,IE0,State,Number,2759028.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,34572.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,334150.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,124825.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,181628.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,171650.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,131556.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,54794.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,49972.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,24513.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,81135.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,122365.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,47455.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,52400.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,95130.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,87476.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,61091.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,293721.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,80078.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,104900.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,87473.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,66659.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,40057.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,88096.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,19155.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,70758.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,37583.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,37411.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,47558.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,94478.0
+F8002C03,Non - Irish speakers,2022,2022,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,36389.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,IE0,State,Number,1435491.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,18373.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,169393.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,62177.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,92512.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,86842.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,69340.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,29235.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,26956.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,13035.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,41697.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,64553.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,25375.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,27553.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,49760.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,45444.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,32094.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,153121.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,42215.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,55370.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,46404.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,34852.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,20083.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,46864.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,10215.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,37747.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,20201.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,19789.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,25385.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,49279.0
+F8002C03,Non - Irish speakers,2022,2022,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,19627.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,IE0,State,Number,1323537.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,16199.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,164757.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,62648.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,89116.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,84808.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,62216.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,25559.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,23016.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,11478.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,39438.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,57812.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,22080.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,24847.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,45370.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,42032.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,28997.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,140600.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,37863.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,49530.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,41069.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,31807.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,19974.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,41232.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,8940.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,33011.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,17382.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,17622.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,22173.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,45199.0
+F8002C03,Non - Irish speakers,2022,2022,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,16762.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,IE0,State,Number,88882.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,1142.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,18487.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,3385.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,5691.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,5503.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,3073.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,1492.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,1933.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,705.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,2266.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,2951.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,1052.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,1532.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,2240.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,2000.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,2309.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,9378.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,2587.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,3364.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,2438.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,1873.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,1795.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,2203.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,735.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,1960.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,1009.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,1587.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,1508.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,2008.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,676.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,IE0,State,Number,47903.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,620.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,9985.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,1655.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,3082.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,2816.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,1684.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,782.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,1283.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,384.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,1233.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,1644.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,620.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,796.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,1153.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,1095.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,1223.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,5040.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,1363.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,1810.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,1353.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,971.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,922.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,1222.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,389.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,1078.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,618.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,813.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,828.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,1061.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,380.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,IE0,State,Number,40979.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,522.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,8502.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,1730.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,2609.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,2687.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,1389.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,710.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,650.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,321.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,1033.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,1307.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,432.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,736.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,1087.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,905.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,1086.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,4338.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,1224.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,1554.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,1085.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,902.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,873.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,981.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,346.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,882.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,391.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,774.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,680.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,947.0
+F8002C04,Ability to speak Irish - Not stated,2011,2011,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,296.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,IE0,State,Number,139896.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,1458.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,35244.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,4617.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,10468.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,8900.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,4382.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,1753.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,2596.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,1045.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,3589.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,4098.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,1814.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,2172.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,3038.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,3021.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,3001.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,12683.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,4697.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,5699.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,3209.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,3165.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,3117.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,3431.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,795.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,2472.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,1078.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,1669.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,1657.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,3870.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,1158.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,IE0,State,Number,75556.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,828.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,19404.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,2328.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,5508.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,4664.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,2384.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,961.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,1762.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,579.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,1944.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,2205.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,1034.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,1175.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,1566.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,1568.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,1599.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,6856.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,2378.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,3013.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,1783.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,1715.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,1646.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,1850.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,448.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,1348.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,607.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,859.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,865.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,2008.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,671.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,IE0,State,Number,64340.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,630.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,15840.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,2289.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,4960.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,4236.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,1998.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,792.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,834.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,466.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,1645.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,1893.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,780.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,997.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,1472.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,1453.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,1402.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,5827.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,2319.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,2686.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,1426.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,1450.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,1471.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,1581.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,347.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,1124.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,471.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,810.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,792.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,1862.0
+F8002C04,Ability to speak Irish - Not stated,2016,2016,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,487.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,IE0,State,Number,342688.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,3933.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,78421.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,7753.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,23301.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,20460.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,11640.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,4906.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,Number,5090.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,Number,5692.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,Number,9565.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,Number,9376.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,4647.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,6828.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,8240.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,7175.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,8200.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,32741.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,8637.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,19691.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,8843.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,8663.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,9308.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,9190.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,1628.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,6254.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,3418.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,4008.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,4484.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,7827.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,2769.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,IE0,State,Number,176511.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,2031.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,40724.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,3746.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,11996.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,10554.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,6081.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,2525.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,Number,2883.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,Number,2907.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,Number,4900.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,Number,4838.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,2445.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,3424.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,4173.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,3579.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,3917.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,17097.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,4400.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,10203.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,4585.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,4412.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,4677.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,4733.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,833.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,3223.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,1798.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,2027.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,2364.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,3988.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,1448.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,IE0,State,Number,166177.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,Number,1902.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,Number,37697.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,Number,4007.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,Number,11305.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,Number,9906.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,Number,5559.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,Number,2381.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,Number,2207.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,Number,2785.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,Number,4665.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,Number,4538.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,Number,2202.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,Number,3404.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,Number,4067.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,Number,3596.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,Number,4283.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,Number,15644.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,Number,4237.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,Number,9488.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,Number,4258.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,Number,4251.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,Number,4631.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,Number,4457.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,Number,795.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,Number,3031.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,Number,1620.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,Number,1981.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,Number,2120.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,Number,3839.0
+F8002C04,Ability to speak Irish - Not stated,2022,2022,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,Number,1321.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,IE0,State,%,41.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,%,39.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,33.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,42.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,38.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,36.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,42.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,43.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,%,42.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,%,39.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,%,36.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,%,40.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,%,39.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,40.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,%,37.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,38.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,%,49.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,46.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,46.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,45.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,45.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,43.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,%,45.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,51.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,42.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,%,46.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,44.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,%,42.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,%,37.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,39.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,39.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,IE0,State,%,37.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,%,34.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,30.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,40.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,35.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,33.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,38.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,38.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,%,37.5
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,%,35.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,%,33.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,%,36.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,%,34.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,36.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,%,33.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,34.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,%,45.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,43.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,42.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,41.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,41.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,40.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,%,41.5
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,48.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,38.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,%,41.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,39.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,%,37.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,%,32.5
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,35.5
+F8002C05,Irish speakers as a percentage of total,2011,2011,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,34.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,IE0,State,%,44.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,%,43.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,36.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,44.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,41.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,39.2
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,46.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,47.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,%,47.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,%,43.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,%,39.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,%,43.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,%,43.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,44.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,%,41.6
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,41.5
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,%,52.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,49.3
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,50.8
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,49.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,49.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,47.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,%,48.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,55.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,47.5
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,%,50.7
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,49.9
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,%,48.1
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,%,42.0
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,42.4
+F8002C05,Irish speakers as a percentage of total,2011,2011,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,43.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,IE0,State,%,39.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,%,38.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,31.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,40.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,37.2
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,35.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,41.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,41.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,%,41.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,%,36.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,%,35.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,%,39.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,%,38.2
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,38.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,%,36.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,37.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,%,47.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,44.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,44.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,42.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,43.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,41.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,%,42.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,50.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,41.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,%,44.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,42.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,%,41.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,%,35.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,38.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,38.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,IE0,State,%,36.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,%,33.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,28.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,38.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,34.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,32.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,37.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,37.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,%,37.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,%,32.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,%,31.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,%,35.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,%,33.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,34.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,%,32.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,33.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,%,43.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,41.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,41.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,38.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,39.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,38.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,%,39.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,46.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,36.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,%,40.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,37.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,%,36.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,%,31.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,34.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,34.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,IE0,State,%,43.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,%,42.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,33.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,42.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,39.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,37.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,44.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,45.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,%,45.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,%,40.9
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,%,38.2
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,%,43.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,%,42.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,42.8
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,%,40.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,40.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,%,50.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,47.2
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,48.2
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,46.6
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,47.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,45.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,%,46.1
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,53.4
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,45.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,%,49.0
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,47.3
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,%,45.5
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,%,39.7
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,41.2
+F8002C05,Irish speakers as a percentage of total,2016,2016,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,42.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,IE0,State,%,40.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1492-13a3-e055-000000000001,Carlow,%,38.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,32.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,42.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,38.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,36.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,42.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,42.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-148d-13a3-e055-000000000001,Laois,%,40.2
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1490-13a3-e055-000000000001,Longford,%,38.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1491-13a3-e055-000000000001,Louth,%,35.2
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1494-13a3-e055-000000000001,Meath,%,39.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1496-13a3-e055-000000000001,Offaly,%,37.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,39.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-149c-13a3-e055-000000000001,Wexford,%,36.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,39.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a2-13a3-e055-000000000001,Clare,%,47.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,44.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,44.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,42.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,43.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,41.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1435-13a3-e055-000000000001,Galway City,%,45.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,50.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,40.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1493-13a3-e055-000000000001,Mayo,%,44.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,41.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1498-13a3-e055-000000000001,Sligo,%,41.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-149d-13a3-e055-000000000001,Cavan,%,35.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,38.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,-,Both sexes,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,39.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,IE0,State,%,37.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1492-13a3-e055-000000000001,Carlow,%,33.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,30.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,40.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,35.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,33.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,38.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,38.6
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-148d-13a3-e055-000000000001,Laois,%,35.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1490-13a3-e055-000000000001,Longford,%,34.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1491-13a3-e055-000000000001,Louth,%,32.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1494-13a3-e055-000000000001,Meath,%,36.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1496-13a3-e055-000000000001,Offaly,%,32.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,35.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-149c-13a3-e055-000000000001,Wexford,%,32.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,35.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a2-13a3-e055-000000000001,Clare,%,43.6
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,41.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,40.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,39.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,39.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,38.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1435-13a3-e055-000000000001,Galway City,%,41.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,46.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,36.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1493-13a3-e055-000000000001,Mayo,%,39.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,37.2
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1498-13a3-e055-000000000001,Sligo,%,36.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-149d-13a3-e055-000000000001,Cavan,%,31.6
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,35.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,1,Male,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,34.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,IE0,State,%,43.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1492-13a3-e055-000000000001,Carlow,%,42.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1433-13a3-e055-000000000001,Dublin City,%,35.3
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire-Rathdown,%,45.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a0-13a3-e055-000000000001,Fingal,%,40.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a1-13a3-e055-000000000001,South Dublin,%,38.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a7-13a3-e055-000000000001,Kildare,%,45.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a8-13a3-e055-000000000001,Kilkenny,%,47.0
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-148d-13a3-e055-000000000001,Laois,%,44.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1490-13a3-e055-000000000001,Longford,%,41.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1491-13a3-e055-000000000001,Louth,%,38.2
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1494-13a3-e055-000000000001,Meath,%,43.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1496-13a3-e055-000000000001,Offaly,%,41.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-149b-13a3-e055-000000000001,Westmeath,%,42.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-149c-13a3-e055-000000000001,Wexford,%,40.6
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-149e-13a3-e055-000000000001,Wicklow,%,42.6
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a2-13a3-e055-000000000001,Clare,%,50.5
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1451-13a3-e055-000000000001,Cork City and Cork County,%,47.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a6-13a3-e055-000000000001,Kerry,%,47.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-148f-13a3-e055-000000000001,Limerick City and County,%,46.4
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1499-13a3-e055-000000000001,Tipperary,%,46.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-149a-13a3-e055-000000000001,Waterford City and County,%,45.2
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1435-13a3-e055-000000000001,Galway City,%,47.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a5-13a3-e055-000000000001,Galway County,%,53.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-148e-13a3-e055-000000000001,Leitrim,%,44.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1493-13a3-e055-000000000001,Mayo,%,48.7
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1497-13a3-e055-000000000001,Roscommon,%,46.2
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1498-13a3-e055-000000000001,Sligo,%,45.9
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-149d-13a3-e055-000000000001,Cavan,%,40.1
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-14a4-13a3-e055-000000000001,Donegal,%,41.8
+F8002C05,Irish speakers as a percentage of total,2022,2022,2,Female,2ae19629-1495-13a3-e055-000000000001,Monaghan,%,43.8

@@ -1,0 +1,23 @@
+---
+title: "Health"
+description: "How long people live, and how the main causes of death have changed."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish health >}}
+
+These pages show how long people in Ireland live compared with the rest of the EU, and how the main causes of death have changed over the past century. More on the health service will be added.
+
+{{< key-facts health-life-expectancy health-death-rates >}}
+
+:::{#pages}
+:::

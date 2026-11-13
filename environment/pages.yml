@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Emissions by sector"
+  path: emissions.qmd
+  image: ../images/charts/environment-emissions-by-sector.png
+  description: "Where Ireland's greenhouse gas emissions come from, and how they have changed since 1990."
+- title: "Ireland and the EU"
+  path: eu-comparison.qmd
+  image: ../images/charts/environment-emissions-per-person.png
+  description: "Greenhouse gas emissions per person in Ireland compared with the EU average."

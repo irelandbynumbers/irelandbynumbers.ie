@@ -1,0 +1,9 @@
+---
+title: "Ireland and the EU"
+description: "Greenhouse gas emissions per person in Ireland compared with the EU average."
+image: ../images/social/environment-emissions-per-person.png
+---
+
+Emissions per person in Ireland have been well above the EU average in every year since 2008, the first year in this series. Both have fallen over the period. In 2024, emissions were 10.0 tonnes per person in Ireland and 6.7 tonnes across the 27 EU countries.
+
+{{< chart environment-emissions-per-person >}}

@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Life expectancy"
+  path: life-expectancy.qmd
+  image: ../images/charts/health-life-expectancy.png
+  description: "How long people in Ireland live compared with the EU average."
+- title: "Causes of death"
+  path: causes-of-death.qmd
+  image: ../images/charts/health-death-rates.png
+  description: "How deaths from heart disease, cancer and tuberculosis have changed since 1922."

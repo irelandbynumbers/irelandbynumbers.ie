@@ -1,0 +1,9 @@
+---
+title: "Causes of death"
+description: "How deaths from heart disease, cancer and tuberculosis have changed since 1922."
+image: ../images/social/health-death-rates.png
+---
+
+In 1922 tuberculosis killed as many people in Ireland as heart disease, at about 153 deaths for every 100,000 people. Deaths from tuberculosis fell steeply from the late 1940s, and by 2023 the rate was 0.3 per 100,000. The death rate from heart disease peaked in 1966 and has fallen by more than two thirds since. Cancer has caused more deaths than heart disease in every year since 2003.
+
+{{< chart health-death-rates >}}

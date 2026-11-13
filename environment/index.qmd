@@ -1,0 +1,23 @@
+---
+title: "Environment and climate"
+description: "Greenhouse gas emissions, where they come from, and how Ireland compares with the EU."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish environment >}}
+
+These pages show Ireland's greenhouse gas emissions, which parts of the economy they come from, and how emissions per person compare with the rest of the EU. More on energy, water and nature will be added.
+
+{{< key-facts environment-emissions-by-sector environment-emissions-per-person >}}
+
+:::{#pages}
+:::

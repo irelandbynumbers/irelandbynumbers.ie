@@ -1,0 +1,9 @@
+---
+title: "Where people come from and go to"
+description: "The countries immigrants come from and emigrants go to."
+image: ../images/social/migration-by-place.png
+---
+
+The CSO groups immigrants by the country or region they came from, and emigrants by where they went. In the twelve months to April 2026, the largest number of immigrants, 52,200, came from countries outside the EU, the United Kingdom, the United States, Canada and Australia. More people left for Australia than arrived from it, and the same was true of Canada and of the countries that were EU members before 2004.
+
+{{< chart migration-by-place >}}

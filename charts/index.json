@@ -321,6 +321,198 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "migration-by-place",
+  "topic": "migration",
+  "title": "Where people came from and went to",
+  "subtitle": "Estimated number of immigrants by the country or region they came from, and emigrants by where they went, in the twelve months to April 2026.",
+  "kind": "chart",
+  "page": "/charts/migration-by-place.html",
+  "csv": "/charts/migration-by-place.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Estimated Migration (Persons in April) (PEA18)",
+    "url": "https://data.cso.ie/table/PEA18",
+    "licence": "CC BY 4.0",
+    "code": "PEA18",
+    "updated": "2026-08-24",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "In the twelve months to April 2026, the largest group of emigrants, 14,600 people, went to the other countries that were EU members before 2004.",
+  "listed": true,
+  "updated": "2026-08-24",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "migration-flows",
+  "topic": "migration",
+  "title": "People moving to and from Ireland",
+  "subtitle": "Estimated number of people who moved to Ireland (immigrants) and who left (emigrants) in the twelve months to April, 1987 to 2026.",
+  "kind": "chart",
+  "page": "/charts/migration-flows.html",
+  "csv": "/charts/migration-flows.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Estimated Migration (Persons in April) (PEA03)",
+    "url": "https://data.cso.ie/table/PEA03",
+    "licence": "CC BY 4.0",
+    "code": "PEA03",
+    "updated": "2026-08-24",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "In the twelve months to April 2026, an estimated 110,600 people moved to Ireland and 62,500 left. Emigration was highest in 2012, at 83,000.",
+  "listed": true,
+  "updated": "2026-08-24",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "health-death-rates",
+  "topic": "health",
+  "title": "Deaths from heart disease, cancer and tuberculosis",
+  "subtitle": "Deaths per 100,000 people each year from heart disease, cancer and tuberculosis, 1922 to 2023.",
+  "kind": "chart",
+  "page": "/charts/health-death-rates.html",
+  "csv": "/charts/health-death-rates.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Deaths Occurring (VSD56)",
+    "url": "https://data.cso.ie/table/VSD56",
+    "licence": "CC BY 4.0",
+    "code": "VSD56",
+    "updated": "2026-07-08",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "The death rate from tuberculosis fell from 153 per 100,000 people in 1922 to 0.3 in 2023. Cancer has caused more deaths than heart disease in every year since 2003.",
+  "listed": true,
+  "updated": "2026-07-08",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "health-life-expectancy",
+  "topic": "health",
+  "title": "Life expectancy in Ireland and the EU",
+  "subtitle": "Life expectancy at birth in years, Ireland and the 27 EU countries, 2018 to 2024.",
+  "kind": "chart",
+  "page": "/charts/health-life-expectancy.html",
+  "csv": "/charts/health-life-expectancy.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Life expectancy at birth (Years) (MIP12)",
+    "url": "https://data.cso.ie/table/MIP12",
+    "licence": "CC BY 4.0",
+    "code": "MIP12",
+    "updated": "2026-10-20",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "Life expectancy at birth in Ireland was 83.1 years in 2024, compared with an EU average of 81.5 years.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "environment-emissions-by-sector",
+  "topic": "environment",
+  "title": "Greenhouse gas emissions by sector",
+  "subtitle": "Ireland's greenhouse gas emissions in millions of tonnes of carbon dioxide equivalent, by sector, 1990 to 2024.",
+  "kind": "chart",
+  "page": "/charts/environment-emissions-by-sector.html",
+  "csv": "/charts/environment-emissions-by-sector.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Ireland greenhouse gas emissions (Territorial Principle) (EIIA08)",
+    "url": "https://data.cso.ie/table/EIIA08",
+    "licence": "CC BY 4.0",
+    "code": "EIIA08",
+    "updated": "2025-12-03",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "Ireland's greenhouse gas emissions were 53.8 million tonnes in 2024, down from a peak of 70.8 million tonnes in 2001. Agriculture was the largest source, at 38% of the total.",
+  "listed": true,
+  "updated": "2025-12-03",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "environment-emissions-per-person",
+  "topic": "environment",
+  "title": "Emissions per person in Ireland and the EU",
+  "subtitle": "Greenhouse gas emissions per person in tonnes of carbon dioxide equivalent, Ireland and the 27 EU countries, 2008 to 2024.",
+  "kind": "chart",
+  "page": "/charts/environment-emissions-per-person.html",
+  "csv": "/charts/environment-emissions-per-person.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Greenhouse Gas Emissions (MIP07)",
+    "url": "https://data.cso.ie/table/MIP07",
+    "licence": "CC BY 4.0",
+    "code": "MIP07",
+    "updated": "2026-10-20",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "In 2024, emissions were 10.0 tonnes per person in Ireland, compared with an EU average of 6.7 tonnes.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "irish-language-frequency",
+  "topic": "irish-language",
+  "title": "How often Irish speakers speak Irish",
+  "subtitle": "People aged 3 and over who said they could speak Irish, by how often they speak it, Census 2022.",
+  "kind": "chart",
+  "page": "/charts/irish-language-frequency.html",
+  "csv": "/charts/irish-language-frequency.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Irish speakers aged 3 years and over (F8001)",
+    "url": "https://data.cso.ie/table/F8001",
+    "licence": "CC BY 4.0",
+    "code": "F8001",
+    "updated": "2023-12-19",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "At the 2022 census, 1,873,997 people said they could speak Irish, and 71,968 (4% of them) said they spoke it every day outside school.",
+  "listed": true,
+  "updated": "2023-12-19",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "irish-language-gaeltacht",
+  "topic": "irish-language",
+  "title": "Daily Irish speakers in the Gaeltacht",
+  "subtitle": "Percentage of people aged 3 and over in each Gaeltacht area who speak Irish every day outside school, Census 2011, 2016 and 2022.",
+  "kind": "chart",
+  "page": "/charts/irish-language-gaeltacht.html",
+  "csv": "/charts/irish-language-gaeltacht.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Daily Irish speakers aged 3 years and over (F8033)",
+    "url": "https://data.cso.ie/table/F8033",
+    "licence": "CC BY 4.0",
+    "code": "F8033",
+    "updated": "2023-12-19",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "In 2022, 31% of people in the Gaeltacht spoke Irish every day outside school, compared with 35% in 2011.",
+  "listed": true,
+  "updated": "2023-12-19",
+  "checked": "2026-11-13"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",
