@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+Ireland by Numbers takes official Irish statistics and makes them readable: a chart or map, a few sentences on what it shows, and the data and code behind each one.
+
+My name is [Maedbh King](https://www.maedbhking.com/home). Ireland by Numbers is independent of my employer and is done in my own time. I also run [Fianaise](https://fianaise.ie), on evidence about Irish public life.
+
+## Corrections
+
+If you spot a mistake, please [open an issue on GitHub](https://github.com/irelandbynumbers/irelandbynumbers.ie/issues/new/choose) (there is a form for corrections). Corrections are made in the open, and the change history of every page is public on GitHub.
+
+Text and figures are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse them freely, with credit to Ireland by Numbers. Code is MIT licensed. The underlying data belongs to its publishers and keeps their licences (see [Data & code](data.qmd)).
