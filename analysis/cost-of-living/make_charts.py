@@ -4,6 +4,7 @@ import plotly.graph_objects as go
 
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.facts import higher_lower, lower_first
 
 TOPIC = "cost-of-living"
 INDEX = "Consumer Price Index (Base Month December 2023 = 100)"
@@ -46,8 +47,10 @@ def inflation():
                         hover_x="%B %Y")
     fig.add_hline(y=0, line=dict(color=style.INK_3, width=1))
     latest = pd.to_datetime(d.date.iloc[-1]).strftime("%B %Y")
+    rate = d.inflation.iloc[-1]
     Chart(
         id="cost-of-living-inflation", topic=TOPIC,
+        key_fact=f"Consumer prices were {higher_lower(rate)} in {latest} than a year earlier.",
         title="Inflation",
         subtitle=f"Change in consumer prices compared with the same month a year earlier, {pd.to_datetime(d.date.iloc[0]).strftime('%B %Y')} to {latest}.",
         sources=[Source.cso("CPM20", "Consumer Price Index")],
@@ -77,8 +80,13 @@ def price_change_by_group():
                                         xaxis=style.value_axis(ticksuffix="%", nticks=4, tickangle=0, zeroline=True, zerolinecolor=style.INK_3),
                                         yaxis=style.axis(automargin=True, tickfont=dict(color=style.INK_2, size=12))))
     span = f"{start.strftime('%B %Y')} to {end.strftime('%B %Y')}"
+    groups = d[d.group != "All Items"]
+    top, overall = groups.iloc[-1], d[d.group == "All Items"].percent_change.iloc[0]
     Chart(
         id="cost-of-living-price-change-by-group", topic=TOPIC, height=520,
+        key_fact=f"Over the five years to {end.strftime('%B %Y')}, prices rose most for "
+                 f"{lower_first(SHORT.get(top.group, top.group))} ({top.percent_change:+.1f}%), "
+                 f"compared with {overall:+.1f}% for all items.",
         title="Price changes by type of spending",
         subtitle=f"Change in consumer prices for each main group of goods and services, {span}.",
         sources=[Source.cso("CPM20", "Consumer Price Index")],

@@ -15,6 +15,10 @@ website:
   site-url: "https://irelandbynumbers.ie"
   repo-url: https://github.com/irelandbynumbers/irelandbynumbers.ie
   search: true
+  image: images/social/site.png
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
   navbar:
     left:
       - text: Topics
@@ -31,12 +35,26 @@ website:
             text: Education
           - href: crime/index.qmd
             text: Crime
+      - href: counties/index.qmd
+        text: Counties
       - href: charts.qmd
         text: All charts
-      - href: data.qmd
-        text: Data and code
-      - href: about.qmd
-        text: About
+      - href: chart-of-the-week.qmd
+        text: Chart of the week
+      - text: About
+        menu:
+          - href: about.qmd
+            text: About the site
+          - href: methods.qmd
+            text: How figures are checked
+          - href: glossary.qmd
+            text: Glossary
+          - href: whats-new.qmd
+            text: What's new
+          - href: corrections.qmd
+            text: Corrections
+          - href: data.qmd
+            text: Data and code
     right:
       - icon: envelope
         href: mailto:irelandbynumbers@proton.me
@@ -45,7 +63,7 @@ website:
         href: https://github.com/irelandbynumbers/irelandbynumbers.ie
         aria-label: GitHub
   page-footer:
-    center: "Ireland by Numbers is independent and non-partisan · Charts CC BY 4.0, code MIT · [Contact](mailto:irelandbynumbers@proton.me)"
+    center: "Ireland by Numbers is independent and non-partisan · [How figures are checked](/methods.qmd) · [Corrections](/corrections.qmd) · Charts CC BY 4.0, code MIT · [Contact](mailto:irelandbynumbers@proton.me)"
 
 format:
   html:

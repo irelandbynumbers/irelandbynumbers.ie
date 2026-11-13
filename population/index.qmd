@@ -13,7 +13,11 @@ listing:
   sort-ui: false
 ---
 
+{{< irish population >}}
+
 Ireland's population is counted in a census every five or six years, and the Central Statistics Office estimates it every April in between. These pages show how the population has grown, what drives the change, how it differs across the country, and how its age profile is shifting.
+
+{{< key-facts population-total population-change population-ageing population-county-map >}}
 
 :::{#pages}
 :::

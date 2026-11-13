@@ -1,0 +1,8 @@
+---
+title: "Chart of the week"
+description: "One chart each week, with a short note on what it shows."
+---
+
+Each week one chart from the site is picked out on the homepage, with a short note on what it shows. Earlier charts of the week are listed here, newest first.
+
+{{< chart-of-the-week all >}}

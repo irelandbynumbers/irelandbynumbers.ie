@@ -6,9 +6,16 @@
 <title>Population of Ireland | Ireland by Numbers</title>
 <meta name="description" content="Estimated number of people living in the State each April, 1950 to 2026.">
 <link rel="canonical" href="https://irelandbynumbers.ie/charts/population-total.html">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://irelandbynumbers.ie/charts/population-total.html">
 <meta property="og:title" content="Population of Ireland">
 <meta property="og:description" content="Estimated number of people living in the State each April, 1950 to 2026.">
 <meta property="og:site_name" content="Ireland by Numbers">
+<meta property="og:image" content="https://irelandbynumbers.ie/images/social/population-total.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Chart. Population of Ireland">
+<meta name="twitter:card" content="summary_large_image">
 <style>
   *, *::before, *::after { box-sizing: border-box; }
   html, body { margin: 0; background: #fff; }
@@ -44,6 +51,17 @@
   th, td { padding: 4px 8px; border-bottom: 1px solid #e8e7e3; text-align: left; }
   td.num, th.num { text-align: right; }
   thead th { position: sticky; top: 0; background: #f3f2ee; color: #0b0b0b; }
+  .dates { color: #8a8984; }
+  .copied { color: #8a8984; font-size: 13px; align-self: center; }
+  /* ?card: the chart alone at 1200x630, for the preview image social media shows with a link. */
+  .is-card .site, .is-card footer { display: none !important; }
+  .is-card main { max-width: none; padding: 36px 48px 0; }
+  .is-card h1 { font-size: 2rem; }
+  .is-card .sub { font-size: 1.1rem; margin-bottom: 12px; }
+  .is-card .brand-card { display: flex; }
+  .brand-card { display: none; position: fixed; left: 48px; right: 48px; bottom: 18px; justify-content: space-between;
+    font-size: 15px; color: #8a8984; }
+  .brand-card b { color: #0b0b0b; }
 </style>
 <script src="lib/plotly-4.1.1.min.js"></script>
 </head>
@@ -56,13 +74,17 @@
   <div class="table-wrap" hidden><table><caption>Population of Ireland</caption><thead></thead><tbody></tbody></table></div>
   <footer>
     <p>Data from Central Statistics Office (CSO), <a href="https://data.cso.ie/table/PEA01">Population Estimates (Persons in April) (PEA01)</a> <span class="lic">(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</span>.</p>
+    <p class="dates">Source last updated 24 August 2026. Checked for new figures 13 November 2026.</p>
     <details class="notes"><summary>About this data</summary><p>The CSO counts the population in each census and estimates it for the years in between, using births, deaths and estimated migration. Estimates are revised after each new census.</p><p>Figures are published rounded to the nearest hundred people.</p></details>
     <div class="actions">
       <button type="button" id="table" aria-expanded="false">Show table</button>
       <button type="button" id="png">Download PNG</button>
       <a href="population-total.csv" download>Download data (CSV)</a>
+      <a href="https://data.cso.ie/table/PEA01">Original table</a>
       <button type="button" id="embed">Embed</button>
+      <button type="button" id="share">Share link</button>
       <a class="only-embedded" href="population-total.html" target="_top">Open chart page</a>
+      <span class="copied" role="status" aria-live="polite"></span>
     </div>
     <div class="embed" hidden>
       <p>Copy this code to show the chart on your own site.</p>
@@ -71,6 +93,7 @@
     <p class="credit"><a href="/">Ireland by Numbers</a> · Chart licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, free to reuse with credit to Ireland by Numbers and the source above.</p>
   </footer>
 </main>
+<div class="brand-card" aria-hidden="true"><span><b>Ireland by Numbers</b> · irelandbynumbers.ie</span><span>Data from Central Statistics Office (CSO)</span></div>
 <script>
 const FIG = {"data":[{"hovertemplate":"\u003cb\u003ePopulation\u003c\u002fb\u003e: %{y:,.0f}\u003cextra\u003e\u003c\u002fextra\u003e","line":{"color":"#2a78d6","width":2.5},"mode":"lines","name":"Population","x":{"dtype":"i2","bdata":"ngefB6AHoQeiB6MHpAelB6YHpweoB6kHqgerB6wHrQeuB68HsAexB7IHswe0B7UHtge3B7gHuQe6B7sHvAe9B74HvwfAB8EHwgfDB8QHxQfGB8cHyAfJB8oHywfMB80HzgfPB9AH0QfSB9MH1AfVB9YH1wfYB9kH2gfbB9wH3QfeB98H4AfhB+IH4wfkB+UH5gfnB+gH6QfqBw=="},"y":{"dtype":"i4","bdata":"qE0tANgsLQDEDi0AiP8sABDhLADEkSwARDosALQGLABchysAoGsrAOQ2KwD8ACsAFC8rANB8KwC4sisAmOErAKABLAD0PiwAyG8sAJCiLAAMAy0AmHEtABAmLgDo4y4AvKovAPB6MACYQDEA3OwxAFCRMgAIZTMAKOUzAMiKNADAGTUAgHc1ACjZNQAgBDYAeAY2AIQdNgDM3zUA\u002fIw1AIh+NQBEzDUAxDw2AFSJNgBstzYAlPM2AHRUNwCs6TcAPIE4AKAXOQC80jkAILQ6AJDFOwB8ujwAkLk9AKgTPwDElkAA+MRCAOxvRACYLEUAMIBFALTORQAkGEYALGpGABjiRgC4h0cAEFJIAJRoSQCkiUoAJKlLAAzATAAMb00AABpPAECXUADMGFIAqEpTAGBQVAA="},"type":"scatter"},{"hoverinfo":"skip","marker":{"color":"#2a78d6","line":{"color":"#ffffff","width":2},"size":8},"mode":"markers","x":[2026],"y":[5525600],"type":"scatter"}],"layout":{"template":{"data":{"histogram2dcontour":[{"type":"histogram2dcontour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"choropleth":[{"type":"choropleth","colorbar":{"outlinewidth":0,"ticks":""}}],"histogram2d":[{"type":"histogram2d","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"heatmap":[{"type":"heatmap","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"contourcarpet":[{"type":"contourcarpet","colorbar":{"outlinewidth":0,"ticks":""}}],"contour":[{"type":"contour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"surface":[{"type":"surface","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"mesh3d":[{"type":"mesh3d","colorbar":{"outlinewidth":0,"ticks":""}}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"parcoords":[{"type":"parcoords","line":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolargl":[{"type":"scatterpolargl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"scattergeo":[{"type":"scattergeo","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolar":[{"type":"scatterpolar","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"scattergl":[{"type":"scattergl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatter3d":[{"type":"scatter3d","line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermap":[{"type":"scattermap","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterternary":[{"type":"scatterternary","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattercarpet":[{"type":"scattercarpet","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"type":"carpet"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}],"barpolar":[{"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"pie":[{"automargin":true,"type":"pie"}]},"layout":{"autotypenumbers":"strict","colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"hovermode":"closest","hoverlabel":{"align":"left"},"paper_bgcolor":"white","plot_bgcolor":"#E5ECF6","polar":{"bgcolor":"#E5ECF6","angularaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"radialaxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"ternary":{"bgcolor":"#E5ECF6","aaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"baxis":{"gridcolor":"white","linecolor":"white","ticks":""},"caxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]]},"xaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"yaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"scene":{"xaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"yaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"zaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"geo":{"bgcolor":"white","landcolor":"#E5ECF6","subunitcolor":"white","showland":true,"showlakes":true,"lakecolor":"white"},"title":{"x":0.05}}},"annotations":[{"align":"left","font":{"color":"#0b0b0b","size":13},"showarrow":false,"text":"\u003cb\u003e5,525,600\u003c\u002fb\u003e","x":2026,"xanchor":"left","xshift":8,"y":5525600}],"font":{"family":"-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","size":14,"color":"#52514e"},"hoverlabel":{"font":{"family":"-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","size":13,"color":"#0b0b0b"},"bgcolor":"white","bordercolor":"#e8e7e3"},"margin":{"l":56,"r":120,"t":16,"b":40},"xaxis":{"tickfont":{"color":"#8a8984","size":12},"title":{"text":""},"showgrid":false,"zeroline":false,"linecolor":"#e8e7e3","ticks":"","showline":true,"range":[1950,2026],"showspikes":true,"spikecolor":"#8a8984","spikethickness":1,"spikedash":"solid"},"yaxis":{"tickfont":{"color":"#8a8984","size":12},"title":{"text":""},"showgrid":true,"zeroline":false,"linecolor":"rgba(0,0,0,0)","ticks":"","gridcolor":"#e8e7e3","range":[0,5967648.0],"tickformat":",~s","ticksuffix":"","tickprefix":""},"paper_bgcolor":"#ffffff","plot_bgcolor":"#ffffff","showlegend":false,"hovermode":"x unified"}};
 const META = {"id": "population-total", "title": "Population of Ireland", "subtitle": "Estimated number of people living in the State each April, 1950 to 2026.", "source": "Data from Central Statistics Office (CSO), Population Estimates (Persons in April) (PEA01)", "credit": "irelandbynumbers.ie/charts/population-total \u00b7 CC BY 4.0"};
@@ -78,7 +101,14 @@ const CONFIG = {displayModeBar: false, responsive: true, scrollZoom: false,
   topojsonURL: new URL("lib/topojson/", location.href).href};
 const top_ = window.self === window.top;
 if (top_) document.documentElement.classList.add("is-top");
+const card = new URLSearchParams(location.search).has("card");
+if (card) {
+  document.documentElement.classList.add("is-card");
+  const sub = document.querySelector(".sub");
+  sub.textContent = sub.textContent.replace(/ Use the slider.*$/, "");
+}
 const gd = document.getElementById("plot");
+if (card) gd.style.height = (630 - gd.getBoundingClientRect().top - 52) + "px";
 Plotly.newPlot(gd, FIG.data, FIG.layout, CONFIG).then(() => {
   if (FIG.frames && FIG.frames.length) Plotly.addFrames(gd, FIG.frames);
 });
@@ -151,6 +181,19 @@ function parseCSV(t) {
   rows[rows.length - 1].push(f);
   return rows;
 }
+
+// Share: the phone's share sheet where there is one, otherwise copy the link.
+document.getElementById("share").addEventListener("click", async () => {
+  const url = "https://irelandbynumbers.ie/charts/" + META.id + ".html";
+  const status = document.querySelector(".copied");
+  if (navigator.share) {
+    try { await navigator.share({title: META.title, text: META.subtitle, url}); } catch (e) {}
+    return;
+  }
+  try { await navigator.clipboard.writeText(url); status.textContent = "Link copied"; }
+  catch (e) { status.textContent = url; }
+  setTimeout(() => { status.textContent = ""; }, 4000);
+});
 
 // Embed code, pointing at this chart's page.
 document.getElementById("embed").addEventListener("click", () => {

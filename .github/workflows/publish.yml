@@ -17,22 +17,30 @@ jobs:
       - uses: actions/checkout@v4
 
       # On the weekly run (or a manual one), fetch the latest data, rebuild the
-      # charts, and commit any change so the data history stays in the repository.
+      # charts and county pages, redraw the tile thumbnails and link preview
+      # images, and commit any change so the data history stays in the repository.
+      # Each chart's page shows when its source was last updated and checked.
       - if: github.event_name != 'push'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - if: github.event_name != 'push'
+        uses: quarto-dev/quarto-actions/setup@v2
+      - if: github.event_name != 'push'
         name: Refresh data and charts
         run: |
           pip install -r analysis/requirements.txt
           python3 analysis/build.py --refresh
+          quarto render
+          npm install --no-save playwright && npx playwright install --with-deps chromium
+          node tools/thumbnails.js
           git config user.name "github-actions[bot]"
           git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
-          git add analysis/data charts _all-charts.md
+          git add analysis/data charts counties images/charts images/social _all-charts.md _data-updates.md
           git diff --cached --quiet || (git commit -m "Update data from source publishers" && git push)
 
-      - uses: quarto-dev/quarto-actions/setup@v2
+      - if: github.event_name == 'push'
+        uses: quarto-dev/quarto-actions/setup@v2
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages

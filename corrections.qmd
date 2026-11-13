@@ -1,0 +1,18 @@
+---
+title: "Corrections"
+description: "Every correction made to a chart or page on Ireland by Numbers."
+---
+
+Mistakes in a chart, a figure or the text of a page are corrected as soon as they are found, and every correction is listed here with the date, what was wrong and what was changed. Routine updates, when a source publishes new or revised figures, are not corrections and are listed on the [What's new](whats-new.qmd) page instead.
+
+To report an error, email [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me) or open an [issue on GitHub](https://github.com/irelandbynumbers/irelandbynumbers.ie/issues/new?template=data-correction.yml). The full change history of every page is public in the [site's repository](https://github.com/irelandbynumbers/irelandbynumbers.ie/commits/main).
+
+## Corrections made
+
+No corrections have been made so far.
+
+<!--
+Add each correction at the top of this list, in this form:
+
+- **13 November 2026.** [Chart or page title](/link/to/page). What was wrong, what it now says, and how the error happened. Reported by ... (if they are happy to be named).
+-->

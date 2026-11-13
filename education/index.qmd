@@ -13,6 +13,8 @@ listing:
   sort-ui: false
 ---
 
+{{< irish education >}}
+
 These pages cover Ireland's schools, the pupils in them, and who runs them.
 
 :::{#pages}

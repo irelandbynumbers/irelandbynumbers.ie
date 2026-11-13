@@ -1,0 +1,44 @@
+---
+title: "How the figures are chosen and checked"
+description: "The sources Ireland by Numbers uses, how charts are made, and how figures are checked and kept up to date."
+---
+
+Ireland by Numbers aims to show what official statistics say about Ireland, clearly and without taking sides. This page explains how the figures on the site are chosen, how the charts are made, and how they are checked and kept up to date.
+
+## Which sources are used
+
+The site uses official statistics, published by the Central Statistics Office (CSO), government departments and other public bodies. Where more than one body publishes a measure, the chart uses the primary publisher of that measure and says so.
+
+Every chart names its source and links to the original table, so any figure can be traced back to where it was published. The [Data and code](data.qmd) page lists the licences of the sources.
+
+## How a measure is chosen
+
+Charts show the measures that the publisher itself uses as its headline figures, such as the seasonally adjusted unemployment rate or the annual change in the Consumer Price Index. Where a common measure is misleading for Ireland, the chart shows a better one alongside it and explains why. For example, gross domestic product (GDP) is shown next to modified gross national income (GNI\*), which the CSO publishes as a measure of the domestic economy.
+
+Charts generally start as far back as their source allows. Breaks in a series, changes of definition and revisions are explained in the notes under the chart.
+
+## How charts are made
+
+Every chart is drawn by code from a saved copy of the source table, and the code and the data are public in the [site's repository](https://github.com/irelandbynumbers/irelandbynumbers.ie). No figure in a chart is typed in by hand. The data behind each chart can be downloaded as a CSV from the chart's page, exactly as plotted.
+
+The key facts at the top of each topic page, and on each county page, are written by the same code from the same data, so they change when the figures do.
+
+## How figures are checked
+
+Every figure quoted in the text of a page is checked against the chart's data before the page is published. Any calculation, such as adjusting earnings for prices, is described in the chart's notes so that it can be repeated.
+
+Some statistics come with warnings from their publisher. The CSO publishes recorded crime figures as statistics under reservation, for example, because of concerns about the quality of some of the underlying records. Where that applies, the chart says so.
+
+## How the data is kept up to date
+
+Each week the site checks every source for new figures, rebuilds the charts and records what changed. Each chart's page shows when its source was last updated and when it was last checked. The [What's new](whats-new.qmd) page lists every source table with those dates.
+
+Published statistics are often revised, for example after a new census. The site always shows the latest published figures, and earlier versions of the data remain in the repository's history.
+
+## Keeping to the facts
+
+Ireland by Numbers is non-partisan and independent of government and of any political party. The text on each page describes what the figures show, not what should be done about them. The site does not make forecasts.
+
+## Corrections
+
+Mistakes are corrected as soon as they are found, and every correction is listed on the [Corrections](corrections.qmd) page. Errors can be reported by email to [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me) or as an [issue on GitHub](https://github.com/irelandbynumbers/irelandbynumbers.ie/issues/new/choose).

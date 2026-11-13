@@ -1,0 +1,8 @@
+# Chart of the week. The homepage shows the newest entry, and the Chart of the
+# week page lists them all. Add a new entry at the top each week with the date
+# (YYYY-MM-DD), a chart id from charts/index.json, and a short note on what the
+# chart shows. Check every figure in the note against the chart's data.
+weeks:
+  - date: 2026-11-13
+    chart: economy-gdp-gni
+    note: "Ireland's gross domestic product (GDP) is pushed up by the accounts of a number of large multinational companies, so the Central Statistics Office also publishes modified gross national income (GNI\\*), a measure of the domestic economy. In 2025, GNI\\* was €334 billion, a little over half of GDP."

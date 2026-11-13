@@ -1,0 +1,18 @@
+---
+title: "What's new"
+description: "New charts, topics and features on Ireland by Numbers, and the latest data from each source."
+---
+
+New charts, topics and features are listed here, newest first. Corrections are listed separately on the [Corrections](corrections.qmd) page.
+
+## Changes to the site
+
+**13 November 2026.** County pages, with the population of each county at every census and the average rent on new tenancies. A weekly chart of the week on the homepage. Key facts at the top of each topic page. New pages on [how the figures are chosen and checked](methods.qmd), a [glossary](glossary.qmd) and a [corrections log](corrections.qmd). Each chart's page now shows when its source was last updated, links to the original table, and has a link that can be shared with a preview image.
+
+**13 November 2026.** The first charts, covering population, housing, the cost of living, the economy and work, and crime, from Central Statistics Office tables. The Education section shows who runs every primary school, from [Fianaise](https://fianaise.ie).
+
+## Latest data
+
+Each week the site checks every source table for new figures. This table shows when each source was last updated by its publisher, and when it was last checked.
+
+{{< include _data-updates.md >}}

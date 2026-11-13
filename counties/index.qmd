@@ -1,0 +1,16 @@
+---
+title: "Counties"
+description: "Population and rents in each of the 26 counties."
+---
+
+{{< irish counties >}}
+
+Each county has its own page, with its population at every census since 1841 and the average rent on new tenancies since 2008. The figures come from the same Central Statistics Office tables as the [Population](/population/) and [Housing](/housing/) pages, and more measures will be added as county data is brought in.
+
+{{< include _list.md >}}
+
+## Every county on one map
+
+{{< chart population-county-map >}}
+
+{{< chart housing-rents-map >}}

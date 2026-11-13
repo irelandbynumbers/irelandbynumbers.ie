@@ -12,10 +12,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Population Estimates (Persons in April) (PEA01)",
     "url": "https://data.cso.ie/table/PEA01",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "PEA01",
+    "updated": "2026-08-24",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "People aged 65 and over made up 16.1% of the population in 2026, compared with 10.7% in 1950.",
+  "listed": true,
+  "updated": "2026-08-24",
+  "checked": "2026-11-13"
  },
  {
   "id": "population-change",
@@ -30,10 +36,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Annual Population Change (PEA15)",
     "url": "https://data.cso.ie/table/PEA15",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "PEA15",
+    "updated": "2026-08-24",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "In the twelve months to April 2026 there were 54,300 births and 35,400 deaths, and net migration added 48,100 people.",
+  "listed": true,
+  "updated": "2026-08-24",
+  "checked": "2026-11-13"
  },
  {
   "id": "population-county-map",
@@ -48,10 +60,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Population at Each Census (F1001)",
     "url": "https://data.cso.ie/table/F1001",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "At the 2022 census, 21 of the 26 counties had fewer people than in 1841.",
+  "listed": true,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
  },
  {
   "id": "population-total",
@@ -66,10 +84,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Population Estimates (Persons in April) (PEA01)",
     "url": "https://data.cso.ie/table/PEA01",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "PEA01",
+    "updated": "2026-08-24",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "An estimated 5.53 million people lived in the State in April 2026, up 17% on 2016.",
+  "listed": true,
+  "updated": "2026-08-24",
+  "checked": "2026-11-13"
  },
  {
   "id": "housing-completions",
@@ -84,10 +108,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "New Dwelling Completions (NDA01)",
     "url": "https://data.cso.ie/table/NDA01",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "NDA01",
+    "updated": "2026-10-29",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "36,215 new homes were completed in 2025, compared with 30,124 in 2024.",
+  "listed": true,
+  "updated": "2026-10-29",
+  "checked": "2026-11-13"
  },
  {
   "id": "housing-prices",
@@ -102,10 +132,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Residential Property Price Index (HPM09)",
     "url": "https://data.cso.ie/table/HPM09",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "HPM09",
+    "updated": "2026-10-13",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "In August 2026, house prices nationally were 110% above their 2015 average, before adjusting for inflation.",
+  "listed": true,
+  "updated": "2026-10-13",
+  "checked": "2026-11-13"
  },
  {
   "id": "housing-rents-map",
@@ -120,10 +156,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "RTB Average Monthly Rent Report (RIA02)",
     "url": "https://data.cso.ie/table/RIA02",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "In 2025, the average monthly rent on a new tenancy ranged from €977 in Donegal to €2,159 in Dublin.",
+  "listed": true,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
  },
  {
   "id": "cost-of-living-inflation",
@@ -138,10 +180,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Consumer Price Index (CPM20)",
     "url": "https://data.cso.ie/table/CPM20",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "CPM20",
+    "updated": "2026-11-11",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "Consumer prices were 4.3% higher in October 2026 than a year earlier.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-13"
  },
  {
   "id": "cost-of-living-price-change-by-group",
@@ -156,10 +204,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Consumer Price Index (CPM20)",
     "url": "https://data.cso.ie/table/CPM20",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "CPM20",
+    "updated": "2026-11-11",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "Over the five years to October 2026, prices rose most for housing and energy (+53.2%), compared with +24.0% for all items.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-13"
  },
  {
   "id": "economy-earnings",
@@ -174,16 +228,25 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Average Earnings, Hours Worked, Employment and Labour Costs (EHQ03)",
     "url": "https://data.cso.ie/table/EHQ03",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "EHQ03",
+    "updated": "2026-08-25",
+    "checked": "2026-11-13"
    },
    {
     "publisher": "Central Statistics Office (CSO)",
     "title": "Consumer Price Index (CPM20)",
     "url": "https://data.cso.ie/table/CPM20",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "CPM20",
+    "updated": "2026-11-11",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "Average weekly earnings were €1,047 in 2026 Q2, 3.9% higher than a year earlier, or 0.3% higher after adjusting for prices.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-13"
  },
  {
   "id": "economy-gdp-gni",
@@ -198,10 +261,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Modified Gross National Income at Current Market Prices (NA001)",
     "url": "https://data.cso.ie/table/NA001",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "NA001",
+    "updated": "2026-07-02",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "In 2025, GNI* was €334 billion, 55% of GDP.",
+  "listed": true,
+  "updated": "2026-07-02",
+  "checked": "2026-11-13"
  },
  {
   "id": "economy-unemployment",
@@ -216,10 +285,16 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Seasonally Adjusted Monthly Unemployment (MUM01)",
     "url": "https://data.cso.ie/table/MUM01",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "MUM01",
+    "updated": "2026-11-04",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "The unemployment rate was 4.8% in October 2026, seasonally adjusted.",
+  "listed": true,
+  "updated": "2026-11-04",
+  "checked": "2026-11-13"
  },
  {
   "id": "crime-thefts",
@@ -234,9 +309,1263 @@
     "publisher": "Central Statistics Office (CSO)",
     "title": "Recorded crime incidents (CJA01)",
     "url": "https://data.cso.ie/table/CJA01",
-    "licence": "CC BY 4.0"
+    "licence": "CC BY 4.0",
+    "code": "CJA01",
+    "updated": "2026-10-01",
+    "checked": "2026-11-13"
    }
   ],
-  "built": "2026-11-13"
+  "key_fact": "34,312 thefts from shops were recorded in 2025, compared with 15,692 in 2003.",
+  "listed": true,
+  "updated": "2026-10-01",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-carlow-population",
+  "topic": "counties",
+  "title": "Population of County Carlow at each census",
+  "subtitle": "Number of people counted in County Carlow at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-carlow-population.html",
+  "csv": "/charts/county-carlow-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-carlow-rent",
+  "topic": "counties",
+  "title": "Average rent in County Carlow",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-carlow-rent.html",
+  "csv": "/charts/county-carlow-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-cavan-population",
+  "topic": "counties",
+  "title": "Population of County Cavan at each census",
+  "subtitle": "Number of people counted in County Cavan at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-cavan-population.html",
+  "csv": "/charts/county-cavan-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-cavan-rent",
+  "topic": "counties",
+  "title": "Average rent in County Cavan",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-cavan-rent.html",
+  "csv": "/charts/county-cavan-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-clare-population",
+  "topic": "counties",
+  "title": "Population of County Clare at each census",
+  "subtitle": "Number of people counted in County Clare at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-clare-population.html",
+  "csv": "/charts/county-clare-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-clare-rent",
+  "topic": "counties",
+  "title": "Average rent in County Clare",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-clare-rent.html",
+  "csv": "/charts/county-clare-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-cork-population",
+  "topic": "counties",
+  "title": "Population of County Cork at each census",
+  "subtitle": "Number of people counted in County Cork at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-cork-population.html",
+  "csv": "/charts/county-cork-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-cork-rent",
+  "topic": "counties",
+  "title": "Average rent in County Cork",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-cork-rent.html",
+  "csv": "/charts/county-cork-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-donegal-population",
+  "topic": "counties",
+  "title": "Population of County Donegal at each census",
+  "subtitle": "Number of people counted in County Donegal at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-donegal-population.html",
+  "csv": "/charts/county-donegal-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-donegal-rent",
+  "topic": "counties",
+  "title": "Average rent in County Donegal",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-donegal-rent.html",
+  "csv": "/charts/county-donegal-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-dublin-population",
+  "topic": "counties",
+  "title": "Population of County Dublin at each census",
+  "subtitle": "Number of people counted in County Dublin at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-dublin-population.html",
+  "csv": "/charts/county-dublin-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-dublin-rent",
+  "topic": "counties",
+  "title": "Average rent in County Dublin",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-dublin-rent.html",
+  "csv": "/charts/county-dublin-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-galway-population",
+  "topic": "counties",
+  "title": "Population of County Galway at each census",
+  "subtitle": "Number of people counted in County Galway at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-galway-population.html",
+  "csv": "/charts/county-galway-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-galway-rent",
+  "topic": "counties",
+  "title": "Average rent in County Galway",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-galway-rent.html",
+  "csv": "/charts/county-galway-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-kerry-population",
+  "topic": "counties",
+  "title": "Population of County Kerry at each census",
+  "subtitle": "Number of people counted in County Kerry at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-kerry-population.html",
+  "csv": "/charts/county-kerry-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-kerry-rent",
+  "topic": "counties",
+  "title": "Average rent in County Kerry",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-kerry-rent.html",
+  "csv": "/charts/county-kerry-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-kildare-population",
+  "topic": "counties",
+  "title": "Population of County Kildare at each census",
+  "subtitle": "Number of people counted in County Kildare at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-kildare-population.html",
+  "csv": "/charts/county-kildare-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-kildare-rent",
+  "topic": "counties",
+  "title": "Average rent in County Kildare",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-kildare-rent.html",
+  "csv": "/charts/county-kildare-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-kilkenny-population",
+  "topic": "counties",
+  "title": "Population of County Kilkenny at each census",
+  "subtitle": "Number of people counted in County Kilkenny at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-kilkenny-population.html",
+  "csv": "/charts/county-kilkenny-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-kilkenny-rent",
+  "topic": "counties",
+  "title": "Average rent in County Kilkenny",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-kilkenny-rent.html",
+  "csv": "/charts/county-kilkenny-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-laois-population",
+  "topic": "counties",
+  "title": "Population of County Laois at each census",
+  "subtitle": "Number of people counted in County Laois at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-laois-population.html",
+  "csv": "/charts/county-laois-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-laois-rent",
+  "topic": "counties",
+  "title": "Average rent in County Laois",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-laois-rent.html",
+  "csv": "/charts/county-laois-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-leitrim-population",
+  "topic": "counties",
+  "title": "Population of County Leitrim at each census",
+  "subtitle": "Number of people counted in County Leitrim at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-leitrim-population.html",
+  "csv": "/charts/county-leitrim-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-leitrim-rent",
+  "topic": "counties",
+  "title": "Average rent in County Leitrim",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-leitrim-rent.html",
+  "csv": "/charts/county-leitrim-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-limerick-population",
+  "topic": "counties",
+  "title": "Population of County Limerick at each census",
+  "subtitle": "Number of people counted in County Limerick at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-limerick-population.html",
+  "csv": "/charts/county-limerick-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-limerick-rent",
+  "topic": "counties",
+  "title": "Average rent in County Limerick",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-limerick-rent.html",
+  "csv": "/charts/county-limerick-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-longford-population",
+  "topic": "counties",
+  "title": "Population of County Longford at each census",
+  "subtitle": "Number of people counted in County Longford at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-longford-population.html",
+  "csv": "/charts/county-longford-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-longford-rent",
+  "topic": "counties",
+  "title": "Average rent in County Longford",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-longford-rent.html",
+  "csv": "/charts/county-longford-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-louth-population",
+  "topic": "counties",
+  "title": "Population of County Louth at each census",
+  "subtitle": "Number of people counted in County Louth at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-louth-population.html",
+  "csv": "/charts/county-louth-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-louth-rent",
+  "topic": "counties",
+  "title": "Average rent in County Louth",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-louth-rent.html",
+  "csv": "/charts/county-louth-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-mayo-population",
+  "topic": "counties",
+  "title": "Population of County Mayo at each census",
+  "subtitle": "Number of people counted in County Mayo at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-mayo-population.html",
+  "csv": "/charts/county-mayo-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-mayo-rent",
+  "topic": "counties",
+  "title": "Average rent in County Mayo",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-mayo-rent.html",
+  "csv": "/charts/county-mayo-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-meath-population",
+  "topic": "counties",
+  "title": "Population of County Meath at each census",
+  "subtitle": "Number of people counted in County Meath at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-meath-population.html",
+  "csv": "/charts/county-meath-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-meath-rent",
+  "topic": "counties",
+  "title": "Average rent in County Meath",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-meath-rent.html",
+  "csv": "/charts/county-meath-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-monaghan-population",
+  "topic": "counties",
+  "title": "Population of County Monaghan at each census",
+  "subtitle": "Number of people counted in County Monaghan at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-monaghan-population.html",
+  "csv": "/charts/county-monaghan-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-monaghan-rent",
+  "topic": "counties",
+  "title": "Average rent in County Monaghan",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-monaghan-rent.html",
+  "csv": "/charts/county-monaghan-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-offaly-population",
+  "topic": "counties",
+  "title": "Population of County Offaly at each census",
+  "subtitle": "Number of people counted in County Offaly at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-offaly-population.html",
+  "csv": "/charts/county-offaly-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-offaly-rent",
+  "topic": "counties",
+  "title": "Average rent in County Offaly",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-offaly-rent.html",
+  "csv": "/charts/county-offaly-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-roscommon-population",
+  "topic": "counties",
+  "title": "Population of County Roscommon at each census",
+  "subtitle": "Number of people counted in County Roscommon at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-roscommon-population.html",
+  "csv": "/charts/county-roscommon-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-roscommon-rent",
+  "topic": "counties",
+  "title": "Average rent in County Roscommon",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-roscommon-rent.html",
+  "csv": "/charts/county-roscommon-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-sligo-population",
+  "topic": "counties",
+  "title": "Population of County Sligo at each census",
+  "subtitle": "Number of people counted in County Sligo at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-sligo-population.html",
+  "csv": "/charts/county-sligo-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-sligo-rent",
+  "topic": "counties",
+  "title": "Average rent in County Sligo",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-sligo-rent.html",
+  "csv": "/charts/county-sligo-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-tipperary-population",
+  "topic": "counties",
+  "title": "Population of County Tipperary at each census",
+  "subtitle": "Number of people counted in County Tipperary at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-tipperary-population.html",
+  "csv": "/charts/county-tipperary-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-tipperary-rent",
+  "topic": "counties",
+  "title": "Average rent in County Tipperary",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-tipperary-rent.html",
+  "csv": "/charts/county-tipperary-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-waterford-population",
+  "topic": "counties",
+  "title": "Population of County Waterford at each census",
+  "subtitle": "Number of people counted in County Waterford at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-waterford-population.html",
+  "csv": "/charts/county-waterford-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-waterford-rent",
+  "topic": "counties",
+  "title": "Average rent in County Waterford",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-waterford-rent.html",
+  "csv": "/charts/county-waterford-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-westmeath-population",
+  "topic": "counties",
+  "title": "Population of County Westmeath at each census",
+  "subtitle": "Number of people counted in County Westmeath at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-westmeath-population.html",
+  "csv": "/charts/county-westmeath-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-westmeath-rent",
+  "topic": "counties",
+  "title": "Average rent in County Westmeath",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-westmeath-rent.html",
+  "csv": "/charts/county-westmeath-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-wexford-population",
+  "topic": "counties",
+  "title": "Population of County Wexford at each census",
+  "subtitle": "Number of people counted in County Wexford at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-wexford-population.html",
+  "csv": "/charts/county-wexford-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-wexford-rent",
+  "topic": "counties",
+  "title": "Average rent in County Wexford",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-wexford-rent.html",
+  "csv": "/charts/county-wexford-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-wicklow-population",
+  "topic": "counties",
+  "title": "Population of County Wicklow at each census",
+  "subtitle": "Number of people counted in County Wicklow at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/county-wicklow-population.html",
+  "csv": "/charts/county-wicklow-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2023-06-29",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "county-wicklow-rent",
+  "topic": "counties",
+  "title": "Average rent in County Wicklow",
+  "subtitle": "Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025.",
+  "kind": "chart",
+  "page": "/charts/county-wicklow-rent.html",
+  "csv": "/charts/county-wicklow-rent.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "RTB Average Monthly Rent Report (RIA02)",
+    "url": "https://data.cso.ie/table/RIA02",
+    "licence": "CC BY 4.0",
+    "code": "RIA02",
+    "updated": "2026-05-14",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "",
+  "listed": false,
+  "updated": "2026-05-14",
+  "checked": "2026-11-13"
  }
 ]

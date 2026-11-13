@@ -16,10 +16,18 @@ listing:
 
 The Central Statistics Office, government departments and public bodies publish a great deal of data about Ireland, spread across many websites and often in tables that are hard to find and harder to read. Ireland by Numbers brings it together in one place. Every chart shows where its numbers come from, explains how they are measured, and lets you download the data behind it.
 
+## Chart of the week
+
+{{< chart-of-the-week >}}
+
+[Earlier charts of the week](chart-of-the-week.qmd)
+
 ## Topics
 
 :::{#topics}
 :::
+
+Every county also has its own page, with its population and rents. [See the county pages](counties/index.qmd).
 
 ## Topics on the way
 

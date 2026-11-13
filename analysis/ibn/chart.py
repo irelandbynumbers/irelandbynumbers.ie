@@ -45,6 +45,7 @@ def load_topics():
     with open(os.path.join(ROOT, "topics.yml"), encoding="utf-8") as f:
         for t in yaml.safe_load(f):
             TOPICS[t["path"].split("/")[0]] = t["title"]
+    TOPICS["counties"] = "Counties"   # county pages draw on several topics' data
     return TOPICS
 
 
@@ -55,11 +56,19 @@ class Source:
     url: str
     licence: str = CC_BY[0]
     licence_url: str = CC_BY[1]
+    code: str = ""          # the publisher's table code, for looking up its update dates
 
     @classmethod
     def cso(cls, code, title):
         from .cso import table_url
-        return cls("Central Statistics Office (CSO)", f"{title} ({code})", table_url(code))
+        return cls("Central Statistics Office (CSO)", f"{title} ({code})", table_url(code), code=code)
+
+    def dates(self):
+        """{"updated": when the publisher last updated the table, "checked": when it was last fetched}."""
+        if self.code and self.publisher.startswith("Central Statistics Office"):
+            from .cso import dates
+            return dates(self.code)
+        return {}
 
     def html(self):
         lic = f'<a href="{self.licence_url}">{html.escape(self.licence)}</a>' if self.licence_url else html.escape(self.licence)
@@ -82,6 +91,9 @@ class Chart:
     notes: list = field(default_factory=list)   # short paragraphs (may hold simple HTML)
     height: int = 460       # plot height in pixels
     kind: str = "chart"     # "chart" or "map"
+    key_fact: str = ""      # one plain sentence on what the chart shows, worked out from `data`,
+                            # shown in the key facts at the top of the topic page
+    listed: bool = True     # False keeps it off the All charts page and topic key facts (county pages)
 
     def write(self):
         assert self.topic in TOPICS, f"{self.id}: unknown topic {self.topic!r} (see topics.yml)"
@@ -91,13 +103,22 @@ class Chart:
         self.data.to_csv(os.path.join(CHARTS, f"{self.id}.csv"), index=False)
         with open(os.path.join(CHARTS, f"{self.id}.html"), "w", encoding="utf-8") as f:
             f.write(self._page(lib))
+        updated, checked = self._dates()
         _REGISTRY.append(dict(
             id=self.id, topic=self.topic, title=self.title, subtitle=self.subtitle, kind=self.kind,
             page=f"/charts/{self.id}.html", csv=f"/charts/{self.id}.csv",
-            sources=[dict(publisher=s.publisher, title=s.title, url=s.url, licence=s.licence) for s in self.sources],
-            built=date.today().isoformat(),
+            sources=[dict(publisher=s.publisher, title=s.title, url=s.url, licence=s.licence,
+                          code=s.code, **s.dates()) for s in self.sources],
+            key_fact=self.key_fact, listed=self.listed, updated=updated, checked=checked,
         ))
         print("wrote", f"charts/{self.id}.html", "and .csv")
+
+    def _dates(self):
+        """The latest update date across the chart's sources, and the date they were last checked."""
+        ds = [s.dates() for s in self.sources]
+        updated = max((d["updated"] for d in ds if d.get("updated")), default="")
+        checked = min((d["checked"] for d in ds if d.get("checked")), default="")
+        return updated, checked
 
     def _page(self, lib):
         fig = self.figure.to_plotly_json()
@@ -110,13 +131,28 @@ class Chart:
         title = html.escape(self.title)
         sub = html.escape(self.subtitle)
         fig_json = plotly.io.to_json(fig, validate=False).replace("</", "<\\/")
+        updated, checked = self._dates()
+        dates = []
+        if updated:
+            dates.append(f"Source last updated {_long_date(updated)}.")
+        if checked:
+            dates.append(f"Checked for new figures {_long_date(checked)}.")
+        tables = "".join(f'<a href="{html.escape(s.url)}">Original table{" (" + html.escape(s.code) + ")" if s.code and len(self.sources) > 1 else ""}</a>'
+                         for s in self.sources)
         return TEMPLATE.format(
+            source_names=html.escape(", ".join(dict.fromkeys(s.publisher for s in self.sources))),
+            dates=(f'<p class="dates">{" ".join(dates)}</p>' if dates else ""), tables=tables,
             title=title, sub=sub, id=self.id, site=SITE, lib=lib, height=self.height,
             topic=self.topic, topic_name=html.escape(topic_name), sources=sources,
             notes_block=(f'<details class="notes"><summary>About this data</summary>{notes}</details>' if notes else ""),
             fig=fig_json, meta=json.dumps(meta).replace("</", "<\\/"),
             font=style.FONT.replace('"', "'"), ink=style.INK, ink2=style.INK_2, ink3=style.INK_3, grid=style.GRID,
         )
+
+
+def _long_date(iso):
+    d = date.fromisoformat(iso)
+    return f"{d.day} {d.strftime('%B %Y')}"
 
 
 def write_index():
@@ -138,7 +174,7 @@ def write_index():
         f.write("\n")
     lines = []
     for slug in order:
-        group = [c for c in charts if c["topic"] == slug]
+        group = [c for c in charts if c["topic"] == slug and c.get("listed", True)]
         if not group:
             continue
         lines.append(f"\n## [{TOPICS[slug]}](/{slug}/)\n")
@@ -147,7 +183,28 @@ def write_index():
             lines.append(f"- [{c['title']}]({c['page']}). {c['subtitle']} *{src}.* [CSV]({c['csv']})")
     with open(os.path.join(ROOT, "_all-charts.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(lines).strip() + "\n")
+    _write_data_updates(charts)
     print(f"wrote charts/index.json ({len(charts)} charts)")
+
+
+def _write_data_updates(charts):
+    """_data-updates.md, the table on the What's new page of every source table
+    used, when its publisher last updated it, and when it was last checked."""
+    tables = {}
+    for c in charts:
+        for s in c["sources"]:
+            t = tables.setdefault(s["url"], dict(s, charts=[]))
+            if c.get("listed", True):
+                t["charts"].append(c)
+    rows = sorted(tables.values(), key=lambda t: (t.get("updated", ""), t["title"]), reverse=True)
+    lines = ["| Source table | Last updated by the publisher | Checked | Charts |", "|---|---|---|---|"]
+    for t in rows:
+        used = ", ".join(f"[{c['title']}]({c['page']})" for c in t["charts"]) or "County pages"
+        lines.append(f"| {t['publisher']}, [{t['title']}]({t['url']}) | {_long_date(t['updated']) if t.get('updated') else ''} "
+                     f"| {_long_date(t['checked']) if t.get('checked') else ''} | {used} |")
+    with open(os.path.join(ROOT, "_data-updates.md"), "w", encoding="utf-8") as f:
+        f.write("<!-- Generated by analysis/build.py from analysis/data/cso/_dates.json. -->\n\n"
+                + "\n".join(lines) + "\n")
 
 
 def _plotly_lib():
@@ -172,9 +229,16 @@ TEMPLATE = """<!doctype html>
 <title>{title} | Ireland by Numbers</title>
 <meta name="description" content="{sub}">
 <link rel="canonical" href="{site}/charts/{id}.html">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{site}/charts/{id}.html">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{sub}">
 <meta property="og:site_name" content="Ireland by Numbers">
+<meta property="og:image" content="{site}/images/social/{id}.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Chart. {title}">
+<meta name="twitter:card" content="summary_large_image">
 <style>
   *, *::before, *::after {{ box-sizing: border-box; }}
   html, body {{ margin: 0; background: #fff; }}
@@ -210,6 +274,17 @@ TEMPLATE = """<!doctype html>
   th, td {{ padding: 4px 8px; border-bottom: 1px solid {grid}; text-align: left; }}
   td.num, th.num {{ text-align: right; }}
   thead th {{ position: sticky; top: 0; background: #f3f2ee; color: {ink}; }}
+  .dates {{ color: {ink3}; }}
+  .copied {{ color: {ink3}; font-size: 13px; align-self: center; }}
+  /* ?card: the chart alone at 1200x630, for the preview image social media shows with a link. */
+  .is-card .site, .is-card footer {{ display: none !important; }}
+  .is-card main {{ max-width: none; padding: 36px 48px 0; }}
+  .is-card h1 {{ font-size: 2rem; }}
+  .is-card .sub {{ font-size: 1.1rem; margin-bottom: 12px; }}
+  .is-card .brand-card {{ display: flex; }}
+  .brand-card {{ display: none; position: fixed; left: 48px; right: 48px; bottom: 18px; justify-content: space-between;
+    font-size: 15px; color: {ink3}; }}
+  .brand-card b {{ color: {ink}; }}
 </style>
 <script src="{lib}"></script>
 </head>
@@ -222,13 +297,17 @@ TEMPLATE = """<!doctype html>
   <div class="table-wrap" hidden><table><caption>{title}</caption><thead></thead><tbody></tbody></table></div>
   <footer>
     <p>Data from {sources}.</p>
+    {dates}
     {notes_block}
     <div class="actions">
       <button type="button" id="table" aria-expanded="false">Show table</button>
       <button type="button" id="png">Download PNG</button>
       <a href="{id}.csv" download>Download data (CSV)</a>
+      {tables}
       <button type="button" id="embed">Embed</button>
+      <button type="button" id="share">Share link</button>
       <a class="only-embedded" href="{id}.html" target="_top">Open chart page</a>
+      <span class="copied" role="status" aria-live="polite"></span>
     </div>
     <div class="embed" hidden>
       <p>Copy this code to show the chart on your own site.</p>
@@ -237,6 +316,7 @@ TEMPLATE = """<!doctype html>
     <p class="credit"><a href="/">Ireland by Numbers</a> · Chart licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, free to reuse with credit to Ireland by Numbers and the source above.</p>
   </footer>
 </main>
+<div class="brand-card" aria-hidden="true"><span><b>Ireland by Numbers</b> · irelandbynumbers.ie</span><span>Data from {source_names}</span></div>
 <script>
 const FIG = {fig};
 const META = {meta};
@@ -244,7 +324,14 @@ const CONFIG = {{displayModeBar: false, responsive: true, scrollZoom: false,
   topojsonURL: new URL("lib/topojson/", location.href).href}};
 const top_ = window.self === window.top;
 if (top_) document.documentElement.classList.add("is-top");
+const card = new URLSearchParams(location.search).has("card");
+if (card) {{
+  document.documentElement.classList.add("is-card");
+  const sub = document.querySelector(".sub");
+  sub.textContent = sub.textContent.replace(/ Use the slider.*$/, "");
+}}
 const gd = document.getElementById("plot");
+if (card) gd.style.height = (630 - gd.getBoundingClientRect().top - 52) + "px";
 Plotly.newPlot(gd, FIG.data, FIG.layout, CONFIG).then(() => {{
   if (FIG.frames && FIG.frames.length) Plotly.addFrames(gd, FIG.frames);
 }});
@@ -317,6 +404,19 @@ function parseCSV(t) {{
   rows[rows.length - 1].push(f);
   return rows;
 }}
+
+// Share: the phone's share sheet where there is one, otherwise copy the link.
+document.getElementById("share").addEventListener("click", async () => {{
+  const url = "{site}/charts/" + META.id + ".html";
+  const status = document.querySelector(".copied");
+  if (navigator.share) {{
+    try {{ await navigator.share({{title: META.title, text: META.subtitle, url}}); }} catch (e) {{}}
+    return;
+  }}
+  try {{ await navigator.clipboard.writeText(url); status.textContent = "Link copied"; }}
+  catch (e) {{ status.textContent = url; }}
+  setTimeout(() => {{ status.textContent = ""; }}, 4000);
+}});
 
 // Embed code, pointing at this chart's page.
 document.getElementById("embed").addEventListener("click", () => {{
