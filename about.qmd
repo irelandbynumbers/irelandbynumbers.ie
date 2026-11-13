@@ -2,12 +2,30 @@
 title: "About"
 ---
 
-Ireland by Numbers takes official Irish statistics and makes them readable: a chart or map, a few sentences on what it shows, and the data and code behind each one.
+Ireland by Numbers is a free website that brings together official statistics about Ireland and presents them as clear, interactive charts and maps. It is a non-partisan, non-profit project, independent of government and of any political party, and its aim is to make the facts about Ireland easier to find and understand.
 
-My name is [Maedbh King](https://www.maedbhking.com/home). Ireland by Numbers is independent of my employer and is done in my own time. I also run [Fianaise](https://fianaise.ie), on evidence about Irish public life.
+## Who built it
 
-## Corrections
+Ireland by Numbers was built by [Maedbh King](https://www.maedbhking.com/home), with Claude Code helping to develop the charting tools and data updates. It is done in her own time and is independent of her employer. The idea comes from [UK by Numbers](https://ukbynumbers.org) by Hannah Ritchie, which does the same for the UK, and the site owes its approach to that project.
 
-If you spot a mistake, please [open an issue on GitHub](https://github.com/irelandbynumbers/irelandbynumbers.ie/issues/new/choose) (there is a form for corrections). Corrections are made in the open, and the change history of every page is public on GitHub.
+## Funding
 
-Text and figures are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): reuse them freely, with credit to Ireland by Numbers. Code is MIT licensed. The underlying data belongs to its publishers and keeps their licences (see [Data & code](data.qmd)).
+The project has no funding.
+
+## Updates
+
+Charts are updated when their sources publish new figures, and new topics are added over time.
+
+<!-- Newsletter: add the Substack link here when it launches. -->
+
+## Reusing the charts
+
+Every chart has its own page, and can be downloaded as a PNG or embedded on another website. Charts are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), so they can be reused for any purpose with credit to Ireland by Numbers and to the original source.
+
+## Reusing the data
+
+The data behind every chart can be downloaded as a CSV. Each chart names its source, with notes on definitions and changes in method. When reusing the data, please cite the original source and check its licence. More on the sources is on the [Data and code](data.qmd) page.
+
+## Contact {#corrections}
+
+Corrections, suggestions and contributions are welcome by email to [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me), or as an [issue on GitHub](https://github.com/irelandbynumbers/irelandbynumbers.ie/issues/new/choose). Corrections are made in the open, and the change history of every page is public.

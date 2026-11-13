@@ -1,0 +1,10 @@
+<script>
+// Fit each chart frame to its chart: the chart page posts its height.
+window.addEventListener("message", (e) => {
+  const d = e.data;
+  if (!d || typeof d.ibnChart !== "string" || typeof d.height !== "number") return;
+  document.querySelectorAll('iframe[data-chart="' + CSS.escape(d.ibnChart) + '"]').forEach((f) => {
+    if (f.contentWindow === e.source) f.style.height = Math.ceil(d.height) + "px";
+  });
+});
+</script>

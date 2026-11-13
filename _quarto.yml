@@ -3,30 +3,50 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    - "*/index.qmd"
   resources:
     - CNAME
-    - figures/**
+    - charts/**
 
 website:
   title: "Ireland by Numbers"
-  description: "Irish statistics, from open data."
+  description: "Official Irish statistics in clear, interactive charts and maps."
   site-url: "https://irelandbynumbers.ie"
   repo-url: https://github.com/irelandbynumbers/irelandbynumbers.ie
+  search: true
   navbar:
     left:
+      - text: Topics
+        menu:
+          - href: population/index.qmd
+            text: Population
+          - href: housing/index.qmd
+            text: Housing
+          - href: cost-of-living/index.qmd
+            text: Cost of living
+          - href: economy/index.qmd
+            text: Economy and work
+          - href: education/index.qmd
+            text: Education
+      - href: charts.qmd
+        text: All charts
       - href: data.qmd
-        text: Data & code
+        text: Data and code
       - href: about.qmd
         text: About
     right:
+      - icon: envelope
+        href: mailto:irelandbynumbers@proton.me
+        aria-label: Email
       - icon: github
         href: https://github.com/irelandbynumbers/irelandbynumbers.ie
         aria-label: GitHub
   page-footer:
-    center: "Ireland by Numbers: Irish statistics, from open data · Text and figures CC BY 4.0, code MIT · [Corrections](/about.qmd#corrections)"
+    center: "Ireland by Numbers is independent and non-partisan · Charts CC BY 4.0, code MIT · [Contact](mailto:irelandbynumbers@proton.me)"
 
 format:
   html:
     theme: cosmo
     toc: false
     css: styles.css
+    include-after-body: _includes/chart-frames.html

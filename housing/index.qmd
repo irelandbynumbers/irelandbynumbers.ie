@@ -1,0 +1,8 @@
+---
+title: "Housing"
+description: "How many homes are built, and what they cost to buy and to rent."
+---
+
+The charts below show how many new homes are completed each year, how house prices and rents have moved, and how that varies across the country.
+
+<!-- Charts: built by analysis/housing/make_charts.py -->

@@ -1,11 +1,23 @@
 ---
-title: "Data & code"
+title: "Data and code"
 ---
 
-Every figure on Ireland by Numbers is built from public data by code in the [irelandbynumbers.ie repository](https://github.com/irelandbynumbers/irelandbynumbers.ie). The data belongs to its publishers and keeps their licences.
+Every chart on Ireland by Numbers is built from published official data by code in the [irelandbynumbers.ie repository](https://github.com/irelandbynumbers/irelandbynumbers.ie). Each chart names its source and links to the original table, and the data behind it can be downloaded as a CSV from the chart's page. The [All charts](charts.qmd) page lists every chart with its source.
 
-Each dataset is listed here, with its publisher, the pages that use it and when it was pulled, as projects are added.
+## Sources
 
-## Code
+Most charts use tables from the [Central Statistics Office](https://data.cso.ie) (CSO), which publishes its statistics under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) licence. Other charts use data from government departments and public bodies, mostly through [gov.ie](https://www.gov.ie) and the national open data portal [data.gov.ie](https://data.gov.ie). The data belongs to its publishers and keeps their licences, and each chart states the licence of its source.
 
-- [`analysis/`](https://github.com/irelandbynumbers/irelandbynumbers.ie/tree/main/analysis): one folder per project, with the scripts that fetch the data and draw its figures.
+Where the CSO and a department both publish a figure, the chart uses whichever is the primary publisher of that measure, and says so.
+
+## Licence
+
+Charts and text on this site are licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), the same licence the CSO and data.gov.ie use for their data. Anyone can reuse, adapt and republish them, including commercially, as long as they credit Ireland by Numbers and the original source. Code is MIT licensed.
+
+## How the charts are built
+
+- [`analysis/`](https://github.com/irelandbynumbers/irelandbynumbers.ie/tree/main/analysis) holds one folder per topic, with the script that draws its charts, and `analysis/data/` keeps a copy of every table used, so each change to the data is visible in the repository history.
+- `python3 analysis/build.py --refresh` fetches the latest release of each table and rebuilds every chart.
+- [`tools/cso_find.py`](https://github.com/irelandbynumbers/irelandbynumbers.ie/blob/main/tools/cso_find.py) searches the CSO's catalogue of tables by keyword.
+
+Suggestions for datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me), or as an [issue on GitHub](https://github.com/irelandbynumbers/irelandbynumbers.ie/issues/new/choose).

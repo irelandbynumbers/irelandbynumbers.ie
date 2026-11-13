@@ -1,0 +1,17 @@
+# The topics with pages on the site. The homepage lists them in this order,
+# and every chart names one of these as its topic (by the folder in `path`).
+- title: Population
+  path: /population/
+  description: How many people live in Ireland, where, and how that is changing.
+- title: Housing
+  path: /housing/
+  description: How many homes are built, what they cost to buy and rent.
+- title: Cost of living
+  path: /cost-of-living/
+  description: Prices, inflation and what households spend.
+- title: Economy and work
+  path: /economy/
+  description: Output, jobs, earnings and the public finances.
+- title: Education
+  path: /education/
+  description: Schools, pupils and who runs them.

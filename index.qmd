@@ -1,10 +1,25 @@
 ---
 title: "Ireland by Numbers"
-subtitle: "Irish statistics, from open data"
+subtitle: "Official Irish statistics in clear, interactive charts and maps"
+listing:
+  id: topics
+  contents: topics.yml
+  type: grid
+  grid-columns: 3
+  fields: [title, description]
+  sort: false
+  image-placeholder: ""
 ---
 
-Ireland by Numbers is an independent project that turns Ireland's open data into charts, maps and short analysis. The Central Statistics Office, government departments and public bodies publish a great deal of data, but most of it sits in tables that few people have time to dig through. Each page here takes one question, answers it with the published numbers, and links to the data and code behind every figure, so anyone can check it and reuse it.
+The Central Statistics Office, government departments and public bodies publish a great deal of data about Ireland, spread across many websites and often in tables that are hard to find and harder to read. Ireland by Numbers brings it together in one place. Every chart shows where its numbers come from, explains how they are measured, and lets you download the data behind it.
 
-## Projects
+## Topics
 
-The first projects are on the way.
+::: {#topics}
+:::
+
+## Topics on the way
+
+Health and the HSE, causes of death, childhood, crime and prisons, energy, environment and climate, green spaces, infrastructure and transport, agriculture and food, defence, the Irish language, migration and the diaspora, public finances, and architecture and heritage.
+
+Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).

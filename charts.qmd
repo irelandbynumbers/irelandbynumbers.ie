@@ -1,0 +1,8 @@
+---
+title: "All charts"
+description: "Every chart on Ireland by Numbers, by topic, with its source and data."
+---
+
+Each chart links to its own page, where it can be downloaded as a PNG, embedded, or shown as a table. The CSV link downloads the data behind it.
+
+{{< include _all-charts.md >}}
