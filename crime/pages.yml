@@ -1,0 +1,6 @@
+# Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
+# thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Theft and car crime"
+  path: theft.qmd
+  image: ../images/topic-crime.svg
+  description: "Recorded thefts by type, including theft from shops, from cars and of vehicles, and burglary."

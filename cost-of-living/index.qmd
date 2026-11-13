@@ -1,0 +1,19 @@
+---
+title: "Cost of living"
+description: "How consumer prices have changed, and which costs have risen most."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+These pages show how consumer prices have changed over time and which goods and services have risen most.
+
+:::{#pages}
+:::

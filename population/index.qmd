@@ -1,0 +1,19 @@
+---
+title: "Population"
+description: "How many people live in Ireland, where they live, and how that is changing."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+Ireland's population is counted in a census every five or six years, and the Central Statistics Office estimates it every April in between. These pages show how the population has grown, what drives the change, how it differs across the country, and how its age profile is shifting.
+
+:::{#pages}
+:::

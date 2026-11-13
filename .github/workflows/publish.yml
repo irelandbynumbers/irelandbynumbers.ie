@@ -1,6 +1,8 @@
 on:
   push:
     branches: main
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday morning, pick up new releases
   workflow_dispatch:
 
 name: Publish site
@@ -13,6 +15,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # On the weekly run (or a manual one), fetch the latest data, rebuild the
+      # charts, and commit any change so the data history stays in the repository.
+      - if: github.event_name != 'push'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - if: github.event_name != 'push'
+        name: Refresh data and charts
+        run: |
+          pip install -r analysis/requirements.txt
+          python3 analysis/build.py --refresh
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add analysis/data charts _all-charts.md
+          git diff --cached --quiet || (git commit -m "Update data from source publishers" && git push)
+
       - uses: quarto-dev/quarto-actions/setup@v2
       - uses: quarto-dev/quarto-actions/publish@v2
         with:

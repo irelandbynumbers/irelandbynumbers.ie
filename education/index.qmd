@@ -1,0 +1,19 @@
+---
+title: "Education"
+description: "Schools, pupils and who runs them."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+These pages cover Ireland's schools, the pupils in them, and who runs them.
+
+:::{#pages}
+:::

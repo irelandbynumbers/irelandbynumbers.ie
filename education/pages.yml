@@ -1,0 +1,6 @@
+# Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
+# thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Who runs primary schools"
+  path: patronage.qmd
+  image: ../images/education-patronage.png
+  description: "Almost nine in ten primary schools have a Catholic patron. Every school mapped by patronage."

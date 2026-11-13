@@ -1,0 +1,19 @@
+---
+title: "Economy and work"
+description: "Jobs, unemployment, earnings and the size of the economy."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+These pages show how many people are in work, the unemployment rate, earnings, and the size of the economy. Ireland's GDP is distorted by the accounts of large multinational companies, so the CSO also publishes modified gross national income (GNI\*), a measure of the domestic economy, which is shown alongside it.
+
+:::{#pages}
+:::

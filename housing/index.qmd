@@ -1,0 +1,19 @@
+---
+title: "Housing"
+description: "How many new homes are built, and what homes cost to buy and to rent."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+These pages show how many new homes are completed each year, how house prices and rents have moved, and how they vary across the country.
+
+:::{#pages}
+:::

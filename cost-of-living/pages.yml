@@ -1,0 +1,10 @@
+# Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
+# thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Inflation"
+  path: inflation.qmd
+  image: ../images/topic-cost-of-living.svg
+  description: "How fast consumer prices are rising, month by month."
+- title: "Prices by category"
+  path: prices-by-category.qmd
+  image: ../images/topic-cost-of-living.svg
+  description: "Which goods and services have risen most, from energy to food to rent."

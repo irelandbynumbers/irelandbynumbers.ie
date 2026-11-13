@@ -1,0 +1,14 @@
+# Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
+# thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Building new homes"
+  path: new-homes.qmd
+  image: ../images/topic-housing.svg
+  description: "How many new homes are completed each year, and of what type."
+- title: "House prices"
+  path: prices.qmd
+  image: ../images/topic-housing.svg
+  description: "How the price of homes has moved, nationally and by area."
+- title: "Rents"
+  path: rents.qmd
+  image: ../images/topic-housing.svg
+  description: "How rents have changed for new tenancies."

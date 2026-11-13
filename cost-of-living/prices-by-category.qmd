@@ -1,0 +1,6 @@
+---
+title: "Prices by category"
+description: "Which goods and services have risen most, from energy to food to rent."
+---
+
+<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->

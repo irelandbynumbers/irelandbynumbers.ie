@@ -1,0 +1,6 @@
+---
+title: "Earnings"
+description: "Average weekly earnings, and how they compare with prices."
+---
+
+<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
