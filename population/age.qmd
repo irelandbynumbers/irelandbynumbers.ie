@@ -3,4 +3,6 @@ title: "An ageing population"
 description: "How the age profile of the population is changing, and how many people are over 65."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+The share of the population aged 65 and over has risen from about 11% in 1950 to 16% in 2026, while the share of children under 15 has fallen from about 29% to 18%.
+
+{{< chart population-ageing >}}

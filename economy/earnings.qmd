@@ -3,4 +3,6 @@ title: "Earnings"
 description: "Average weekly earnings, and how they compare with prices."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Average weekly earnings were about €1,047 in the second quarter of 2026. The chart shows earnings both in cash terms and adjusted for changes in consumer prices, which shows how much they would buy at today's prices.
+
+{{< chart economy-earnings >}}

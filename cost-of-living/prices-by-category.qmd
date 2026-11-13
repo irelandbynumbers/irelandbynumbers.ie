@@ -3,4 +3,6 @@ title: "Prices by category"
 description: "Which goods and services have risen most, from energy to food to rent."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Prices have not risen evenly across everything households buy. The chart compares the change in prices for each main group of spending over the past five years with the overall rate.
+
+{{< chart cost-of-living-price-change-by-group >}}

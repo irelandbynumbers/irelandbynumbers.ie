@@ -1,6 +1,10 @@
 ---
 title: "Theft and car crime"
-description: "Recorded thefts by type, including theft from shops, from cars and of vehicles, and burglary."
+description: "Recorded thefts by type, including theft from shops, theft of vehicles and burglary."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Recorded burglaries have fallen by more than two thirds since the mid-2000s, and thefts of vehicles have roughly halved. Recorded thefts from shops have more than doubled over the same period, to over 34,000 in 2025.
+
+{{< chart crime-thefts >}}
+
+The CSO publishes recorded crime figures as statistics under reservation, because the quality of the underlying Garda data does not yet fully meet its standards for official statistics. The figures count crimes reported to or found by the Gardaí, so they can change with reporting and recording practice as well as with the level of crime.

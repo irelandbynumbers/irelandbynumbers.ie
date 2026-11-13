@@ -3,4 +3,6 @@ title: "The size of the economy"
 description: "GDP and modified gross national income (GNI*), and why they differ."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Gross domestic product (GDP) is the usual measure of the size of an economy. In Ireland it is strongly affected by the activities of large multinational companies, so the CSO also publishes modified gross national income (GNI\*), which gives a better picture of the domestic economy. In 2025, GNI\* was €334 billion, a little over half of GDP.
+
+{{< chart economy-gdp-gni >}}

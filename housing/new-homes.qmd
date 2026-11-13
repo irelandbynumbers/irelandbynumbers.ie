@@ -3,4 +3,6 @@ title: "Building new homes"
 description: "How many new homes are completed each year, and of what type."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Fewer than 5,000 new homes were completed in 2013, a few years after the property crash. The number has risen in most years since. In 2025, 36,215 new homes were completed.
+
+{{< chart housing-completions >}}

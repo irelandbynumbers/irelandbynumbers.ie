@@ -3,4 +3,6 @@ title: "House prices"
 description: "How the price of homes has moved, nationally and by area."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+House prices rose quickly until 2007, then fell by more than half to their low point in early 2013. They have risen in most months since then, and in August 2026 the national index was about double its 2015 level. Prices outside Dublin have risen faster than in Dublin since 2015.
+
+{{< chart housing-prices >}}

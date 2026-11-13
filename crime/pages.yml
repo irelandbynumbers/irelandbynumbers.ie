@@ -2,5 +2,5 @@
 # thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
 - title: "Theft and car crime"
   path: theft.qmd
-  image: ../images/topic-crime.svg
-  description: "Recorded thefts by type, including theft from shops, from cars and of vehicles, and burglary."
+  image: ../images/charts/crime-thefts.png
+  description: "Recorded thefts by type, including theft from shops, theft of vehicles and burglary."

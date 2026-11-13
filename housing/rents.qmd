@@ -3,4 +3,6 @@ title: "Rents"
 description: "How rents have changed for new tenancies."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Rents on new tenancies have risen in every county. In 2025 the average monthly rent on a new tenancy ranged from under €1,000 in Donegal and Leitrim to over €2,100 in Dublin.
+
+{{< chart housing-rents-map >}}

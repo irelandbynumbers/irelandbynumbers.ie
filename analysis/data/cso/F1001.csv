@@ -1,0 +1,2107 @@
+STATISTIC,Statistic Label,TLIST(A1),CensusYear,C02779V03348,County,C02199V02655,Sex,UNIT,VALUE
+F1001C01,Population at Each Census,1841,1841,-,State,-,Both sexes,Number,6528799
+F1001C01,Population at Each Census,1841,1841,-,State,1,Male,Number,3222485
+F1001C01,Population at Each Census,1841,1841,-,State,2,Female,Number,3306314
+F1001C01,Population at Each Census,1841,1841,01,Carlow,-,Both sexes,Number,86228
+F1001C01,Population at Each Census,1841,1841,01,Carlow,1,Male,Number,42428
+F1001C01,Population at Each Census,1841,1841,01,Carlow,2,Female,Number,43800
+F1001C01,Population at Each Census,1841,1841,02,Dublin,-,Both sexes,Number,372773
+F1001C01,Population at Each Census,1841,1841,02,Dublin,1,Male,Number,170930
+F1001C01,Population at Each Census,1841,1841,02,Dublin,2,Female,Number,201843
+F1001C01,Population at Each Census,1841,1841,03,Kildare,-,Both sexes,Number,114488
+F1001C01,Population at Each Census,1841,1841,03,Kildare,1,Male,Number,58030
+F1001C01,Population at Each Census,1841,1841,03,Kildare,2,Female,Number,56458
+F1001C01,Population at Each Census,1841,1841,04,Kilkenny,-,Both sexes,Number,202420
+F1001C01,Population at Each Census,1841,1841,04,Kilkenny,1,Male,Number,99114
+F1001C01,Population at Each Census,1841,1841,04,Kilkenny,2,Female,Number,103306
+F1001C01,Population at Each Census,1841,1841,05,Laois,-,Both sexes,Number,153930
+F1001C01,Population at Each Census,1841,1841,05,Laois,1,Male,Number,76403
+F1001C01,Population at Each Census,1841,1841,05,Laois,2,Female,Number,77527
+F1001C01,Population at Each Census,1841,1841,06,Longford,-,Both sexes,Number,115491
+F1001C01,Population at Each Census,1841,1841,06,Longford,1,Male,Number,57610
+F1001C01,Population at Each Census,1841,1841,06,Longford,2,Female,Number,57881
+F1001C01,Population at Each Census,1841,1841,07,Louth,-,Both sexes,Number,128240
+F1001C01,Population at Each Census,1841,1841,07,Louth,1,Male,Number,62297
+F1001C01,Population at Each Census,1841,1841,07,Louth,2,Female,Number,65943
+F1001C01,Population at Each Census,1841,1841,08,Meath,-,Both sexes,Number,183828
+F1001C01,Population at Each Census,1841,1841,08,Meath,1,Male,Number,92494
+F1001C01,Population at Each Census,1841,1841,08,Meath,2,Female,Number,91334
+F1001C01,Population at Each Census,1841,1841,09,Offaly,-,Both sexes,Number,146857
+F1001C01,Population at Each Census,1841,1841,09,Offaly,1,Male,Number,72651
+F1001C01,Population at Each Census,1841,1841,09,Offaly,2,Female,Number,74206
+F1001C01,Population at Each Census,1841,1841,10,Westmeath,-,Both sexes,Number,141300
+F1001C01,Population at Each Census,1841,1841,10,Westmeath,1,Male,Number,70383
+F1001C01,Population at Each Census,1841,1841,10,Westmeath,2,Female,Number,70917
+F1001C01,Population at Each Census,1841,1841,11,Wexford,-,Both sexes,Number,202033
+F1001C01,Population at Each Census,1841,1841,11,Wexford,1,Male,Number,97918
+F1001C01,Population at Each Census,1841,1841,11,Wexford,2,Female,Number,104115
+F1001C01,Population at Each Census,1841,1841,12,Wicklow,-,Both sexes,Number,126143
+F1001C01,Population at Each Census,1841,1841,12,Wicklow,1,Male,Number,63489
+F1001C01,Population at Each Census,1841,1841,12,Wicklow,2,Female,Number,62654
+F1001C01,Population at Each Census,1841,1841,13,Clare,-,Both sexes,Number,286394
+F1001C01,Population at Each Census,1841,1841,13,Clare,1,Male,Number,144109
+F1001C01,Population at Each Census,1841,1841,13,Clare,2,Female,Number,142285
+F1001C01,Population at Each Census,1841,1841,14,Cork,-,Both sexes,Number,854118
+F1001C01,Population at Each Census,1841,1841,14,Cork,1,Male,Number,420551
+F1001C01,Population at Each Census,1841,1841,14,Cork,2,Female,Number,433567
+F1001C01,Population at Each Census,1841,1841,15,Kerry,-,Both sexes,Number,293880
+F1001C01,Population at Each Census,1841,1841,15,Kerry,1,Male,Number,147307
+F1001C01,Population at Each Census,1841,1841,15,Kerry,2,Female,Number,146573
+F1001C01,Population at Each Census,1841,1841,16,Limerick,-,Both sexes,Number,330029
+F1001C01,Population at Each Census,1841,1841,16,Limerick,1,Male,Number,161997
+F1001C01,Population at Each Census,1841,1841,16,Limerick,2,Female,Number,168032
+F1001C01,Population at Each Census,1841,1841,17,Tipperary,-,Both sexes,Number,435553
+F1001C01,Population at Each Census,1841,1841,17,Tipperary,1,Male,Number,216650
+F1001C01,Population at Each Census,1841,1841,17,Tipperary,2,Female,Number,218903
+F1001C01,Population at Each Census,1841,1841,18,Waterford,-,Both sexes,Number,196187
+F1001C01,Population at Each Census,1841,1841,18,Waterford,1,Male,Number,95576
+F1001C01,Population at Each Census,1841,1841,18,Waterford,2,Female,Number,100611
+F1001C01,Population at Each Census,1841,1841,19,Galway,-,Both sexes,Number,440198
+F1001C01,Population at Each Census,1841,1841,19,Galway,1,Male,Number,219564
+F1001C01,Population at Each Census,1841,1841,19,Galway,2,Female,Number,220634
+F1001C01,Population at Each Census,1841,1841,20,Leitrim,-,Both sexes,Number,155297
+F1001C01,Population at Each Census,1841,1841,20,Leitrim,1,Male,Number,77501
+F1001C01,Population at Each Census,1841,1841,20,Leitrim,2,Female,Number,77796
+F1001C01,Population at Each Census,1841,1841,21,Mayo,-,Both sexes,Number,388887
+F1001C01,Population at Each Census,1841,1841,21,Mayo,1,Male,Number,194198
+F1001C01,Population at Each Census,1841,1841,21,Mayo,2,Female,Number,194689
+F1001C01,Population at Each Census,1841,1841,22,Roscommon,-,Both sexes,Number,253591
+F1001C01,Population at Each Census,1841,1841,22,Roscommon,1,Male,Number,127016
+F1001C01,Population at Each Census,1841,1841,22,Roscommon,2,Female,Number,126575
+F1001C01,Population at Each Census,1841,1841,23,Sligo,-,Both sexes,Number,180886
+F1001C01,Population at Each Census,1841,1841,23,Sligo,1,Male,Number,89563
+F1001C01,Population at Each Census,1841,1841,23,Sligo,2,Female,Number,91323
+F1001C01,Population at Each Census,1841,1841,24,Cavan,-,Both sexes,Number,243158
+F1001C01,Population at Each Census,1841,1841,24,Cavan,1,Male,Number,120814
+F1001C01,Population at Each Census,1841,1841,24,Cavan,2,Female,Number,122344
+F1001C01,Population at Each Census,1841,1841,25,Donegal,-,Both sexes,Number,296448
+F1001C01,Population at Each Census,1841,1841,25,Donegal,1,Male,Number,145821
+F1001C01,Population at Each Census,1841,1841,25,Donegal,2,Female,Number,150627
+F1001C01,Population at Each Census,1841,1841,26,Monaghan,-,Both sexes,Number,200442
+F1001C01,Population at Each Census,1841,1841,26,Monaghan,1,Male,Number,98071
+F1001C01,Population at Each Census,1841,1841,26,Monaghan,2,Female,Number,102371
+F1001C01,Population at Each Census,1851,1851,-,State,-,Both sexes,Number,5111557
+F1001C01,Population at Each Census,1851,1851,-,State,1,Male,Number,2494478
+F1001C01,Population at Each Census,1851,1851,-,State,2,Female,Number,2617079
+F1001C01,Population at Each Census,1851,1851,01,Carlow,-,Both sexes,Number,68078
+F1001C01,Population at Each Census,1851,1851,01,Carlow,1,Male,Number,33016
+F1001C01,Population at Each Census,1851,1851,01,Carlow,2,Female,Number,35062
+F1001C01,Population at Each Census,1851,1851,02,Dublin,-,Both sexes,Number,405147
+F1001C01,Population at Each Census,1851,1851,02,Dublin,1,Male,Number,187286
+F1001C01,Population at Each Census,1851,1851,02,Dublin,2,Female,Number,217861
+F1001C01,Population at Each Census,1851,1851,03,Kildare,-,Both sexes,Number,95723
+F1001C01,Population at Each Census,1851,1851,03,Kildare,1,Male,Number,48528
+F1001C01,Population at Each Census,1851,1851,03,Kildare,2,Female,Number,47195
+F1001C01,Population at Each Census,1851,1851,04,Kilkenny,-,Both sexes,Number,158748
+F1001C01,Population at Each Census,1851,1851,04,Kilkenny,1,Male,Number,76493
+F1001C01,Population at Each Census,1851,1851,04,Kilkenny,2,Female,Number,82255
+F1001C01,Population at Each Census,1851,1851,05,Laois,-,Both sexes,Number,111664
+F1001C01,Population at Each Census,1851,1851,05,Laois,1,Male,Number,55556
+F1001C01,Population at Each Census,1851,1851,05,Laois,2,Female,Number,56108
+F1001C01,Population at Each Census,1851,1851,06,Longford,-,Both sexes,Number,82348
+F1001C01,Population at Each Census,1851,1851,06,Longford,1,Male,Number,41041
+F1001C01,Population at Each Census,1851,1851,06,Longford,2,Female,Number,41307
+F1001C01,Population at Each Census,1851,1851,07,Louth,-,Both sexes,Number,107662
+F1001C01,Population at Each Census,1851,1851,07,Louth,1,Male,Number,52257
+F1001C01,Population at Each Census,1851,1851,07,Louth,2,Female,Number,55405
+F1001C01,Population at Each Census,1851,1851,08,Meath,-,Both sexes,Number,140748
+F1001C01,Population at Each Census,1851,1851,08,Meath,1,Male,Number,70813
+F1001C01,Population at Each Census,1851,1851,08,Meath,2,Female,Number,69935
+F1001C01,Population at Each Census,1851,1851,09,Offaly,-,Both sexes,Number,112076
+F1001C01,Population at Each Census,1851,1851,09,Offaly,1,Male,Number,55284
+F1001C01,Population at Each Census,1851,1851,09,Offaly,2,Female,Number,56792
+F1001C01,Population at Each Census,1851,1851,10,Westmeath,-,Both sexes,Number,111407
+F1001C01,Population at Each Census,1851,1851,10,Westmeath,1,Male,Number,56095
+F1001C01,Population at Each Census,1851,1851,10,Westmeath,2,Female,Number,55312
+F1001C01,Population at Each Census,1851,1851,11,Wexford,-,Both sexes,Number,180158
+F1001C01,Population at Each Census,1851,1851,11,Wexford,1,Male,Number,86938
+F1001C01,Population at Each Census,1851,1851,11,Wexford,2,Female,Number,93220
+F1001C01,Population at Each Census,1851,1851,12,Wicklow,-,Both sexes,Number,98979
+F1001C01,Population at Each Census,1851,1851,12,Wicklow,1,Male,Number,50230
+F1001C01,Population at Each Census,1851,1851,12,Wicklow,2,Female,Number,48749
+F1001C01,Population at Each Census,1851,1851,13,Clare,-,Both sexes,Number,212440
+F1001C01,Population at Each Census,1851,1851,13,Clare,1,Male,Number,103953
+F1001C01,Population at Each Census,1851,1851,13,Clare,2,Female,Number,108487
+F1001C01,Population at Each Census,1851,1851,14,Cork,-,Both sexes,Number,649308
+F1001C01,Population at Each Census,1851,1851,14,Cork,1,Male,Number,318149
+F1001C01,Population at Each Census,1851,1851,14,Cork,2,Female,Number,331159
+F1001C01,Population at Each Census,1851,1851,15,Kerry,-,Both sexes,Number,238254
+F1001C01,Population at Each Census,1851,1851,15,Kerry,1,Male,Number,116511
+F1001C01,Population at Each Census,1851,1851,15,Kerry,2,Female,Number,121743
+F1001C01,Population at Each Census,1851,1851,16,Limerick,-,Both sexes,Number,262132
+F1001C01,Population at Each Census,1851,1851,16,Limerick,1,Male,Number,127387
+F1001C01,Population at Each Census,1851,1851,16,Limerick,2,Female,Number,134745
+F1001C01,Population at Each Census,1851,1851,17,Tipperary,-,Both sexes,Number,331567
+F1001C01,Population at Each Census,1851,1851,17,Tipperary,1,Male,Number,160024
+F1001C01,Population at Each Census,1851,1851,17,Tipperary,2,Female,Number,171543
+F1001C01,Population at Each Census,1851,1851,18,Waterford,-,Both sexes,Number,164035
+F1001C01,Population at Each Census,1851,1851,18,Waterford,1,Male,Number,78955
+F1001C01,Population at Each Census,1851,1851,18,Waterford,2,Female,Number,85080
+F1001C01,Population at Each Census,1851,1851,19,Galway,-,Both sexes,Number,321684
+F1001C01,Population at Each Census,1851,1851,19,Galway,1,Male,Number,157135
+F1001C01,Population at Each Census,1851,1851,19,Galway,2,Female,Number,164549
+F1001C01,Population at Each Census,1851,1851,20,Leitrim,-,Both sexes,Number,111897
+F1001C01,Population at Each Census,1851,1851,20,Leitrim,1,Male,Number,56111
+F1001C01,Population at Each Census,1851,1851,20,Leitrim,2,Female,Number,55786
+F1001C01,Population at Each Census,1851,1851,21,Mayo,-,Both sexes,Number,274499
+F1001C01,Population at Each Census,1851,1851,21,Mayo,1,Male,Number,133264
+F1001C01,Population at Each Census,1851,1851,21,Mayo,2,Female,Number,141235
+F1001C01,Population at Each Census,1851,1851,22,Roscommon,-,Both sexes,Number,173436
+F1001C01,Population at Each Census,1851,1851,22,Roscommon,1,Male,Number,86411
+F1001C01,Population at Each Census,1851,1851,22,Roscommon,2,Female,Number,87025
+F1001C01,Population at Each Census,1851,1851,23,Sligo,-,Both sexes,Number,128515
+F1001C01,Population at Each Census,1851,1851,23,Sligo,1,Male,Number,62881
+F1001C01,Population at Each Census,1851,1851,23,Sligo,2,Female,Number,65634
+F1001C01,Population at Each Census,1851,1851,24,Cavan,-,Both sexes,Number,174071
+F1001C01,Population at Each Census,1851,1851,24,Cavan,1,Male,Number,86610
+F1001C01,Population at Each Census,1851,1851,24,Cavan,2,Female,Number,87461
+F1001C01,Population at Each Census,1851,1851,25,Donegal,-,Both sexes,Number,255158
+F1001C01,Population at Each Census,1851,1851,25,Donegal,1,Male,Number,124723
+F1001C01,Population at Each Census,1851,1851,25,Donegal,2,Female,Number,130435
+F1001C01,Population at Each Census,1851,1851,26,Monaghan,-,Both sexes,Number,141823
+F1001C01,Population at Each Census,1851,1851,26,Monaghan,1,Male,Number,68827
+F1001C01,Population at Each Census,1851,1851,26,Monaghan,2,Female,Number,72996
+F1001C01,Population at Each Census,1861,1861,-,State,-,Both sexes,Number,4402111
+F1001C01,Population at Each Census,1861,1861,-,State,1,Male,Number,2169042
+F1001C01,Population at Each Census,1861,1861,-,State,2,Female,Number,2233069
+F1001C01,Population at Each Census,1861,1861,01,Carlow,-,Both sexes,Number,57137
+F1001C01,Population at Each Census,1861,1861,01,Carlow,1,Male,Number,28139
+F1001C01,Population at Each Census,1861,1861,01,Carlow,2,Female,Number,28998
+F1001C01,Population at Each Census,1861,1861,02,Dublin,-,Both sexes,Number,410252
+F1001C01,Population at Each Census,1861,1861,02,Dublin,1,Male,Number,191435
+F1001C01,Population at Each Census,1861,1861,02,Dublin,2,Female,Number,218817
+F1001C01,Population at Each Census,1861,1861,03,Kildare,-,Both sexes,Number,90946
+F1001C01,Population at Each Census,1861,1861,03,Kildare,1,Male,Number,48960
+F1001C01,Population at Each Census,1861,1861,03,Kildare,2,Female,Number,41986
+F1001C01,Population at Each Census,1861,1861,04,Kilkenny,-,Both sexes,Number,124515
+F1001C01,Population at Each Census,1861,1861,04,Kilkenny,1,Male,Number,60317
+F1001C01,Population at Each Census,1861,1861,04,Kilkenny,2,Female,Number,64198
+F1001C01,Population at Each Census,1861,1861,05,Laois,-,Both sexes,Number,90650
+F1001C01,Population at Each Census,1861,1861,05,Laois,1,Male,Number,45112
+F1001C01,Population at Each Census,1861,1861,05,Laois,2,Female,Number,45538
+F1001C01,Population at Each Census,1861,1861,06,Longford,-,Both sexes,Number,71694
+F1001C01,Population at Each Census,1861,1861,06,Longford,1,Male,Number,36044
+F1001C01,Population at Each Census,1861,1861,06,Longford,2,Female,Number,35650
+F1001C01,Population at Each Census,1861,1861,07,Louth,-,Both sexes,Number,90713
+F1001C01,Population at Each Census,1861,1861,07,Louth,1,Male,Number,44241
+F1001C01,Population at Each Census,1861,1861,07,Louth,2,Female,Number,46472
+F1001C01,Population at Each Census,1861,1861,08,Meath,-,Both sexes,Number,110373
+F1001C01,Population at Each Census,1861,1861,08,Meath,1,Male,Number,55800
+F1001C01,Population at Each Census,1861,1861,08,Meath,2,Female,Number,54573
+F1001C01,Population at Each Census,1861,1861,09,Offaly,-,Both sexes,Number,90043
+F1001C01,Population at Each Census,1861,1861,09,Offaly,1,Male,Number,45513
+F1001C01,Population at Each Census,1861,1861,09,Offaly,2,Female,Number,44530
+F1001C01,Population at Each Census,1861,1861,10,Westmeath,-,Both sexes,Number,90879
+F1001C01,Population at Each Census,1861,1861,10,Westmeath,1,Male,Number,46218
+F1001C01,Population at Each Census,1861,1861,10,Westmeath,2,Female,Number,44661
+F1001C01,Population at Each Census,1861,1861,11,Wexford,-,Both sexes,Number,143954
+F1001C01,Population at Each Census,1861,1861,11,Wexford,1,Male,Number,69104
+F1001C01,Population at Each Census,1861,1861,11,Wexford,2,Female,Number,74850
+F1001C01,Population at Each Census,1861,1861,12,Wicklow,-,Both sexes,Number,86479
+F1001C01,Population at Each Census,1861,1861,12,Wicklow,1,Male,Number,44122
+F1001C01,Population at Each Census,1861,1861,12,Wicklow,2,Female,Number,42357
+F1001C01,Population at Each Census,1861,1861,13,Clare,-,Both sexes,Number,166305
+F1001C01,Population at Each Census,1861,1861,13,Clare,1,Male,Number,82541
+F1001C01,Population at Each Census,1861,1861,13,Clare,2,Female,Number,83764
+F1001C01,Population at Each Census,1861,1861,14,Cork,-,Both sexes,Number,544818
+F1001C01,Population at Each Census,1861,1861,14,Cork,1,Male,Number,269637
+F1001C01,Population at Each Census,1861,1861,14,Cork,2,Female,Number,275181
+F1001C01,Population at Each Census,1861,1861,15,Kerry,-,Both sexes,Number,201800
+F1001C01,Population at Each Census,1861,1861,15,Kerry,1,Male,Number,99999
+F1001C01,Population at Each Census,1861,1861,15,Kerry,2,Female,Number,101801
+F1001C01,Population at Each Census,1861,1861,16,Limerick,-,Both sexes,Number,217277
+F1001C01,Population at Each Census,1861,1861,16,Limerick,1,Male,Number,105712
+F1001C01,Population at Each Census,1861,1861,16,Limerick,2,Female,Number,111565
+F1001C01,Population at Each Census,1861,1861,17,Tipperary,-,Both sexes,Number,249106
+F1001C01,Population at Each Census,1861,1861,17,Tipperary,1,Male,Number,122483
+F1001C01,Population at Each Census,1861,1861,17,Tipperary,2,Female,Number,126623
+F1001C01,Population at Each Census,1861,1861,18,Waterford,-,Both sexes,Number,134252
+F1001C01,Population at Each Census,1861,1861,18,Waterford,1,Male,Number,64310
+F1001C01,Population at Each Census,1861,1861,18,Waterford,2,Female,Number,69942
+F1001C01,Population at Each Census,1861,1861,19,Galway,-,Both sexes,Number,271478
+F1001C01,Population at Each Census,1861,1861,19,Galway,1,Male,Number,134057
+F1001C01,Population at Each Census,1861,1861,19,Galway,2,Female,Number,137421
+F1001C01,Population at Each Census,1861,1861,20,Leitrim,-,Both sexes,Number,104744
+F1001C01,Population at Each Census,1861,1861,20,Leitrim,1,Male,Number,52562
+F1001C01,Population at Each Census,1861,1861,20,Leitrim,2,Female,Number,52182
+F1001C01,Population at Each Census,1861,1861,21,Mayo,-,Both sexes,Number,254796
+F1001C01,Population at Each Census,1861,1861,21,Mayo,1,Male,Number,125636
+F1001C01,Population at Each Census,1861,1861,21,Mayo,2,Female,Number,129160
+F1001C01,Population at Each Census,1861,1861,22,Roscommon,-,Both sexes,Number,157272
+F1001C01,Population at Each Census,1861,1861,22,Roscommon,1,Male,Number,79841
+F1001C01,Population at Each Census,1861,1861,22,Roscommon,2,Female,Number,77431
+F1001C01,Population at Each Census,1861,1861,23,Sligo,-,Both sexes,Number,124845
+F1001C01,Population at Each Census,1861,1861,23,Sligo,1,Male,Number,61939
+F1001C01,Population at Each Census,1861,1861,23,Sligo,2,Female,Number,62906
+F1001C01,Population at Each Census,1861,1861,24,Cavan,-,Both sexes,Number,153906
+F1001C01,Population at Each Census,1861,1861,24,Cavan,1,Male,Number,77503
+F1001C01,Population at Each Census,1861,1861,24,Cavan,2,Female,Number,76403
+F1001C01,Population at Each Census,1861,1861,25,Donegal,-,Both sexes,Number,237395
+F1001C01,Population at Each Census,1861,1861,25,Donegal,1,Male,Number,115875
+F1001C01,Population at Each Census,1861,1861,25,Donegal,2,Female,Number,121520
+F1001C01,Population at Each Census,1861,1861,26,Monaghan,-,Both sexes,Number,126482
+F1001C01,Population at Each Census,1861,1861,26,Monaghan,1,Male,Number,61942
+F1001C01,Population at Each Census,1861,1861,26,Monaghan,2,Female,Number,64540
+F1001C01,Population at Each Census,1871,1871,-,State,-,Both sexes,Number,4053187
+F1001C01,Population at Each Census,1871,1871,-,State,1,Male,Number,1992468
+F1001C01,Population at Each Census,1871,1871,-,State,2,Female,Number,2060719
+F1001C01,Population at Each Census,1871,1871,01,Carlow,-,Both sexes,Number,51650
+F1001C01,Population at Each Census,1871,1871,01,Carlow,1,Male,Number,25464
+F1001C01,Population at Each Census,1871,1871,01,Carlow,2,Female,Number,26186
+F1001C01,Population at Each Census,1871,1871,02,Dublin,-,Both sexes,Number,405262
+F1001C01,Population at Each Census,1871,1871,02,Dublin,1,Male,Number,188108
+F1001C01,Population at Each Census,1871,1871,02,Dublin,2,Female,Number,217154
+F1001C01,Population at Each Census,1871,1871,03,Kildare,-,Both sexes,Number,83614
+F1001C01,Population at Each Census,1871,1871,03,Kildare,1,Male,Number,44946
+F1001C01,Population at Each Census,1871,1871,03,Kildare,2,Female,Number,38668
+F1001C01,Population at Each Census,1871,1871,04,Kilkenny,-,Both sexes,Number,109379
+F1001C01,Population at Each Census,1871,1871,04,Kilkenny,1,Male,Number,52965
+F1001C01,Population at Each Census,1871,1871,04,Kilkenny,2,Female,Number,56414
+F1001C01,Population at Each Census,1871,1871,05,Laois,-,Both sexes,Number,79771
+F1001C01,Population at Each Census,1871,1871,05,Laois,1,Male,Number,39843
+F1001C01,Population at Each Census,1871,1871,05,Laois,2,Female,Number,39928
+F1001C01,Population at Each Census,1871,1871,06,Longford,-,Both sexes,Number,64501
+F1001C01,Population at Each Census,1871,1871,06,Longford,1,Male,Number,32512
+F1001C01,Population at Each Census,1871,1871,06,Longford,2,Female,Number,31989
+F1001C01,Population at Each Census,1871,1871,07,Louth,-,Both sexes,Number,84021
+F1001C01,Population at Each Census,1871,1871,07,Louth,1,Male,Number,41033
+F1001C01,Population at Each Census,1871,1871,07,Louth,2,Female,Number,42988
+F1001C01,Population at Each Census,1871,1871,08,Meath,-,Both sexes,Number,95558
+F1001C01,Population at Each Census,1871,1871,08,Meath,1,Male,Number,48437
+F1001C01,Population at Each Census,1871,1871,08,Meath,2,Female,Number,47121
+F1001C01,Population at Each Census,1871,1871,09,Offaly,-,Both sexes,Number,75900
+F1001C01,Population at Each Census,1871,1871,09,Offaly,1,Male,Number,38307
+F1001C01,Population at Each Census,1871,1871,09,Offaly,2,Female,Number,37593
+F1001C01,Population at Each Census,1871,1871,10,Westmeath,-,Both sexes,Number,78432
+F1001C01,Population at Each Census,1871,1871,10,Westmeath,1,Male,Number,39804
+F1001C01,Population at Each Census,1871,1871,10,Westmeath,2,Female,Number,38628
+F1001C01,Population at Each Census,1871,1871,11,Wexford,-,Both sexes,Number,132666
+F1001C01,Population at Each Census,1871,1871,11,Wexford,1,Male,Number,64199
+F1001C01,Population at Each Census,1871,1871,11,Wexford,2,Female,Number,68467
+F1001C01,Population at Each Census,1871,1871,12,Wicklow,-,Both sexes,Number,78697
+F1001C01,Population at Each Census,1871,1871,12,Wicklow,1,Male,Number,39496
+F1001C01,Population at Each Census,1871,1871,12,Wicklow,2,Female,Number,39201
+F1001C01,Population at Each Census,1871,1871,13,Clare,-,Both sexes,Number,147864
+F1001C01,Population at Each Census,1871,1871,13,Clare,1,Male,Number,73442
+F1001C01,Population at Each Census,1871,1871,13,Clare,2,Female,Number,74422
+F1001C01,Population at Each Census,1871,1871,14,Cork,-,Both sexes,Number,517076
+F1001C01,Population at Each Census,1871,1871,14,Cork,1,Male,Number,256062
+F1001C01,Population at Each Census,1871,1871,14,Cork,2,Female,Number,261014
+F1001C01,Population at Each Census,1871,1871,15,Kerry,-,Both sexes,Number,196586
+F1001C01,Population at Each Census,1871,1871,15,Kerry,1,Male,Number,97913
+F1001C01,Population at Each Census,1871,1871,15,Kerry,2,Female,Number,98673
+F1001C01,Population at Each Census,1871,1871,16,Limerick,-,Both sexes,Number,191936
+F1001C01,Population at Each Census,1871,1871,16,Limerick,1,Male,Number,93112
+F1001C01,Population at Each Census,1871,1871,16,Limerick,2,Female,Number,98824
+F1001C01,Population at Each Census,1871,1871,17,Tipperary,-,Both sexes,Number,216713
+F1001C01,Population at Each Census,1871,1871,17,Tipperary,1,Male,Number,106499
+F1001C01,Population at Each Census,1871,1871,17,Tipperary,2,Female,Number,110214
+F1001C01,Population at Each Census,1871,1871,18,Waterford,-,Both sexes,Number,123310
+F1001C01,Population at Each Census,1871,1871,18,Waterford,1,Male,Number,59078
+F1001C01,Population at Each Census,1871,1871,18,Waterford,2,Female,Number,64232
+F1001C01,Population at Each Census,1871,1871,19,Galway,-,Both sexes,Number,248458
+F1001C01,Population at Each Census,1871,1871,19,Galway,1,Male,Number,122496
+F1001C01,Population at Each Census,1871,1871,19,Galway,2,Female,Number,125962
+F1001C01,Population at Each Census,1871,1871,20,Leitrim,-,Both sexes,Number,95562
+F1001C01,Population at Each Census,1871,1871,20,Leitrim,1,Male,Number,47724
+F1001C01,Population at Each Census,1871,1871,20,Leitrim,2,Female,Number,47838
+F1001C01,Population at Each Census,1871,1871,21,Mayo,-,Both sexes,Number,246030
+F1001C01,Population at Each Census,1871,1871,21,Mayo,1,Male,Number,120877
+F1001C01,Population at Each Census,1871,1871,21,Mayo,2,Female,Number,125153
+F1001C01,Population at Each Census,1871,1871,22,Roscommon,-,Both sexes,Number,140670
+F1001C01,Population at Each Census,1871,1871,22,Roscommon,1,Male,Number,70647
+F1001C01,Population at Each Census,1871,1871,22,Roscommon,2,Female,Number,70023
+F1001C01,Population at Each Census,1871,1871,23,Sligo,-,Both sexes,Number,115493
+F1001C01,Population at Each Census,1871,1871,23,Sligo,1,Male,Number,56984
+F1001C01,Population at Each Census,1871,1871,23,Sligo,2,Female,Number,58509
+F1001C01,Population at Each Census,1871,1871,24,Cavan,-,Both sexes,Number,140735
+F1001C01,Population at Each Census,1871,1871,24,Cavan,1,Male,Number,70479
+F1001C01,Population at Each Census,1871,1871,24,Cavan,2,Female,Number,70256
+F1001C01,Population at Each Census,1871,1871,25,Donegal,-,Both sexes,Number,218334
+F1001C01,Population at Each Census,1871,1871,25,Donegal,1,Male,Number,106080
+F1001C01,Population at Each Census,1871,1871,25,Donegal,2,Female,Number,112254
+F1001C01,Population at Each Census,1871,1871,26,Monaghan,-,Both sexes,Number,114969
+F1001C01,Population at Each Census,1871,1871,26,Monaghan,1,Male,Number,55961
+F1001C01,Population at Each Census,1871,1871,26,Monaghan,2,Female,Number,59008
+F1001C01,Population at Each Census,1881,1881,-,State,-,Both sexes,Number,3870020
+F1001C01,Population at Each Census,1881,1881,-,State,1,Male,Number,1912438
+F1001C01,Population at Each Census,1881,1881,-,State,2,Female,Number,1957582
+F1001C01,Population at Each Census,1881,1881,01,Carlow,-,Both sexes,Number,46568
+F1001C01,Population at Each Census,1881,1881,01,Carlow,1,Male,Number,23078
+F1001C01,Population at Each Census,1881,1881,01,Carlow,2,Female,Number,23490
+F1001C01,Population at Each Census,1881,1881,02,Dublin,-,Both sexes,Number,418910
+F1001C01,Population at Each Census,1881,1881,02,Dublin,1,Male,Number,197740
+F1001C01,Population at Each Census,1881,1881,02,Dublin,2,Female,Number,221170
+F1001C01,Population at Each Census,1881,1881,03,Kildare,-,Both sexes,Number,75804
+F1001C01,Population at Each Census,1881,1881,03,Kildare,1,Male,Number,40701
+F1001C01,Population at Each Census,1881,1881,03,Kildare,2,Female,Number,35103
+F1001C01,Population at Each Census,1881,1881,04,Kilkenny,-,Both sexes,Number,99531
+F1001C01,Population at Each Census,1881,1881,04,Kilkenny,1,Male,Number,48971
+F1001C01,Population at Each Census,1881,1881,04,Kilkenny,2,Female,Number,50560
+F1001C01,Population at Each Census,1881,1881,05,Laois,-,Both sexes,Number,73124
+F1001C01,Population at Each Census,1881,1881,05,Laois,1,Male,Number,36861
+F1001C01,Population at Each Census,1881,1881,05,Laois,2,Female,Number,36263
+F1001C01,Population at Each Census,1881,1881,06,Longford,-,Both sexes,Number,61009
+F1001C01,Population at Each Census,1881,1881,06,Longford,1,Male,Number,30770
+F1001C01,Population at Each Census,1881,1881,06,Longford,2,Female,Number,30239
+F1001C01,Population at Each Census,1881,1881,07,Louth,-,Both sexes,Number,77684
+F1001C01,Population at Each Census,1881,1881,07,Louth,1,Male,Number,37989
+F1001C01,Population at Each Census,1881,1881,07,Louth,2,Female,Number,39695
+F1001C01,Population at Each Census,1881,1881,08,Meath,-,Both sexes,Number,87469
+F1001C01,Population at Each Census,1881,1881,08,Meath,1,Male,Number,44315
+F1001C01,Population at Each Census,1881,1881,08,Meath,2,Female,Number,43154
+F1001C01,Population at Each Census,1881,1881,09,Offaly,-,Both sexes,Number,72852
+F1001C01,Population at Each Census,1881,1881,09,Offaly,1,Male,Number,37106
+F1001C01,Population at Each Census,1881,1881,09,Offaly,2,Female,Number,35746
+F1001C01,Population at Each Census,1881,1881,10,Westmeath,-,Both sexes,Number,71798
+F1001C01,Population at Each Census,1881,1881,10,Westmeath,1,Male,Number,36478
+F1001C01,Population at Each Census,1881,1881,10,Westmeath,2,Female,Number,35320
+F1001C01,Population at Each Census,1881,1881,11,Wexford,-,Both sexes,Number,123854
+F1001C01,Population at Each Census,1881,1881,11,Wexford,1,Male,Number,60928
+F1001C01,Population at Each Census,1881,1881,11,Wexford,2,Female,Number,62926
+F1001C01,Population at Each Census,1881,1881,12,Wicklow,-,Both sexes,Number,70386
+F1001C01,Population at Each Census,1881,1881,12,Wicklow,1,Male,Number,35101
+F1001C01,Population at Each Census,1881,1881,12,Wicklow,2,Female,Number,35285
+F1001C01,Population at Each Census,1881,1881,13,Clare,-,Both sexes,Number,141457
+F1001C01,Population at Each Census,1881,1881,13,Clare,1,Male,Number,71058
+F1001C01,Population at Each Census,1881,1881,13,Clare,2,Female,Number,70399
+F1001C01,Population at Each Census,1881,1881,14,Cork,-,Both sexes,Number,495607
+F1001C01,Population at Each Census,1881,1881,14,Cork,1,Male,Number,246044
+F1001C01,Population at Each Census,1881,1881,14,Cork,2,Female,Number,249563
+F1001C01,Population at Each Census,1881,1881,15,Kerry,-,Both sexes,Number,201039
+F1001C01,Population at Each Census,1881,1881,15,Kerry,1,Male,Number,101208
+F1001C01,Population at Each Census,1881,1881,15,Kerry,2,Female,Number,99831
+F1001C01,Population at Each Census,1881,1881,16,Limerick,-,Both sexes,Number,180632
+F1001C01,Population at Each Census,1881,1881,16,Limerick,1,Male,Number,88311
+F1001C01,Population at Each Census,1881,1881,16,Limerick,2,Female,Number,92321
+F1001C01,Population at Each Census,1881,1881,17,Tipperary,-,Both sexes,Number,199612
+F1001C01,Population at Each Census,1881,1881,17,Tipperary,1,Male,Number,98755
+F1001C01,Population at Each Census,1881,1881,17,Tipperary,2,Female,Number,100857
+F1001C01,Population at Each Census,1881,1881,18,Waterford,-,Both sexes,Number,112768
+F1001C01,Population at Each Census,1881,1881,18,Waterford,1,Male,Number,54618
+F1001C01,Population at Each Census,1881,1881,18,Waterford,2,Female,Number,58150
+F1001C01,Population at Each Census,1881,1881,19,Galway,-,Both sexes,Number,242005
+F1001C01,Population at Each Census,1881,1881,19,Galway,1,Male,Number,120609
+F1001C01,Population at Each Census,1881,1881,19,Galway,2,Female,Number,121396
+F1001C01,Population at Each Census,1881,1881,20,Leitrim,-,Both sexes,Number,90372
+F1001C01,Population at Each Census,1881,1881,20,Leitrim,1,Male,Number,45190
+F1001C01,Population at Each Census,1881,1881,20,Leitrim,2,Female,Number,45182
+F1001C01,Population at Each Census,1881,1881,21,Mayo,-,Both sexes,Number,245212
+F1001C01,Population at Each Census,1881,1881,21,Mayo,1,Male,Number,119421
+F1001C01,Population at Each Census,1881,1881,21,Mayo,2,Female,Number,125791
+F1001C01,Population at Each Census,1881,1881,22,Roscommon,-,Both sexes,Number,132490
+F1001C01,Population at Each Census,1881,1881,22,Roscommon,1,Male,Number,66657
+F1001C01,Population at Each Census,1881,1881,22,Roscommon,2,Female,Number,65833
+F1001C01,Population at Each Census,1881,1881,23,Sligo,-,Both sexes,Number,111578
+F1001C01,Population at Each Census,1881,1881,23,Sligo,1,Male,Number,55144
+F1001C01,Population at Each Census,1881,1881,23,Sligo,2,Female,Number,56434
+F1001C01,Population at Each Census,1881,1881,24,Cavan,-,Both sexes,Number,129476
+F1001C01,Population at Each Census,1881,1881,24,Cavan,1,Male,Number,64637
+F1001C01,Population at Each Census,1881,1881,24,Cavan,2,Female,Number,64839
+F1001C01,Population at Each Census,1881,1881,25,Donegal,-,Both sexes,Number,206035
+F1001C01,Population at Each Census,1881,1881,25,Donegal,1,Male,Number,100671
+F1001C01,Population at Each Census,1881,1881,25,Donegal,2,Female,Number,105364
+F1001C01,Population at Each Census,1881,1881,26,Monaghan,-,Both sexes,Number,102748
+F1001C01,Population at Each Census,1881,1881,26,Monaghan,1,Male,Number,50077
+F1001C01,Population at Each Census,1881,1881,26,Monaghan,2,Female,Number,52671
+F1001C01,Population at Each Census,1891,1891,-,State,-,Both sexes,Number,3468694
+F1001C01,Population at Each Census,1891,1891,-,State,1,Male,Number,1728601
+F1001C01,Population at Each Census,1891,1891,-,State,2,Female,Number,1740093
+F1001C01,Population at Each Census,1891,1891,01,Carlow,-,Both sexes,Number,40936
+F1001C01,Population at Each Census,1891,1891,01,Carlow,1,Male,Number,20552
+F1001C01,Population at Each Census,1891,1891,01,Carlow,2,Female,Number,20384
+F1001C01,Population at Each Census,1891,1891,02,Dublin,-,Both sexes,Number,419216
+F1001C01,Population at Each Census,1891,1891,02,Dublin,1,Male,Number,197409
+F1001C01,Population at Each Census,1891,1891,02,Dublin,2,Female,Number,221807
+F1001C01,Population at Each Census,1891,1891,03,Kildare,-,Both sexes,Number,70206
+F1001C01,Population at Each Census,1891,1891,03,Kildare,1,Male,Number,38407
+F1001C01,Population at Each Census,1891,1891,03,Kildare,2,Female,Number,31799
+F1001C01,Population at Each Census,1891,1891,04,Kilkenny,-,Both sexes,Number,87261
+F1001C01,Population at Each Census,1891,1891,04,Kilkenny,1,Male,Number,43468
+F1001C01,Population at Each Census,1891,1891,04,Kilkenny,2,Female,Number,43793
+F1001C01,Population at Each Census,1891,1891,05,Laois,-,Both sexes,Number,64883
+F1001C01,Population at Each Census,1891,1891,05,Laois,1,Male,Number,33171
+F1001C01,Population at Each Census,1891,1891,05,Laois,2,Female,Number,31712
+F1001C01,Population at Each Census,1891,1891,06,Longford,-,Both sexes,Number,52647
+F1001C01,Population at Each Census,1891,1891,06,Longford,1,Male,Number,26681
+F1001C01,Population at Each Census,1891,1891,06,Longford,2,Female,Number,25966
+F1001C01,Population at Each Census,1891,1891,07,Louth,-,Both sexes,Number,71038
+F1001C01,Population at Each Census,1891,1891,07,Louth,1,Male,Number,35242
+F1001C01,Population at Each Census,1891,1891,07,Louth,2,Female,Number,35796
+F1001C01,Population at Each Census,1891,1891,08,Meath,-,Both sexes,Number,76987
+F1001C01,Population at Each Census,1891,1891,08,Meath,1,Male,Number,39224
+F1001C01,Population at Each Census,1891,1891,08,Meath,2,Female,Number,37763
+F1001C01,Population at Each Census,1891,1891,09,Offaly,-,Both sexes,Number,65563
+F1001C01,Population at Each Census,1891,1891,09,Offaly,1,Male,Number,33777
+F1001C01,Population at Each Census,1891,1891,09,Offaly,2,Female,Number,31786
+F1001C01,Population at Each Census,1891,1891,10,Westmeath,-,Both sexes,Number,65109
+F1001C01,Population at Each Census,1891,1891,10,Westmeath,1,Male,Number,33927
+F1001C01,Population at Each Census,1891,1891,10,Westmeath,2,Female,Number,31182
+F1001C01,Population at Each Census,1891,1891,11,Wexford,-,Both sexes,Number,111778
+F1001C01,Population at Each Census,1891,1891,11,Wexford,1,Male,Number,54935
+F1001C01,Population at Each Census,1891,1891,11,Wexford,2,Female,Number,56843
+F1001C01,Population at Each Census,1891,1891,12,Wicklow,-,Both sexes,Number,62136
+F1001C01,Population at Each Census,1891,1891,12,Wicklow,1,Male,Number,31054
+F1001C01,Population at Each Census,1891,1891,12,Wicklow,2,Female,Number,31082
+F1001C01,Population at Each Census,1891,1891,13,Clare,-,Both sexes,Number,124483
+F1001C01,Population at Each Census,1891,1891,13,Clare,1,Male,Number,63138
+F1001C01,Population at Each Census,1891,1891,13,Clare,2,Female,Number,61345
+F1001C01,Population at Each Census,1891,1891,14,Cork,-,Both sexes,Number,438432
+F1001C01,Population at Each Census,1891,1891,14,Cork,1,Male,Number,219988
+F1001C01,Population at Each Census,1891,1891,14,Cork,2,Female,Number,218444
+F1001C01,Population at Each Census,1891,1891,15,Kerry,-,Both sexes,Number,179136
+F1001C01,Population at Each Census,1891,1891,15,Kerry,1,Male,Number,91017
+F1001C01,Population at Each Census,1891,1891,15,Kerry,2,Female,Number,88119
+F1001C01,Population at Each Census,1891,1891,16,Limerick,-,Both sexes,Number,158912
+F1001C01,Population at Each Census,1891,1891,16,Limerick,1,Male,Number,78607
+F1001C01,Population at Each Census,1891,1891,16,Limerick,2,Female,Number,80305
+F1001C01,Population at Each Census,1891,1891,17,Tipperary,-,Both sexes,Number,173188
+F1001C01,Population at Each Census,1891,1891,17,Tipperary,1,Male,Number,86807
+F1001C01,Population at Each Census,1891,1891,17,Tipperary,2,Female,Number,86381
+F1001C01,Population at Each Census,1891,1891,18,Waterford,-,Both sexes,Number,98251
+F1001C01,Population at Each Census,1891,1891,18,Waterford,1,Male,Number,48054
+F1001C01,Population at Each Census,1891,1891,18,Waterford,2,Female,Number,50197
+F1001C01,Population at Each Census,1891,1891,19,Galway,-,Both sexes,Number,214712
+F1001C01,Population at Each Census,1891,1891,19,Galway,1,Male,Number,108283
+F1001C01,Population at Each Census,1891,1891,19,Galway,2,Female,Number,106429
+F1001C01,Population at Each Census,1891,1891,20,Leitrim,-,Both sexes,Number,78618
+F1001C01,Population at Each Census,1891,1891,20,Leitrim,1,Male,Number,39715
+F1001C01,Population at Each Census,1891,1891,20,Leitrim,2,Female,Number,38903
+F1001C01,Population at Each Census,1891,1891,21,Mayo,-,Both sexes,Number,219034
+F1001C01,Population at Each Census,1891,1891,21,Mayo,1,Male,Number,107498
+F1001C01,Population at Each Census,1891,1891,21,Mayo,2,Female,Number,111536
+F1001C01,Population at Each Census,1891,1891,22,Roscommon,-,Both sexes,Number,114397
+F1001C01,Population at Each Census,1891,1891,22,Roscommon,1,Male,Number,58000
+F1001C01,Population at Each Census,1891,1891,22,Roscommon,2,Female,Number,56397
+F1001C01,Population at Each Census,1891,1891,23,Sligo,-,Both sexes,Number,98013
+F1001C01,Population at Each Census,1891,1891,23,Sligo,1,Male,Number,48670
+F1001C01,Population at Each Census,1891,1891,23,Sligo,2,Female,Number,49343
+F1001C01,Population at Each Census,1891,1891,24,Cavan,-,Both sexes,Number,111917
+F1001C01,Population at Each Census,1891,1891,24,Cavan,1,Male,Number,56772
+F1001C01,Population at Each Census,1891,1891,24,Cavan,2,Female,Number,55145
+F1001C01,Population at Each Census,1891,1891,25,Donegal,-,Both sexes,Number,185635
+F1001C01,Population at Each Census,1891,1891,25,Donegal,1,Male,Number,91478
+F1001C01,Population at Each Census,1891,1891,25,Donegal,2,Female,Number,94157
+F1001C01,Population at Each Census,1891,1891,26,Monaghan,-,Both sexes,Number,86206
+F1001C01,Population at Each Census,1891,1891,26,Monaghan,1,Male,Number,42727
+F1001C01,Population at Each Census,1891,1891,26,Monaghan,2,Female,Number,43479
+F1001C01,Population at Each Census,1901,1901,-,State,-,Both sexes,Number,3221823
+F1001C01,Population at Each Census,1901,1901,-,State,1,Male,Number,1610085
+F1001C01,Population at Each Census,1901,1901,-,State,2,Female,Number,1611738
+F1001C01,Population at Each Census,1901,1901,01,Carlow,-,Both sexes,Number,37748
+F1001C01,Population at Each Census,1901,1901,01,Carlow,1,Male,Number,19009
+F1001C01,Population at Each Census,1901,1901,01,Carlow,2,Female,Number,18739
+F1001C01,Population at Each Census,1901,1901,02,Dublin,-,Both sexes,Number,448206
+F1001C01,Population at Each Census,1901,1901,02,Dublin,1,Male,Number,211786
+F1001C01,Population at Each Census,1901,1901,02,Dublin,2,Female,Number,236420
+F1001C01,Population at Each Census,1901,1901,03,Kildare,-,Both sexes,Number,63566
+F1001C01,Population at Each Census,1901,1901,03,Kildare,1,Male,Number,34703
+F1001C01,Population at Each Census,1901,1901,03,Kildare,2,Female,Number,28863
+F1001C01,Population at Each Census,1901,1901,04,Kilkenny,-,Both sexes,Number,79159
+F1001C01,Population at Each Census,1901,1901,04,Kilkenny,1,Male,Number,40095
+F1001C01,Population at Each Census,1901,1901,04,Kilkenny,2,Female,Number,39064
+F1001C01,Population at Each Census,1901,1901,05,Laois,-,Both sexes,Number,57417
+F1001C01,Population at Each Census,1901,1901,05,Laois,1,Male,Number,29694
+F1001C01,Population at Each Census,1901,1901,05,Laois,2,Female,Number,27723
+F1001C01,Population at Each Census,1901,1901,06,Longford,-,Both sexes,Number,46672
+F1001C01,Population at Each Census,1901,1901,06,Longford,1,Male,Number,23814
+F1001C01,Population at Each Census,1901,1901,06,Longford,2,Female,Number,22858
+F1001C01,Population at Each Census,1901,1901,07,Louth,-,Both sexes,Number,65820
+F1001C01,Population at Each Census,1901,1901,07,Louth,1,Male,Number,32666
+F1001C01,Population at Each Census,1901,1901,07,Louth,2,Female,Number,33154
+F1001C01,Population at Each Census,1901,1901,08,Meath,-,Both sexes,Number,67497
+F1001C01,Population at Each Census,1901,1901,08,Meath,1,Male,Number,34757
+F1001C01,Population at Each Census,1901,1901,08,Meath,2,Female,Number,32740
+F1001C01,Population at Each Census,1901,1901,09,Offaly,-,Both sexes,Number,60187
+F1001C01,Population at Each Census,1901,1901,09,Offaly,1,Male,Number,31065
+F1001C01,Population at Each Census,1901,1901,09,Offaly,2,Female,Number,29122
+F1001C01,Population at Each Census,1901,1901,10,Westmeath,-,Both sexes,Number,61629
+F1001C01,Population at Each Census,1901,1901,10,Westmeath,1,Male,Number,31880
+F1001C01,Population at Each Census,1901,1901,10,Westmeath,2,Female,Number,29749
+F1001C01,Population at Each Census,1901,1901,11,Wexford,-,Both sexes,Number,104104
+F1001C01,Population at Each Census,1901,1901,11,Wexford,1,Male,Number,51756
+F1001C01,Population at Each Census,1901,1901,11,Wexford,2,Female,Number,52348
+F1001C01,Population at Each Census,1901,1901,12,Wicklow,-,Both sexes,Number,60824
+F1001C01,Population at Each Census,1901,1901,12,Wicklow,1,Male,Number,30584
+F1001C01,Population at Each Census,1901,1901,12,Wicklow,2,Female,Number,30240
+F1001C01,Population at Each Census,1901,1901,13,Clare,-,Both sexes,Number,112334
+F1001C01,Population at Each Census,1901,1901,13,Clare,1,Male,Number,57386
+F1001C01,Population at Each Census,1901,1901,13,Clare,2,Female,Number,54948
+F1001C01,Population at Each Census,1901,1901,14,Cork,-,Both sexes,Number,404611
+F1001C01,Population at Each Census,1901,1901,14,Cork,1,Male,Number,202297
+F1001C01,Population at Each Census,1901,1901,14,Cork,2,Female,Number,202314
+F1001C01,Population at Each Census,1901,1901,15,Kerry,-,Both sexes,Number,165726
+F1001C01,Population at Each Census,1901,1901,15,Kerry,1,Male,Number,84427
+F1001C01,Population at Each Census,1901,1901,15,Kerry,2,Female,Number,81299
+F1001C01,Population at Each Census,1901,1901,16,Limerick,-,Both sexes,Number,146098
+F1001C01,Population at Each Census,1901,1901,16,Limerick,1,Male,Number,72456
+F1001C01,Population at Each Census,1901,1901,16,Limerick,2,Female,Number,73642
+F1001C01,Population at Each Census,1901,1901,17,Tipperary,-,Both sexes,Number,160232
+F1001C01,Population at Each Census,1901,1901,17,Tipperary,1,Male,Number,81399
+F1001C01,Population at Each Census,1901,1901,17,Tipperary,2,Female,Number,78833
+F1001C01,Population at Each Census,1901,1901,18,Waterford,-,Both sexes,Number,87187
+F1001C01,Population at Each Census,1901,1901,18,Waterford,1,Male,Number,43005
+F1001C01,Population at Each Census,1901,1901,18,Waterford,2,Female,Number,44182
+F1001C01,Population at Each Census,1901,1901,19,Galway,-,Both sexes,Number,192549
+F1001C01,Population at Each Census,1901,1901,19,Galway,1,Male,Number,97923
+F1001C01,Population at Each Census,1901,1901,19,Galway,2,Female,Number,94626
+F1001C01,Population at Each Census,1901,1901,20,Leitrim,-,Both sexes,Number,69343
+F1001C01,Population at Each Census,1901,1901,20,Leitrim,1,Male,Number,35098
+F1001C01,Population at Each Census,1901,1901,20,Leitrim,2,Female,Number,34245
+F1001C01,Population at Each Census,1901,1901,21,Mayo,-,Both sexes,Number,199166
+F1001C01,Population at Each Census,1901,1901,21,Mayo,1,Male,Number,97564
+F1001C01,Population at Each Census,1901,1901,21,Mayo,2,Female,Number,101602
+F1001C01,Population at Each Census,1901,1901,22,Roscommon,-,Both sexes,Number,101791
+F1001C01,Population at Each Census,1901,1901,22,Roscommon,1,Male,Number,51233
+F1001C01,Population at Each Census,1901,1901,22,Roscommon,2,Female,Number,50558
+F1001C01,Population at Each Census,1901,1901,23,Sligo,-,Both sexes,Number,84083
+F1001C01,Population at Each Census,1901,1901,23,Sligo,1,Male,Number,41849
+F1001C01,Population at Each Census,1901,1901,23,Sligo,2,Female,Number,42234
+F1001C01,Population at Each Census,1901,1901,24,Cavan,-,Both sexes,Number,97541
+F1001C01,Population at Each Census,1901,1901,24,Cavan,1,Male,Number,50087
+F1001C01,Population at Each Census,1901,1901,24,Cavan,2,Female,Number,47454
+F1001C01,Population at Each Census,1901,1901,25,Donegal,-,Both sexes,Number,173722
+F1001C01,Population at Each Census,1901,1901,25,Donegal,1,Male,Number,86444
+F1001C01,Population at Each Census,1901,1901,25,Donegal,2,Female,Number,87278
+F1001C01,Population at Each Census,1901,1901,26,Monaghan,-,Both sexes,Number,74611
+F1001C01,Population at Each Census,1901,1901,26,Monaghan,1,Male,Number,37108
+F1001C01,Population at Each Census,1901,1901,26,Monaghan,2,Female,Number,37503
+F1001C01,Population at Each Census,1911,1911,-,State,-,Both sexes,Number,3139688
+F1001C01,Population at Each Census,1911,1911,-,State,1,Male,Number,1589509
+F1001C01,Population at Each Census,1911,1911,-,State,2,Female,Number,1550179
+F1001C01,Population at Each Census,1911,1911,01,Carlow,-,Both sexes,Number,36252
+F1001C01,Population at Each Census,1911,1911,01,Carlow,1,Male,Number,18481
+F1001C01,Population at Each Census,1911,1911,01,Carlow,2,Female,Number,17771
+F1001C01,Population at Each Census,1911,1911,02,Dublin,-,Both sexes,Number,477196
+F1001C01,Population at Each Census,1911,1911,02,Dublin,1,Male,Number,226364
+F1001C01,Population at Each Census,1911,1911,02,Dublin,2,Female,Number,250832
+F1001C01,Population at Each Census,1911,1911,03,Kildare,-,Both sexes,Number,66627
+F1001C01,Population at Each Census,1911,1911,03,Kildare,1,Male,Number,37684
+F1001C01,Population at Each Census,1911,1911,03,Kildare,2,Female,Number,28943
+F1001C01,Population at Each Census,1911,1911,04,Kilkenny,-,Both sexes,Number,74962
+F1001C01,Population at Each Census,1911,1911,04,Kilkenny,1,Male,Number,38551
+F1001C01,Population at Each Census,1911,1911,04,Kilkenny,2,Female,Number,36411
+F1001C01,Population at Each Census,1911,1911,05,Laois,-,Both sexes,Number,54629
+F1001C01,Population at Each Census,1911,1911,05,Laois,1,Male,Number,28711
+F1001C01,Population at Each Census,1911,1911,05,Laois,2,Female,Number,25918
+F1001C01,Population at Each Census,1911,1911,06,Longford,-,Both sexes,Number,43820
+F1001C01,Population at Each Census,1911,1911,06,Longford,1,Male,Number,22656
+F1001C01,Population at Each Census,1911,1911,06,Longford,2,Female,Number,21164
+F1001C01,Population at Each Census,1911,1911,07,Louth,-,Both sexes,Number,63665
+F1001C01,Population at Each Census,1911,1911,07,Louth,1,Male,Number,32191
+F1001C01,Population at Each Census,1911,1911,07,Louth,2,Female,Number,31474
+F1001C01,Population at Each Census,1911,1911,08,Meath,-,Both sexes,Number,65091
+F1001C01,Population at Each Census,1911,1911,08,Meath,1,Male,Number,33934
+F1001C01,Population at Each Census,1911,1911,08,Meath,2,Female,Number,31157
+F1001C01,Population at Each Census,1911,1911,09,Offaly,-,Both sexes,Number,56832
+F1001C01,Population at Each Census,1911,1911,09,Offaly,1,Male,Number,29804
+F1001C01,Population at Each Census,1911,1911,09,Offaly,2,Female,Number,27028
+F1001C01,Population at Each Census,1911,1911,10,Westmeath,-,Both sexes,Number,59986
+F1001C01,Population at Each Census,1911,1911,10,Westmeath,1,Male,Number,31910
+F1001C01,Population at Each Census,1911,1911,10,Westmeath,2,Female,Number,28076
+F1001C01,Population at Each Census,1911,1911,11,Wexford,-,Both sexes,Number,102273
+F1001C01,Population at Each Census,1911,1911,11,Wexford,1,Male,Number,51568
+F1001C01,Population at Each Census,1911,1911,11,Wexford,2,Female,Number,50705
+F1001C01,Population at Each Census,1911,1911,12,Wicklow,-,Both sexes,Number,60711
+F1001C01,Population at Each Census,1911,1911,12,Wicklow,1,Male,Number,31113
+F1001C01,Population at Each Census,1911,1911,12,Wicklow,2,Female,Number,29598
+F1001C01,Population at Each Census,1911,1911,13,Clare,-,Both sexes,Number,104232
+F1001C01,Population at Each Census,1911,1911,13,Clare,1,Male,Number,53877
+F1001C01,Population at Each Census,1911,1911,13,Clare,2,Female,Number,50355
+F1001C01,Population at Each Census,1911,1911,14,Cork,-,Both sexes,Number,392104
+F1001C01,Population at Each Census,1911,1911,14,Cork,1,Male,Number,197516
+F1001C01,Population at Each Census,1911,1911,14,Cork,2,Female,Number,194588
+F1001C01,Population at Each Census,1911,1911,15,Kerry,-,Both sexes,Number,159691
+F1001C01,Population at Each Census,1911,1911,15,Kerry,1,Male,Number,81474
+F1001C01,Population at Each Census,1911,1911,15,Kerry,2,Female,Number,78217
+F1001C01,Population at Each Census,1911,1911,16,Limerick,-,Both sexes,Number,143069
+F1001C01,Population at Each Census,1911,1911,16,Limerick,1,Male,Number,72229
+F1001C01,Population at Each Census,1911,1911,16,Limerick,2,Female,Number,70840
+F1001C01,Population at Each Census,1911,1911,17,Tipperary,-,Both sexes,Number,152433
+F1001C01,Population at Each Census,1911,1911,17,Tipperary,1,Male,Number,78584
+F1001C01,Population at Each Census,1911,1911,17,Tipperary,2,Female,Number,73849
+F1001C01,Population at Each Census,1911,1911,18,Waterford,-,Both sexes,Number,83966
+F1001C01,Population at Each Census,1911,1911,18,Waterford,1,Male,Number,42450
+F1001C01,Population at Each Census,1911,1911,18,Waterford,2,Female,Number,41516
+F1001C01,Population at Each Census,1911,1911,19,Galway,-,Both sexes,Number,182224
+F1001C01,Population at Each Census,1911,1911,19,Galway,1,Male,Number,94403
+F1001C01,Population at Each Census,1911,1911,19,Galway,2,Female,Number,87821
+F1001C01,Population at Each Census,1911,1911,20,Leitrim,-,Both sexes,Number,63582
+F1001C01,Population at Each Census,1911,1911,20,Leitrim,1,Male,Number,32759
+F1001C01,Population at Each Census,1911,1911,20,Leitrim,2,Female,Number,30823
+F1001C01,Population at Each Census,1911,1911,21,Mayo,-,Both sexes,Number,192177
+F1001C01,Population at Each Census,1911,1911,21,Mayo,1,Male,Number,96345
+F1001C01,Population at Each Census,1911,1911,21,Mayo,2,Female,Number,95832
+F1001C01,Population at Each Census,1911,1911,22,Roscommon,-,Both sexes,Number,93956
+F1001C01,Population at Each Census,1911,1911,22,Roscommon,1,Male,Number,48522
+F1001C01,Population at Each Census,1911,1911,22,Roscommon,2,Female,Number,45434
+F1001C01,Population at Each Census,1911,1911,23,Sligo,-,Both sexes,Number,79045
+F1001C01,Population at Each Census,1911,1911,23,Sligo,1,Male,Number,40060
+F1001C01,Population at Each Census,1911,1911,23,Sligo,2,Female,Number,38985
+F1001C01,Population at Each Census,1911,1911,24,Cavan,-,Both sexes,Number,91173
+F1001C01,Population at Each Census,1911,1911,24,Cavan,1,Male,Number,47743
+F1001C01,Population at Each Census,1911,1911,24,Cavan,2,Female,Number,43430
+F1001C01,Population at Each Census,1911,1911,25,Donegal,-,Both sexes,Number,168537
+F1001C01,Population at Each Census,1911,1911,25,Donegal,1,Male,Number,84627
+F1001C01,Population at Each Census,1911,1911,25,Donegal,2,Female,Number,83910
+F1001C01,Population at Each Census,1911,1911,26,Monaghan,-,Both sexes,Number,71455
+F1001C01,Population at Each Census,1911,1911,26,Monaghan,1,Male,Number,35953
+F1001C01,Population at Each Census,1911,1911,26,Monaghan,2,Female,Number,35502
+F1001C01,Population at Each Census,1926,1926,-,State,-,Both sexes,Number,2971992
+F1001C01,Population at Each Census,1926,1926,-,State,1,Male,Number,1506889
+F1001C01,Population at Each Census,1926,1926,-,State,2,Female,Number,1465103
+F1001C01,Population at Each Census,1926,1926,01,Carlow,-,Both sexes,Number,34476
+F1001C01,Population at Each Census,1926,1926,01,Carlow,1,Male,Number,17802
+F1001C01,Population at Each Census,1926,1926,01,Carlow,2,Female,Number,16674
+F1001C01,Population at Each Census,1926,1926,02,Dublin,-,Both sexes,Number,505654
+F1001C01,Population at Each Census,1926,1926,02,Dublin,1,Male,Number,238995
+F1001C01,Population at Each Census,1926,1926,02,Dublin,2,Female,Number,266659
+F1001C01,Population at Each Census,1926,1926,03,Kildare,-,Both sexes,Number,58028
+F1001C01,Population at Each Census,1926,1926,03,Kildare,1,Male,Number,31987
+F1001C01,Population at Each Census,1926,1926,03,Kildare,2,Female,Number,26041
+F1001C01,Population at Each Census,1926,1926,04,Kilkenny,-,Both sexes,Number,70990
+F1001C01,Population at Each Census,1926,1926,04,Kilkenny,1,Male,Number,37084
+F1001C01,Population at Each Census,1926,1926,04,Kilkenny,2,Female,Number,33906
+F1001C01,Population at Each Census,1926,1926,05,Laois,-,Both sexes,Number,51540
+F1001C01,Population at Each Census,1926,1926,05,Laois,1,Male,Number,27198
+F1001C01,Population at Each Census,1926,1926,05,Laois,2,Female,Number,24342
+F1001C01,Population at Each Census,1926,1926,06,Longford,-,Both sexes,Number,39847
+F1001C01,Population at Each Census,1926,1926,06,Longford,1,Male,Number,20805
+F1001C01,Population at Each Census,1926,1926,06,Longford,2,Female,Number,19042
+F1001C01,Population at Each Census,1926,1926,07,Louth,-,Both sexes,Number,62739
+F1001C01,Population at Each Census,1926,1926,07,Louth,1,Male,Number,31749
+F1001C01,Population at Each Census,1926,1926,07,Louth,2,Female,Number,30990
+F1001C01,Population at Each Census,1926,1926,08,Meath,-,Both sexes,Number,62969
+F1001C01,Population at Each Census,1926,1926,08,Meath,1,Male,Number,33082
+F1001C01,Population at Each Census,1926,1926,08,Meath,2,Female,Number,29887
+F1001C01,Population at Each Census,1926,1926,09,Offaly,-,Both sexes,Number,52592
+F1001C01,Population at Each Census,1926,1926,09,Offaly,1,Male,Number,27566
+F1001C01,Population at Each Census,1926,1926,09,Offaly,2,Female,Number,25026
+F1001C01,Population at Each Census,1926,1926,10,Westmeath,-,Both sexes,Number,56818
+F1001C01,Population at Each Census,1926,1926,10,Westmeath,1,Male,Number,30151
+F1001C01,Population at Each Census,1926,1926,10,Westmeath,2,Female,Number,26667
+F1001C01,Population at Each Census,1926,1926,11,Wexford,-,Both sexes,Number,95848
+F1001C01,Population at Each Census,1926,1926,11,Wexford,1,Male,Number,48570
+F1001C01,Population at Each Census,1926,1926,11,Wexford,2,Female,Number,47278
+F1001C01,Population at Each Census,1926,1926,12,Wicklow,-,Both sexes,Number,57591
+F1001C01,Population at Each Census,1926,1926,12,Wicklow,1,Male,Number,28911
+F1001C01,Population at Each Census,1926,1926,12,Wicklow,2,Female,Number,28680
+F1001C01,Population at Each Census,1926,1926,13,Clare,-,Both sexes,Number,95064
+F1001C01,Population at Each Census,1926,1926,13,Clare,1,Male,Number,50071
+F1001C01,Population at Each Census,1926,1926,13,Clare,2,Female,Number,44993
+F1001C01,Population at Each Census,1926,1926,14,Cork,-,Both sexes,Number,365747
+F1001C01,Population at Each Census,1926,1926,14,Cork,1,Male,Number,183192
+F1001C01,Population at Each Census,1926,1926,14,Cork,2,Female,Number,182555
+F1001C01,Population at Each Census,1926,1926,15,Kerry,-,Both sexes,Number,149171
+F1001C01,Population at Each Census,1926,1926,15,Kerry,1,Male,Number,76863
+F1001C01,Population at Each Census,1926,1926,15,Kerry,2,Female,Number,72308
+F1001C01,Population at Each Census,1926,1926,16,Limerick,-,Both sexes,Number,140343
+F1001C01,Population at Each Census,1926,1926,16,Limerick,1,Male,Number,71172
+F1001C01,Population at Each Census,1926,1926,16,Limerick,2,Female,Number,69171
+F1001C01,Population at Each Census,1926,1926,17,Tipperary,-,Both sexes,Number,141015
+F1001C01,Population at Each Census,1926,1926,17,Tipperary,1,Male,Number,72904
+F1001C01,Population at Each Census,1926,1926,17,Tipperary,2,Female,Number,68111
+F1001C01,Population at Each Census,1926,1926,18,Waterford,-,Both sexes,Number,78562
+F1001C01,Population at Each Census,1926,1926,18,Waterford,1,Male,Number,39426
+F1001C01,Population at Each Census,1926,1926,18,Waterford,2,Female,Number,39136
+F1001C01,Population at Each Census,1926,1926,19,Galway,-,Both sexes,Number,169366
+F1001C01,Population at Each Census,1926,1926,19,Galway,1,Male,Number,88481
+F1001C01,Population at Each Census,1926,1926,19,Galway,2,Female,Number,80885
+F1001C01,Population at Each Census,1926,1926,20,Leitrim,-,Both sexes,Number,55907
+F1001C01,Population at Each Census,1926,1926,20,Leitrim,1,Male,Number,29247
+F1001C01,Population at Each Census,1926,1926,20,Leitrim,2,Female,Number,26660
+F1001C01,Population at Each Census,1926,1926,21,Mayo,-,Both sexes,Number,172690
+F1001C01,Population at Each Census,1926,1926,21,Mayo,1,Male,Number,86778
+F1001C01,Population at Each Census,1926,1926,21,Mayo,2,Female,Number,85912
+F1001C01,Population at Each Census,1926,1926,22,Roscommon,-,Both sexes,Number,83556
+F1001C01,Population at Each Census,1926,1926,22,Roscommon,1,Male,Number,43281
+F1001C01,Population at Each Census,1926,1926,22,Roscommon,2,Female,Number,40275
+F1001C01,Population at Each Census,1926,1926,23,Sligo,-,Both sexes,Number,71388
+F1001C01,Population at Each Census,1926,1926,23,Sligo,1,Male,Number,36666
+F1001C01,Population at Each Census,1926,1926,23,Sligo,2,Female,Number,34722
+F1001C01,Population at Each Census,1926,1926,24,Cavan,-,Both sexes,Number,82452
+F1001C01,Population at Each Census,1926,1926,24,Cavan,1,Male,Number,43550
+F1001C01,Population at Each Census,1926,1926,24,Cavan,2,Female,Number,38902
+F1001C01,Population at Each Census,1926,1926,25,Donegal,-,Both sexes,Number,152508
+F1001C01,Population at Each Census,1926,1926,25,Donegal,1,Male,Number,78100
+F1001C01,Population at Each Census,1926,1926,25,Donegal,2,Female,Number,74408
+F1001C01,Population at Each Census,1926,1926,26,Monaghan,-,Both sexes,Number,65131
+F1001C01,Population at Each Census,1926,1926,26,Monaghan,1,Male,Number,33258
+F1001C01,Population at Each Census,1926,1926,26,Monaghan,2,Female,Number,31873
+F1001C01,Population at Each Census,1936,1936,-,State,-,Both sexes,Number,2968420
+F1001C01,Population at Each Census,1936,1936,-,State,1,Male,Number,1520454
+F1001C01,Population at Each Census,1936,1936,-,State,2,Female,Number,1447966
+F1001C01,Population at Each Census,1936,1936,01,Carlow,-,Both sexes,Number,34452
+F1001C01,Population at Each Census,1936,1936,01,Carlow,1,Male,Number,18066
+F1001C01,Population at Each Census,1936,1936,01,Carlow,2,Female,Number,16386
+F1001C01,Population at Each Census,1936,1936,02,Dublin,-,Both sexes,Number,586925
+F1001C01,Population at Each Census,1936,1936,02,Dublin,1,Male,Number,277098
+F1001C01,Population at Each Census,1936,1936,02,Dublin,2,Female,Number,309827
+F1001C01,Population at Each Census,1936,1936,03,Kildare,-,Both sexes,Number,57892
+F1001C01,Population at Each Census,1936,1936,03,Kildare,1,Male,Number,31956
+F1001C01,Population at Each Census,1936,1936,03,Kildare,2,Female,Number,25936
+F1001C01,Population at Each Census,1936,1936,04,Kilkenny,-,Both sexes,Number,68614
+F1001C01,Population at Each Census,1936,1936,04,Kilkenny,1,Male,Number,36489
+F1001C01,Population at Each Census,1936,1936,04,Kilkenny,2,Female,Number,32125
+F1001C01,Population at Each Census,1936,1936,05,Laois,-,Both sexes,Number,50109
+F1001C01,Population at Each Census,1936,1936,05,Laois,1,Male,Number,27149
+F1001C01,Population at Each Census,1936,1936,05,Laois,2,Female,Number,22960
+F1001C01,Population at Each Census,1936,1936,06,Longford,-,Both sexes,Number,37847
+F1001C01,Population at Each Census,1936,1936,06,Longford,1,Male,Number,20152
+F1001C01,Population at Each Census,1936,1936,06,Longford,2,Female,Number,17695
+F1001C01,Population at Each Census,1936,1936,07,Louth,-,Both sexes,Number,64339
+F1001C01,Population at Each Census,1936,1936,07,Louth,1,Male,Number,32829
+F1001C01,Population at Each Census,1936,1936,07,Louth,2,Female,Number,31510
+F1001C01,Population at Each Census,1936,1936,08,Meath,-,Both sexes,Number,61405
+F1001C01,Population at Each Census,1936,1936,08,Meath,1,Male,Number,32501
+F1001C01,Population at Each Census,1936,1936,08,Meath,2,Female,Number,28904
+F1001C01,Population at Each Census,1936,1936,09,Offaly,-,Both sexes,Number,51308
+F1001C01,Population at Each Census,1936,1936,09,Offaly,1,Male,Number,27555
+F1001C01,Population at Each Census,1936,1936,09,Offaly,2,Female,Number,23753
+F1001C01,Population at Each Census,1936,1936,10,Westmeath,-,Both sexes,Number,54706
+F1001C01,Population at Each Census,1936,1936,10,Westmeath,1,Male,Number,29039
+F1001C01,Population at Each Census,1936,1936,10,Westmeath,2,Female,Number,25667
+F1001C01,Population at Each Census,1936,1936,11,Wexford,-,Both sexes,Number,94245
+F1001C01,Population at Each Census,1936,1936,11,Wexford,1,Male,Number,48577
+F1001C01,Population at Each Census,1936,1936,11,Wexford,2,Female,Number,45668
+F1001C01,Population at Each Census,1936,1936,12,Wicklow,-,Both sexes,Number,58569
+F1001C01,Population at Each Census,1936,1936,12,Wicklow,1,Male,Number,29868
+F1001C01,Population at Each Census,1936,1936,12,Wicklow,2,Female,Number,28701
+F1001C01,Population at Each Census,1936,1936,13,Clare,-,Both sexes,Number,89879
+F1001C01,Population at Each Census,1936,1936,13,Clare,1,Male,Number,47957
+F1001C01,Population at Each Census,1936,1936,13,Clare,2,Female,Number,41922
+F1001C01,Population at Each Census,1936,1936,14,Cork,-,Both sexes,Number,355957
+F1001C01,Population at Each Census,1936,1936,14,Cork,1,Male,Number,179620
+F1001C01,Population at Each Census,1936,1936,14,Cork,2,Female,Number,176337
+F1001C01,Population at Each Census,1936,1936,15,Kerry,-,Both sexes,Number,139834
+F1001C01,Population at Each Census,1936,1936,15,Kerry,1,Male,Number,73503
+F1001C01,Population at Each Census,1936,1936,15,Kerry,2,Female,Number,66331
+F1001C01,Population at Each Census,1936,1936,16,Limerick,-,Both sexes,Number,141153
+F1001C01,Population at Each Census,1936,1936,16,Limerick,1,Male,Number,72407
+F1001C01,Population at Each Census,1936,1936,16,Limerick,2,Female,Number,68746
+F1001C01,Population at Each Census,1936,1936,17,Tipperary,-,Both sexes,Number,137835
+F1001C01,Population at Each Census,1936,1936,17,Tipperary,1,Male,Number,72397
+F1001C01,Population at Each Census,1936,1936,17,Tipperary,2,Female,Number,65438
+F1001C01,Population at Each Census,1936,1936,18,Waterford,-,Both sexes,Number,77614
+F1001C01,Population at Each Census,1936,1936,18,Waterford,1,Male,Number,39528
+F1001C01,Population at Each Census,1936,1936,18,Waterford,2,Female,Number,38086
+F1001C01,Population at Each Census,1936,1936,19,Galway,-,Both sexes,Number,168198
+F1001C01,Population at Each Census,1936,1936,19,Galway,1,Male,Number,89170
+F1001C01,Population at Each Census,1936,1936,19,Galway,2,Female,Number,79028
+F1001C01,Population at Each Census,1936,1936,20,Leitrim,-,Both sexes,Number,50908
+F1001C01,Population at Each Census,1936,1936,20,Leitrim,1,Male,Number,27337
+F1001C01,Population at Each Census,1936,1936,20,Leitrim,2,Female,Number,23571
+F1001C01,Population at Each Census,1936,1936,21,Mayo,-,Both sexes,Number,161349
+F1001C01,Population at Each Census,1936,1936,21,Mayo,1,Male,Number,83213
+F1001C01,Population at Each Census,1936,1936,21,Mayo,2,Female,Number,78136
+F1001C01,Population at Each Census,1936,1936,22,Roscommon,-,Both sexes,Number,77566
+F1001C01,Population at Each Census,1936,1936,22,Roscommon,1,Male,Number,41308
+F1001C01,Population at Each Census,1936,1936,22,Roscommon,2,Female,Number,36258
+F1001C01,Population at Each Census,1936,1936,23,Sligo,-,Both sexes,Number,67447
+F1001C01,Population at Each Census,1936,1936,23,Sligo,1,Male,Number,35371
+F1001C01,Population at Each Census,1936,1936,23,Sligo,2,Female,Number,32076
+F1001C01,Population at Each Census,1936,1936,24,Cavan,-,Both sexes,Number,76670
+F1001C01,Population at Each Census,1936,1936,24,Cavan,1,Male,Number,41446
+F1001C01,Population at Each Census,1936,1936,24,Cavan,2,Female,Number,35224
+F1001C01,Population at Each Census,1936,1936,25,Donegal,-,Both sexes,Number,142310
+F1001C01,Population at Each Census,1936,1936,25,Donegal,1,Male,Number,73924
+F1001C01,Population at Each Census,1936,1936,25,Donegal,2,Female,Number,68386
+F1001C01,Population at Each Census,1936,1936,26,Monaghan,-,Both sexes,Number,61289
+F1001C01,Population at Each Census,1936,1936,26,Monaghan,1,Male,Number,31994
+F1001C01,Population at Each Census,1936,1936,26,Monaghan,2,Female,Number,29295
+F1001C01,Population at Each Census,1946,1946,-,State,-,Both sexes,Number,2955107
+F1001C01,Population at Each Census,1946,1946,-,State,1,Male,Number,1494877
+F1001C01,Population at Each Census,1946,1946,-,State,2,Female,Number,1460230
+F1001C01,Population at Each Census,1946,1946,01,Carlow,-,Both sexes,Number,34081
+F1001C01,Population at Each Census,1946,1946,01,Carlow,1,Male,Number,17702
+F1001C01,Population at Each Census,1946,1946,01,Carlow,2,Female,Number,16379
+F1001C01,Population at Each Census,1946,1946,02,Dublin,-,Both sexes,Number,636193
+F1001C01,Population at Each Census,1946,1946,02,Dublin,1,Male,Number,292205
+F1001C01,Population at Each Census,1946,1946,02,Dublin,2,Female,Number,343988
+F1001C01,Population at Each Census,1946,1946,03,Kildare,-,Both sexes,Number,64849
+F1001C01,Population at Each Census,1946,1946,03,Kildare,1,Male,Number,36057
+F1001C01,Population at Each Census,1946,1946,03,Kildare,2,Female,Number,28792
+F1001C01,Population at Each Census,1946,1946,04,Kilkenny,-,Both sexes,Number,66712
+F1001C01,Population at Each Census,1946,1946,04,Kilkenny,1,Male,Number,35464
+F1001C01,Population at Each Census,1946,1946,04,Kilkenny,2,Female,Number,31248
+F1001C01,Population at Each Census,1946,1946,05,Laois,-,Both sexes,Number,49697
+F1001C01,Population at Each Census,1946,1946,05,Laois,1,Male,Number,26751
+F1001C01,Population at Each Census,1946,1946,05,Laois,2,Female,Number,22946
+F1001C01,Population at Each Census,1946,1946,06,Longford,-,Both sexes,Number,36218
+F1001C01,Population at Each Census,1946,1946,06,Longford,1,Male,Number,19322
+F1001C01,Population at Each Census,1946,1946,06,Longford,2,Female,Number,16896
+F1001C01,Population at Each Census,1946,1946,07,Louth,-,Both sexes,Number,66194
+F1001C01,Population at Each Census,1946,1946,07,Louth,1,Male,Number,33399
+F1001C01,Population at Each Census,1946,1946,07,Louth,2,Female,Number,32795
+F1001C01,Population at Each Census,1946,1946,08,Meath,-,Both sexes,Number,66232
+F1001C01,Population at Each Census,1946,1946,08,Meath,1,Male,Number,34950
+F1001C01,Population at Each Census,1946,1946,08,Meath,2,Female,Number,31282
+F1001C01,Population at Each Census,1946,1946,09,Offaly,-,Both sexes,Number,53686
+F1001C01,Population at Each Census,1946,1946,09,Offaly,1,Male,Number,29311
+F1001C01,Population at Each Census,1946,1946,09,Offaly,2,Female,Number,24375
+F1001C01,Population at Each Census,1946,1946,10,Westmeath,-,Both sexes,Number,54949
+F1001C01,Population at Each Census,1946,1946,10,Westmeath,1,Male,Number,29058
+F1001C01,Population at Each Census,1946,1946,10,Westmeath,2,Female,Number,25891
+F1001C01,Population at Each Census,1946,1946,11,Wexford,-,Both sexes,Number,91855
+F1001C01,Population at Each Census,1946,1946,11,Wexford,1,Male,Number,46611
+F1001C01,Population at Each Census,1946,1946,11,Wexford,2,Female,Number,45244
+F1001C01,Population at Each Census,1946,1946,12,Wicklow,-,Both sexes,Number,60451
+F1001C01,Population at Each Census,1946,1946,12,Wicklow,1,Male,Number,30152
+F1001C01,Population at Each Census,1946,1946,12,Wicklow,2,Female,Number,30299
+F1001C01,Population at Each Census,1946,1946,13,Clare,-,Both sexes,Number,85064
+F1001C01,Population at Each Census,1946,1946,13,Clare,1,Male,Number,45350
+F1001C01,Population at Each Census,1946,1946,13,Clare,2,Female,Number,39714
+F1001C01,Population at Each Census,1946,1946,14,Cork,-,Both sexes,Number,343668
+F1001C01,Population at Each Census,1946,1946,14,Cork,1,Male,Number,171110
+F1001C01,Population at Each Census,1946,1946,14,Cork,2,Female,Number,172558
+F1001C01,Population at Each Census,1946,1946,15,Kerry,-,Both sexes,Number,133893
+F1001C01,Population at Each Census,1946,1946,15,Kerry,1,Male,Number,70113
+F1001C01,Population at Each Census,1946,1946,15,Kerry,2,Female,Number,63780
+F1001C01,Population at Each Census,1946,1946,16,Limerick,-,Both sexes,Number,142559
+F1001C01,Population at Each Census,1946,1946,16,Limerick,1,Male,Number,72039
+F1001C01,Population at Each Census,1946,1946,16,Limerick,2,Female,Number,70520
+F1001C01,Population at Each Census,1946,1946,17,Tipperary,-,Both sexes,Number,136014
+F1001C01,Population at Each Census,1946,1946,17,Tipperary,1,Male,Number,70999
+F1001C01,Population at Each Census,1946,1946,17,Tipperary,2,Female,Number,65015
+F1001C01,Population at Each Census,1946,1946,18,Waterford,-,Both sexes,Number,76108
+F1001C01,Population at Each Census,1946,1946,18,Waterford,1,Male,Number,38087
+F1001C01,Population at Each Census,1946,1946,18,Waterford,2,Female,Number,38021
+F1001C01,Population at Each Census,1946,1946,19,Galway,-,Both sexes,Number,165201
+F1001C01,Population at Each Census,1946,1946,19,Galway,1,Male,Number,87435
+F1001C01,Population at Each Census,1946,1946,19,Galway,2,Female,Number,77766
+F1001C01,Population at Each Census,1946,1946,20,Leitrim,-,Both sexes,Number,44591
+F1001C01,Population at Each Census,1946,1946,20,Leitrim,1,Male,Number,24065
+F1001C01,Population at Each Census,1946,1946,20,Leitrim,2,Female,Number,20526
+F1001C01,Population at Each Census,1946,1946,21,Mayo,-,Both sexes,Number,148120
+F1001C01,Population at Each Census,1946,1946,21,Mayo,1,Male,Number,75073
+F1001C01,Population at Each Census,1946,1946,21,Mayo,2,Female,Number,73047
+F1001C01,Population at Each Census,1946,1946,22,Roscommon,-,Both sexes,Number,72510
+F1001C01,Population at Each Census,1946,1946,22,Roscommon,1,Male,Number,38845
+F1001C01,Population at Each Census,1946,1946,22,Roscommon,2,Female,Number,33665
+F1001C01,Population at Each Census,1946,1946,23,Sligo,-,Both sexes,Number,62375
+F1001C01,Population at Each Census,1946,1946,23,Sligo,1,Male,Number,32376
+F1001C01,Population at Each Census,1946,1946,23,Sligo,2,Female,Number,29999
+F1001C01,Population at Each Census,1946,1946,24,Cavan,-,Both sexes,Number,70355
+F1001C01,Population at Each Census,1946,1946,24,Cavan,1,Male,Number,38121
+F1001C01,Population at Each Census,1946,1946,24,Cavan,2,Female,Number,32234
+F1001C01,Population at Each Census,1946,1946,25,Donegal,-,Both sexes,Number,136317
+F1001C01,Population at Each Census,1946,1946,25,Donegal,1,Male,Number,70269
+F1001C01,Population at Each Census,1946,1946,25,Donegal,2,Female,Number,66048
+F1001C01,Population at Each Census,1946,1946,26,Monaghan,-,Both sexes,Number,57215
+F1001C01,Population at Each Census,1946,1946,26,Monaghan,1,Male,Number,30013
+F1001C01,Population at Each Census,1946,1946,26,Monaghan,2,Female,Number,27202
+F1001C01,Population at Each Census,1951,1951,-,State,-,Both sexes,Number,2960593
+F1001C01,Population at Each Census,1951,1951,-,State,1,Male,Number,1506597
+F1001C01,Population at Each Census,1951,1951,-,State,2,Female,Number,1453996
+F1001C01,Population at Each Census,1951,1951,01,Carlow,-,Both sexes,Number,34162
+F1001C01,Population at Each Census,1951,1951,01,Carlow,1,Male,Number,17848
+F1001C01,Population at Each Census,1951,1951,01,Carlow,2,Female,Number,16314
+F1001C01,Population at Each Census,1951,1951,02,Dublin,-,Both sexes,Number,693022
+F1001C01,Population at Each Census,1951,1951,02,Dublin,1,Male,Number,326126
+F1001C01,Population at Each Census,1951,1951,02,Dublin,2,Female,Number,366896
+F1001C01,Population at Each Census,1951,1951,03,Kildare,-,Both sexes,Number,66437
+F1001C01,Population at Each Census,1951,1951,03,Kildare,1,Male,Number,36364
+F1001C01,Population at Each Census,1951,1951,03,Kildare,2,Female,Number,30073
+F1001C01,Population at Each Census,1951,1951,04,Kilkenny,-,Both sexes,Number,65235
+F1001C01,Population at Each Census,1951,1951,04,Kilkenny,1,Male,Number,34687
+F1001C01,Population at Each Census,1951,1951,04,Kilkenny,2,Female,Number,30548
+F1001C01,Population at Each Census,1951,1951,05,Laois,-,Both sexes,Number,48430
+F1001C01,Population at Each Census,1951,1951,05,Laois,1,Male,Number,26154
+F1001C01,Population at Each Census,1951,1951,05,Laois,2,Female,Number,22276
+F1001C01,Population at Each Census,1951,1951,06,Longford,-,Both sexes,Number,34553
+F1001C01,Population at Each Census,1951,1951,06,Longford,1,Male,Number,18388
+F1001C01,Population at Each Census,1951,1951,06,Longford,2,Female,Number,16165
+F1001C01,Population at Each Census,1951,1951,07,Louth,-,Both sexes,Number,68771
+F1001C01,Population at Each Census,1951,1951,07,Louth,1,Male,Number,34886
+F1001C01,Population at Each Census,1951,1951,07,Louth,2,Female,Number,33885
+F1001C01,Population at Each Census,1951,1951,08,Meath,-,Both sexes,Number,66337
+F1001C01,Population at Each Census,1951,1951,08,Meath,1,Male,Number,34980
+F1001C01,Population at Each Census,1951,1951,08,Meath,2,Female,Number,31357
+F1001C01,Population at Each Census,1951,1951,09,Offaly,-,Both sexes,Number,52544
+F1001C01,Population at Each Census,1951,1951,09,Offaly,1,Male,Number,28306
+F1001C01,Population at Each Census,1951,1951,09,Offaly,2,Female,Number,24238
+F1001C01,Population at Each Census,1951,1951,10,Westmeath,-,Both sexes,Number,54463
+F1001C01,Population at Each Census,1951,1951,10,Westmeath,1,Male,Number,28737
+F1001C01,Population at Each Census,1951,1951,10,Westmeath,2,Female,Number,25726
+F1001C01,Population at Each Census,1951,1951,11,Wexford,-,Both sexes,Number,90032
+F1001C01,Population at Each Census,1951,1951,11,Wexford,1,Male,Number,45945
+F1001C01,Population at Each Census,1951,1951,11,Wexford,2,Female,Number,44087
+F1001C01,Population at Each Census,1951,1951,12,Wicklow,-,Both sexes,Number,62590
+F1001C01,Population at Each Census,1951,1951,12,Wicklow,1,Male,Number,31587
+F1001C01,Population at Each Census,1951,1951,12,Wicklow,2,Female,Number,31003
+F1001C01,Population at Each Census,1951,1951,13,Clare,-,Both sexes,Number,81329
+F1001C01,Population at Each Census,1951,1951,13,Clare,1,Male,Number,43473
+F1001C01,Population at Each Census,1951,1951,13,Clare,2,Female,Number,37856
+F1001C01,Population at Each Census,1951,1951,14,Cork,-,Both sexes,Number,341284
+F1001C01,Population at Each Census,1951,1951,14,Cork,1,Male,Number,170865
+F1001C01,Population at Each Census,1951,1951,14,Cork,2,Female,Number,170419
+F1001C01,Population at Each Census,1951,1951,15,Kerry,-,Both sexes,Number,126644
+F1001C01,Population at Each Census,1951,1951,15,Kerry,1,Male,Number,66507
+F1001C01,Population at Each Census,1951,1951,15,Kerry,2,Female,Number,60137
+F1001C01,Population at Each Census,1951,1951,16,Limerick,-,Both sexes,Number,141239
+F1001C01,Population at Each Census,1951,1951,16,Limerick,1,Male,Number,71691
+F1001C01,Population at Each Census,1951,1951,16,Limerick,2,Female,Number,69548
+F1001C01,Population at Each Census,1951,1951,17,Tipperary,-,Both sexes,Number,133313
+F1001C01,Population at Each Census,1951,1951,17,Tipperary,1,Male,Number,69866
+F1001C01,Population at Each Census,1951,1951,17,Tipperary,2,Female,Number,63447
+F1001C01,Population at Each Census,1951,1951,18,Waterford,-,Both sexes,Number,75061
+F1001C01,Population at Each Census,1951,1951,18,Waterford,1,Male,Number,37963
+F1001C01,Population at Each Census,1951,1951,18,Waterford,2,Female,Number,37098
+F1001C01,Population at Each Census,1951,1951,19,Galway,-,Both sexes,Number,160204
+F1001C01,Population at Each Census,1951,1951,19,Galway,1,Male,Number,85141
+F1001C01,Population at Each Census,1951,1951,19,Galway,2,Female,Number,75063
+F1001C01,Population at Each Census,1951,1951,20,Leitrim,-,Both sexes,Number,41209
+F1001C01,Population at Each Census,1951,1951,20,Leitrim,1,Male,Number,22374
+F1001C01,Population at Each Census,1951,1951,20,Leitrim,2,Female,Number,18835
+F1001C01,Population at Each Census,1951,1951,21,Mayo,-,Both sexes,Number,141867
+F1001C01,Population at Each Census,1951,1951,21,Mayo,1,Male,Number,73345
+F1001C01,Population at Each Census,1951,1951,21,Mayo,2,Female,Number,68522
+F1001C01,Population at Each Census,1951,1951,22,Roscommon,-,Both sexes,Number,68102
+F1001C01,Population at Each Census,1951,1951,22,Roscommon,1,Male,Number,36626
+F1001C01,Population at Each Census,1951,1951,22,Roscommon,2,Female,Number,31476
+F1001C01,Population at Each Census,1951,1951,23,Sligo,-,Both sexes,Number,60513
+F1001C01,Population at Each Census,1951,1951,23,Sligo,1,Male,Number,31469
+F1001C01,Population at Each Census,1951,1951,23,Sligo,2,Female,Number,29044
+F1001C01,Population at Each Census,1951,1951,24,Cavan,-,Both sexes,Number,66377
+F1001C01,Population at Each Census,1951,1951,24,Cavan,1,Male,Number,36187
+F1001C01,Population at Each Census,1951,1951,24,Cavan,2,Female,Number,30190
+F1001C01,Population at Each Census,1951,1951,25,Donegal,-,Both sexes,Number,131530
+F1001C01,Population at Each Census,1951,1951,25,Donegal,1,Male,Number,67964
+F1001C01,Population at Each Census,1951,1951,25,Donegal,2,Female,Number,63566
+F1001C01,Population at Each Census,1951,1951,26,Monaghan,-,Both sexes,Number,55345
+F1001C01,Population at Each Census,1951,1951,26,Monaghan,1,Male,Number,29118
+F1001C01,Population at Each Census,1951,1951,26,Monaghan,2,Female,Number,26227
+F1001C01,Population at Each Census,1956,1956,-,State,-,Both sexes,Number,2898264
+F1001C01,Population at Each Census,1956,1956,-,State,1,Male,Number,1462928
+F1001C01,Population at Each Census,1956,1956,-,State,2,Female,Number,1435336
+F1001C01,Population at Each Census,1956,1956,01,Carlow,-,Both sexes,Number,33888
+F1001C01,Population at Each Census,1956,1956,01,Carlow,1,Male,Number,17666
+F1001C01,Population at Each Census,1956,1956,01,Carlow,2,Female,Number,16222
+F1001C01,Population at Each Census,1956,1956,02,Dublin,-,Both sexes,Number,705781
+F1001C01,Population at Each Census,1956,1956,02,Dublin,1,Male,Number,329627
+F1001C01,Population at Each Census,1956,1956,02,Dublin,2,Female,Number,376154
+F1001C01,Population at Each Census,1956,1956,03,Kildare,-,Both sexes,Number,65915
+F1001C01,Population at Each Census,1956,1956,03,Kildare,1,Male,Number,35069
+F1001C01,Population at Each Census,1956,1956,03,Kildare,2,Female,Number,30846
+F1001C01,Population at Each Census,1956,1956,04,Kilkenny,-,Both sexes,Number,64089
+F1001C01,Population at Each Census,1956,1956,04,Kilkenny,1,Male,Number,33927
+F1001C01,Population at Each Census,1956,1956,04,Kilkenny,2,Female,Number,30162
+F1001C01,Population at Each Census,1956,1956,05,Laois,-,Both sexes,Number,47087
+F1001C01,Population at Each Census,1956,1956,05,Laois,1,Male,Number,25233
+F1001C01,Population at Each Census,1956,1956,05,Laois,2,Female,Number,21854
+F1001C01,Population at Each Census,1956,1956,06,Longford,-,Both sexes,Number,32969
+F1001C01,Population at Each Census,1956,1956,06,Longford,1,Male,Number,17477
+F1001C01,Population at Each Census,1956,1956,06,Longford,2,Female,Number,15492
+F1001C01,Population at Each Census,1956,1956,07,Louth,-,Both sexes,Number,69194
+F1001C01,Population at Each Census,1956,1956,07,Louth,1,Male,Number,34788
+F1001C01,Population at Each Census,1956,1956,07,Louth,2,Female,Number,34406
+F1001C01,Population at Each Census,1956,1956,08,Meath,-,Both sexes,Number,66762
+F1001C01,Population at Each Census,1956,1956,08,Meath,1,Male,Number,34830
+F1001C01,Population at Each Census,1956,1956,08,Meath,2,Female,Number,31932
+F1001C01,Population at Each Census,1956,1956,09,Offaly,-,Both sexes,Number,51970
+F1001C01,Population at Each Census,1956,1956,09,Offaly,1,Male,Number,27591
+F1001C01,Population at Each Census,1956,1956,09,Offaly,2,Female,Number,24379
+F1001C01,Population at Each Census,1956,1956,10,Westmeath,-,Both sexes,Number,54122
+F1001C01,Population at Each Census,1956,1956,10,Westmeath,1,Male,Number,28102
+F1001C01,Population at Each Census,1956,1956,10,Westmeath,2,Female,Number,26020
+F1001C01,Population at Each Census,1956,1956,11,Wexford,-,Both sexes,Number,87259
+F1001C01,Population at Each Census,1956,1956,11,Wexford,1,Male,Number,44210
+F1001C01,Population at Each Census,1956,1956,11,Wexford,2,Female,Number,43049
+F1001C01,Population at Each Census,1956,1956,12,Wicklow,-,Both sexes,Number,59906
+F1001C01,Population at Each Census,1956,1956,12,Wicklow,1,Male,Number,29933
+F1001C01,Population at Each Census,1956,1956,12,Wicklow,2,Female,Number,29973
+F1001C01,Population at Each Census,1956,1956,13,Clare,-,Both sexes,Number,77176
+F1001C01,Population at Each Census,1956,1956,13,Clare,1,Male,Number,40868
+F1001C01,Population at Each Census,1956,1956,13,Clare,2,Female,Number,36308
+F1001C01,Population at Each Census,1956,1956,14,Cork,-,Both sexes,Number,336663
+F1001C01,Population at Each Census,1956,1956,14,Cork,1,Male,Number,167952
+F1001C01,Population at Each Census,1956,1956,14,Cork,2,Female,Number,168711
+F1001C01,Population at Each Census,1956,1956,15,Kerry,-,Both sexes,Number,122072
+F1001C01,Population at Each Census,1956,1956,15,Kerry,1,Male,Number,63965
+F1001C01,Population at Each Census,1956,1956,15,Kerry,2,Female,Number,58107
+F1001C01,Population at Each Census,1956,1956,16,Limerick,-,Both sexes,Number,137881
+F1001C01,Population at Each Census,1956,1956,16,Limerick,1,Male,Number,69622
+F1001C01,Population at Each Census,1956,1956,16,Limerick,2,Female,Number,68259
+F1001C01,Population at Each Census,1956,1956,17,Tipperary,-,Both sexes,Number,129415
+F1001C01,Population at Each Census,1956,1956,17,Tipperary,1,Male,Number,67398
+F1001C01,Population at Each Census,1956,1956,17,Tipperary,2,Female,Number,62017
+F1001C01,Population at Each Census,1956,1956,18,Waterford,-,Both sexes,Number,74031
+F1001C01,Population at Each Census,1956,1956,18,Waterford,1,Male,Number,36977
+F1001C01,Population at Each Census,1956,1956,18,Waterford,2,Female,Number,37054
+F1001C01,Population at Each Census,1956,1956,19,Galway,-,Both sexes,Number,155553
+F1001C01,Population at Each Census,1956,1956,19,Galway,1,Male,Number,82223
+F1001C01,Population at Each Census,1956,1956,19,Galway,2,Female,Number,73330
+F1001C01,Population at Each Census,1956,1956,20,Leitrim,-,Both sexes,Number,37056
+F1001C01,Population at Each Census,1956,1956,20,Leitrim,1,Male,Number,19986
+F1001C01,Population at Each Census,1956,1956,20,Leitrim,2,Female,Number,17070
+F1001C01,Population at Each Census,1956,1956,21,Mayo,-,Both sexes,Number,133052
+F1001C01,Population at Each Census,1956,1956,21,Mayo,1,Male,Number,68879
+F1001C01,Population at Each Census,1956,1956,21,Mayo,2,Female,Number,64173
+F1001C01,Population at Each Census,1956,1956,22,Roscommon,-,Both sexes,Number,63710
+F1001C01,Population at Each Census,1956,1956,22,Roscommon,1,Male,Number,34078
+F1001C01,Population at Each Census,1956,1956,22,Roscommon,2,Female,Number,29632
+F1001C01,Population at Each Census,1956,1956,23,Sligo,-,Both sexes,Number,56850
+F1001C01,Population at Each Census,1956,1956,23,Sligo,1,Male,Number,29392
+F1001C01,Population at Each Census,1956,1956,23,Sligo,2,Female,Number,27458
+F1001C01,Population at Each Census,1956,1956,24,Cavan,-,Both sexes,Number,61740
+F1001C01,Population at Each Census,1956,1956,24,Cavan,1,Male,Number,33177
+F1001C01,Population at Each Census,1956,1956,24,Cavan,2,Female,Number,28563
+F1001C01,Population at Each Census,1956,1956,25,Donegal,-,Both sexes,Number,122059
+F1001C01,Population at Each Census,1956,1956,25,Donegal,1,Male,Number,62664
+F1001C01,Population at Each Census,1956,1956,25,Donegal,2,Female,Number,59395
+F1001C01,Population at Each Census,1956,1956,26,Monaghan,-,Both sexes,Number,52064
+F1001C01,Population at Each Census,1956,1956,26,Monaghan,1,Male,Number,27294
+F1001C01,Population at Each Census,1956,1956,26,Monaghan,2,Female,Number,24770
+F1001C01,Population at Each Census,1961,1961,-,State,-,Both sexes,Number,2818341
+F1001C01,Population at Each Census,1961,1961,-,State,1,Male,Number,1416549
+F1001C01,Population at Each Census,1961,1961,-,State,2,Female,Number,1401792
+F1001C01,Population at Each Census,1961,1961,01,Carlow,-,Both sexes,Number,33342
+F1001C01,Population at Each Census,1961,1961,01,Carlow,1,Male,Number,17360
+F1001C01,Population at Each Census,1961,1961,01,Carlow,2,Female,Number,15982
+F1001C01,Population at Each Census,1961,1961,02,Dublin,-,Both sexes,Number,718332
+F1001C01,Population at Each Census,1961,1961,02,Dublin,1,Male,Number,335004
+F1001C01,Population at Each Census,1961,1961,02,Dublin,2,Female,Number,383328
+F1001C01,Population at Each Census,1961,1961,03,Kildare,-,Both sexes,Number,64420
+F1001C01,Population at Each Census,1961,1961,03,Kildare,1,Male,Number,34068
+F1001C01,Population at Each Census,1961,1961,03,Kildare,2,Female,Number,30352
+F1001C01,Population at Each Census,1961,1961,04,Kilkenny,-,Both sexes,Number,61668
+F1001C01,Population at Each Census,1961,1961,04,Kilkenny,1,Male,Number,32252
+F1001C01,Population at Each Census,1961,1961,04,Kilkenny,2,Female,Number,29416
+F1001C01,Population at Each Census,1961,1961,05,Laois,-,Both sexes,Number,45069
+F1001C01,Population at Each Census,1961,1961,05,Laois,1,Male,Number,23989
+F1001C01,Population at Each Census,1961,1961,05,Laois,2,Female,Number,21080
+F1001C01,Population at Each Census,1961,1961,06,Longford,-,Both sexes,Number,30643
+F1001C01,Population at Each Census,1961,1961,06,Longford,1,Male,Number,16133
+F1001C01,Population at Each Census,1961,1961,06,Longford,2,Female,Number,14510
+F1001C01,Population at Each Census,1961,1961,07,Louth,-,Both sexes,Number,67378
+F1001C01,Population at Each Census,1961,1961,07,Louth,1,Male,Number,33627
+F1001C01,Population at Each Census,1961,1961,07,Louth,2,Female,Number,33751
+F1001C01,Population at Each Census,1961,1961,08,Meath,-,Both sexes,Number,65122
+F1001C01,Population at Each Census,1961,1961,08,Meath,1,Male,Number,33826
+F1001C01,Population at Each Census,1961,1961,08,Meath,2,Female,Number,31296
+F1001C01,Population at Each Census,1961,1961,09,Offaly,-,Both sexes,Number,51533
+F1001C01,Population at Each Census,1961,1961,09,Offaly,1,Male,Number,27188
+F1001C01,Population at Each Census,1961,1961,09,Offaly,2,Female,Number,24345
+F1001C01,Population at Each Census,1961,1961,10,Westmeath,-,Both sexes,Number,52861
+F1001C01,Population at Each Census,1961,1961,10,Westmeath,1,Male,Number,27183
+F1001C01,Population at Each Census,1961,1961,10,Westmeath,2,Female,Number,25678
+F1001C01,Population at Each Census,1961,1961,11,Wexford,-,Both sexes,Number,83308
+F1001C01,Population at Each Census,1961,1961,11,Wexford,1,Male,Number,42128
+F1001C01,Population at Each Census,1961,1961,11,Wexford,2,Female,Number,41180
+F1001C01,Population at Each Census,1961,1961,12,Wicklow,-,Both sexes,Number,58473
+F1001C01,Population at Each Census,1961,1961,12,Wicklow,1,Male,Number,29150
+F1001C01,Population at Each Census,1961,1961,12,Wicklow,2,Female,Number,29323
+F1001C01,Population at Each Census,1961,1961,13,Clare,-,Both sexes,Number,73702
+F1001C01,Population at Each Census,1961,1961,13,Clare,1,Male,Number,38904
+F1001C01,Population at Each Census,1961,1961,13,Clare,2,Female,Number,34798
+F1001C01,Population at Each Census,1961,1961,14,Cork,-,Both sexes,Number,330443
+F1001C01,Population at Each Census,1961,1961,14,Cork,1,Male,Number,164708
+F1001C01,Population at Each Census,1961,1961,14,Cork,2,Female,Number,165735
+F1001C01,Population at Each Census,1961,1961,15,Kerry,-,Both sexes,Number,116458
+F1001C01,Population at Each Census,1961,1961,15,Kerry,1,Male,Number,60838
+F1001C01,Population at Each Census,1961,1961,15,Kerry,2,Female,Number,55620
+F1001C01,Population at Each Census,1961,1961,16,Limerick,-,Both sexes,Number,133339
+F1001C01,Population at Each Census,1961,1961,16,Limerick,1,Male,Number,67173
+F1001C01,Population at Each Census,1961,1961,16,Limerick,2,Female,Number,66166
+F1001C01,Population at Each Census,1961,1961,17,Tipperary,-,Both sexes,Number,123822
+F1001C01,Population at Each Census,1961,1961,17,Tipperary,1,Male,Number,64141
+F1001C01,Population at Each Census,1961,1961,17,Tipperary,2,Female,Number,59681
+F1001C01,Population at Each Census,1961,1961,18,Waterford,-,Both sexes,Number,71439
+F1001C01,Population at Each Census,1961,1961,18,Waterford,1,Male,Number,35528
+F1001C01,Population at Each Census,1961,1961,18,Waterford,2,Female,Number,35911
+F1001C01,Population at Each Census,1961,1961,19,Galway,-,Both sexes,Number,149887
+F1001C01,Population at Each Census,1961,1961,19,Galway,1,Male,Number,78993
+F1001C01,Population at Each Census,1961,1961,19,Galway,2,Female,Number,70894
+F1001C01,Population at Each Census,1961,1961,20,Leitrim,-,Both sexes,Number,33470
+F1001C01,Population at Each Census,1961,1961,20,Leitrim,1,Male,Number,18031
+F1001C01,Population at Each Census,1961,1961,20,Leitrim,2,Female,Number,15439
+F1001C01,Population at Each Census,1961,1961,21,Mayo,-,Both sexes,Number,123330
+F1001C01,Population at Each Census,1961,1961,21,Mayo,1,Male,Number,63844
+F1001C01,Population at Each Census,1961,1961,21,Mayo,2,Female,Number,59486
+F1001C01,Population at Each Census,1961,1961,22,Roscommon,-,Both sexes,Number,59217
+F1001C01,Population at Each Census,1961,1961,22,Roscommon,1,Male,Number,31477
+F1001C01,Population at Each Census,1961,1961,22,Roscommon,2,Female,Number,27740
+F1001C01,Population at Each Census,1961,1961,23,Sligo,-,Both sexes,Number,53561
+F1001C01,Population at Each Census,1961,1961,23,Sligo,1,Male,Number,27638
+F1001C01,Population at Each Census,1961,1961,23,Sligo,2,Female,Number,25923
+F1001C01,Population at Each Census,1961,1961,24,Cavan,-,Both sexes,Number,56594
+F1001C01,Population at Each Census,1961,1961,24,Cavan,1,Male,Number,30277
+F1001C01,Population at Each Census,1961,1961,24,Cavan,2,Female,Number,26317
+F1001C01,Population at Each Census,1961,1961,25,Donegal,-,Both sexes,Number,113842
+F1001C01,Population at Each Census,1961,1961,25,Donegal,1,Male,Number,58501
+F1001C01,Population at Each Census,1961,1961,25,Donegal,2,Female,Number,55341
+F1001C01,Population at Each Census,1961,1961,26,Monaghan,-,Both sexes,Number,47088
+F1001C01,Population at Each Census,1961,1961,26,Monaghan,1,Male,Number,24588
+F1001C01,Population at Each Census,1961,1961,26,Monaghan,2,Female,Number,22500
+F1001C01,Population at Each Census,1966,1966,-,State,-,Both sexes,Number,2884002
+F1001C01,Population at Each Census,1966,1966,-,State,1,Male,Number,1449032
+F1001C01,Population at Each Census,1966,1966,-,State,2,Female,Number,1434970
+F1001C01,Population at Each Census,1966,1966,01,Carlow,-,Both sexes,Number,33593
+F1001C01,Population at Each Census,1966,1966,01,Carlow,1,Male,Number,17320
+F1001C01,Population at Each Census,1966,1966,01,Carlow,2,Female,Number,16273
+F1001C01,Population at Each Census,1966,1966,02,Dublin,-,Both sexes,Number,795047
+F1001C01,Population at Each Census,1966,1966,02,Dublin,1,Male,Number,375692
+F1001C01,Population at Each Census,1966,1966,02,Dublin,2,Female,Number,419355
+F1001C01,Population at Each Census,1966,1966,03,Kildare,-,Both sexes,Number,66404
+F1001C01,Population at Each Census,1966,1966,03,Kildare,1,Male,Number,34829
+F1001C01,Population at Each Census,1966,1966,03,Kildare,2,Female,Number,31575
+F1001C01,Population at Each Census,1966,1966,04,Kilkenny,-,Both sexes,Number,60463
+F1001C01,Population at Each Census,1966,1966,04,Kilkenny,1,Male,Number,31390
+F1001C01,Population at Each Census,1966,1966,04,Kilkenny,2,Female,Number,29073
+F1001C01,Population at Each Census,1966,1966,05,Laois,-,Both sexes,Number,44595
+F1001C01,Population at Each Census,1966,1966,05,Laois,1,Male,Number,23622
+F1001C01,Population at Each Census,1966,1966,05,Laois,2,Female,Number,20973
+F1001C01,Population at Each Census,1966,1966,06,Longford,-,Both sexes,Number,28989
+F1001C01,Population at Each Census,1966,1966,06,Longford,1,Male,Number,15245
+F1001C01,Population at Each Census,1966,1966,06,Longford,2,Female,Number,13744
+F1001C01,Population at Each Census,1966,1966,07,Louth,-,Both sexes,Number,69519
+F1001C01,Population at Each Census,1966,1966,07,Louth,1,Male,Number,34664
+F1001C01,Population at Each Census,1966,1966,07,Louth,2,Female,Number,34855
+F1001C01,Population at Each Census,1966,1966,08,Meath,-,Both sexes,Number,67323
+F1001C01,Population at Each Census,1966,1966,08,Meath,1,Male,Number,34877
+F1001C01,Population at Each Census,1966,1966,08,Meath,2,Female,Number,32446
+F1001C01,Population at Each Census,1966,1966,09,Offaly,-,Both sexes,Number,51717
+F1001C01,Population at Each Census,1966,1966,09,Offaly,1,Male,Number,27007
+F1001C01,Population at Each Census,1966,1966,09,Offaly,2,Female,Number,24710
+F1001C01,Population at Each Census,1966,1966,10,Westmeath,-,Both sexes,Number,52900
+F1001C01,Population at Each Census,1966,1966,10,Westmeath,1,Male,Number,27101
+F1001C01,Population at Each Census,1966,1966,10,Westmeath,2,Female,Number,25799
+F1001C01,Population at Each Census,1966,1966,11,Wexford,-,Both sexes,Number,83437
+F1001C01,Population at Each Census,1966,1966,11,Wexford,1,Male,Number,42270
+F1001C01,Population at Each Census,1966,1966,11,Wexford,2,Female,Number,41167
+F1001C01,Population at Each Census,1966,1966,12,Wicklow,-,Both sexes,Number,60428
+F1001C01,Population at Each Census,1966,1966,12,Wicklow,1,Male,Number,30231
+F1001C01,Population at Each Census,1966,1966,12,Wicklow,2,Female,Number,30197
+F1001C01,Population at Each Census,1966,1966,13,Clare,-,Both sexes,Number,73597
+F1001C01,Population at Each Census,1966,1966,13,Clare,1,Male,Number,38667
+F1001C01,Population at Each Census,1966,1966,13,Clare,2,Female,Number,34930
+F1001C01,Population at Each Census,1966,1966,14,Cork,-,Both sexes,Number,339703
+F1001C01,Population at Each Census,1966,1966,14,Cork,1,Male,Number,170010
+F1001C01,Population at Each Census,1966,1966,14,Cork,2,Female,Number,169693
+F1001C01,Population at Each Census,1966,1966,15,Kerry,-,Both sexes,Number,112785
+F1001C01,Population at Each Census,1966,1966,15,Kerry,1,Male,Number,58674
+F1001C01,Population at Each Census,1966,1966,15,Kerry,2,Female,Number,54111
+F1001C01,Population at Each Census,1966,1966,16,Limerick,-,Both sexes,Number,137357
+F1001C01,Population at Each Census,1966,1966,16,Limerick,1,Male,Number,69135
+F1001C01,Population at Each Census,1966,1966,16,Limerick,2,Female,Number,68222
+F1001C01,Population at Each Census,1966,1966,17,Tipperary,-,Both sexes,Number,122812
+F1001C01,Population at Each Census,1966,1966,17,Tipperary,1,Male,Number,63416
+F1001C01,Population at Each Census,1966,1966,17,Tipperary,2,Female,Number,59396
+F1001C01,Population at Each Census,1966,1966,18,Waterford,-,Both sexes,Number,73080
+F1001C01,Population at Each Census,1966,1966,18,Waterford,1,Male,Number,36466
+F1001C01,Population at Each Census,1966,1966,18,Waterford,2,Female,Number,36614
+F1001C01,Population at Each Census,1966,1966,19,Galway,-,Both sexes,Number,148340
+F1001C01,Population at Each Census,1966,1966,19,Galway,1,Male,Number,77696
+F1001C01,Population at Each Census,1966,1966,19,Galway,2,Female,Number,70644
+F1001C01,Population at Each Census,1966,1966,20,Leitrim,-,Both sexes,Number,30572
+F1001C01,Population at Each Census,1966,1966,20,Leitrim,1,Male,Number,16444
+F1001C01,Population at Each Census,1966,1966,20,Leitrim,2,Female,Number,14128
+F1001C01,Population at Each Census,1966,1966,21,Mayo,-,Both sexes,Number,115547
+F1001C01,Population at Each Census,1966,1966,21,Mayo,1,Male,Number,59829
+F1001C01,Population at Each Census,1966,1966,21,Mayo,2,Female,Number,55718
+F1001C01,Population at Each Census,1966,1966,22,Roscommon,-,Both sexes,Number,56228
+F1001C01,Population at Each Census,1966,1966,22,Roscommon,1,Male,Number,29782
+F1001C01,Population at Each Census,1966,1966,22,Roscommon,2,Female,Number,26446
+F1001C01,Population at Each Census,1966,1966,23,Sligo,-,Both sexes,Number,51263
+F1001C01,Population at Each Census,1966,1966,23,Sligo,1,Male,Number,26346
+F1001C01,Population at Each Census,1966,1966,23,Sligo,2,Female,Number,24917
+F1001C01,Population at Each Census,1966,1966,24,Cavan,-,Both sexes,Number,54022
+F1001C01,Population at Each Census,1966,1966,24,Cavan,1,Male,Number,28803
+F1001C01,Population at Each Census,1966,1966,24,Cavan,2,Female,Number,25219
+F1001C01,Population at Each Census,1966,1966,25,Donegal,-,Both sexes,Number,108549
+F1001C01,Population at Each Census,1966,1966,25,Donegal,1,Male,Number,55606
+F1001C01,Population at Each Census,1966,1966,25,Donegal,2,Female,Number,52943
+F1001C01,Population at Each Census,1966,1966,26,Monaghan,-,Both sexes,Number,45732
+F1001C01,Population at Each Census,1966,1966,26,Monaghan,1,Male,Number,23910
+F1001C01,Population at Each Census,1966,1966,26,Monaghan,2,Female,Number,21822
+F1001C01,Population at Each Census,1971,1971,-,State,-,Both sexes,Number,2978248
+F1001C01,Population at Each Census,1971,1971,-,State,1,Male,Number,1495760
+F1001C01,Population at Each Census,1971,1971,-,State,2,Female,Number,1482488
+F1001C01,Population at Each Census,1971,1971,01,Carlow,-,Both sexes,Number,34237
+F1001C01,Population at Each Census,1971,1971,01,Carlow,1,Male,Number,17502
+F1001C01,Population at Each Census,1971,1971,01,Carlow,2,Female,Number,16735
+F1001C01,Population at Each Census,1971,1971,02,Dublin,-,Both sexes,Number,852219
+F1001C01,Population at Each Census,1971,1971,02,Dublin,1,Male,Number,406008
+F1001C01,Population at Each Census,1971,1971,02,Dublin,2,Female,Number,446211
+F1001C01,Population at Each Census,1971,1971,03,Kildare,-,Both sexes,Number,71977
+F1001C01,Population at Each Census,1971,1971,03,Kildare,1,Male,Number,37279
+F1001C01,Population at Each Census,1971,1971,03,Kildare,2,Female,Number,34698
+F1001C01,Population at Each Census,1971,1971,04,Kilkenny,-,Both sexes,Number,61473
+F1001C01,Population at Each Census,1971,1971,04,Kilkenny,1,Male,Number,31828
+F1001C01,Population at Each Census,1971,1971,04,Kilkenny,2,Female,Number,29645
+F1001C01,Population at Each Census,1971,1971,05,Laois,-,Both sexes,Number,45259
+F1001C01,Population at Each Census,1971,1971,05,Laois,1,Male,Number,23805
+F1001C01,Population at Each Census,1971,1971,05,Laois,2,Female,Number,21454
+F1001C01,Population at Each Census,1971,1971,06,Longford,-,Both sexes,Number,28250
+F1001C01,Population at Each Census,1971,1971,06,Longford,1,Male,Number,14891
+F1001C01,Population at Each Census,1971,1971,06,Longford,2,Female,Number,13359
+F1001C01,Population at Each Census,1971,1971,07,Louth,-,Both sexes,Number,74951
+F1001C01,Population at Each Census,1971,1971,07,Louth,1,Male,Number,37511
+F1001C01,Population at Each Census,1971,1971,07,Louth,2,Female,Number,37440
+F1001C01,Population at Each Census,1971,1971,08,Meath,-,Both sexes,Number,71729
+F1001C01,Population at Each Census,1971,1971,08,Meath,1,Male,Number,36977
+F1001C01,Population at Each Census,1971,1971,08,Meath,2,Female,Number,34752
+F1001C01,Population at Each Census,1971,1971,09,Offaly,-,Both sexes,Number,51829
+F1001C01,Population at Each Census,1971,1971,09,Offaly,1,Male,Number,27029
+F1001C01,Population at Each Census,1971,1971,09,Offaly,2,Female,Number,24800
+F1001C01,Population at Each Census,1971,1971,10,Westmeath,-,Both sexes,Number,53570
+F1001C01,Population at Each Census,1971,1971,10,Westmeath,1,Male,Number,27544
+F1001C01,Population at Each Census,1971,1971,10,Westmeath,2,Female,Number,26026
+F1001C01,Population at Each Census,1971,1971,11,Wexford,-,Both sexes,Number,86351
+F1001C01,Population at Each Census,1971,1971,11,Wexford,1,Male,Number,43768
+F1001C01,Population at Each Census,1971,1971,11,Wexford,2,Female,Number,42583
+F1001C01,Population at Each Census,1971,1971,12,Wicklow,-,Both sexes,Number,66295
+F1001C01,Population at Each Census,1971,1971,12,Wicklow,1,Male,Number,33318
+F1001C01,Population at Each Census,1971,1971,12,Wicklow,2,Female,Number,32977
+F1001C01,Population at Each Census,1971,1971,13,Clare,-,Both sexes,Number,75008
+F1001C01,Population at Each Census,1971,1971,13,Clare,1,Male,Number,39002
+F1001C01,Population at Each Census,1971,1971,13,Clare,2,Female,Number,36006
+F1001C01,Population at Each Census,1971,1971,14,Cork,-,Both sexes,Number,352883
+F1001C01,Population at Each Census,1971,1971,14,Cork,1,Male,Number,176786
+F1001C01,Population at Each Census,1971,1971,14,Cork,2,Female,Number,176097
+F1001C01,Population at Each Census,1971,1971,15,Kerry,-,Both sexes,Number,112772
+F1001C01,Population at Each Census,1971,1971,15,Kerry,1,Male,Number,58404
+F1001C01,Population at Each Census,1971,1971,15,Kerry,2,Female,Number,54368
+F1001C01,Population at Each Census,1971,1971,16,Limerick,-,Both sexes,Number,140459
+F1001C01,Population at Each Census,1971,1971,16,Limerick,1,Male,Number,70786
+F1001C01,Population at Each Census,1971,1971,16,Limerick,2,Female,Number,69673
+F1001C01,Population at Each Census,1971,1971,17,Tipperary,-,Both sexes,Number,123565
+F1001C01,Population at Each Census,1971,1971,17,Tipperary,1,Male,Number,63523
+F1001C01,Population at Each Census,1971,1971,17,Tipperary,2,Female,Number,60042
+F1001C01,Population at Each Census,1971,1971,18,Waterford,-,Both sexes,Number,77315
+F1001C01,Population at Each Census,1971,1971,18,Waterford,1,Male,Number,38770
+F1001C01,Population at Each Census,1971,1971,18,Waterford,2,Female,Number,38545
+F1001C01,Population at Each Census,1971,1971,19,Galway,-,Both sexes,Number,149223
+F1001C01,Population at Each Census,1971,1971,19,Galway,1,Male,Number,77842
+F1001C01,Population at Each Census,1971,1971,19,Galway,2,Female,Number,71381
+F1001C01,Population at Each Census,1971,1971,20,Leitrim,-,Both sexes,Number,28360
+F1001C01,Population at Each Census,1971,1971,20,Leitrim,1,Male,Number,15269
+F1001C01,Population at Each Census,1971,1971,20,Leitrim,2,Female,Number,13091
+F1001C01,Population at Each Census,1971,1971,21,Mayo,-,Both sexes,Number,109525
+F1001C01,Population at Each Census,1971,1971,21,Mayo,1,Male,Number,56402
+F1001C01,Population at Each Census,1971,1971,21,Mayo,2,Female,Number,53123
+F1001C01,Population at Each Census,1971,1971,22,Roscommon,-,Both sexes,Number,53519
+F1001C01,Population at Each Census,1971,1971,22,Roscommon,1,Male,Number,28294
+F1001C01,Population at Each Census,1971,1971,22,Roscommon,2,Female,Number,25225
+F1001C01,Population at Each Census,1971,1971,23,Sligo,-,Both sexes,Number,50275
+F1001C01,Population at Each Census,1971,1971,23,Sligo,1,Male,Number,25887
+F1001C01,Population at Each Census,1971,1971,23,Sligo,2,Female,Number,24388
+F1001C01,Population at Each Census,1971,1971,24,Cavan,-,Both sexes,Number,52618
+F1001C01,Population at Each Census,1971,1971,24,Cavan,1,Male,Number,27819
+F1001C01,Population at Each Census,1971,1971,24,Cavan,2,Female,Number,24799
+F1001C01,Population at Each Census,1971,1971,25,Donegal,-,Both sexes,Number,108344
+F1001C01,Population at Each Census,1971,1971,25,Donegal,1,Male,Number,55424
+F1001C01,Population at Each Census,1971,1971,25,Donegal,2,Female,Number,52920
+F1001C01,Population at Each Census,1971,1971,26,Monaghan,-,Both sexes,Number,46242
+F1001C01,Population at Each Census,1971,1971,26,Monaghan,1,Male,Number,24092
+F1001C01,Population at Each Census,1971,1971,26,Monaghan,2,Female,Number,22150
+F1001C01,Population at Each Census,1979,1979,-,State,-,Both sexes,Number,3368217
+F1001C01,Population at Each Census,1979,1979,-,State,1,Male,Number,1693272
+F1001C01,Population at Each Census,1979,1979,-,State,2,Female,Number,1674945
+F1001C01,Population at Each Census,1979,1979,01,Carlow,-,Both sexes,Number,38668
+F1001C01,Population at Each Census,1979,1979,01,Carlow,1,Male,Number,19743
+F1001C01,Population at Each Census,1979,1979,01,Carlow,2,Female,Number,18925
+F1001C01,Population at Each Census,1979,1979,02,Dublin,-,Both sexes,Number,983683
+F1001C01,Population at Each Census,1979,1979,02,Dublin,1,Male,Number,473104
+F1001C01,Population at Each Census,1979,1979,02,Dublin,2,Female,Number,510579
+F1001C01,Population at Each Census,1979,1979,03,Kildare,-,Both sexes,Number,97185
+F1001C01,Population at Each Census,1979,1979,03,Kildare,1,Male,Number,50666
+F1001C01,Population at Each Census,1979,1979,03,Kildare,2,Female,Number,46519
+F1001C01,Population at Each Census,1979,1979,04,Kilkenny,-,Both sexes,Number,69156
+F1001C01,Population at Each Census,1979,1979,04,Kilkenny,1,Male,Number,35688
+F1001C01,Population at Each Census,1979,1979,04,Kilkenny,2,Female,Number,33468
+F1001C01,Population at Each Census,1979,1979,05,Laois,-,Both sexes,Number,49936
+F1001C01,Population at Each Census,1979,1979,05,Laois,1,Male,Number,26192
+F1001C01,Population at Each Census,1979,1979,05,Laois,2,Female,Number,23744
+F1001C01,Population at Each Census,1979,1979,06,Longford,-,Both sexes,Number,30785
+F1001C01,Population at Each Census,1979,1979,06,Longford,1,Male,Number,16059
+F1001C01,Population at Each Census,1979,1979,06,Longford,2,Female,Number,14726
+F1001C01,Population at Each Census,1979,1979,07,Louth,-,Both sexes,Number,86135
+F1001C01,Population at Each Census,1979,1979,07,Louth,1,Male,Number,43061
+F1001C01,Population at Each Census,1979,1979,07,Louth,2,Female,Number,43074
+F1001C01,Population at Each Census,1979,1979,08,Meath,-,Both sexes,Number,90715
+F1001C01,Population at Each Census,1979,1979,08,Meath,1,Male,Number,46704
+F1001C01,Population at Each Census,1979,1979,08,Meath,2,Female,Number,44011
+F1001C01,Population at Each Census,1979,1979,09,Offaly,-,Both sexes,Number,57342
+F1001C01,Population at Each Census,1979,1979,09,Offaly,1,Male,Number,29792
+F1001C01,Population at Each Census,1979,1979,09,Offaly,2,Female,Number,27550
+F1001C01,Population at Each Census,1979,1979,10,Westmeath,-,Both sexes,Number,59885
+F1001C01,Population at Each Census,1979,1979,10,Westmeath,1,Male,Number,30557
+F1001C01,Population at Each Census,1979,1979,10,Westmeath,2,Female,Number,29328
+F1001C01,Population at Each Census,1979,1979,11,Wexford,-,Both sexes,Number,96421
+F1001C01,Population at Each Census,1979,1979,11,Wexford,1,Male,Number,48974
+F1001C01,Population at Each Census,1979,1979,11,Wexford,2,Female,Number,47447
+F1001C01,Population at Each Census,1979,1979,12,Wicklow,-,Both sexes,Number,83950
+F1001C01,Population at Each Census,1979,1979,12,Wicklow,1,Male,Number,41969
+F1001C01,Population at Each Census,1979,1979,12,Wicklow,2,Female,Number,41981
+F1001C01,Population at Each Census,1979,1979,13,Clare,-,Both sexes,Number,84919
+F1001C01,Population at Each Census,1979,1979,13,Clare,1,Male,Number,43945
+F1001C01,Population at Each Census,1979,1979,13,Clare,2,Female,Number,40974
+F1001C01,Population at Each Census,1979,1979,14,Cork,-,Both sexes,Number,396118
+F1001C01,Population at Each Census,1979,1979,14,Cork,1,Male,Number,199146
+F1001C01,Population at Each Census,1979,1979,14,Cork,2,Female,Number,196972
+F1001C01,Population at Each Census,1979,1979,15,Kerry,-,Both sexes,Number,120356
+F1001C01,Population at Each Census,1979,1979,15,Kerry,1,Male,Number,62185
+F1001C01,Population at Each Census,1979,1979,15,Kerry,2,Female,Number,58171
+F1001C01,Population at Each Census,1979,1979,16,Limerick,-,Both sexes,Number,157407
+F1001C01,Population at Each Census,1979,1979,16,Limerick,1,Male,Number,79302
+F1001C01,Population at Each Census,1979,1979,16,Limerick,2,Female,Number,78105
+F1001C01,Population at Each Census,1979,1979,17,Tipperary,-,Both sexes,Number,133741
+F1001C01,Population at Each Census,1979,1979,17,Tipperary,1,Male,Number,68877
+F1001C01,Population at Each Census,1979,1979,17,Tipperary,2,Female,Number,64864
+F1001C01,Population at Each Census,1979,1979,18,Waterford,-,Both sexes,Number,87278
+F1001C01,Population at Each Census,1979,1979,18,Waterford,1,Male,Number,43956
+F1001C01,Population at Each Census,1979,1979,18,Waterford,2,Female,Number,43322
+F1001C01,Population at Each Census,1979,1979,19,Galway,-,Both sexes,Number,167838
+F1001C01,Population at Each Census,1979,1979,19,Galway,1,Male,Number,86528
+F1001C01,Population at Each Census,1979,1979,19,Galway,2,Female,Number,81310
+F1001C01,Population at Each Census,1979,1979,20,Leitrim,-,Both sexes,Number,27844
+F1001C01,Population at Each Census,1979,1979,20,Leitrim,1,Male,Number,14878
+F1001C01,Population at Each Census,1979,1979,20,Leitrim,2,Female,Number,12966
+F1001C01,Population at Each Census,1979,1979,21,Mayo,-,Both sexes,Number,114019
+F1001C01,Population at Each Census,1979,1979,21,Mayo,1,Male,Number,58489
+F1001C01,Population at Each Census,1979,1979,21,Mayo,2,Female,Number,55530
+F1001C01,Population at Each Census,1979,1979,22,Roscommon,-,Both sexes,Number,54189
+F1001C01,Population at Each Census,1979,1979,22,Roscommon,1,Male,Number,28475
+F1001C01,Population at Each Census,1979,1979,22,Roscommon,2,Female,Number,25714
+F1001C01,Population at Each Census,1979,1979,23,Sligo,-,Both sexes,Number,54610
+F1001C01,Population at Each Census,1979,1979,23,Sligo,1,Male,Number,27806
+F1001C01,Population at Each Census,1979,1979,23,Sligo,2,Female,Number,26804
+F1001C01,Population at Each Census,1979,1979,24,Cavan,-,Both sexes,Number,53720
+F1001C01,Population at Each Census,1979,1979,24,Cavan,1,Male,Number,28302
+F1001C01,Population at Each Census,1979,1979,24,Cavan,2,Female,Number,25418
+F1001C01,Population at Each Census,1979,1979,25,Donegal,-,Both sexes,Number,121941
+F1001C01,Population at Each Census,1979,1979,25,Donegal,1,Male,Number,62629
+F1001C01,Population at Each Census,1979,1979,25,Donegal,2,Female,Number,59312
+F1001C01,Population at Each Census,1979,1979,26,Monaghan,-,Both sexes,Number,50376
+F1001C01,Population at Each Census,1979,1979,26,Monaghan,1,Male,Number,26245
+F1001C01,Population at Each Census,1979,1979,26,Monaghan,2,Female,Number,24131
+F1001C01,Population at Each Census,1981,1981,-,State,-,Both sexes,Number,3443405
+F1001C01,Population at Each Census,1981,1981,-,State,1,Male,Number,1729354
+F1001C01,Population at Each Census,1981,1981,-,State,2,Female,Number,1714051
+F1001C01,Population at Each Census,1981,1981,01,Carlow,-,Both sexes,Number,39820
+F1001C01,Population at Each Census,1981,1981,01,Carlow,1,Male,Number,20195
+F1001C01,Population at Each Census,1981,1981,01,Carlow,2,Female,Number,19625
+F1001C01,Population at Each Census,1981,1981,02,Dublin,-,Both sexes,Number,1003164
+F1001C01,Population at Each Census,1981,1981,02,Dublin,1,Male,Number,482342
+F1001C01,Population at Each Census,1981,1981,02,Dublin,2,Female,Number,520822
+F1001C01,Population at Each Census,1981,1981,03,Kildare,-,Both sexes,Number,104122
+F1001C01,Population at Each Census,1981,1981,03,Kildare,1,Male,Number,53967
+F1001C01,Population at Each Census,1981,1981,03,Kildare,2,Female,Number,50155
+F1001C01,Population at Each Census,1981,1981,04,Kilkenny,-,Both sexes,Number,70806
+F1001C01,Population at Each Census,1981,1981,04,Kilkenny,1,Male,Number,36395
+F1001C01,Population at Each Census,1981,1981,04,Kilkenny,2,Female,Number,34411
+F1001C01,Population at Each Census,1981,1981,05,Laois,-,Both sexes,Number,51171
+F1001C01,Population at Each Census,1981,1981,05,Laois,1,Male,Number,26774
+F1001C01,Population at Each Census,1981,1981,05,Laois,2,Female,Number,24397
+F1001C01,Population at Each Census,1981,1981,06,Longford,-,Both sexes,Number,31140
+F1001C01,Population at Each Census,1981,1981,06,Longford,1,Male,Number,16234
+F1001C01,Population at Each Census,1981,1981,06,Longford,2,Female,Number,14906
+F1001C01,Population at Each Census,1981,1981,07,Louth,-,Both sexes,Number,88514
+F1001C01,Population at Each Census,1981,1981,07,Louth,1,Male,Number,44125
+F1001C01,Population at Each Census,1981,1981,07,Louth,2,Female,Number,44389
+F1001C01,Population at Each Census,1981,1981,08,Meath,-,Both sexes,Number,95419
+F1001C01,Population at Each Census,1981,1981,08,Meath,1,Male,Number,48957
+F1001C01,Population at Each Census,1981,1981,08,Meath,2,Female,Number,46462
+F1001C01,Population at Each Census,1981,1981,09,Offaly,-,Both sexes,Number,58312
+F1001C01,Population at Each Census,1981,1981,09,Offaly,1,Male,Number,30290
+F1001C01,Population at Each Census,1981,1981,09,Offaly,2,Female,Number,28022
+F1001C01,Population at Each Census,1981,1981,10,Westmeath,-,Both sexes,Number,61523
+F1001C01,Population at Each Census,1981,1981,10,Westmeath,1,Male,Number,31388
+F1001C01,Population at Each Census,1981,1981,10,Westmeath,2,Female,Number,30135
+F1001C01,Population at Each Census,1981,1981,11,Wexford,-,Both sexes,Number,99081
+F1001C01,Population at Each Census,1981,1981,11,Wexford,1,Male,Number,50336
+F1001C01,Population at Each Census,1981,1981,11,Wexford,2,Female,Number,48745
+F1001C01,Population at Each Census,1981,1981,12,Wicklow,-,Both sexes,Number,87449
+F1001C01,Population at Each Census,1981,1981,12,Wicklow,1,Male,Number,43663
+F1001C01,Population at Each Census,1981,1981,12,Wicklow,2,Female,Number,43786
+F1001C01,Population at Each Census,1981,1981,13,Clare,-,Both sexes,Number,87567
+F1001C01,Population at Each Census,1981,1981,13,Clare,1,Male,Number,45366
+F1001C01,Population at Each Census,1981,1981,13,Clare,2,Female,Number,42201
+F1001C01,Population at Each Census,1981,1981,14,Cork,-,Both sexes,Number,402465
+F1001C01,Population at Each Census,1981,1981,14,Cork,1,Male,Number,202388
+F1001C01,Population at Each Census,1981,1981,14,Cork,2,Female,Number,200077
+F1001C01,Population at Each Census,1981,1981,15,Kerry,-,Both sexes,Number,122770
+F1001C01,Population at Each Census,1981,1981,15,Kerry,1,Male,Number,63492
+F1001C01,Population at Each Census,1981,1981,15,Kerry,2,Female,Number,59278
+F1001C01,Population at Each Census,1981,1981,16,Limerick,-,Both sexes,Number,161661
+F1001C01,Population at Each Census,1981,1981,16,Limerick,1,Male,Number,81595
+F1001C01,Population at Each Census,1981,1981,16,Limerick,2,Female,Number,80066
+F1001C01,Population at Each Census,1981,1981,17,Tipperary,-,Both sexes,Number,135261
+F1001C01,Population at Each Census,1981,1981,17,Tipperary,1,Male,Number,69503
+F1001C01,Population at Each Census,1981,1981,17,Tipperary,2,Female,Number,65758
+F1001C01,Population at Each Census,1981,1981,18,Waterford,-,Both sexes,Number,88591
+F1001C01,Population at Each Census,1981,1981,18,Waterford,1,Male,Number,44513
+F1001C01,Population at Each Census,1981,1981,18,Waterford,2,Female,Number,44078
+F1001C01,Population at Each Census,1981,1981,19,Galway,-,Both sexes,Number,172018
+F1001C01,Population at Each Census,1981,1981,19,Galway,1,Male,Number,88330
+F1001C01,Population at Each Census,1981,1981,19,Galway,2,Female,Number,83688
+F1001C01,Population at Each Census,1981,1981,20,Leitrim,-,Both sexes,Number,27609
+F1001C01,Population at Each Census,1981,1981,20,Leitrim,1,Male,Number,14699
+F1001C01,Population at Each Census,1981,1981,20,Leitrim,2,Female,Number,12910
+F1001C01,Population at Each Census,1981,1981,21,Mayo,-,Both sexes,Number,114766
+F1001C01,Population at Each Census,1981,1981,21,Mayo,1,Male,Number,58987
+F1001C01,Population at Each Census,1981,1981,21,Mayo,2,Female,Number,55779
+F1001C01,Population at Each Census,1981,1981,22,Roscommon,-,Both sexes,Number,54543
+F1001C01,Population at Each Census,1981,1981,22,Roscommon,1,Male,Number,28653
+F1001C01,Population at Each Census,1981,1981,22,Roscommon,2,Female,Number,25890
+F1001C01,Population at Each Census,1981,1981,23,Sligo,-,Both sexes,Number,55474
+F1001C01,Population at Each Census,1981,1981,23,Sligo,1,Male,Number,28183
+F1001C01,Population at Each Census,1981,1981,23,Sligo,2,Female,Number,27291
+F1001C01,Population at Each Census,1981,1981,24,Cavan,-,Both sexes,Number,53855
+F1001C01,Population at Each Census,1981,1981,24,Cavan,1,Male,Number,28338
+F1001C01,Population at Each Census,1981,1981,24,Cavan,2,Female,Number,25517
+F1001C01,Population at Each Census,1981,1981,25,Donegal,-,Both sexes,Number,125112
+F1001C01,Population at Each Census,1981,1981,25,Donegal,1,Male,Number,63962
+F1001C01,Population at Each Census,1981,1981,25,Donegal,2,Female,Number,61150
+F1001C01,Population at Each Census,1981,1981,26,Monaghan,-,Both sexes,Number,51192
+F1001C01,Population at Each Census,1981,1981,26,Monaghan,1,Male,Number,26679
+F1001C01,Population at Each Census,1981,1981,26,Monaghan,2,Female,Number,24513
+F1001C01,Population at Each Census,1986,1986,-,State,-,Both sexes,Number,3540643
+F1001C01,Population at Each Census,1986,1986,-,State,1,Male,Number,1769690
+F1001C01,Population at Each Census,1986,1986,-,State,2,Female,Number,1770953
+F1001C01,Population at Each Census,1986,1986,01,Carlow,-,Both sexes,Number,40988
+F1001C01,Population at Each Census,1986,1986,01,Carlow,1,Male,Number,20816
+F1001C01,Population at Each Census,1986,1986,01,Carlow,2,Female,Number,20172
+F1001C01,Population at Each Census,1986,1986,02,Dublin,-,Both sexes,Number,1021449
+F1001C01,Population at Each Census,1986,1986,02,Dublin,1,Male,Number,492279
+F1001C01,Population at Each Census,1986,1986,02,Dublin,2,Female,Number,529170
+F1001C01,Population at Each Census,1986,1986,03,Kildare,-,Both sexes,Number,116247
+F1001C01,Population at Each Census,1986,1986,03,Kildare,1,Male,Number,59542
+F1001C01,Population at Each Census,1986,1986,03,Kildare,2,Female,Number,56705
+F1001C01,Population at Each Census,1986,1986,04,Kilkenny,-,Both sexes,Number,73186
+F1001C01,Population at Each Census,1986,1986,04,Kilkenny,1,Male,Number,37325
+F1001C01,Population at Each Census,1986,1986,04,Kilkenny,2,Female,Number,35861
+F1001C01,Population at Each Census,1986,1986,05,Laois,-,Both sexes,Number,53284
+F1001C01,Population at Each Census,1986,1986,05,Laois,1,Male,Number,27531
+F1001C01,Population at Each Census,1986,1986,05,Laois,2,Female,Number,25753
+F1001C01,Population at Each Census,1986,1986,06,Longford,-,Both sexes,Number,31496
+F1001C01,Population at Each Census,1986,1986,06,Longford,1,Male,Number,16153
+F1001C01,Population at Each Census,1986,1986,06,Longford,2,Female,Number,15343
+F1001C01,Population at Each Census,1986,1986,07,Louth,-,Both sexes,Number,91810
+F1001C01,Population at Each Census,1986,1986,07,Louth,1,Male,Number,45530
+F1001C01,Population at Each Census,1986,1986,07,Louth,2,Female,Number,46280
+F1001C01,Population at Each Census,1986,1986,08,Meath,-,Both sexes,Number,103881
+F1001C01,Population at Each Census,1986,1986,08,Meath,1,Male,Number,52931
+F1001C01,Population at Each Census,1986,1986,08,Meath,2,Female,Number,50950
+F1001C01,Population at Each Census,1986,1986,09,Offaly,-,Both sexes,Number,59835
+F1001C01,Population at Each Census,1986,1986,09,Offaly,1,Male,Number,30819
+F1001C01,Population at Each Census,1986,1986,09,Offaly,2,Female,Number,29016
+F1001C01,Population at Each Census,1986,1986,10,Westmeath,-,Both sexes,Number,63379
+F1001C01,Population at Each Census,1986,1986,10,Westmeath,1,Male,Number,32048
+F1001C01,Population at Each Census,1986,1986,10,Westmeath,2,Female,Number,31331
+F1001C01,Population at Each Census,1986,1986,11,Wexford,-,Both sexes,Number,102552
+F1001C01,Population at Each Census,1986,1986,11,Wexford,1,Male,Number,51782
+F1001C01,Population at Each Census,1986,1986,11,Wexford,2,Female,Number,50770
+F1001C01,Population at Each Census,1986,1986,12,Wicklow,-,Both sexes,Number,94542
+F1001C01,Population at Each Census,1986,1986,12,Wicklow,1,Male,Number,46980
+F1001C01,Population at Each Census,1986,1986,12,Wicklow,2,Female,Number,47562
+F1001C01,Population at Each Census,1986,1986,13,Clare,-,Both sexes,Number,91344
+F1001C01,Population at Each Census,1986,1986,13,Clare,1,Male,Number,46913
+F1001C01,Population at Each Census,1986,1986,13,Clare,2,Female,Number,44431
+F1001C01,Population at Each Census,1986,1986,14,Cork,-,Both sexes,Number,412735
+F1001C01,Population at Each Census,1986,1986,14,Cork,1,Male,Number,206470
+F1001C01,Population at Each Census,1986,1986,14,Cork,2,Female,Number,206265
+F1001C01,Population at Each Census,1986,1986,15,Kerry,-,Both sexes,Number,124159
+F1001C01,Population at Each Census,1986,1986,15,Kerry,1,Male,Number,63293
+F1001C01,Population at Each Census,1986,1986,15,Kerry,2,Female,Number,60866
+F1001C01,Population at Each Census,1986,1986,16,Limerick,-,Both sexes,Number,164569
+F1001C01,Population at Each Census,1986,1986,16,Limerick,1,Male,Number,82686
+F1001C01,Population at Each Census,1986,1986,16,Limerick,2,Female,Number,81883
+F1001C01,Population at Each Census,1986,1986,17,Tipperary,-,Both sexes,Number,136619
+F1001C01,Population at Each Census,1986,1986,17,Tipperary,1,Male,Number,69728
+F1001C01,Population at Each Census,1986,1986,17,Tipperary,2,Female,Number,66891
+F1001C01,Population at Each Census,1986,1986,18,Waterford,-,Both sexes,Number,91151
+F1001C01,Population at Each Census,1986,1986,18,Waterford,1,Male,Number,45618
+F1001C01,Population at Each Census,1986,1986,18,Waterford,2,Female,Number,45533
+F1001C01,Population at Each Census,1986,1986,19,Galway,-,Both sexes,Number,178552
+F1001C01,Population at Each Census,1986,1986,19,Galway,1,Male,Number,90625
+F1001C01,Population at Each Census,1986,1986,19,Galway,2,Female,Number,87927
+F1001C01,Population at Each Census,1986,1986,20,Leitrim,-,Both sexes,Number,27035
+F1001C01,Population at Each Census,1986,1986,20,Leitrim,1,Male,Number,14205
+F1001C01,Population at Each Census,1986,1986,20,Leitrim,2,Female,Number,12830
+F1001C01,Population at Each Census,1986,1986,21,Mayo,-,Both sexes,Number,115184
+F1001C01,Population at Each Census,1986,1986,21,Mayo,1,Male,Number,58729
+F1001C01,Population at Each Census,1986,1986,21,Mayo,2,Female,Number,56455
+F1001C01,Population at Each Census,1986,1986,22,Roscommon,-,Both sexes,Number,54592
+F1001C01,Population at Each Census,1986,1986,22,Roscommon,1,Male,Number,28351
+F1001C01,Population at Each Census,1986,1986,22,Roscommon,2,Female,Number,26241
+F1001C01,Population at Each Census,1986,1986,23,Sligo,-,Both sexes,Number,56046
+F1001C01,Population at Each Census,1986,1986,23,Sligo,1,Male,Number,28184
+F1001C01,Population at Each Census,1986,1986,23,Sligo,2,Female,Number,27862
+F1001C01,Population at Each Census,1986,1986,24,Cavan,-,Both sexes,Number,53965
+F1001C01,Population at Each Census,1986,1986,24,Cavan,1,Male,Number,28202
+F1001C01,Population at Each Census,1986,1986,24,Cavan,2,Female,Number,25763
+F1001C01,Population at Each Census,1986,1986,25,Donegal,-,Both sexes,Number,129664
+F1001C01,Population at Each Census,1986,1986,25,Donegal,1,Male,Number,65906
+F1001C01,Population at Each Census,1986,1986,25,Donegal,2,Female,Number,63758
+F1001C01,Population at Each Census,1986,1986,26,Monaghan,-,Both sexes,Number,52379
+F1001C01,Population at Each Census,1986,1986,26,Monaghan,1,Male,Number,27044
+F1001C01,Population at Each Census,1986,1986,26,Monaghan,2,Female,Number,25335
+F1001C01,Population at Each Census,1991,1991,-,State,-,Both sexes,Number,3525719
+F1001C01,Population at Each Census,1991,1991,-,State,1,Male,Number,1753418
+F1001C01,Population at Each Census,1991,1991,-,State,2,Female,Number,1772301
+F1001C01,Population at Each Census,1991,1991,01,Carlow,-,Both sexes,Number,40942
+F1001C01,Population at Each Census,1991,1991,01,Carlow,1,Male,Number,20785
+F1001C01,Population at Each Census,1991,1991,01,Carlow,2,Female,Number,20157
+F1001C01,Population at Each Census,1991,1991,02,Dublin,-,Both sexes,Number,1025304
+F1001C01,Population at Each Census,1991,1991,02,Dublin,1,Male,Number,492432
+F1001C01,Population at Each Census,1991,1991,02,Dublin,2,Female,Number,532872
+F1001C01,Population at Each Census,1991,1991,03,Kildare,-,Both sexes,Number,122656
+F1001C01,Population at Each Census,1991,1991,03,Kildare,1,Male,Number,62207
+F1001C01,Population at Each Census,1991,1991,03,Kildare,2,Female,Number,60449
+F1001C01,Population at Each Census,1991,1991,04,Kilkenny,-,Both sexes,Number,73635
+F1001C01,Population at Each Census,1991,1991,04,Kilkenny,1,Male,Number,37447
+F1001C01,Population at Each Census,1991,1991,04,Kilkenny,2,Female,Number,36188
+F1001C01,Population at Each Census,1991,1991,05,Laois,-,Both sexes,Number,52314
+F1001C01,Population at Each Census,1991,1991,05,Laois,1,Male,Number,26904
+F1001C01,Population at Each Census,1991,1991,05,Laois,2,Female,Number,25410
+F1001C01,Population at Each Census,1991,1991,06,Longford,-,Both sexes,Number,30296
+F1001C01,Population at Each Census,1991,1991,06,Longford,1,Male,Number,15542
+F1001C01,Population at Each Census,1991,1991,06,Longford,2,Female,Number,14754
+F1001C01,Population at Each Census,1991,1991,07,Louth,-,Both sexes,Number,90724
+F1001C01,Population at Each Census,1991,1991,07,Louth,1,Male,Number,44823
+F1001C01,Population at Each Census,1991,1991,07,Louth,2,Female,Number,45901
+F1001C01,Population at Each Census,1991,1991,08,Meath,-,Both sexes,Number,105370
+F1001C01,Population at Each Census,1991,1991,08,Meath,1,Male,Number,53291
+F1001C01,Population at Each Census,1991,1991,08,Meath,2,Female,Number,52079
+F1001C01,Population at Each Census,1991,1991,09,Offaly,-,Both sexes,Number,58494
+F1001C01,Population at Each Census,1991,1991,09,Offaly,1,Male,Number,29892
+F1001C01,Population at Each Census,1991,1991,09,Offaly,2,Female,Number,28602
+F1001C01,Population at Each Census,1991,1991,10,Westmeath,-,Both sexes,Number,61880
+F1001C01,Population at Each Census,1991,1991,10,Westmeath,1,Male,Number,31006
+F1001C01,Population at Each Census,1991,1991,10,Westmeath,2,Female,Number,30874
+F1001C01,Population at Each Census,1991,1991,11,Wexford,-,Both sexes,Number,102069
+F1001C01,Population at Each Census,1991,1991,11,Wexford,1,Male,Number,51444
+F1001C01,Population at Each Census,1991,1991,11,Wexford,2,Female,Number,50625
+F1001C01,Population at Each Census,1991,1991,12,Wicklow,-,Both sexes,Number,97265
+F1001C01,Population at Each Census,1991,1991,12,Wicklow,1,Male,Number,48076
+F1001C01,Population at Each Census,1991,1991,12,Wicklow,2,Female,Number,49189
+F1001C01,Population at Each Census,1991,1991,13,Clare,-,Both sexes,Number,90918
+F1001C01,Population at Each Census,1991,1991,13,Clare,1,Male,Number,46367
+F1001C01,Population at Each Census,1991,1991,13,Clare,2,Female,Number,44551
+F1001C01,Population at Each Census,1991,1991,14,Cork,-,Both sexes,Number,410369
+F1001C01,Population at Each Census,1991,1991,14,Cork,1,Male,Number,204542
+F1001C01,Population at Each Census,1991,1991,14,Cork,2,Female,Number,205827
+F1001C01,Population at Each Census,1991,1991,15,Kerry,-,Both sexes,Number,121894
+F1001C01,Population at Each Census,1991,1991,15,Kerry,1,Male,Number,61932
+F1001C01,Population at Each Census,1991,1991,15,Kerry,2,Female,Number,59962
+F1001C01,Population at Each Census,1991,1991,16,Limerick,-,Both sexes,Number,161956
+F1001C01,Population at Each Census,1991,1991,16,Limerick,1,Male,Number,81094
+F1001C01,Population at Each Census,1991,1991,16,Limerick,2,Female,Number,80862
+F1001C01,Population at Each Census,1991,1991,17,Tipperary,-,Both sexes,Number,132772
+F1001C01,Population at Each Census,1991,1991,17,Tipperary,1,Male,Number,67422
+F1001C01,Population at Each Census,1991,1991,17,Tipperary,2,Female,Number,65350
+F1001C01,Population at Each Census,1991,1991,18,Waterford,-,Both sexes,Number,91624
+F1001C01,Population at Each Census,1991,1991,18,Waterford,1,Male,Number,45738
+F1001C01,Population at Each Census,1991,1991,18,Waterford,2,Female,Number,45886
+F1001C01,Population at Each Census,1991,1991,19,Galway,-,Both sexes,Number,180364
+F1001C01,Population at Each Census,1991,1991,19,Galway,1,Male,Number,91005
+F1001C01,Population at Each Census,1991,1991,19,Galway,2,Female,Number,89359
+F1001C01,Population at Each Census,1991,1991,20,Leitrim,-,Both sexes,Number,25301
+F1001C01,Population at Each Census,1991,1991,20,Leitrim,1,Male,Number,13203
+F1001C01,Population at Each Census,1991,1991,20,Leitrim,2,Female,Number,12098
+F1001C01,Population at Each Census,1991,1991,21,Mayo,-,Both sexes,Number,110713
+F1001C01,Population at Each Census,1991,1991,21,Mayo,1,Male,Number,55981
+F1001C01,Population at Each Census,1991,1991,21,Mayo,2,Female,Number,54732
+F1001C01,Population at Each Census,1991,1991,22,Roscommon,-,Both sexes,Number,51897
+F1001C01,Population at Each Census,1991,1991,22,Roscommon,1,Male,Number,26694
+F1001C01,Population at Each Census,1991,1991,22,Roscommon,2,Female,Number,25203
+F1001C01,Population at Each Census,1991,1991,23,Sligo,-,Both sexes,Number,54756
+F1001C01,Population at Each Census,1991,1991,23,Sligo,1,Male,Number,27248
+F1001C01,Population at Each Census,1991,1991,23,Sligo,2,Female,Number,27508
+F1001C01,Population at Each Census,1991,1991,24,Cavan,-,Both sexes,Number,52796
+F1001C01,Population at Each Census,1991,1991,24,Cavan,1,Male,Number,27314
+F1001C01,Population at Each Census,1991,1991,24,Cavan,2,Female,Number,25482
+F1001C01,Population at Each Census,1991,1991,25,Donegal,-,Both sexes,Number,128117
+F1001C01,Population at Each Census,1991,1991,25,Donegal,1,Male,Number,64817
+F1001C01,Population at Each Census,1991,1991,25,Donegal,2,Female,Number,63300
+F1001C01,Population at Each Census,1991,1991,26,Monaghan,-,Both sexes,Number,51293
+F1001C01,Population at Each Census,1991,1991,26,Monaghan,1,Male,Number,26212
+F1001C01,Population at Each Census,1991,1991,26,Monaghan,2,Female,Number,25081
+F1001C01,Population at Each Census,1996,1996,-,State,-,Both sexes,Number,3626087
+F1001C01,Population at Each Census,1996,1996,-,State,1,Male,Number,1800232
+F1001C01,Population at Each Census,1996,1996,-,State,2,Female,Number,1825855
+F1001C01,Population at Each Census,1996,1996,01,Carlow,-,Both sexes,Number,41616
+F1001C01,Population at Each Census,1996,1996,01,Carlow,1,Male,Number,21086
+F1001C01,Population at Each Census,1996,1996,01,Carlow,2,Female,Number,20530
+F1001C01,Population at Each Census,1996,1996,02,Dublin,-,Both sexes,Number,1058264
+F1001C01,Population at Each Census,1996,1996,02,Dublin,1,Male,Number,508966
+F1001C01,Population at Each Census,1996,1996,02,Dublin,2,Female,Number,549298
+F1001C01,Population at Each Census,1996,1996,03,Kildare,-,Both sexes,Number,134992
+F1001C01,Population at Each Census,1996,1996,03,Kildare,1,Male,Number,68007
+F1001C01,Population at Each Census,1996,1996,03,Kildare,2,Female,Number,66985
+F1001C01,Population at Each Census,1996,1996,04,Kilkenny,-,Both sexes,Number,75336
+F1001C01,Population at Each Census,1996,1996,04,Kilkenny,1,Male,Number,38144
+F1001C01,Population at Each Census,1996,1996,04,Kilkenny,2,Female,Number,37192
+F1001C01,Population at Each Census,1996,1996,05,Laois,-,Both sexes,Number,52945
+F1001C01,Population at Each Census,1996,1996,05,Laois,1,Male,Number,27160
+F1001C01,Population at Each Census,1996,1996,05,Laois,2,Female,Number,25785
+F1001C01,Population at Each Census,1996,1996,06,Longford,-,Both sexes,Number,30166
+F1001C01,Population at Each Census,1996,1996,06,Longford,1,Male,Number,15468
+F1001C01,Population at Each Census,1996,1996,06,Longford,2,Female,Number,14698
+F1001C01,Population at Each Census,1996,1996,07,Louth,-,Both sexes,Number,92166
+F1001C01,Population at Each Census,1996,1996,07,Louth,1,Male,Number,45641
+F1001C01,Population at Each Census,1996,1996,07,Louth,2,Female,Number,46525
+F1001C01,Population at Each Census,1996,1996,08,Meath,-,Both sexes,Number,109732
+F1001C01,Population at Each Census,1996,1996,08,Meath,1,Male,Number,55340
+F1001C01,Population at Each Census,1996,1996,08,Meath,2,Female,Number,54392
+F1001C01,Population at Each Census,1996,1996,09,Offaly,-,Both sexes,Number,59117
+F1001C01,Population at Each Census,1996,1996,09,Offaly,1,Male,Number,30003
+F1001C01,Population at Each Census,1996,1996,09,Offaly,2,Female,Number,29114
+F1001C01,Population at Each Census,1996,1996,10,Westmeath,-,Both sexes,Number,63314
+F1001C01,Population at Each Census,1996,1996,10,Westmeath,1,Male,Number,31599
+F1001C01,Population at Each Census,1996,1996,10,Westmeath,2,Female,Number,31715
+F1001C01,Population at Each Census,1996,1996,11,Wexford,-,Both sexes,Number,104371
+F1001C01,Population at Each Census,1996,1996,11,Wexford,1,Male,Number,52432
+F1001C01,Population at Each Census,1996,1996,11,Wexford,2,Female,Number,51939
+F1001C01,Population at Each Census,1996,1996,12,Wicklow,-,Both sexes,Number,102683
+F1001C01,Population at Each Census,1996,1996,12,Wicklow,1,Male,Number,50823
+F1001C01,Population at Each Census,1996,1996,12,Wicklow,2,Female,Number,51860
+F1001C01,Population at Each Census,1996,1996,13,Clare,-,Both sexes,Number,94006
+F1001C01,Population at Each Census,1996,1996,13,Clare,1,Male,Number,47789
+F1001C01,Population at Each Census,1996,1996,13,Clare,2,Female,Number,46217
+F1001C01,Population at Each Census,1996,1996,14,Cork,-,Both sexes,Number,420510
+F1001C01,Population at Each Census,1996,1996,14,Cork,1,Male,Number,209177
+F1001C01,Population at Each Census,1996,1996,14,Cork,2,Female,Number,211333
+F1001C01,Population at Each Census,1996,1996,15,Kerry,-,Both sexes,Number,126130
+F1001C01,Population at Each Census,1996,1996,15,Kerry,1,Male,Number,63801
+F1001C01,Population at Each Census,1996,1996,15,Kerry,2,Female,Number,62329
+F1001C01,Population at Each Census,1996,1996,16,Limerick,-,Both sexes,Number,165042
+F1001C01,Population at Each Census,1996,1996,16,Limerick,1,Male,Number,82546
+F1001C01,Population at Each Census,1996,1996,16,Limerick,2,Female,Number,82496
+F1001C01,Population at Each Census,1996,1996,17,Tipperary,-,Both sexes,Number,133535
+F1001C01,Population at Each Census,1996,1996,17,Tipperary,1,Male,Number,67602
+F1001C01,Population at Each Census,1996,1996,17,Tipperary,2,Female,Number,65933
+F1001C01,Population at Each Census,1996,1996,18,Waterford,-,Both sexes,Number,94680
+F1001C01,Population at Each Census,1996,1996,18,Waterford,1,Male,Number,47302
+F1001C01,Population at Each Census,1996,1996,18,Waterford,2,Female,Number,47378
+F1001C01,Population at Each Census,1996,1996,19,Galway,-,Both sexes,Number,188854
+F1001C01,Population at Each Census,1996,1996,19,Galway,1,Male,Number,94529
+F1001C01,Population at Each Census,1996,1996,19,Galway,2,Female,Number,94325
+F1001C01,Population at Each Census,1996,1996,20,Leitrim,-,Both sexes,Number,25057
+F1001C01,Population at Each Census,1996,1996,20,Leitrim,1,Male,Number,13044
+F1001C01,Population at Each Census,1996,1996,20,Leitrim,2,Female,Number,12013
+F1001C01,Population at Each Census,1996,1996,21,Mayo,-,Both sexes,Number,111524
+F1001C01,Population at Each Census,1996,1996,21,Mayo,1,Male,Number,56371
+F1001C01,Population at Each Census,1996,1996,21,Mayo,2,Female,Number,55153
+F1001C01,Population at Each Census,1996,1996,22,Roscommon,-,Both sexes,Number,51975
+F1001C01,Population at Each Census,1996,1996,22,Roscommon,1,Male,Number,26695
+F1001C01,Population at Each Census,1996,1996,22,Roscommon,2,Female,Number,25280
+F1001C01,Population at Each Census,1996,1996,23,Sligo,-,Both sexes,Number,55821
+F1001C01,Population at Each Census,1996,1996,23,Sligo,1,Male,Number,27748
+F1001C01,Population at Each Census,1996,1996,23,Sligo,2,Female,Number,28073
+F1001C01,Population at Each Census,1996,1996,24,Cavan,-,Both sexes,Number,52944
+F1001C01,Population at Each Census,1996,1996,24,Cavan,1,Male,Number,27281
+F1001C01,Population at Each Census,1996,1996,24,Cavan,2,Female,Number,25663
+F1001C01,Population at Each Census,1996,1996,25,Donegal,-,Both sexes,Number,129994
+F1001C01,Population at Each Census,1996,1996,25,Donegal,1,Male,Number,65520
+F1001C01,Population at Each Census,1996,1996,25,Donegal,2,Female,Number,64474
+F1001C01,Population at Each Census,1996,1996,26,Monaghan,-,Both sexes,Number,51313
+F1001C01,Population at Each Census,1996,1996,26,Monaghan,1,Male,Number,26158
+F1001C01,Population at Each Census,1996,1996,26,Monaghan,2,Female,Number,25155
+F1001C01,Population at Each Census,2002,2002,-,State,-,Both sexes,Number,3917203
+F1001C01,Population at Each Census,2002,2002,-,State,1,Male,Number,1946164
+F1001C01,Population at Each Census,2002,2002,-,State,2,Female,Number,1971039
+F1001C01,Population at Each Census,2002,2002,01,Carlow,-,Both sexes,Number,46014
+F1001C01,Population at Each Census,2002,2002,01,Carlow,1,Male,Number,23403
+F1001C01,Population at Each Census,2002,2002,01,Carlow,2,Female,Number,22611
+F1001C01,Population at Each Census,2002,2002,02,Dublin,-,Both sexes,Number,1122821
+F1001C01,Population at Each Census,2002,2002,02,Dublin,1,Male,Number,544075
+F1001C01,Population at Each Census,2002,2002,02,Dublin,2,Female,Number,578746
+F1001C01,Population at Each Census,2002,2002,03,Kildare,-,Both sexes,Number,163944
+F1001C01,Population at Each Census,2002,2002,03,Kildare,1,Male,Number,82735
+F1001C01,Population at Each Census,2002,2002,03,Kildare,2,Female,Number,81209
+F1001C01,Population at Each Census,2002,2002,04,Kilkenny,-,Both sexes,Number,80339
+F1001C01,Population at Each Census,2002,2002,04,Kilkenny,1,Male,Number,40540
+F1001C01,Population at Each Census,2002,2002,04,Kilkenny,2,Female,Number,39799
+F1001C01,Population at Each Census,2002,2002,05,Laois,-,Both sexes,Number,58774
+F1001C01,Population at Each Census,2002,2002,05,Laois,1,Male,Number,30131
+F1001C01,Population at Each Census,2002,2002,05,Laois,2,Female,Number,28643
+F1001C01,Population at Each Census,2002,2002,06,Longford,-,Both sexes,Number,31068
+F1001C01,Population at Each Census,2002,2002,06,Longford,1,Male,Number,15794
+F1001C01,Population at Each Census,2002,2002,06,Longford,2,Female,Number,15274
+F1001C01,Population at Each Census,2002,2002,07,Louth,-,Both sexes,Number,101821
+F1001C01,Population at Each Census,2002,2002,07,Louth,1,Male,Number,50489
+F1001C01,Population at Each Census,2002,2002,07,Louth,2,Female,Number,51332
+F1001C01,Population at Each Census,2002,2002,08,Meath,-,Both sexes,Number,134005
+F1001C01,Population at Each Census,2002,2002,08,Meath,1,Male,Number,67733
+F1001C01,Population at Each Census,2002,2002,08,Meath,2,Female,Number,66272
+F1001C01,Population at Each Census,2002,2002,09,Offaly,-,Both sexes,Number,63663
+F1001C01,Population at Each Census,2002,2002,09,Offaly,1,Male,Number,32185
+F1001C01,Population at Each Census,2002,2002,09,Offaly,2,Female,Number,31478
+F1001C01,Population at Each Census,2002,2002,10,Westmeath,-,Both sexes,Number,71858
+F1001C01,Population at Each Census,2002,2002,10,Westmeath,1,Male,Number,35960
+F1001C01,Population at Each Census,2002,2002,10,Westmeath,2,Female,Number,35898
+F1001C01,Population at Each Census,2002,2002,11,Wexford,-,Both sexes,Number,116596
+F1001C01,Population at Each Census,2002,2002,11,Wexford,1,Male,Number,58170
+F1001C01,Population at Each Census,2002,2002,11,Wexford,2,Female,Number,58426
+F1001C01,Population at Each Census,2002,2002,12,Wicklow,-,Both sexes,Number,114676
+F1001C01,Population at Each Census,2002,2002,12,Wicklow,1,Male,Number,56800
+F1001C01,Population at Each Census,2002,2002,12,Wicklow,2,Female,Number,57876
+F1001C01,Population at Each Census,2002,2002,13,Clare,-,Both sexes,Number,103277
+F1001C01,Population at Each Census,2002,2002,13,Clare,1,Male,Number,52063
+F1001C01,Population at Each Census,2002,2002,13,Clare,2,Female,Number,51214
+F1001C01,Population at Each Census,2002,2002,14,Cork,-,Both sexes,Number,447829
+F1001C01,Population at Each Census,2002,2002,14,Cork,1,Male,Number,222317
+F1001C01,Population at Each Census,2002,2002,14,Cork,2,Female,Number,225512
+F1001C01,Population at Each Census,2002,2002,15,Kerry,-,Both sexes,Number,132527
+F1001C01,Population at Each Census,2002,2002,15,Kerry,1,Male,Number,66572
+F1001C01,Population at Each Census,2002,2002,15,Kerry,2,Female,Number,65955
+F1001C01,Population at Each Census,2002,2002,16,Limerick,-,Both sexes,Number,175304
+F1001C01,Population at Each Census,2002,2002,16,Limerick,1,Male,Number,87631
+F1001C01,Population at Each Census,2002,2002,16,Limerick,2,Female,Number,87673
+F1001C01,Population at Each Census,2002,2002,17,Tipperary,-,Both sexes,Number,140131
+F1001C01,Population at Each Census,2002,2002,17,Tipperary,1,Male,Number,70863
+F1001C01,Population at Each Census,2002,2002,17,Tipperary,2,Female,Number,69268
+F1001C01,Population at Each Census,2002,2002,18,Waterford,-,Both sexes,Number,101546
+F1001C01,Population at Each Census,2002,2002,18,Waterford,1,Male,Number,50672
+F1001C01,Population at Each Census,2002,2002,18,Waterford,2,Female,Number,50874
+F1001C01,Population at Each Census,2002,2002,19,Galway,-,Both sexes,Number,209077
+F1001C01,Population at Each Census,2002,2002,19,Galway,1,Male,Number,104367
+F1001C01,Population at Each Census,2002,2002,19,Galway,2,Female,Number,104710
+F1001C01,Population at Each Census,2002,2002,20,Leitrim,-,Both sexes,Number,25799
+F1001C01,Population at Each Census,2002,2002,20,Leitrim,1,Male,Number,13324
+F1001C01,Population at Each Census,2002,2002,20,Leitrim,2,Female,Number,12475
+F1001C01,Population at Each Census,2002,2002,21,Mayo,-,Both sexes,Number,117446
+F1001C01,Population at Each Census,2002,2002,21,Mayo,1,Male,Number,59149
+F1001C01,Population at Each Census,2002,2002,21,Mayo,2,Female,Number,58297
+F1001C01,Population at Each Census,2002,2002,22,Roscommon,-,Both sexes,Number,53774
+F1001C01,Population at Each Census,2002,2002,22,Roscommon,1,Male,Number,27583
+F1001C01,Population at Each Census,2002,2002,22,Roscommon,2,Female,Number,26191
+F1001C01,Population at Each Census,2002,2002,23,Sligo,-,Both sexes,Number,58200
+F1001C01,Population at Each Census,2002,2002,23,Sligo,1,Male,Number,28771
+F1001C01,Population at Each Census,2002,2002,23,Sligo,2,Female,Number,29429
+F1001C01,Population at Each Census,2002,2002,24,Cavan,-,Both sexes,Number,56546
+F1001C01,Population at Each Census,2002,2002,24,Cavan,1,Male,Number,29015
+F1001C01,Population at Each Census,2002,2002,24,Cavan,2,Female,Number,27531
+F1001C01,Population at Each Census,2002,2002,25,Donegal,-,Both sexes,Number,137575
+F1001C01,Population at Each Census,2002,2002,25,Donegal,1,Male,Number,69016
+F1001C01,Population at Each Census,2002,2002,25,Donegal,2,Female,Number,68559
+F1001C01,Population at Each Census,2002,2002,26,Monaghan,-,Both sexes,Number,52593
+F1001C01,Population at Each Census,2002,2002,26,Monaghan,1,Male,Number,26806
+F1001C01,Population at Each Census,2002,2002,26,Monaghan,2,Female,Number,25787
+F1001C01,Population at Each Census,2006,2006,-,State,-,Both sexes,Number,4239848
+F1001C01,Population at Each Census,2006,2006,-,State,1,Male,Number,2121171
+F1001C01,Population at Each Census,2006,2006,-,State,2,Female,Number,2118677
+F1001C01,Population at Each Census,2006,2006,01,Carlow,-,Both sexes,Number,50349
+F1001C01,Population at Each Census,2006,2006,01,Carlow,1,Male,Number,25611
+F1001C01,Population at Each Census,2006,2006,01,Carlow,2,Female,Number,24738
+F1001C01,Population at Each Census,2006,2006,02,Dublin,-,Both sexes,Number,1187176
+F1001C01,Population at Each Census,2006,2006,02,Dublin,1,Male,Number,582557
+F1001C01,Population at Each Census,2006,2006,02,Dublin,2,Female,Number,604619
+F1001C01,Population at Each Census,2006,2006,03,Kildare,-,Both sexes,Number,186335
+F1001C01,Population at Each Census,2006,2006,03,Kildare,1,Male,Number,94190
+F1001C01,Population at Each Census,2006,2006,03,Kildare,2,Female,Number,92145
+F1001C01,Population at Each Census,2006,2006,04,Kilkenny,-,Both sexes,Number,87558
+F1001C01,Population at Each Census,2006,2006,04,Kilkenny,1,Male,Number,44263
+F1001C01,Population at Each Census,2006,2006,04,Kilkenny,2,Female,Number,43295
+F1001C01,Population at Each Census,2006,2006,05,Laois,-,Both sexes,Number,67059
+F1001C01,Population at Each Census,2006,2006,05,Laois,1,Male,Number,34409
+F1001C01,Population at Each Census,2006,2006,05,Laois,2,Female,Number,32650
+F1001C01,Population at Each Census,2006,2006,06,Longford,-,Both sexes,Number,34391
+F1001C01,Population at Each Census,2006,2006,06,Longford,1,Male,Number,17573
+F1001C01,Population at Each Census,2006,2006,06,Longford,2,Female,Number,16818
+F1001C01,Population at Each Census,2006,2006,07,Louth,-,Both sexes,Number,111267
+F1001C01,Population at Each Census,2006,2006,07,Louth,1,Male,Number,55335
+F1001C01,Population at Each Census,2006,2006,07,Louth,2,Female,Number,55932
+F1001C01,Population at Each Census,2006,2006,08,Meath,-,Both sexes,Number,162831
+F1001C01,Population at Each Census,2006,2006,08,Meath,1,Male,Number,82651
+F1001C01,Population at Each Census,2006,2006,08,Meath,2,Female,Number,80180
+F1001C01,Population at Each Census,2006,2006,09,Offaly,-,Both sexes,Number,70868
+F1001C01,Population at Each Census,2006,2006,09,Offaly,1,Male,Number,35937
+F1001C01,Population at Each Census,2006,2006,09,Offaly,2,Female,Number,34931
+F1001C01,Population at Each Census,2006,2006,10,Westmeath,-,Both sexes,Number,79346
+F1001C01,Population at Each Census,2006,2006,10,Westmeath,1,Male,Number,39819
+F1001C01,Population at Each Census,2006,2006,10,Westmeath,2,Female,Number,39527
+F1001C01,Population at Each Census,2006,2006,11,Wexford,-,Both sexes,Number,131749
+F1001C01,Population at Each Census,2006,2006,11,Wexford,1,Male,Number,66070
+F1001C01,Population at Each Census,2006,2006,11,Wexford,2,Female,Number,65679
+F1001C01,Population at Each Census,2006,2006,12,Wicklow,-,Both sexes,Number,126194
+F1001C01,Population at Each Census,2006,2006,12,Wicklow,1,Male,Number,62905
+F1001C01,Population at Each Census,2006,2006,12,Wicklow,2,Female,Number,63289
+F1001C01,Population at Each Census,2006,2006,13,Clare,-,Both sexes,Number,110950
+F1001C01,Population at Each Census,2006,2006,13,Clare,1,Male,Number,56048
+F1001C01,Population at Each Census,2006,2006,13,Clare,2,Female,Number,54902
+F1001C01,Population at Each Census,2006,2006,14,Cork,-,Both sexes,Number,481295
+F1001C01,Population at Each Census,2006,2006,14,Cork,1,Male,Number,240814
+F1001C01,Population at Each Census,2006,2006,14,Cork,2,Female,Number,240481
+F1001C01,Population at Each Census,2006,2006,15,Kerry,-,Both sexes,Number,139835
+F1001C01,Population at Each Census,2006,2006,15,Kerry,1,Male,Number,70641
+F1001C01,Population at Each Census,2006,2006,15,Kerry,2,Female,Number,69194
+F1001C01,Population at Each Census,2006,2006,16,Limerick,-,Both sexes,Number,184055
+F1001C01,Population at Each Census,2006,2006,16,Limerick,1,Male,Number,92680
+F1001C01,Population at Each Census,2006,2006,16,Limerick,2,Female,Number,91375
+F1001C01,Population at Each Census,2006,2006,17,Tipperary,-,Both sexes,Number,149244
+F1001C01,Population at Each Census,2006,2006,17,Tipperary,1,Male,Number,75818
+F1001C01,Population at Each Census,2006,2006,17,Tipperary,2,Female,Number,73426
+F1001C01,Population at Each Census,2006,2006,18,Waterford,-,Both sexes,Number,107961
+F1001C01,Population at Each Census,2006,2006,18,Waterford,1,Male,Number,53932
+F1001C01,Population at Each Census,2006,2006,18,Waterford,2,Female,Number,54029
+F1001C01,Population at Each Census,2006,2006,19,Galway,-,Both sexes,Number,231670
+F1001C01,Population at Each Census,2006,2006,19,Galway,1,Male,Number,116476
+F1001C01,Population at Each Census,2006,2006,19,Galway,2,Female,Number,115194
+F1001C01,Population at Each Census,2006,2006,20,Leitrim,-,Both sexes,Number,28950
+F1001C01,Population at Each Census,2006,2006,20,Leitrim,1,Male,Number,14903
+F1001C01,Population at Each Census,2006,2006,20,Leitrim,2,Female,Number,14047
+F1001C01,Population at Each Census,2006,2006,21,Mayo,-,Both sexes,Number,123839
+F1001C01,Population at Each Census,2006,2006,21,Mayo,1,Male,Number,62636
+F1001C01,Population at Each Census,2006,2006,21,Mayo,2,Female,Number,61203
+F1001C01,Population at Each Census,2006,2006,22,Roscommon,-,Both sexes,Number,58768
+F1001C01,Population at Each Census,2006,2006,22,Roscommon,1,Male,Number,30178
+F1001C01,Population at Each Census,2006,2006,22,Roscommon,2,Female,Number,28590
+F1001C01,Population at Each Census,2006,2006,23,Sligo,-,Both sexes,Number,60894
+F1001C01,Population at Each Census,2006,2006,23,Sligo,1,Male,Number,30257
+F1001C01,Population at Each Census,2006,2006,23,Sligo,2,Female,Number,30637
+F1001C01,Population at Each Census,2006,2006,24,Cavan,-,Both sexes,Number,64003
+F1001C01,Population at Each Census,2006,2006,24,Cavan,1,Male,Number,32915
+F1001C01,Population at Each Census,2006,2006,24,Cavan,2,Female,Number,31088
+F1001C01,Population at Each Census,2006,2006,25,Donegal,-,Both sexes,Number,147264
+F1001C01,Population at Each Census,2006,2006,25,Donegal,1,Male,Number,73970
+F1001C01,Population at Each Census,2006,2006,25,Donegal,2,Female,Number,73294
+F1001C01,Population at Each Census,2006,2006,26,Monaghan,-,Both sexes,Number,55997
+F1001C01,Population at Each Census,2006,2006,26,Monaghan,1,Male,Number,28583
+F1001C01,Population at Each Census,2006,2006,26,Monaghan,2,Female,Number,27414
+F1001C01,Population at Each Census,2011,2011,-,State,-,Both sexes,Number,4588252
+F1001C01,Population at Each Census,2011,2011,-,State,1,Male,Number,2272699
+F1001C01,Population at Each Census,2011,2011,-,State,2,Female,Number,2315553
+F1001C01,Population at Each Census,2011,2011,01,Carlow,-,Both sexes,Number,54612
+F1001C01,Population at Each Census,2011,2011,01,Carlow,1,Male,Number,27431
+F1001C01,Population at Each Census,2011,2011,01,Carlow,2,Female,Number,27181
+F1001C01,Population at Each Census,2011,2011,02,Dublin,-,Both sexes,Number,1273069
+F1001C01,Population at Each Census,2011,2011,02,Dublin,1,Male,Number,619902
+F1001C01,Population at Each Census,2011,2011,02,Dublin,2,Female,Number,653167
+F1001C01,Population at Each Census,2011,2011,03,Kildare,-,Both sexes,Number,210312
+F1001C01,Population at Each Census,2011,2011,03,Kildare,1,Male,Number,104658
+F1001C01,Population at Each Census,2011,2011,03,Kildare,2,Female,Number,105654
+F1001C01,Population at Each Census,2011,2011,04,Kilkenny,-,Both sexes,Number,95419
+F1001C01,Population at Each Census,2011,2011,04,Kilkenny,1,Male,Number,47788
+F1001C01,Population at Each Census,2011,2011,04,Kilkenny,2,Female,Number,47631
+F1001C01,Population at Each Census,2011,2011,05,Laois,-,Both sexes,Number,80559
+F1001C01,Population at Each Census,2011,2011,05,Laois,1,Male,Number,40587
+F1001C01,Population at Each Census,2011,2011,05,Laois,2,Female,Number,39972
+F1001C01,Population at Each Census,2011,2011,06,Longford,-,Both sexes,Number,39000
+F1001C01,Population at Each Census,2011,2011,06,Longford,1,Male,Number,19649
+F1001C01,Population at Each Census,2011,2011,06,Longford,2,Female,Number,19351
+F1001C01,Population at Each Census,2011,2011,07,Louth,-,Both sexes,Number,122897
+F1001C01,Population at Each Census,2011,2011,07,Louth,1,Male,Number,60763
+F1001C01,Population at Each Census,2011,2011,07,Louth,2,Female,Number,62134
+F1001C01,Population at Each Census,2011,2011,08,Meath,-,Both sexes,Number,184135
+F1001C01,Population at Each Census,2011,2011,08,Meath,1,Male,Number,91910
+F1001C01,Population at Each Census,2011,2011,08,Meath,2,Female,Number,92225
+F1001C01,Population at Each Census,2011,2011,09,Offaly,-,Both sexes,Number,76687
+F1001C01,Population at Each Census,2011,2011,09,Offaly,1,Male,Number,38430
+F1001C01,Population at Each Census,2011,2011,09,Offaly,2,Female,Number,38257
+F1001C01,Population at Each Census,2011,2011,10,Westmeath,-,Both sexes,Number,86164
+F1001C01,Population at Each Census,2011,2011,10,Westmeath,1,Male,Number,42783
+F1001C01,Population at Each Census,2011,2011,10,Westmeath,2,Female,Number,43381
+F1001C01,Population at Each Census,2011,2011,11,Wexford,-,Both sexes,Number,145320
+F1001C01,Population at Each Census,2011,2011,11,Wexford,1,Male,Number,71909
+F1001C01,Population at Each Census,2011,2011,11,Wexford,2,Female,Number,73411
+F1001C01,Population at Each Census,2011,2011,12,Wicklow,-,Both sexes,Number,136640
+F1001C01,Population at Each Census,2011,2011,12,Wicklow,1,Male,Number,67542
+F1001C01,Population at Each Census,2011,2011,12,Wicklow,2,Female,Number,69098
+F1001C01,Population at Each Census,2011,2011,13,Clare,-,Both sexes,Number,117196
+F1001C01,Population at Each Census,2011,2011,13,Clare,1,Male,Number,58298
+F1001C01,Population at Each Census,2011,2011,13,Clare,2,Female,Number,58898
+F1001C01,Population at Each Census,2011,2011,14,Cork,-,Both sexes,Number,519032
+F1001C01,Population at Each Census,2011,2011,14,Cork,1,Male,Number,257470
+F1001C01,Population at Each Census,2011,2011,14,Cork,2,Female,Number,261562
+F1001C01,Population at Each Census,2011,2011,15,Kerry,-,Both sexes,Number,145502
+F1001C01,Population at Each Census,2011,2011,15,Kerry,1,Male,Number,72629
+F1001C01,Population at Each Census,2011,2011,15,Kerry,2,Female,Number,72873
+F1001C01,Population at Each Census,2011,2011,16,Limerick,-,Both sexes,Number,191809
+F1001C01,Population at Each Census,2011,2011,16,Limerick,1,Male,Number,95815
+F1001C01,Population at Each Census,2011,2011,16,Limerick,2,Female,Number,95994
+F1001C01,Population at Each Census,2011,2011,17,Tipperary,-,Both sexes,Number,158754
+F1001C01,Population at Each Census,2011,2011,17,Tipperary,1,Male,Number,79584
+F1001C01,Population at Each Census,2011,2011,17,Tipperary,2,Female,Number,79170
+F1001C01,Population at Each Census,2011,2011,18,Waterford,-,Both sexes,Number,113795
+F1001C01,Population at Each Census,2011,2011,18,Waterford,1,Male,Number,56464
+F1001C01,Population at Each Census,2011,2011,18,Waterford,2,Female,Number,57331
+F1001C01,Population at Each Census,2011,2011,19,Galway,-,Both sexes,Number,250653
+F1001C01,Population at Each Census,2011,2011,19,Galway,1,Male,Number,124758
+F1001C01,Population at Each Census,2011,2011,19,Galway,2,Female,Number,125895
+F1001C01,Population at Each Census,2011,2011,20,Leitrim,-,Both sexes,Number,31798
+F1001C01,Population at Each Census,2011,2011,20,Leitrim,1,Male,Number,16144
+F1001C01,Population at Each Census,2011,2011,20,Leitrim,2,Female,Number,15654
+F1001C01,Population at Each Census,2011,2011,21,Mayo,-,Both sexes,Number,130638
+F1001C01,Population at Each Census,2011,2011,21,Mayo,1,Male,Number,65420
+F1001C01,Population at Each Census,2011,2011,21,Mayo,2,Female,Number,65218
+F1001C01,Population at Each Census,2011,2011,22,Roscommon,-,Both sexes,Number,64065
+F1001C01,Population at Each Census,2011,2011,22,Roscommon,1,Male,Number,32353
+F1001C01,Population at Each Census,2011,2011,22,Roscommon,2,Female,Number,31712
+F1001C01,Population at Each Census,2011,2011,23,Sligo,-,Both sexes,Number,65393
+F1001C01,Population at Each Census,2011,2011,23,Sligo,1,Male,Number,32435
+F1001C01,Population at Each Census,2011,2011,23,Sligo,2,Female,Number,32958
+F1001C01,Population at Each Census,2011,2011,24,Cavan,-,Both sexes,Number,73183
+F1001C01,Population at Each Census,2011,2011,24,Cavan,1,Male,Number,37013
+F1001C01,Population at Each Census,2011,2011,24,Cavan,2,Female,Number,36170
+F1001C01,Population at Each Census,2011,2011,25,Donegal,-,Both sexes,Number,161137
+F1001C01,Population at Each Census,2011,2011,25,Donegal,1,Male,Number,80523
+F1001C01,Population at Each Census,2011,2011,25,Donegal,2,Female,Number,80614
+F1001C01,Population at Each Census,2011,2011,26,Monaghan,-,Both sexes,Number,60483
+F1001C01,Population at Each Census,2011,2011,26,Monaghan,1,Male,Number,30441
+F1001C01,Population at Each Census,2011,2011,26,Monaghan,2,Female,Number,30042
+F1001C01,Population at Each Census,2016,2016,-,State,-,Both sexes,Number,4761865
+F1001C01,Population at Each Census,2016,2016,-,State,1,Male,Number,2354428
+F1001C01,Population at Each Census,2016,2016,-,State,2,Female,Number,2407437
+F1001C01,Population at Each Census,2016,2016,01,Carlow,-,Both sexes,Number,56932
+F1001C01,Population at Each Census,2016,2016,01,Carlow,1,Male,Number,28465
+F1001C01,Population at Each Census,2016,2016,01,Carlow,2,Female,Number,28467
+F1001C01,Population at Each Census,2016,2016,02,Dublin,-,Both sexes,Number,1347359
+F1001C01,Population at Each Census,2016,2016,02,Dublin,1,Male,Number,658371
+F1001C01,Population at Each Census,2016,2016,02,Dublin,2,Female,Number,688988
+F1001C01,Population at Each Census,2016,2016,03,Kildare,-,Both sexes,Number,222504
+F1001C01,Population at Each Census,2016,2016,03,Kildare,1,Male,Number,110546
+F1001C01,Population at Each Census,2016,2016,03,Kildare,2,Female,Number,111958
+F1001C01,Population at Each Census,2016,2016,04,Kilkenny,-,Both sexes,Number,99232
+F1001C01,Population at Each Census,2016,2016,04,Kilkenny,1,Male,Number,49533
+F1001C01,Population at Each Census,2016,2016,04,Kilkenny,2,Female,Number,49699
+F1001C01,Population at Each Census,2016,2016,05,Laois,-,Both sexes,Number,84697
+F1001C01,Population at Each Census,2016,2016,05,Laois,1,Male,Number,42811
+F1001C01,Population at Each Census,2016,2016,05,Laois,2,Female,Number,41886
+F1001C01,Population at Each Census,2016,2016,06,Longford,-,Both sexes,Number,40873
+F1001C01,Population at Each Census,2016,2016,06,Longford,1,Male,Number,20587
+F1001C01,Population at Each Census,2016,2016,06,Longford,2,Female,Number,20286
+F1001C01,Population at Each Census,2016,2016,07,Louth,-,Both sexes,Number,128884
+F1001C01,Population at Each Census,2016,2016,07,Louth,1,Male,Number,63633
+F1001C01,Population at Each Census,2016,2016,07,Louth,2,Female,Number,65251
+F1001C01,Population at Each Census,2016,2016,08,Meath,-,Both sexes,Number,195044
+F1001C01,Population at Each Census,2016,2016,08,Meath,1,Male,Number,96776
+F1001C01,Population at Each Census,2016,2016,08,Meath,2,Female,Number,98268
+F1001C01,Population at Each Census,2016,2016,09,Offaly,-,Both sexes,Number,77961
+F1001C01,Population at Each Census,2016,2016,09,Offaly,1,Male,Number,38838
+F1001C01,Population at Each Census,2016,2016,09,Offaly,2,Female,Number,39123
+F1001C01,Population at Each Census,2016,2016,10,Westmeath,-,Both sexes,Number,88770
+F1001C01,Population at Each Census,2016,2016,10,Westmeath,1,Male,Number,44082
+F1001C01,Population at Each Census,2016,2016,10,Westmeath,2,Female,Number,44688
+F1001C01,Population at Each Census,2016,2016,11,Wexford,-,Both sexes,Number,149722
+F1001C01,Population at Each Census,2016,2016,11,Wexford,1,Male,Number,73722
+F1001C01,Population at Each Census,2016,2016,11,Wexford,2,Female,Number,76000
+F1001C01,Population at Each Census,2016,2016,12,Wicklow,-,Both sexes,Number,142425
+F1001C01,Population at Each Census,2016,2016,12,Wicklow,1,Male,Number,70156
+F1001C01,Population at Each Census,2016,2016,12,Wicklow,2,Female,Number,72269
+F1001C01,Population at Each Census,2016,2016,13,Clare,-,Both sexes,Number,118817
+F1001C01,Population at Each Census,2016,2016,13,Clare,1,Male,Number,58785
+F1001C01,Population at Each Census,2016,2016,13,Clare,2,Female,Number,60032
+F1001C01,Population at Each Census,2016,2016,14,Cork,-,Both sexes,Number,542868
+F1001C01,Population at Each Census,2016,2016,14,Cork,1,Male,Number,268675
+F1001C01,Population at Each Census,2016,2016,14,Cork,2,Female,Number,274193
+F1001C01,Population at Each Census,2016,2016,15,Kerry,-,Both sexes,Number,147707
+F1001C01,Population at Each Census,2016,2016,15,Kerry,1,Male,Number,73055
+F1001C01,Population at Each Census,2016,2016,15,Kerry,2,Female,Number,74652
+F1001C01,Population at Each Census,2016,2016,16,Limerick,-,Both sexes,Number,194899
+F1001C01,Population at Each Census,2016,2016,16,Limerick,1,Male,Number,97340
+F1001C01,Population at Each Census,2016,2016,16,Limerick,2,Female,Number,97559
+F1001C01,Population at Each Census,2016,2016,17,Tipperary,-,Both sexes,Number,159553
+F1001C01,Population at Each Census,2016,2016,17,Tipperary,1,Male,Number,79668
+F1001C01,Population at Each Census,2016,2016,17,Tipperary,2,Female,Number,79885
+F1001C01,Population at Each Census,2016,2016,18,Waterford,-,Both sexes,Number,116176
+F1001C01,Population at Each Census,2016,2016,18,Waterford,1,Male,Number,57651
+F1001C01,Population at Each Census,2016,2016,18,Waterford,2,Female,Number,58525
+F1001C01,Population at Each Census,2016,2016,19,Galway,-,Both sexes,Number,258058
+F1001C01,Population at Each Census,2016,2016,19,Galway,1,Male,Number,127663
+F1001C01,Population at Each Census,2016,2016,19,Galway,2,Female,Number,130395
+F1001C01,Population at Each Census,2016,2016,20,Leitrim,-,Both sexes,Number,32044
+F1001C01,Population at Each Census,2016,2016,20,Leitrim,1,Male,Number,16064
+F1001C01,Population at Each Census,2016,2016,20,Leitrim,2,Female,Number,15980
+F1001C01,Population at Each Census,2016,2016,21,Mayo,-,Both sexes,Number,130507
+F1001C01,Population at Each Census,2016,2016,21,Mayo,1,Male,Number,65047
+F1001C01,Population at Each Census,2016,2016,21,Mayo,2,Female,Number,65460
+F1001C01,Population at Each Census,2016,2016,22,Roscommon,-,Both sexes,Number,64544
+F1001C01,Population at Each Census,2016,2016,22,Roscommon,1,Male,Number,32377
+F1001C01,Population at Each Census,2016,2016,22,Roscommon,2,Female,Number,32167
+F1001C01,Population at Each Census,2016,2016,23,Sligo,-,Both sexes,Number,65535
+F1001C01,Population at Each Census,2016,2016,23,Sligo,1,Male,Number,32365
+F1001C01,Population at Each Census,2016,2016,23,Sligo,2,Female,Number,33170
+F1001C01,Population at Each Census,2016,2016,24,Cavan,-,Both sexes,Number,76176
+F1001C01,Population at Each Census,2016,2016,24,Cavan,1,Male,Number,38330
+F1001C01,Population at Each Census,2016,2016,24,Cavan,2,Female,Number,37846
+F1001C01,Population at Each Census,2016,2016,25,Donegal,-,Both sexes,Number,159192
+F1001C01,Population at Each Census,2016,2016,25,Donegal,1,Male,Number,79022
+F1001C01,Population at Each Census,2016,2016,25,Donegal,2,Female,Number,80170
+F1001C01,Population at Each Census,2016,2016,26,Monaghan,-,Both sexes,Number,61386
+F1001C01,Population at Each Census,2016,2016,26,Monaghan,1,Male,Number,30866
+F1001C01,Population at Each Census,2016,2016,26,Monaghan,2,Female,Number,30520
+F1001C01,Population at Each Census,2022,2022,-,State,-,Both sexes,Number,5149139
+F1001C01,Population at Each Census,2022,2022,-,State,1,Male,Number,2544549
+F1001C01,Population at Each Census,2022,2022,-,State,2,Female,Number,2604590
+F1001C01,Population at Each Census,2022,2022,01,Carlow,-,Both sexes,Number,61968
+F1001C01,Population at Each Census,2022,2022,01,Carlow,1,Male,Number,30822
+F1001C01,Population at Each Census,2022,2022,01,Carlow,2,Female,Number,31146
+F1001C01,Population at Each Census,2022,2022,02,Dublin,-,Both sexes,Number,1458154
+F1001C01,Population at Each Census,2022,2022,02,Dublin,1,Male,Number,713606
+F1001C01,Population at Each Census,2022,2022,02,Dublin,2,Female,Number,744548
+F1001C01,Population at Each Census,2022,2022,03,Kildare,-,Both sexes,Number,247774
+F1001C01,Population at Each Census,2022,2022,03,Kildare,1,Male,Number,123264
+F1001C01,Population at Each Census,2022,2022,03,Kildare,2,Female,Number,124510
+F1001C01,Population at Each Census,2022,2022,04,Kilkenny,-,Both sexes,Number,104160
+F1001C01,Population at Each Census,2022,2022,04,Kilkenny,1,Male,Number,51883
+F1001C01,Population at Each Census,2022,2022,04,Kilkenny,2,Female,Number,52277
+F1001C01,Population at Each Census,2022,2022,05,Laois,-,Both sexes,Number,91877
+F1001C01,Population at Each Census,2022,2022,05,Laois,1,Male,Number,46278
+F1001C01,Population at Each Census,2022,2022,05,Laois,2,Female,Number,45599
+F1001C01,Population at Each Census,2022,2022,06,Longford,-,Both sexes,Number,46751
+F1001C01,Population at Each Census,2022,2022,06,Longford,1,Male,Number,23449
+F1001C01,Population at Each Census,2022,2022,06,Longford,2,Female,Number,23302
+F1001C01,Population at Each Census,2022,2022,07,Louth,-,Both sexes,Number,139703
+F1001C01,Population at Each Census,2022,2022,07,Louth,1,Male,Number,68907
+F1001C01,Population at Each Census,2022,2022,07,Louth,2,Female,Number,70796
+F1001C01,Population at Each Census,2022,2022,08,Meath,-,Both sexes,Number,220826
+F1001C01,Population at Each Census,2022,2022,08,Meath,1,Male,Number,109988
+F1001C01,Population at Each Census,2022,2022,08,Meath,2,Female,Number,110838
+F1001C01,Population at Each Census,2022,2022,09,Offaly,-,Both sexes,Number,83150
+F1001C01,Population at Each Census,2022,2022,09,Offaly,1,Male,Number,41628
+F1001C01,Population at Each Census,2022,2022,09,Offaly,2,Female,Number,41522
+F1001C01,Population at Each Census,2022,2022,10,Westmeath,-,Both sexes,Number,96221
+F1001C01,Population at Each Census,2022,2022,10,Westmeath,1,Male,Number,47721
+F1001C01,Population at Each Census,2022,2022,10,Westmeath,2,Female,Number,48500
+F1001C01,Population at Each Census,2022,2022,11,Wexford,-,Both sexes,Number,163919
+F1001C01,Population at Each Census,2022,2022,11,Wexford,1,Male,Number,80777
+F1001C01,Population at Each Census,2022,2022,11,Wexford,2,Female,Number,83142
+F1001C01,Population at Each Census,2022,2022,12,Wicklow,-,Both sexes,Number,155851
+F1001C01,Population at Each Census,2022,2022,12,Wicklow,1,Male,Number,76564
+F1001C01,Population at Each Census,2022,2022,12,Wicklow,2,Female,Number,79287
+F1001C01,Population at Each Census,2022,2022,13,Clare,-,Both sexes,Number,127938
+F1001C01,Population at Each Census,2022,2022,13,Clare,1,Male,Number,62917
+F1001C01,Population at Each Census,2022,2022,13,Clare,2,Female,Number,65021
+F1001C01,Population at Each Census,2022,2022,14,Cork,-,Both sexes,Number,584156
+F1001C01,Population at Each Census,2022,2022,14,Cork,1,Male,Number,288845
+F1001C01,Population at Each Census,2022,2022,14,Cork,2,Female,Number,295311
+F1001C01,Population at Each Census,2022,2022,15,Kerry,-,Both sexes,Number,156458
+F1001C01,Population at Each Census,2022,2022,15,Kerry,1,Male,Number,77387
+F1001C01,Population at Each Census,2022,2022,15,Kerry,2,Female,Number,79071
+F1001C01,Population at Each Census,2022,2022,16,Limerick,-,Both sexes,Number,209536
+F1001C01,Population at Each Census,2022,2022,16,Limerick,1,Male,Number,104452
+F1001C01,Population at Each Census,2022,2022,16,Limerick,2,Female,Number,105084
+F1001C01,Population at Each Census,2022,2022,17,Tipperary,-,Both sexes,Number,167895
+F1001C01,Population at Each Census,2022,2022,17,Tipperary,1,Male,Number,83639
+F1001C01,Population at Each Census,2022,2022,17,Tipperary,2,Female,Number,84256
+F1001C01,Population at Each Census,2022,2022,18,Waterford,-,Both sexes,Number,127363
+F1001C01,Population at Each Census,2022,2022,18,Waterford,1,Male,Number,63095
+F1001C01,Population at Each Census,2022,2022,18,Waterford,2,Female,Number,64268
+F1001C01,Population at Each Census,2022,2022,19,Galway,-,Both sexes,Number,277737
+F1001C01,Population at Each Census,2022,2022,19,Galway,1,Male,Number,136934
+F1001C01,Population at Each Census,2022,2022,19,Galway,2,Female,Number,140803
+F1001C01,Population at Each Census,2022,2022,20,Leitrim,-,Both sexes,Number,35199
+F1001C01,Population at Each Census,2022,2022,20,Leitrim,1,Male,Number,17553
+F1001C01,Population at Each Census,2022,2022,20,Leitrim,2,Female,Number,17646
+F1001C01,Population at Each Census,2022,2022,21,Mayo,-,Both sexes,Number,137970
+F1001C01,Population at Each Census,2022,2022,21,Mayo,1,Male,Number,68392
+F1001C01,Population at Each Census,2022,2022,21,Mayo,2,Female,Number,69578
+F1001C01,Population at Each Census,2022,2022,22,Roscommon,-,Both sexes,Number,70259
+F1001C01,Population at Each Census,2022,2022,22,Roscommon,1,Male,Number,35170
+F1001C01,Population at Each Census,2022,2022,22,Roscommon,2,Female,Number,35089
+F1001C01,Population at Each Census,2022,2022,23,Sligo,-,Both sexes,Number,70198
+F1001C01,Population at Each Census,2022,2022,23,Sligo,1,Male,Number,34529
+F1001C01,Population at Each Census,2022,2022,23,Sligo,2,Female,Number,35669
+F1001C01,Population at Each Census,2022,2022,24,Cavan,-,Both sexes,Number,81704
+F1001C01,Population at Each Census,2022,2022,24,Cavan,1,Male,Number,41060
+F1001C01,Population at Each Census,2022,2022,24,Cavan,2,Female,Number,40644
+F1001C01,Population at Each Census,2022,2022,25,Donegal,-,Both sexes,Number,167084
+F1001C01,Population at Each Census,2022,2022,25,Donegal,1,Male,Number,82795
+F1001C01,Population at Each Census,2022,2022,25,Donegal,2,Female,Number,84289
+F1001C01,Population at Each Census,2022,2022,26,Monaghan,-,Both sexes,Number,65288
+F1001C01,Population at Each Census,2022,2022,26,Monaghan,1,Male,Number,32894
+F1001C01,Population at Each Census,2022,2022,26,Monaghan,2,Female,Number,32394

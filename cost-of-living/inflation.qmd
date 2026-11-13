@@ -3,4 +3,6 @@ title: "Inflation"
 description: "How fast consumer prices are rising, month by month."
 ---
 
-<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->
+Inflation measures how fast prices are rising on average. Prices fell between early 2009 and mid-2010. In the year to October 2022 they rose by 9.3%, the highest annual rate in this series, which starts in 1996.
+
+{{< chart cost-of-living-inflation >}}
