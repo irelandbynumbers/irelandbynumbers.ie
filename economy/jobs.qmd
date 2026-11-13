@@ -1,0 +1,6 @@
+---
+title: "Jobs and unemployment"
+description: "How many people are in work, and the unemployment rate."
+---
+
+<!-- Charts go here as {{< chart <id> >}}, with a few neutral sentences on what they show. -->

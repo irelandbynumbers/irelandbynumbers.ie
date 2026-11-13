@@ -1,17 +1,27 @@
-# The topics with pages on the site. The homepage lists them in this order,
-# and every chart names one of these as its topic (by the folder in `path`).
+# The topics with pages on the site. The homepage shows them as tiles in this
+# order, and every chart names one of these as its topic (the folder in `path`).
+# Each topic folder has index.qmd and pages.yml, which lists its subtopic pages.
 - title: Population
-  path: /population/
-  description: How many people live in Ireland, where, and how that is changing.
+  path: population/index.qmd
+  image: images/topic-population.svg
+  description: How many people live in Ireland, where they live, and how that is changing.
 - title: Housing
-  path: /housing/
-  description: How many homes are built, what they cost to buy and rent.
+  path: housing/index.qmd
+  image: images/topic-housing.svg
+  description: How many new homes are built, and what homes cost to buy and to rent.
 - title: Cost of living
-  path: /cost-of-living/
-  description: Prices, inflation and what households spend.
+  path: cost-of-living/index.qmd
+  image: images/topic-cost-of-living.svg
+  description: How consumer prices have changed, and which costs have risen most.
 - title: Economy and work
-  path: /economy/
-  description: Output, jobs, earnings and the public finances.
+  path: economy/index.qmd
+  image: images/topic-economy.svg
+  description: Jobs, unemployment, earnings and the size of the economy.
 - title: Education
-  path: /education/
+  path: education/index.qmd
+  image: images/topic-education.svg
   description: Schools, pupils and who runs them.
+- title: Crime
+  path: crime/index.qmd
+  image: images/topic-crime.svg
+  description: Recorded crime by type, from theft and car crime to assault.

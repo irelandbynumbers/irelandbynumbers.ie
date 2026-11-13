@@ -6,20 +6,21 @@ listing:
   contents: topics.yml
   type: grid
   grid-columns: 3
-  fields: [title, description]
+  image-height: 100%
+  fields: [image, title, description]
   sort: false
-  image-placeholder: ""
+  page-size: 50
+  filter-ui: false
+  sort-ui: false
 ---
 
 The Central Statistics Office, government departments and public bodies publish a great deal of data about Ireland, spread across many websites and often in tables that are hard to find and harder to read. Ireland by Numbers brings it together in one place. Every chart shows where its numbers come from, explains how they are measured, and lets you download the data behind it.
 
 ## Topics
 
-::: {#topics}
+:::{#topics}
 :::
 
 ## Topics on the way
 
-Health and the HSE, causes of death, childhood, crime and prisons, energy, environment and climate, green spaces, infrastructure and transport, agriculture and food, defence, the Irish language, migration and the diaspora, public finances, and architecture and heritage.
-
-Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).
+Health and the HSE, causes of death, childhood, energy, environment and climate, green spaces, infrastructure and transport, agriculture and food, defence, the Irish language, migration and the diaspora, public finances, and architecture and heritage. Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).

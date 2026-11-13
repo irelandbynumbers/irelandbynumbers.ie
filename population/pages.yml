@@ -1,0 +1,14 @@
+# Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
+# thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Population over time"
+  path: growth.qmd
+  image: ../images/topic-population.svg
+  description: "How Ireland's population has grown, and how births, deaths and migration drive the change."
+- title: "Where people live"
+  path: counties.qmd
+  image: ../images/topic-population.svg
+  description: "The population of each county at every census, and where it has grown fastest."
+- title: "An ageing population"
+  path: age.qmd
+  image: ../images/topic-population.svg
+  description: "How the age profile of the population is changing, and how many people are over 65."

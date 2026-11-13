@@ -1,14 +1,19 @@
 ---
 title: "Education"
 description: "Schools, pupils and who runs them."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
 ---
 
-## Who runs Ireland's primary schools
+These pages cover Ireland's schools, the pupils in them, and who runs them.
 
-Every primary school in Ireland is funded by the State, but each one has a patron that sets its ethos. The maps below, from [Fianaise](https://fianaise.ie/religion/schools.html), show every mainstream primary school by patronage, using the Department of Education's list of schools.
-
-<iframe src="https://fianaise.ie/figures/patronage_maps.html" width="100%" height="660" style="border:0" title="Maps of Irish primary schools by patronage, denominational and multi-denominational" loading="lazy"></iframe>
-
-Data from the Department of Education, [data on individual schools](https://www.gov.ie/en/department-of-education/collections/data-on-individual-schools/). Maps by [Fianaise](https://fianaise.ie/religion/schools.html), where the full analysis, notes and code are published.
-
-<!-- Charts: built by analysis/education/make_charts.py -->
+:::{#pages}
+:::

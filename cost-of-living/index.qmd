@@ -1,8 +1,19 @@
 ---
 title: "Cost of living"
-description: "Prices, inflation and what households spend."
+description: "How consumer prices have changed, and which costs have risen most."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
 ---
 
-The charts below show how consumer prices have changed over time, which goods and services have risen most, and how Ireland compares with the rest of the EU.
+These pages show how consumer prices have changed over time and which goods and services have risen most.
 
-<!-- Charts: built by analysis/cost-of-living/make_charts.py -->
+:::{#pages}
+:::

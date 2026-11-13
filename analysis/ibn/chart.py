@@ -44,7 +44,7 @@ def load_topics():
     import yaml  # PyYAML, installed with the analysis requirements
     with open(os.path.join(ROOT, "topics.yml"), encoding="utf-8") as f:
         for t in yaml.safe_load(f):
-            TOPICS[t["path"].strip("/")] = t["title"]
+            TOPICS[t["path"].split("/")[0]] = t["title"]
     return TOPICS
 
 

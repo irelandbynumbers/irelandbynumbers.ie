@@ -33,7 +33,11 @@ python3 tools/cso_find.py search "dwelling completions"   # find a CSO table
 quarto preview
 ```
 
-`analysis/ibn/` holds the shared parts: `style.py` (colours and layout, shared with [Fianaise](https://github.com/fianaise/fianaise.ie)), `figures.py` (line charts and county maps with a time slider), `cso.py` (fetching CSO tables) and `chart.py` (the chart page). A new topic needs an entry in `topics.yml`, a folder with `index.qmd`, and a line in the navbar in `_quarto.yml`.
+`analysis/ibn/` holds the shared parts: `style.py` (colours and layout, shared with [Fianaise](https://github.com/fianaise/fianaise.ie)), `figures.py` (line charts and county maps with a time slider), `cso.py` (fetching CSO tables) and `chart.py` (the chart page). ## Layout
+
+The homepage shows each topic as a tile, from `topics.yml`, with a thumbnail from `images/topic-*.svg` (drawn by `tools/make_topic_images.py`). Each topic folder has an `index.qmd` that shows its subtopics as tiles, from the folder's `pages.yml`, and one page per subtopic (for example `population/growth.qmd`) that holds the charts. Subtopic tiles use a thumbnail of one of their charts, made by `node tools/thumbnails.js` into `images/charts/`.
+
+A new topic needs an entry in `topics.yml`, a folder with `index.qmd` and `pages.yml`, a thumbnail, and a line in the navbar in `_quarto.yml`.
 
 ## Writing style
 

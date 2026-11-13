@@ -3,10 +3,11 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "*/index.qmd"
+    - "*/*.qmd"
   resources:
     - CNAME
     - charts/**
+    - images/**
 
 website:
   title: "Ireland by Numbers"
@@ -28,6 +29,8 @@ website:
             text: Economy and work
           - href: education/index.qmd
             text: Education
+          - href: crime/index.qmd
+            text: Crime
       - href: charts.qmd
         text: All charts
       - href: data.qmd
