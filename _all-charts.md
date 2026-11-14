@@ -25,3 +25,23 @@
 ## [Crime](/crime/)
 
 - [Recorded thefts and burglaries](/charts/crime-thefts.html). Number of theft and burglary incidents recorded by An Garda Síochána each year, by type, 2003 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/crime-thefts.csv)
+
+## [Migration](/migration/)
+
+- [Where people came from and went to](/charts/migration-by-place.html). Estimated number of immigrants by the country or region they came from, and emigrants by where they went, in the twelve months to April 2026. *Central Statistics Office (CSO).* [CSV](/charts/migration-by-place.csv)
+- [People moving to and from Ireland](/charts/migration-flows.html). Estimated number of people who moved to Ireland (immigrants) and who left (emigrants) in the twelve months to April, 1987 to 2026. *Central Statistics Office (CSO).* [CSV](/charts/migration-flows.csv)
+
+## [Health](/health/)
+
+- [Deaths from heart disease, cancer and tuberculosis](/charts/health-death-rates.html). Deaths per 100,000 people each year from heart disease, cancer and tuberculosis, 1922 to 2023. *Central Statistics Office (CSO).* [CSV](/charts/health-death-rates.csv)
+- [Life expectancy in Ireland and the EU](/charts/health-life-expectancy.html). Life expectancy at birth in years, Ireland and the 27 EU countries, 2018 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-life-expectancy.csv)
+
+## [Environment and climate](/environment/)
+
+- [Greenhouse gas emissions by sector](/charts/environment-emissions-by-sector.html). Ireland's greenhouse gas emissions in millions of tonnes of carbon dioxide equivalent, by sector, 1990 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/environment-emissions-by-sector.csv)
+- [Emissions per person in Ireland and the EU](/charts/environment-emissions-per-person.html). Greenhouse gas emissions per person in tonnes of carbon dioxide equivalent, Ireland and the 27 EU countries, 2008 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/environment-emissions-per-person.csv)
+
+## [Irish language](/irish-language/)
+
+- [How often Irish speakers speak Irish](/charts/irish-language-frequency.html). People aged 3 and over who said they could speak Irish, by how often they speak it, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/irish-language-frequency.csv)
+- [Daily Irish speakers in the Gaeltacht](/charts/irish-language-gaeltacht.html). Percentage of people aged 3 and over in each Gaeltacht area who speak Irish every day outside school, Census 2011, 2016 and 2022. *Central Statistics Office (CSO).* [CSV](/charts/irish-language-gaeltacht.csv)

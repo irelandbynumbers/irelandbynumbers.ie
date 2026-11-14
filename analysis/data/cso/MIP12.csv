@@ -1,0 +1,841 @@
+STATISTIC,STATISTIC Label,TLIST(A1),Year,C02199V02655,Sex,C02677V03567,Countries,UNIT,VALUE
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,AL,Albania,Number,78.9
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,AT,Austria,Number,81.7
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,BE,Belgium,Number,81.5
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,BG,Bulgaria,Number,74.7
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,HR,Croatia,Number,78.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,CY,Cyprus,Number,83.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,CZ,Czechia,Number,79.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,DK,Denmark,Number,81.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,EE,Estonia,Number,78.4
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,80.8
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,FI,Finland,Number,81.6
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,FR,France,Number,82.6
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,GE,Georgia,Number,74.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,DE,Germany,Number,80.9
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,GR,Greece,Number,81.5
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,HU,Hungary,Number,76.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,IS,Iceland,Number,82.7
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,IE,Ireland,Number,82.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,IT,Italy,Number,83.1
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,LV,Latvia,Number,75.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,LI,Liechtenstein,Number,83.0
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,LT,Lithuania,Number,75.9
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,LU,Luxembourg,Number,82.1
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,MT,Malta,Number,82.1
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,ME,Montenegro,Number,76.9
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,NL,Netherlands,Number,81.8
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,MK,North Macedonia,Number,76.7
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,NO,Norway,Number,82.8
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,PL,Poland,Number,77.6
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,PT,Portugal,Number,81.6
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,RO,Romania,Number,75.3
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,RS,Serbia,Number,75.9
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,SK,Slovakia,Number,77.3
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,SI,Slovenia,Number,81.2
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,ES,Spain,Number,83.1
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,SE,Sweden,Number,82.5
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,CH,Switzerland,Number,83.6
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,TR,Türkiye,Number,78.9
+MIP12,Life expectancy at birth (Years),2018,2018,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,AL,Albania,Number,77.4
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,AT,Austria,Number,79.3
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,BE,Belgium,Number,79.2
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,BG,Bulgaria,Number,71.2
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,HR,Croatia,Number,74.7
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,CY,Cyprus,Number,81.1
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,CZ,Czechia,Number,76.1
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,DK,Denmark,Number,79.0
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,EE,Estonia,Number,73.9
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,E272020,EU 27 Countries (from 2020),Number,78.0
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,FI,Finland,Number,78.9
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,FR,France,Number,79.5
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,GE,Georgia,Number,69.7
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,DE,Germany,Number,78.5
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,GR,Greece,Number,78.7
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,HU,Hungary,Number,72.6
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,IS,Iceland,Number,81.1
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,IE,Ireland,Number,80.2
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,IT,Italy,Number,80.9
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,LV,Latvia,Number,70.0
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,LI,Liechtenstein,Number,80.4
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,LT,Lithuania,Number,70.9
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,LU,Luxembourg,Number,79.8
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,MT,Malta,Number,80.0
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,ME,Montenegro,Number,74.5
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,NL,Netherlands,Number,80.2
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,MK,North Macedonia,Number,74.6
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,NO,Norway,Number,81.0
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,PL,Poland,Number,73.7
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,PT,Portugal,Number,78.5
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,RO,Romania,Number,71.6
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,RS,Serbia,Number,73.5
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,SK,Slovakia,Number,73.9
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,SI,Slovenia,Number,78.3
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,ES,Spain,Number,80.4
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,SE,Sweden,Number,80.8
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,CH,Switzerland,Number,81.6
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,TR,Türkiye,Number,76.2
+MIP12,Life expectancy at birth (Years),2018,2018,1,Male,GB,United Kingdom,Number,79.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,AL,Albania,Number,80.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,AT,Austria,Number,84.0
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,BE,Belgium,Number,83.7
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,BG,Bulgaria,Number,78.3
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,HR,Croatia,Number,81.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,CY,Cyprus,Number,84.8
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,CZ,Czechia,Number,81.9
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,DK,Denmark,Number,82.9
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,EE,Estonia,Number,82.4
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,E272020,EU 27 Countries (from 2020),Number,83.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,FI,Finland,Number,84.3
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,FR,France,Number,85.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,GE,Georgia,Number,78.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,DE,Germany,Number,83.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,GR,Greece,Number,84.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,HU,Hungary,Number,79.4
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,IS,Iceland,Number,84.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,IE,Ireland,Number,83.9
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,IT,Italy,Number,85.2
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,LV,Latvia,Number,79.6
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,LI,Liechtenstein,Number,85.6
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,LT,Lithuania,Number,80.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,LU,Luxembourg,Number,84.3
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,MT,Malta,Number,84.1
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,ME,Montenegro,Number,79.3
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,NL,Netherlands,Number,83.3
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,MK,North Macedonia,Number,78.8
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,NO,Norway,Number,84.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,PL,Poland,Number,81.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,PT,Portugal,Number,84.5
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,RO,Romania,Number,79.1
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,RS,Serbia,Number,78.4
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,SK,Slovakia,Number,80.7
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,SI,Slovenia,Number,84.0
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,ES,Spain,Number,85.8
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,SE,Sweden,Number,84.3
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,CH,Switzerland,Number,85.4
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,TR,Türkiye,Number,81.6
+MIP12,Life expectancy at birth (Years),2018,2018,2,Female,GB,United Kingdom,Number,82.9
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,AL,Albania,Number,79.1
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,AT,Austria,Number,81.9
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,BE,Belgium,Number,81.8
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,BG,Bulgaria,Number,74.8
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,HR,Croatia,Number,78.3
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,CY,Cyprus,Number,82.6
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,CZ,Czechia,Number,79.2
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,DK,Denmark,Number,81.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,EE,Estonia,Number,78.8
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,81.1
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,FI,Finland,Number,81.9
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,FR,France,Number,82.7
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,GE,Georgia,Number,74.1
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,DE,Germany,Number,81.2
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,GR,Greece,Number,81.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,HU,Hungary,Number,76.3
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,IS,Iceland,Number,83.0
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,IE,Ireland,Number,82.5
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,IT,Italy,Number,83.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,LV,Latvia,Number,75.7
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,LI,Liechtenstein,Number,84.0
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,LT,Lithuania,Number,76.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,LU,Luxembourg,Number,82.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,MT,Malta,Number,82.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,ME,Montenegro,Number,76.7
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,NL,Netherlands,Number,82.1
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,MK,North Macedonia,Number,76.6
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,NO,Norway,Number,83.0
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,PL,Poland,Number,77.9
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,PT,Portugal,Number,82.0
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,RO,Romania,Number,75.6
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,RS,Serbia,Number,76.0
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,SK,Slovakia,Number,77.7
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,SI,Slovenia,Number,81.4
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,ES,Spain,Number,83.5
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,SE,Sweden,Number,83.1
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,CH,Switzerland,Number,83.8
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,TR,Türkiye,Number,79.1
+MIP12,Life expectancy at birth (Years),2019,2019,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,AL,Albania,Number,77.6
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,AT,Austria,Number,79.5
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,BE,Belgium,Number,79.6
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,BG,Bulgaria,Number,71.2
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,HR,Croatia,Number,75.2
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,CY,Cyprus,Number,80.6
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,CZ,Czechia,Number,76.3
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,DK,Denmark,Number,79.4
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,EE,Estonia,Number,74.4
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,E272020,EU 27 Countries (from 2020),Number,78.3
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,FI,Finland,Number,79.2
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,FR,France,Number,79.7
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,GE,Georgia,Number,69.8
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,DE,Germany,Number,78.8
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,GR,Greece,Number,78.7
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,HU,Hungary,Number,72.9
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,IS,Iceland,Number,81.5
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,IE,Ireland,Number,80.6
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,IT,Italy,Number,81.2
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,LV,Latvia,Number,70.9
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,LI,Liechtenstein,Number,82.4
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,LT,Lithuania,Number,71.4
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,LU,Luxembourg,Number,80.0
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,MT,Malta,Number,80.7
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,ME,Montenegro,Number,74.0
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,NL,Netherlands,Number,80.5
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,MK,North Macedonia,Number,74.7
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,NO,Norway,Number,81.2
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,PL,Poland,Number,74.0
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,PT,Portugal,Number,79.0
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,RO,Romania,Number,71.9
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,RS,Serbia,Number,73.4
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,SK,Slovakia,Number,74.3
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,SI,Slovenia,Number,78.5
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,ES,Spain,Number,80.8
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,SE,Sweden,Number,81.3
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,CH,Switzerland,Number,81.9
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,TR,Türkiye,Number,76.4
+MIP12,Life expectancy at birth (Years),2019,2019,1,Male,GB,United Kingdom,Number,79.5
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,AL,Albania,Number,80.7
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,AT,Austria,Number,84.2
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,BE,Belgium,Number,84.0
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,BG,Bulgaria,Number,78.5
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,HR,Croatia,Number,81.3
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,CY,Cyprus,Number,84.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,CZ,Czechia,Number,82.1
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,DK,Denmark,Number,83.4
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,EE,Estonia,Number,82.8
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,E272020,EU 27 Countries (from 2020),Number,83.8
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,FI,Finland,Number,84.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,FR,France,Number,85.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,GE,Georgia,Number,78.4
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,DE,Germany,Number,83.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,GR,Greece,Number,84.1
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,HU,Hungary,Number,79.5
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,IS,Iceland,Number,84.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,IE,Ireland,Number,84.4
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,IT,Italy,Number,85.5
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,LV,Latvia,Number,80.0
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,LI,Liechtenstein,Number,85.5
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,LT,Lithuania,Number,80.9
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,LU,Luxembourg,Number,84.8
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,MT,Malta,Number,83.9
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,ME,Montenegro,Number,79.5
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,NL,Netherlands,Number,83.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,MK,North Macedonia,Number,78.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,NO,Norway,Number,84.7
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,PL,Poland,Number,81.7
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,PT,Portugal,Number,84.8
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,RO,Romania,Number,79.4
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,RS,Serbia,Number,78.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,SK,Slovakia,Number,81.1
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,SI,Slovenia,Number,84.3
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,ES,Spain,Number,86.2
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,SE,Sweden,Number,84.7
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,CH,Switzerland,Number,85.6
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,TR,Türkiye,Number,81.8
+MIP12,Life expectancy at birth (Years),2019,2019,2,Female,GB,United Kingdom,Number,83.2
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,AL,Albania,Number,77.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,AT,Austria,Number,81.3
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,BE,Belgium,Number,80.8
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,BG,Bulgaria,Number,73.3
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,HR,Croatia,Number,77.6
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,CY,Cyprus,Number,82.7
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,CZ,Czechia,Number,78.3
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,DK,Denmark,Number,81.5
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,EE,Estonia,Number,78.8
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,80.3
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,FI,Finland,Number,81.8
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,FR,France,Number,82.2
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,GE,Georgia,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,DE,Germany,Number,81.0
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,GR,Greece,Number,81.1
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,HU,Hungary,Number,75.5
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,IS,Iceland,Number,82.9
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,IE,Ireland,Number,82.3
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,IT,Italy,Number,82.2
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,LV,Latvia,Number,75.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,LI,Liechtenstein,Number,81.7
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,LT,Lithuania,Number,75.2
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,LU,Luxembourg,Number,82.1
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,MT,Malta,Number,81.9
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,ME,Montenegro,Number,75.9
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,NL,Netherlands,Number,81.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,MK,North Macedonia,Number,74.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,NO,Norway,Number,83.2
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,PL,Poland,Number,76.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,PT,Portugal,Number,81.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,RO,Romania,Number,74.1
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,RS,Serbia,Number,74.5
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,SK,Slovakia,Number,77.0
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,SI,Slovenia,Number,80.5
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,ES,Spain,Number,82.3
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,SE,Sweden,Number,82.4
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,CH,Switzerland,Number,83.1
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,TR,Türkiye,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,AL,Albania,Number,75.2
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,AT,Austria,Number,78.9
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,BE,Belgium,Number,78.5
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,BG,Bulgaria,Number,69.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,HR,Croatia,Number,74.5
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,CY,Cyprus,Number,80.8
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,CZ,Czechia,Number,75.3
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,DK,Denmark,Number,79.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,EE,Estonia,Number,74.4
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,E272020,EU 27 Countries (from 2020),Number,77.4
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,FI,Finland,Number,79.0
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,FR,France,Number,79.1
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,GE,Georgia,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,DE,Germany,Number,78.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,GR,Greece,Number,78.4
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,HU,Hungary,Number,72.2
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,IS,Iceland,Number,81.4
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,IE,Ireland,Number,80.5
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,IT,Italy,Number,79.9
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,LV,Latvia,Number,70.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,LI,Liechtenstein,Number,80.0
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,LT,Lithuania,Number,70.2
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,LU,Luxembourg,Number,79.8
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,MT,Malta,Number,79.8
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,ME,Montenegro,Number,73.2
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,NL,Netherlands,Number,79.7
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,MK,North Macedonia,Number,72.2
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,NO,Norway,Number,81.5
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,PL,Poland,Number,72.4
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,PT,Portugal,Number,78.4
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,RO,Romania,Number,70.3
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,RS,Serbia,Number,71.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,SK,Slovakia,Number,73.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,SI,Slovenia,Number,77.8
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,ES,Spain,Number,79.5
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,SE,Sweden,Number,80.6
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,CH,Switzerland,Number,81.0
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,TR,Türkiye,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,1,Male,GB,United Kingdom,Number,78.3
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,AL,Albania,Number,79.6
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,AT,Austria,Number,83.7
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,BE,Belgium,Number,83.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,BG,Bulgaria,Number,77.3
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,HR,Croatia,Number,80.7
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,CY,Cyprus,Number,84.6
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,CZ,Czechia,Number,81.3
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,DK,Denmark,Number,83.5
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,EE,Estonia,Number,82.8
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,E272020,EU 27 Countries (from 2020),Number,83.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,FI,Finland,Number,84.6
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,FR,France,Number,85.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,GE,Georgia,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,DE,Germany,Number,83.4
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,GR,Greece,Number,83.8
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,HU,Hungary,Number,78.8
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,IS,Iceland,Number,84.4
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,IE,Ireland,Number,84.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,IT,Italy,Number,84.5
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,LV,Latvia,Number,79.9
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,LI,Liechtenstein,Number,83.3
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,LT,Lithuania,Number,80.0
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,LU,Luxembourg,Number,84.4
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,MT,Malta,Number,84.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,ME,Montenegro,Number,78.8
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,NL,Netherlands,Number,83.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,MK,North Macedonia,Number,76.7
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,NO,Norway,Number,84.9
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,PL,Poland,Number,80.6
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,PT,Portugal,Number,84.2
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,RO,Romania,Number,78.2
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,RS,Serbia,Number,77.5
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,SK,Slovakia,Number,80.4
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,SI,Slovenia,Number,83.4
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,ES,Spain,Number,85.0
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,SE,Sweden,Number,84.3
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,CH,Switzerland,Number,85.1
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,TR,Türkiye,Number,
+MIP12,Life expectancy at birth (Years),2020,2020,2,Female,GB,United Kingdom,Number,82.3
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,AL,Albania,Number,75.5
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,AT,Austria,Number,81.3
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,BE,Belgium,Number,81.7
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,BG,Bulgaria,Number,71.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,HR,Croatia,Number,76.6
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,CY,Cyprus,Number,81.8
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,CZ,Czechia,Number,77.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,DK,Denmark,Number,81.4
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,EE,Estonia,Number,77.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,80.0
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,FI,Finland,Number,81.8
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,FR,France,Number,82.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,GE,Georgia,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,DE,Germany,Number,80.7
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,GR,Greece,Number,80.1
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,HU,Hungary,Number,74.1
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,IS,Iceland,Number,83.0
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,IE,Ireland,Number,82.1
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,IT,Italy,Number,82.6
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,LV,Latvia,Number,73.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,LI,Liechtenstein,Number,83.6
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,LT,Lithuania,Number,74.3
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,LU,Luxembourg,Number,82.5
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,MT,Malta,Number,82.0
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,ME,Montenegro,Number,73.8
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,NL,Netherlands,Number,81.3
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,MK,North Macedonia,Number,73.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,NO,Norway,Number,83.2
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,PL,Poland,Number,75.4
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,PT,Portugal,Number,81.4
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,RO,Romania,Number,72.8
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,RS,Serbia,Number,72.8
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,SK,Slovakia,Number,74.6
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,SI,Slovenia,Number,80.6
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,ES,Spain,Number,83.0
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,SE,Sweden,Number,83.0
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,CH,Switzerland,Number,83.6
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,TR,Türkiye,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,AL,Albania,Number,73.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,AT,Austria,Number,78.8
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,BE,Belgium,Number,79.3
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,BG,Bulgaria,Number,67.7
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,HR,Croatia,Number,73.5
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,CY,Cyprus,Number,79.8
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,CZ,Czechia,Number,74.1
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,DK,Denmark,Number,79.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,EE,Estonia,Number,72.7
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,E272020,EU 27 Countries (from 2020),Number,77.1
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,FI,Finland,Number,79.1
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,FR,France,Number,79.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,GE,Georgia,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,DE,Germany,Number,78.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,GR,Greece,Number,77.3
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,HU,Hungary,Number,70.7
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,IS,Iceland,Number,81.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,IE,Ireland,Number,80.3
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,IT,Italy,Number,80.4
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,LV,Latvia,Number,68.3
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,LI,Liechtenstein,Number,81.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,LT,Lithuania,Number,69.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,LU,Luxembourg,Number,80.4
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,MT,Malta,Number,80.3
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,ME,Montenegro,Number,70.8
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,NL,Netherlands,Number,79.7
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,MK,North Macedonia,Number,71.1
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,NO,Norway,Number,81.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,PL,Poland,Number,71.5
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,PT,Portugal,Number,78.4
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,RO,Romania,Number,69.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,RS,Serbia,Number,70.0
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,SK,Slovakia,Number,71.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,SI,Slovenia,Number,77.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,ES,Spain,Number,80.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,SE,Sweden,Number,81.2
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,CH,Switzerland,Number,81.6
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,TR,Türkiye,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,1,Male,GB,United Kingdom,Number,78.4
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,AL,Albania,Number,77.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,AT,Austria,Number,83.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,BE,Belgium,Number,84.1
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,BG,Bulgaria,Number,75.0
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,HR,Croatia,Number,79.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,CY,Cyprus,Number,83.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,CZ,Czechia,Number,80.5
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,DK,Denmark,Number,83.3
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,EE,Estonia,Number,81.4
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,E272020,EU 27 Countries (from 2020),Number,82.8
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,FI,Finland,Number,84.5
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,FR,France,Number,85.2
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,GE,Georgia,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,DE,Germany,Number,83.2
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,GR,Greece,Number,82.9
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,HU,Hungary,Number,77.6
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,IS,Iceland,Number,84.5
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,IE,Ireland,Number,84.0
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,IT,Italy,Number,84.8
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,LV,Latvia,Number,78.0
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,LI,Liechtenstein,Number,86.1
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,LT,Lithuania,Number,78.9
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,LU,Luxembourg,Number,84.6
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,MT,Malta,Number,83.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,ME,Montenegro,Number,77.0
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,NL,Netherlands,Number,83.0
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,MK,North Macedonia,Number,75.5
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,NO,Norway,Number,84.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,PL,Poland,Number,79.5
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,PT,Portugal,Number,84.3
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,RO,Romania,Number,76.6
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,RS,Serbia,Number,75.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,SK,Slovakia,Number,78.2
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,SI,Slovenia,Number,83.7
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,ES,Spain,Number,85.8
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,SE,Sweden,Number,84.8
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,CH,Switzerland,Number,85.6
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,TR,Türkiye,Number,
+MIP12,Life expectancy at birth (Years),2021,2021,2,Female,GB,United Kingdom,Number,82.5
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,AL,Albania,Number,79.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,AT,Austria,Number,81.4
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,BE,Belgium,Number,81.7
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,BG,Bulgaria,Number,74.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,HR,Croatia,Number,77.7
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,CY,Cyprus,Number,82.2
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,CZ,Czechia,Number,79.0
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,DK,Denmark,Number,81.3
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,EE,Estonia,Number,78.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,80.6
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,FI,Finland,Number,81.2
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,FR,France,Number,82.2
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,GE,Georgia,Number,73.7
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,DE,Germany,Number,80.5
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,GR,Greece,Number,80.8
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,HU,Hungary,Number,75.9
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,IS,Iceland,Number,82.2
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,IE,Ireland,Number,82.4
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,IT,Italy,Number,82.8
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,LV,Latvia,Number,74.5
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,LI,Liechtenstein,Number,83.6
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,LT,Lithuania,Number,75.8
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,LU,Luxembourg,Number,82.8
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,MT,Malta,Number,82.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,ME,Montenegro,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,NL,Netherlands,Number,81.6
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,NO,Norway,Number,82.6
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,PL,Poland,Number,77.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,PT,Portugal,Number,81.7
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,RO,Romania,Number,75.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,RS,Serbia,Number,75.2
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,SK,Slovakia,Number,77.0
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,SI,Slovenia,Number,81.2
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,ES,Spain,Number,83.1
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,SE,Sweden,Number,83.0
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,CH,Switzerland,Number,83.5
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,TR,Türkiye,Number,76.3
+MIP12,Life expectancy at birth (Years),2022,2022,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,AL,Albania,Number,77.4
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,AT,Austria,Number,79.0
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,BE,Belgium,Number,79.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,BG,Bulgaria,Number,70.5
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,HR,Croatia,Number,74.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,CY,Cyprus,Number,80.4
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,CZ,Czechia,Number,76.1
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,DK,Denmark,Number,79.4
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,EE,Estonia,Number,73.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,E272020,EU 27 Countries (from 2020),Number,77.8
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,FI,Finland,Number,78.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,FR,France,Number,79.3
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,GE,Georgia,Number,69.4
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,DE,Germany,Number,78.1
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,GR,Greece,Number,78.2
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,HU,Hungary,Number,72.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,IS,Iceland,Number,80.9
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,IE,Ireland,Number,80.7
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,IT,Italy,Number,80.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,LV,Latvia,Number,69.5
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,LI,Liechtenstein,Number,82.0
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,LT,Lithuania,Number,71.4
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,LU,Luxembourg,Number,80.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,MT,Malta,Number,80.1
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,ME,Montenegro,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,NL,Netherlands,Number,80.1
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,NO,Norway,Number,80.9
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,PL,Poland,Number,73.2
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,PT,Portugal,Number,78.8
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,RO,Romania,Number,71.3
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,RS,Serbia,Number,72.7
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,SK,Slovakia,Number,73.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,SI,Slovenia,Number,78.4
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,ES,Spain,Number,80.3
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,SE,Sweden,Number,81.3
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,CH,Switzerland,Number,81.6
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,TR,Türkiye,Number,74.3
+MIP12,Life expectancy at birth (Years),2022,2022,1,Male,GB,United Kingdom,Number,79.0
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,AL,Albania,Number,80.9
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,AT,Austria,Number,83.8
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,BE,Belgium,Number,83.8
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,BG,Bulgaria,Number,77.9
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,HR,Croatia,Number,80.8
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,CY,Cyprus,Number,84.0
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,CZ,Czechia,Number,81.9
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,DK,Denmark,Number,83.2
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,EE,Estonia,Number,82.2
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,E272020,EU 27 Countries (from 2020),Number,83.2
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,FI,Finland,Number,83.8
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,FR,France,Number,85.1
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,GE,Georgia,Number,78.1
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,DE,Germany,Number,82.9
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,GR,Greece,Number,83.4
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,HU,Hungary,Number,79.2
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,IS,Iceland,Number,83.5
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,IE,Ireland,Number,84.0
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,IT,Italy,Number,84.8
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,LV,Latvia,Number,79.4
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,LI,Liechtenstein,Number,85.2
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,LT,Lithuania,Number,80.1
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,LU,Luxembourg,Number,85.0
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,MT,Malta,Number,84.2
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,ME,Montenegro,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,NL,Netherlands,Number,83.1
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,NO,Norway,Number,84.3
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,PL,Poland,Number,81.0
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,PT,Portugal,Number,84.4
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,RO,Romania,Number,79.1
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,RS,Serbia,Number,77.9
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,SK,Slovakia,Number,80.4
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,SI,Slovenia,Number,84.0
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,ES,Spain,Number,85.7
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,SE,Sweden,Number,84.7
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,CH,Switzerland,Number,85.4
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,TR,Türkiye,Number,78.4
+MIP12,Life expectancy at birth (Years),2022,2022,2,Female,GB,United Kingdom,Number,82.9
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,AL,Albania,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,AT,Austria,Number,81.9
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,BE,Belgium,Number,82.3
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,BG,Bulgaria,Number,75.7
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,HR,Croatia,Number,78.5
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,CY,Cyprus,Number,83.0
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,CZ,Czechia,Number,79.8
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,DK,Denmark,Number,81.7
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,EE,Estonia,Number,78.9
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,81.2
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,FI,Finland,Number,81.6
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,FR,France,Number,82.9
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,GE,Georgia,Number,73.7
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,DE,Germany,Number,80.9
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,GR,Greece,Number,81.7
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,HU,Hungary,Number,76.7
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,IS,Iceland,Number,82.4
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,IE,Ireland,Number,82.7
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,IT,Italy,Number,83.3
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,LV,Latvia,Number,75.6
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,LI,Liechtenstein,Number,83.8
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,LT,Lithuania,Number,77.4
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,LU,Luxembourg,Number,83.1
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,MT,Malta,Number,83.1
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,MD,"Moldova, Republic of",Number,71.9
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,ME,Montenegro,Number,77.6
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,NL,Netherlands,Number,81.8
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,NO,Norway,Number,83.0
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,PL,Poland,Number,78.2
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,PT,Portugal,Number,82.3
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,RO,Romania,Number,76.3
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,RS,Serbia,Number,76.2
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,SK,Slovakia,Number,78.1
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,SI,Slovenia,Number,81.8
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,ES,Spain,Number,83.8
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,SE,Sweden,Number,83.2
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,CH,Switzerland,Number,84.1
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,TR,Türkiye,Number,77.3
+MIP12,Life expectancy at birth (Years),2023,2023,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,AL,Albania,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,AT,Austria,Number,79.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,BE,Belgium,Number,80.2
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,BG,Bulgaria,Number,71.9
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,HR,Croatia,Number,75.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,CY,Cyprus,Number,81.1
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,CZ,Czechia,Number,76.9
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,DK,Denmark,Number,79.7
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,EE,Estonia,Number,74.5
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,E272020,EU 27 Countries (from 2020),Number,78.6
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,FI,Finland,Number,79.0
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,FR,France,Number,80.0
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,GE,Georgia,Number,69.9
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,DE,Germany,Number,78.5
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,GR,Greece,Number,79.1
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,HU,Hungary,Number,73.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,IS,Iceland,Number,80.7
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,IE,Ireland,Number,81.0
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,IT,Italy,Number,81.2
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,LV,Latvia,Number,70.5
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,LI,Liechtenstein,Number,81.3
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,LT,Lithuania,Number,72.9
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,LU,Luxembourg,Number,81.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,MT,Malta,Number,81.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,MD,"Moldova, Republic of",Number,67.5
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,ME,Montenegro,Number,75.1
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,NL,Netherlands,Number,80.3
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,NO,Norway,Number,81.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,PL,Poland,Number,74.5
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,PT,Portugal,Number,79.4
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,RO,Romania,Number,72.6
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,RS,Serbia,Number,73.8
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,SK,Slovakia,Number,74.9
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,SI,Slovenia,Number,78.9
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,ES,Spain,Number,81.1
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,SE,Sweden,Number,81.6
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,CH,Switzerland,Number,82.2
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,TR,Türkiye,Number,74.8
+MIP12,Life expectancy at birth (Years),2023,2023,1,Male,GB,United Kingdom,Number,79.0
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,AL,Albania,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,AT,Austria,Number,84.2
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,BE,Belgium,Number,84.3
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,BG,Bulgaria,Number,79.5
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,HR,Croatia,Number,81.7
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,CY,Cyprus,Number,85.0
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,CZ,Czechia,Number,82.7
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,DK,Denmark,Number,83.6
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,EE,Estonia,Number,83.0
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,E272020,EU 27 Countries (from 2020),Number,83.9
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,FI,Finland,Number,84.2
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,FR,France,Number,85.7
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,GE,Georgia,Number,77.5
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,DE,Germany,Number,83.2
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,GR,Greece,Number,84.2
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,HU,Hungary,Number,79.8
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,IS,Iceland,Number,84.1
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,IE,Ireland,Number,84.5
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,IT,Italy,Number,85.3
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,LV,Latvia,Number,80.5
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,LI,Liechtenstein,Number,86.4
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,LT,Lithuania,Number,81.7
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,LU,Luxembourg,Number,84.8
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,MT,Malta,Number,84.8
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,MD,"Moldova, Republic of",Number,76.4
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,ME,Montenegro,Number,80.2
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,NL,Netherlands,Number,83.3
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,NO,Norway,Number,84.6
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,PL,Poland,Number,81.9
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,PT,Portugal,Number,85.0
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,RO,Romania,Number,80.2
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,RS,Serbia,Number,78.6
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,SK,Slovakia,Number,81.4
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,SI,Slovenia,Number,84.7
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,ES,Spain,Number,86.3
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,SE,Sweden,Number,84.9
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,CH,Switzerland,Number,85.8
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,TR,Türkiye,Number,79.8
+MIP12,Life expectancy at birth (Years),2023,2023,2,Female,GB,United Kingdom,Number,82.9
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,AL,Albania,Number,80.4
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,AT,Austria,Number,82.1
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,BE,Belgium,Number,82.4
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,BG,Bulgaria,Number,75.8
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,HR,Croatia,Number,78.9
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,CY,Cyprus,Number,83.5
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,CZ,Czechia,Number,80.1
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,DK,Denmark,Number,82.0
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,EE,Estonia,Number,79.4
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,E272020,EU 27 Countries (from 2020),Number,81.5
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,FI,Finland,Number,82.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,FR,France,Number,83.0
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,GE,Georgia,Number,74.9
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,DE,Germany,Number,81.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,GR,Greece,Number,81.9
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,HU,Hungary,Number,76.8
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,IS,Iceland,Number,82.8
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,IE,Ireland,Number,83.1
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,IT,Italy,Number,83.7
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,LV,Latvia,Number,76.4
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,LI,Liechtenstein,Number,84.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,LT,Lithuania,Number,77.5
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,LU,Luxembourg,Number,83.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,MT,Malta,Number,83.0
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,ME,Montenegro,Number,77.6
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,NL,Netherlands,Number,81.9
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,NO,Norway,Number,83.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,PL,Poland,Number,78.5
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,PT,Portugal,Number,82.5
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,RO,Romania,Number,76.5
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,RS,Serbia,Number,76.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,SK,Slovakia,Number,78.4
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,SI,Slovenia,Number,82.1
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,ES,Spain,Number,84.0
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,SE,Sweden,Number,83.8
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,CH,Switzerland,Number,84.2
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,TR,Türkiye,Number,79.0
+MIP12,Life expectancy at birth (Years),2024,2024,-,Total Persons,GB,United Kingdom,Number,
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,AL,Albania,Number,78.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,AT,Austria,Number,79.8
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,BE,Belgium,Number,80.3
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,BG,Bulgaria,Number,72.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,HR,Croatia,Number,76.0
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,CY,Cyprus,Number,81.5
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,CZ,Czechia,Number,77.1
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,DK,Denmark,Number,80.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,EE,Estonia,Number,75.1
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,E272020,EU 27 Countries (from 2020),Number,78.9
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,FI,Finland,Number,79.6
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,FR,France,Number,80.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,GE,Georgia,Number,70.5
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,DE,Germany,Number,78.9
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,GR,Greece,Number,79.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,HU,Hungary,Number,73.7
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,IS,Iceland,Number,81.1
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,IE,Ireland,Number,81.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,IT,Italy,Number,81.6
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,LV,Latvia,Number,71.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,LI,Liechtenstein,Number,82.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,LT,Lithuania,Number,73.0
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,LU,Luxembourg,Number,81.0
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,MT,Malta,Number,81.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,ME,Montenegro,Number,75.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,NL,Netherlands,Number,80.5
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,NO,Norway,Number,81.6
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,PL,Poland,Number,74.8
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,PT,Portugal,Number,79.7
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,RO,Romania,Number,72.8
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,RS,Serbia,Number,73.9
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,SK,Slovakia,Number,75.2
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,SI,Slovenia,Number,79.5
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,ES,Spain,Number,81.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,SE,Sweden,Number,82.3
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,CH,Switzerland,Number,82.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,TR,Türkiye,Number,76.4
+MIP12,Life expectancy at birth (Years),2024,2024,1,Male,GB,United Kingdom,Number,79.4
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,AL,Albania,Number,82.4
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,AT,Austria,Number,84.3
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,BE,Belgium,Number,84.4
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,BG,Bulgaria,Number,79.5
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,HR,Croatia,Number,81.8
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,CY,Cyprus,Number,85.6
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,CZ,Czechia,Number,83.0
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,DK,Denmark,Number,83.9
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,EE,Estonia,Number,83.4
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,E272020,EU 27 Countries (from 2020),Number,84.1
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,FI,Finland,Number,84.8
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,FR,France,Number,85.8
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,GE,Georgia,Number,79.3
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,DE,Germany,Number,83.5
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,GR,Greece,Number,84.4
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,HU,Hungary,Number,79.9
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,IS,Iceland,Number,84.5
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,IE,Ireland,Number,84.7
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,IT,Italy,Number,85.7
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,LV,Latvia,Number,81.2
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,LI,Liechtenstein,Number,86.3
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,LT,Lithuania,Number,81.6
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,LU,Luxembourg,Number,85.5
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,MT,Malta,Number,84.8
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,MD,"Moldova, Republic of",Number,
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,ME,Montenegro,Number,80.1
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,NL,Netherlands,Number,83.3
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,MK,North Macedonia,Number,
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,NO,Norway,Number,84.8
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,PL,Poland,Number,82.2
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,PT,Portugal,Number,85.2
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,RO,Romania,Number,80.3
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,RS,Serbia,Number,78.5
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,SK,Slovakia,Number,81.7
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,SI,Slovenia,Number,84.7
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,ES,Spain,Number,86.5
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,SE,Sweden,Number,85.3
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,CH,Switzerland,Number,85.9
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,TR,Türkiye,Number,81.7
+MIP12,Life expectancy at birth (Years),2024,2024,2,Female,GB,United Kingdom,Number,83.3

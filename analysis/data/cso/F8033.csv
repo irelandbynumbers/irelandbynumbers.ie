@@ -1,0 +1,55 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C02793V03362,Gaeltacht Areas,UNIT,VALUE
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,-,All Gaeltacht Areas,Number,23175.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,A,Cork Gaeltacht Areas,Number,982.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,B,Donegal Gaeltacht Areas,Number,7047.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,C1,Galway City Gaeltacht Areas,Number,636.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,D,Galway County Gaeltacht Areas,Number,10085.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,E,Kerry Gaeltacht Areas,Number,2501.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,F,Mayo Gaeltacht Areas,Number,1172.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,G,Meath Gaeltacht Areas,Number,314.0
+F8033C01,Daily Irish speakers aged 3 years and over,2011,2011,H,Waterford Gaeltacht Areas,Number,438.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,-,All Gaeltacht Areas,Number,20586.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,A,Cork Gaeltacht Areas,Number,872.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,B,Donegal Gaeltacht Areas,Number,5929.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,C1,Galway City Gaeltacht Areas,Number,646.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,D,Galway County Gaeltacht Areas,Number,9445.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,E,Kerry Gaeltacht Areas,Number,2049.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,F,Mayo Gaeltacht Areas,Number,895.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,G,Meath Gaeltacht Areas,Number,283.0
+F8033C01,Daily Irish speakers aged 3 years and over,2016,2016,H,Waterford Gaeltacht Areas,Number,467.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,-,All Gaeltacht Areas,Number,20261.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,A,Cork Gaeltacht Areas,Number,847.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,B,Donegal Gaeltacht Areas,Number,5753.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,C1,Galway City Gaeltacht Areas,Number,646.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,D,Galway County Gaeltacht Areas,Number,9373.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,E,Kerry Gaeltacht Areas,Number,2131.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,F,Mayo Gaeltacht Areas,Number,727.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,G,Meath Gaeltacht Areas,Number,276.0
+F8033C01,Daily Irish speakers aged 3 years and over,2022,2022,H,Waterford Gaeltacht Areas,Number,508.0
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,-,All Gaeltacht Areas,%,35.0
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,A,Cork Gaeltacht Areas,%,33.3
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,B,Donegal Gaeltacht Areas,%,41.1
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,C1,Galway City Gaeltacht Areas,%,8.9
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,D,Galway County Gaeltacht Areas,%,42.3
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,E,Kerry Gaeltacht Areas,%,40.4
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,F,Mayo Gaeltacht Areas,%,17.6
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,G,Meath Gaeltacht Areas,%,29.8
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2011,2011,H,Waterford Gaeltacht Areas,%,34.5
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,-,All Gaeltacht Areas,%,32.3
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,A,Cork Gaeltacht Areas,%,30.4
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,B,Donegal Gaeltacht Areas,%,37.3
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,C1,Galway City Gaeltacht Areas,%,9.2
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,D,Galway County Gaeltacht Areas,%,40.1
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,E,Kerry Gaeltacht Areas,%,34.9
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,F,Mayo Gaeltacht Areas,%,14.6
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,G,Meath Gaeltacht Areas,%,26.6
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2016,2016,H,Waterford Gaeltacht Areas,%,36.3
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,-,All Gaeltacht Areas,%,31.1
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,A,Cork Gaeltacht Areas,%,28.8
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,B,Donegal Gaeltacht Areas,%,37.0
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,C1,Galway City Gaeltacht Areas,%,8.3
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,D,Galway County Gaeltacht Areas,%,38.7
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,E,Kerry Gaeltacht Areas,%,35.1
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,F,Mayo Gaeltacht Areas,%,12.2
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,G,Meath Gaeltacht Areas,%,23.4
+F8033C02,Percentage of daily Irish speakers aged 3 years and over,2022,2022,H,Waterford Gaeltacht Areas,%,34.5

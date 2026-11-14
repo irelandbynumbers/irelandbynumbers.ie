@@ -1,0 +1,11 @@
+---
+title: "Moving to and from Ireland"
+description: "How many people arrive in Ireland and leave it each year."
+image: ../images/social/migration-flows.png
+---
+
+The Central Statistics Office estimates how many people move to Ireland and how many leave in each twelve months to April. In most years since the mid-1990s more people have arrived than left. More people left than arrived in most years from 1987 to 1995, and again from 2010 to 2014, after the financial crash.
+
+Immigration was highest in the year to April 2007, when an estimated 151,100 people arrived. Emigration was highest in the year to April 2012, at 83,000.
+
+{{< chart migration-flows >}}

@@ -1,0 +1,9 @@
+---
+title: "How often people speak Irish"
+description: "How many people can speak Irish, and how often they speak it."
+image: ../images/social/irish-language-frequency.png
+---
+
+At the 2022 census, 1,873,997 people aged 3 and over said they could speak Irish, 40% of the population of that age. Far fewer speak it regularly. 71,968 people said they spoke Irish every day outside school, and 115,065 said they spoke it every week. About three in ten Irish speakers spoke it only in school or college.
+
+{{< chart irish-language-frequency >}}

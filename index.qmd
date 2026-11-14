@@ -31,4 +31,4 @@ Every county also has its own page, with its population and rents. [See the coun
 
 ## Topics on the way
 
-Health and the HSE, causes of death, childhood, energy, environment and climate, green spaces, infrastructure and transport, agriculture and food, defence, the Irish language, migration and the diaspora, public finances, and architecture and heritage. Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).
+The health service and waiting lists, childhood, energy, water and nature, infrastructure and transport, agriculture and food, defence, the diaspora, public finances, elections, and architecture and heritage. Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).

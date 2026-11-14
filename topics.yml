@@ -25,3 +25,19 @@
   path: crime/index.qmd
   image: images/topic-crime.svg
   description: Recorded crime by type, from theft and car crime to assault.
+- title: Migration
+  path: migration/index.qmd
+  image: images/topic-migration.svg
+  description: How many people move to and from Ireland, and where they come from and go to.
+- title: Health
+  path: health/index.qmd
+  image: images/topic-health.svg
+  description: How long people live, and how the main causes of death have changed.
+- title: Environment and climate
+  path: environment/index.qmd
+  image: images/topic-environment.svg
+  description: Greenhouse gas emissions, where they come from, and how Ireland compares with the EU.
+- title: Irish language
+  path: irish-language/index.qmd
+  image: images/topic-irish-language.svg
+  description: How many people speak Irish, how often, and in the Gaeltacht.

@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "How often people speak Irish"
+  path: speakers.qmd
+  image: ../images/charts/irish-language-frequency.png
+  description: "How many people can speak Irish, and how often they speak it."
+- title: "The Gaeltacht"
+  path: gaeltacht.qmd
+  image: ../images/charts/irish-language-gaeltacht.png
+  description: "How many people speak Irish every day in each Gaeltacht area."

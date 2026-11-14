@@ -1,0 +1,23 @@
+---
+title: "Migration"
+description: "How many people move to and from Ireland, and where they come from and go to."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish migration >}}
+
+Ireland has a long history of emigration, and since the 1990s it has also become a country that many people move to. These pages show how many people arrive and leave each year, and where they come from and go to.
+
+{{< key-facts migration-flows migration-by-place >}}
+
+:::{#pages}
+:::

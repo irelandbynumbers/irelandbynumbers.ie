@@ -1,0 +1,23 @@
+---
+title: "Irish language"
+description: "How many people speak Irish, how often, and in the Gaeltacht."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish irish-language >}}
+
+The census asks everyone aged 3 and over whether they can speak Irish and how often they speak it. These pages show what the 2022 census found, across the country and in the Gaeltacht.
+
+{{< key-facts irish-language-frequency irish-language-gaeltacht >}}
+
+:::{#pages}
+:::

@@ -35,6 +35,14 @@ website:
             text: Education
           - href: crime/index.qmd
             text: Crime
+          - href: migration/index.qmd
+            text: Migration
+          - href: health/index.qmd
+            text: Health
+          - href: environment/index.qmd
+            text: Environment and climate
+          - href: irish-language/index.qmd
+            text: Irish language
       - href: counties/index.qmd
         text: Counties
       - href: charts.qmd

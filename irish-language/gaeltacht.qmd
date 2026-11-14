@@ -1,0 +1,9 @@
+---
+title: "The Gaeltacht"
+description: "How many people speak Irish every day in each Gaeltacht area."
+image: ../images/social/irish-language-gaeltacht.png
+---
+
+In the Gaeltacht as a whole, 31% of people aged 3 and over said in 2022 that they spoke Irish every day outside school, down from 35% in 2011. The share was highest in the Galway County Gaeltacht, at 39%, and lowest in the Gaeltacht areas of Galway City, at 8%.
+
+{{< chart irish-language-gaeltacht >}}

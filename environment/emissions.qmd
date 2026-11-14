@@ -1,0 +1,9 @@
+---
+title: "Emissions by sector"
+description: "Where Ireland's greenhouse gas emissions come from, and how they have changed since 1990."
+image: ../images/social/environment-emissions-by-sector.png
+---
+
+Ireland's greenhouse gas emissions rose through the 1990s and peaked at 70.8 million tonnes in 2001. In 2024 they were 53.8 million tonnes, a little below their 1990 level. Agriculture has been the largest source throughout, at between about 19 and 23 million tonnes a year. Emissions from transport more than doubled between 1990 and 2005, and emissions from producing electricity and other energy have more than halved since 2005.
+
+{{< chart environment-emissions-by-sector >}}
