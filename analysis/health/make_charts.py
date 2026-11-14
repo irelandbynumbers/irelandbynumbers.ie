@@ -45,7 +45,7 @@ def death_rates():
     d = d[["Year", "heart_disease", "cancer", "tuberculosis", "all_causes"]]
     d["Year"] = d.Year.astype(int)
     fig = figures.lines(d, "Year", {"heart_disease": "Heart disease", "cancer": "Cancer", "tuberculosis": "Tuberculosis"},
-                        value_format=",.0f", label_last=True)
+                        value_format=",.1f", label_last=True)
     a, b = d.iloc[0], d.iloc[-1]
     # The first year from which cancer has had the higher death rate every year since.
     behind = d[d.cancer <= d.heart_disease].Year
