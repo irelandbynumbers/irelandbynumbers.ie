@@ -1,0 +1,16 @@
+---
+title: "The Leaving Certificate"
+description: "How many secondary school students sit the Leaving Cert, and how many take each subject at higher level."
+---
+
+The Leaving Certificate is the exam taken at the end of secondary school. Most students take it in their final year, usually aged 17 or 18, and the results are used for entry to third-level education.
+
+About 60,000 people sit the Leaving Certificate each year. The number fell to 53,893 in 2006-2007 and has risen since, reaching 60,839 in 2023-2024.
+
+{{< chart education-leaving-cert-candidates >}}
+
+Most subjects can be taken at higher level or ordinary level, and Irish and Mathematics can also be taken at foundation level. In most of the larger subjects, more than three in four candidates take the higher-level paper. Mathematics and Irish are the exceptions, with under four in ten Mathematics candidates and about half of Irish candidates taking higher level.
+
+{{< chart education-leaving-cert-levels >}}
+
+Grade results are published each year by the [State Examinations Commission](https://www.examinations.ie/statistics/). The Central Statistics Office's own tables of Leaving Certificate grades stop in 2016, so they are not shown here.

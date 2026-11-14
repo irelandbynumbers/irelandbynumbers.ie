@@ -1,0 +1,12 @@
+---
+title: "Pupils in primary and secondary schools"
+description: "How many children attend primary school and secondary school each year."
+---
+
+Children in Ireland usually spend eight years in primary school, from junior infants to sixth class, and five or six years in secondary school (also called second-level or post-primary school).
+
+The number of primary school pupils peaked in the 2018-2019 school year and has fallen since, as fewer children were born in the years that followed. The larger groups of children who passed through primary school in the 2010s have since moved on to secondary school, where pupil numbers reached 429,653 in 2025-2026, the highest in this series.
+
+{{< chart education-pupils >}}
+
+The figures count pupils in schools aided by the Department of Education, which covers almost all schools in the State. Private primary schools that receive no State funding are not included.

@@ -1,5 +1,21 @@
 # Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
 # thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Pupils in primary and secondary schools"
+  path: pupils.qmd
+  image: ../images/charts/education-pupils.png
+  description: "How many children attend primary school and secondary school each year."
+- title: "Class sizes in primary schools"
+  path: class-sizes.qmd
+  image: ../images/charts/education-primary-class-size.png
+  description: "The average number of pupils in a primary school class."
+- title: "The Leaving Certificate"
+  path: leaving-cert.qmd
+  image: ../images/charts/education-leaving-cert-levels.png
+  description: "How many secondary school students sit the Leaving Cert, and how many take each subject at higher level."
+- title: "Third-level education"
+  path: third-level.qmd
+  image: ../images/charts/education-third-level-attainment.png
+  description: "Students in universities and colleges, and how Ireland compares with the EU."
 - title: "Who runs primary schools"
   path: patronage.qmd
   image: ../images/education-patronage.png

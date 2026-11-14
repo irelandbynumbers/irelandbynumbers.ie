@@ -1,6 +1,6 @@
 ---
 title: "Education"
-description: "Schools, pupils and who runs them."
+description: "Primary and secondary schools, the Leaving Certificate and third-level education."
 listing:
   id: pages
   contents: pages.yml
@@ -15,7 +15,9 @@ listing:
 
 {{< irish education >}}
 
-These pages cover Ireland's schools, the pupils in them, and who runs them.
+These pages cover primary schools, secondary schools, the Leaving Certificate and third-level education. Each page says whether its figures are for primary or secondary school.
+
+{{< key-facts education-pupils education-primary-class-size education-leaving-cert-levels education-third-level-attainment >}}
 
 :::{#pages}
 :::

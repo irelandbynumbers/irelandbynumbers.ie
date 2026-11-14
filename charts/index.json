@@ -450,6 +450,159 @@
   "checked": "2026-11-14"
  },
  {
+  "id": "education-leaving-cert-candidates",
+  "topic": "education",
+  "title": "Leaving Certificate candidates",
+  "subtitle": "Number of people who sat the Leaving Certificate (secondary school), school years 1999-2000 to 2023-2024.",
+  "kind": "chart",
+  "page": "/charts/education-leaving-cert-candidates.html",
+  "csv": "/charts/education-leaving-cert-candidates.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Junior and Leaving Certificate Examination Candidates (Number) (EDA93)",
+    "url": "https://data.cso.ie/table/EDA93",
+    "licence": "CC BY 4.0",
+    "code": "EDA93",
+    "updated": "2026-01-15",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "60,839 people sat the Leaving Certificate in the 2023-2024 school year.",
+  "listed": true,
+  "updated": "2026-01-15",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-leaving-cert-levels",
+  "topic": "education",
+  "title": "Leaving Certificate subjects taken at higher level",
+  "subtitle": "Percentage of Leaving Certificate (secondary school) candidates in the ten largest subjects who took the higher-level paper rather than the ordinary-level paper, 2024.",
+  "kind": "chart",
+  "page": "/charts/education-leaving-cert-levels.html",
+  "csv": "/charts/education-leaving-cert-levels.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Level of Leaving Certificate Subjects (WMI09)",
+    "url": "https://data.cso.ie/table/WMI09",
+    "licence": "CC BY 4.0",
+    "code": "WMI09",
+    "updated": "2025-10-14",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2024, 39% of Leaving Cert Mathematics candidates took the higher-level paper, the lowest share of the ten largest subjects.",
+  "listed": true,
+  "updated": "2025-10-14",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-primary-class-size",
+  "topic": "education",
+  "title": "Average class size in primary schools",
+  "subtitle": "Average number of pupils in a mainstream class in primary schools, school years 2003-2004 to 2024-2025.",
+  "kind": "chart",
+  "page": "/charts/education-primary-class-size.html",
+  "csv": "/charts/education-primary-class-size.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Average Class Size in Mainstream National Schools (EDA21)",
+    "url": "https://data.cso.ie/table/EDA21",
+    "licence": "CC BY 4.0",
+    "code": "EDA21",
+    "updated": "2026-07-28",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "The average primary school class had 22.2 pupils in 2024-2025, down from 24.9 in 2014-2015.",
+  "listed": true,
+  "updated": "2026-07-28",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-pupils",
+  "topic": "education",
+  "title": "Pupils in primary and secondary schools",
+  "subtitle": "Number of pupils in primary schools and in secondary (second-level) schools aided by the Department of Education, school years 1999-2000 to 2025-2026.",
+  "kind": "chart",
+  "page": "/charts/education-pupils.html",
+  "csv": "/charts/education-pupils.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Primary Pupils (EDA42)",
+    "url": "https://data.cso.ie/table/EDA42",
+    "licence": "CC BY 4.0",
+    "code": "EDA42",
+    "updated": "2026-11-12",
+    "checked": "2026-11-14"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Pupils Enrolled in Second Level Schools (EDA70)",
+    "url": "https://data.cso.ie/table/EDA70",
+    "licence": "CC BY 4.0",
+    "code": "EDA70",
+    "updated": "2026-11-12",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In the 2025-2026 school year there were 545,726 pupils in primary schools and 429,653 in secondary schools. Primary numbers peaked in 2018-2019, at 567,772.",
+  "listed": true,
+  "updated": "2026-11-12",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-third-level-attainment",
+  "topic": "education",
+  "title": "Young adults with a third-level qualification",
+  "subtitle": "Percentage of people aged 30 to 34 with a third-level qualification, Ireland and the 27 EU countries, 2021 to 2025.",
+  "kind": "chart",
+  "page": "/charts/education-third-level-attainment.html",
+  "csv": "/charts/education-third-level-attainment.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Persons aged 30-34 years with a Third Level Education in EU Member States (EATR04)",
+    "url": "https://data.cso.ie/table/EATR04",
+    "licence": "CC BY 4.0",
+    "code": "EATR04",
+    "updated": "2026-11-13",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2025, 69% of people aged 30 to 34 in Ireland had a third-level qualification, compared with an EU average of 46%.",
+  "listed": true,
+  "updated": "2026-11-13",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-third-level-students",
+  "topic": "education",
+  "title": "Students in third-level education",
+  "subtitle": "Number of students enrolled in third-level education (universities, technological universities and colleges), academic years 2014-2015 to 2025-2026.",
+  "kind": "chart",
+  "page": "/charts/education-third-level-students.html",
+  "csv": "/charts/education-third-level-students.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Students enrolled in third level education (MIP41)",
+    "url": "https://data.cso.ie/table/MIP41",
+    "licence": "CC BY 4.0",
+    "code": "MIP41",
+    "updated": "2026-10-20",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "283,950 students were enrolled in third-level education in 2025-2026, up from 214,590 in 2014-2015.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-14"
+ },
+ {
   "id": "crime-thefts",
   "topic": "crime",
   "title": "Recorded thefts and burglaries",

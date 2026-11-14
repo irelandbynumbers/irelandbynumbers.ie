@@ -28,6 +28,15 @@
 - [Unemployment rate](/charts/economy-unemployment.html). Percentage of people in the labour force who are unemployed, seasonally adjusted, January 1998 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/economy-unemployment.csv)
 - [Working from home by county](/charts/economy-work-from-home-map.html). Percentage of people at work who said they worked from home for at least part of the week, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/economy-work-from-home-map.csv)
 
+## [Education](/education/)
+
+- [Leaving Certificate candidates](/charts/education-leaving-cert-candidates.html). Number of people who sat the Leaving Certificate (secondary school), school years 1999-2000 to 2023-2024. *Central Statistics Office (CSO).* [CSV](/charts/education-leaving-cert-candidates.csv)
+- [Leaving Certificate subjects taken at higher level](/charts/education-leaving-cert-levels.html). Percentage of Leaving Certificate (secondary school) candidates in the ten largest subjects who took the higher-level paper rather than the ordinary-level paper, 2024. *Central Statistics Office (CSO).* [CSV](/charts/education-leaving-cert-levels.csv)
+- [Average class size in primary schools](/charts/education-primary-class-size.html). Average number of pupils in a mainstream class in primary schools, school years 2003-2004 to 2024-2025. *Central Statistics Office (CSO).* [CSV](/charts/education-primary-class-size.csv)
+- [Pupils in primary and secondary schools](/charts/education-pupils.html). Number of pupils in primary schools and in secondary (second-level) schools aided by the Department of Education, school years 1999-2000 to 2025-2026. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/education-pupils.csv)
+- [Young adults with a third-level qualification](/charts/education-third-level-attainment.html). Percentage of people aged 30 to 34 with a third-level qualification, Ireland and the 27 EU countries, 2021 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/education-third-level-attainment.csv)
+- [Students in third-level education](/charts/education-third-level-students.html). Number of students enrolled in third-level education (universities, technological universities and colleges), academic years 2014-2015 to 2025-2026. *Central Statistics Office (CSO).* [CSV](/charts/education-third-level-students.csv)
+
 ## [Crime](/crime/)
 
 - [Recorded thefts and burglaries](/charts/crime-thefts.html). Number of theft and burglary incidents recorded by An Garda Síochána each year, by type, 2003 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/crime-thefts.csv)
