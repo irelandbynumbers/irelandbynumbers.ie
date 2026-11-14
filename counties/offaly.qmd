@@ -1,6 +1,6 @@
 ---
 title: "Offaly"
-description: "Population and rents in County Offaly, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Offaly, from Central Statistics Office data."
 image: ../images/social/county-offaly-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-offaly-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Offaly
+
+- In 2024, disposable income per person in County Offaly was €26,969, the 16th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Offaly was €280,900, the 17th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 3.9 new homes were completed for every 1,000 people in County Offaly, the 21st highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 23% of households in County Offaly rented their home, the 22nd highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 14% of people living in County Offaly were born outside Ireland, the second lowest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 37% of people aged 3 and over in County Offaly said they could speak Irish, the 22nd highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 26% of people at work in County Offaly worked from home for at least part of the week, the 21st highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Offaly went by car, the 16th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Offaly live more than 2.7 km by road from a GP, the 10th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Offaly live more than 20.1 km by road from a hospital emergency department, the 15th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 10.8% of County Offaly in 2021, the 11th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

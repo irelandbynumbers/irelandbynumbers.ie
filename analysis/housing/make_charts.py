@@ -4,6 +4,7 @@ import plotly.graph_objects as go
 
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.counties import SUMMED_NOTE, add_up, county
 
 TOPIC = "housing"
 
@@ -12,6 +13,9 @@ def build():
     completions()
     house_prices()
     rents_map()
+    prices_map()
+    completions_map()
+    renting_map()
 
 
 def completions():
@@ -98,4 +102,106 @@ def rents_map():
                "and sizes. They are not adjusted for inflation, or for differences in the mix of homes let in each county.",
                "Rents on existing tenancies, and social housing rents, are not included."],
         data=d, figure=fig,
+    ).write()
+
+
+def prices_map():
+    df = cso.fetch("HPA03", where={"Dwelling Status": ["All Dwelling Statuses"], "Type of Buyer": ["All Buyer Types"],
+                                   "Stamp Duty Event": ["Executions"], "Statistic Label": ["Volume of Sales", "Value of Sales"]})
+    df = df[df["RPPI Region"] != "Dublin"]   # Dublin's total; its four council areas are added up instead
+    d = df.pivot_table(index=["Year", "RPPI Region"], columns="Statistic Label", values="VALUE").reset_index()
+    d = add_up(d, "RPPI Region", ["Volume of Sales", "Value of Sales"], by=["Year"])
+    d["mean_price"] = (d["Value of Sales"] * 1e6 / d["Volume of Sales"]).round(-2).astype(int)
+    d = d.rename(columns={"Year": "year", "Volume of Sales": "sales"})[["year", "county", "mean_price", "sales"]]
+    d["sales"] = d.sales.astype(int)
+    d = d.sort_values(["year", "county"]).reset_index(drop=True)
+    fig = figures.county_map(d[["year", "county", "mean_price"]], "county", "mean_price", time="year",
+                             legend_title="Average price paid (€)")
+    fig.data[1].hovertemplate = "<b>%{location}</b><br>€%{z:,.0f}<extra></extra>"
+    for fr in fig.frames:
+        fr.data[1].hovertemplate = fig.data[1].hovertemplate
+    y = d[d.year == d.year.max()].sort_values("mean_price")
+    lo, hi = y.iloc[0], y.iloc[-1]
+    Chart(
+        id="housing-prices-map", topic=TOPIC, kind="map", height=640,
+        title="Average house price by county",
+        subtitle=f"Average price paid for homes bought at market value by households, {d.year.min()} to {d.year.max()}. "
+                 "Use the slider to move through the years.",
+        sources=[Source.cso("HPA03", "Market-based Household Purchases of Residential Dwellings")],
+        notes=["Prices are from stamp duty returns filed with the Revenue Commissioners, for new and existing homes bought "
+               "by households at market value. They are averages of the prices paid, so they reflect the mix of homes sold "
+               "as well as price levels, and are not adjusted for inflation.",
+               "The average is the total value of sales divided by the number of sales. It is used here rather than the median "
+               "so that the CSO's figures for city and county areas can be combined. A few very expensive homes can pull "
+               "the average up. " + SUMMED_NOTE.replace("council ", "")],
+        key_fact=f"In {hi.year}, the average price paid for a home ranged from €{lo.mean_price:,} in {lo.county} "
+                 f"to €{hi.mean_price:,} in {hi.county}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def completions_map():
+    df = cso.fetch("NDQ05")
+    df["year"] = df.Quarter.str[:4].astype(int)
+    full = df.groupby("year").Quarter.nunique()
+    df = df[df.year.isin(full[full == 4].index)]   # whole years only
+    d = add_up(df, "Local Authority", ["VALUE"], by=["year"]).rename(columns={"VALUE": "completions"})
+    # Homes per 1,000 people, using the population at the latest census before or in that year.
+    pop = cso.fetch("F1001")
+    pop = pop[(pop.Sex == "Both sexes") & pop.County.isin(figures.COUNTIES) & (pop.CensusYear >= 2011)]
+    pop = pop.rename(columns={"County": "county", "CensusYear": "census_year", "VALUE": "population"})
+    d["census_year"] = d.year.map(lambda y: max(c for c in pop.census_year.unique() if c <= y))
+    d = d.merge(pop[["county", "census_year", "population"]], on=["county", "census_year"])
+    d["completions"] = d.completions.astype(int)
+    d["per_1000_people"] = (d.completions / d.population * 1000).round(1)
+    d = d.sort_values(["year", "county"]).reset_index(drop=True)[["year", "county", "completions", "per_1000_people", "population", "census_year"]]
+    fig = figures.county_map(d[["year", "county", "per_1000_people", "completions"]], "county", "per_1000_people", time="year",
+                             value_format=".1f", legend_title="New homes per 1,000 people",
+                             hover_extra="%{customdata[3]:,} new homes")
+    y = d[d.year == d.year.max()].sort_values("per_1000_people")
+    lo, hi = y.iloc[0], y.iloc[-1]
+    Chart(
+        id="housing-completions-map", topic=TOPIC, kind="map", height=640,
+        title="New homes by county",
+        subtitle=f"New homes completed each year for every 1,000 people living in the county, {d.year.min()} to {d.year.max()}. "
+                 "Use the slider to move through the years.",
+        sources=[Source.cso("NDQ05", "New Dwelling Completions"), Source.cso("F1001", "Population at Each Census")],
+        notes=["Completions are counted when a new home is first connected to the electricity network, and are added up "
+               "from the CSO's quarterly figures for each local authority.",
+               "Each year is divided by the county's population at the latest census before or in that year "
+               "(2011, 2016 or 2022), so the rate is approximate. " + SUMMED_NOTE],
+        key_fact=f"In {hi.year}, {hi.county} had the most new homes for its population, {hi.per_1000_people:.1f} for every "
+                 f"1,000 people, and {lo.county} the fewest, at {lo.per_1000_people:.1f}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def renting_map():
+    df = cso.fetch("SAP2022T6T3CTY", where={"Statistic Label": ["Permanent private households"]})
+    area = "Administrative Counties"
+    d = df.pivot_table(index=area, columns="Type of Occupancy", values="VALUE", aggfunc="sum").reset_index()
+    d["owned"] = d["Owned with mortgage or loan"] + d["Owned outright"]
+    d["rented"] = (d["Rented from private landlord"] + d["Rented from Local Authority"]
+                   + d["Rented from voluntary/co-operative housing body"])
+    d = d.rename(columns={"Rented from private landlord": "private_rented"})
+    d["households"] = d["Total"] - d["Not stated"]
+    d = add_up(d, area, ["owned", "rented", "private_rented", "households"])
+    d["percent_owned"] = (d.owned / d.households * 100).round(1)
+    d["percent_rented"] = (d.rented / d.households * 100).round(1)
+    d["percent_private_rented"] = (d.private_rented / d.households * 100).round(1)
+    fig = figures.county_map(d, "county", "percent_rented", value_format=".0f", suffix="%",
+                             legend_title="% of households renting their home")
+    hi, lo = d.loc[d.percent_rented.idxmax()], d.loc[d.percent_rented.idxmin()]
+    Chart(
+        id="housing-renting-map", topic=TOPIC, kind="map", height=600,
+        title="Renting by county",
+        subtitle="Percentage of households renting their home, from a private landlord, a local authority or a housing body, Census 2022.",
+        sources=[Source.cso("SAP2022T6T3CTY", "Census 2022 Small Area Population Statistics, permanent private households")],
+        notes=["Households living in a permanent dwelling are counted by how they occupy it. Households that did not "
+               "answer are left out of the total. The data file also gives the share owning their home and the share "
+               "renting from a private landlord.", SUMMED_NOTE],
+        key_fact=f"At the 2022 census, {hi.percent_rented:.0f}% of households in {hi.county} rented their home, the highest "
+                 f"share of any county, compared with {lo.percent_rented:.0f}% in {lo.county}.",
+        data=d[["county", "households", "owned", "rented", "private_rented", "percent_owned", "percent_rented", "percent_private_rented"]],
+        figure=fig,
     ).write()

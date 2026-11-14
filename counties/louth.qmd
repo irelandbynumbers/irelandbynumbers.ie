@@ -1,6 +1,6 @@
 ---
 title: "Louth"
-description: "Population and rents in County Louth, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Louth, from Central Statistics Office data."
 image: ../images/social/county-louth-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-louth-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Louth
+
+- In 2024, disposable income per person in County Louth was €30,542, the 7th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Louth was €348,700, the 8th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 11.0 new homes were completed for every 1,000 people in County Louth, the highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 29% of households in County Louth rented their home, the 6th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 22% of people living in County Louth were born outside Ireland, the 4th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 35% of people aged 3 and over in County Louth said they could speak Irish, the lowest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 30% of people at work in County Louth worked from home for at least part of the week, the 12th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 71% of people travelling to work in County Louth went by car, the second lowest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Louth live more than 1.5 km by road from a GP, the 21st furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Louth live more than 24.6 km by road from a hospital emergency department, the 12th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 4.2% of County Louth in 2021, the third lowest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

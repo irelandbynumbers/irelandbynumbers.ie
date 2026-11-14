@@ -1,6 +1,7 @@
 """Environment and climate charts: greenhouse gas emissions."""
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.counties import county
 
 TOPIC = "environment"
 EU = "EU 27 Countries (from 2020)"
@@ -18,6 +19,7 @@ SECTORS = {
 def build():
     by_sector()
     per_person()
+    forest_map()
 
 
 def by_sector():
@@ -71,5 +73,29 @@ def per_person():
                "The EU figure covers the 27 countries that have been members since 2020."],
         key_fact=f"In {y.Year:.0f}, emissions were {y.ireland:.1f} tonnes per person in Ireland, compared with an EU average "
                  f"of {y.eu_27:.1f} tonnes.",
+        data=d, figure=fig,
+    ).write()
+
+
+def forest_map():
+    df = cso.fetch("FAW02")
+    d = df[df["Statistic Label"].str.contains("percent")].copy()
+    year = int(d.Year.max())
+    d["county"] = d.County.map(county)
+    d = d.dropna(subset=["county"])[["county", "VALUE"]].rename(columns={"VALUE": "percent_forest"})
+    d = d.sort_values("county").reset_index(drop=True)
+    fig = figures.county_map(d, "county", "percent_forest", value_format=".1f", suffix="%",
+                             colorscale=[[0, "#eef7f2"], [0.5, "#5cc196"], [1, "#0d6b48"]],
+                             legend_title="Forests and woodland, % of county area")
+    hi, lo = d.loc[d.percent_forest.idxmax()], d.loc[d.percent_forest.idxmin()]
+    Chart(
+        id="environment-forest-map", topic=TOPIC, kind="map", height=600,
+        title="Forest cover by county",
+        subtitle=f"Forests and woodland as a percentage of each county's area, {year}.",
+        sources=[Source.cso("FAW02", "Extent of Forests and Woodlands (as a percent of total county area)")],
+        notes=["The figures come from the CSO's ecosystem extent accounts, which measure the area of each type of land cover "
+               "in every county."],
+        key_fact=f"In {year}, {hi.county} had the highest share of its land under forest or woodland, {hi.percent_forest:.1f}%, "
+                 f"and {lo.county} the lowest, {lo.percent_forest:.1f}%.",
         data=d, figure=fig,
     ).write()

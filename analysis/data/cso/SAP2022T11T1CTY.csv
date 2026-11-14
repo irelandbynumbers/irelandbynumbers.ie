@@ -1,0 +1,385 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C03789V04537,Administrative Counties 2019,C03767V04516,Means of Travel,UNIT,VALUE
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,F,On Foot,Number,1843
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,BI,Bicycle,Number,336
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,BU,"Bus, minibus or coach",Number,257
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,TDL,"Train, DART or LUAS",Number,241
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,M,Motorcycle or scooter,Number,55
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,CD,Car Driver,Number,15206
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,CP,Car passenger,Number,1382
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,V,Van,Number,2207
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,OTH,Other (incl. lorry),Number,224
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,WMFH,Work mainly at or from home,Number,2948
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,NS,Not stated,Number,1907
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,T,Total,Number,26606
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,F,On Foot,Number,46034
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,BI,Bicycle,Number,26458
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,BU,"Bus, minibus or coach",Number,39394
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,TDL,"Train, DART or LUAS",Number,17846
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,M,Motorcycle or scooter,Number,2124
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,CD,Car Driver,Number,77472
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,CP,Car passenger,Number,5485
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,V,Van,Number,6180
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,OTH,Other (incl. lorry),Number,523
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,WMFH,Work mainly at or from home,Number,34460
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,NS,Not stated,Number,38351
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,T,Total,Number,294327
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,F,On Foot,Number,6862
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,BI,Bicycle,Number,6372
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,BU,"Bus, minibus or coach",Number,7877
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,TDL,"Train, DART or LUAS",Number,12927
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,M,Motorcycle or scooter,Number,749
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,CD,Car Driver,Number,42886
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,CP,Car passenger,Number,1985
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,V,Van,Number,2280
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,OTH,Other (incl. lorry),Number,163
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,WMFH,Work mainly at or from home,Number,19513
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,NS,Not stated,Number,3650
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,T,Total,Number,105264
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,F,On Foot,Number,7283
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,BI,Bicycle,Number,3614
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,BU,"Bus, minibus or coach",Number,15552
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,TDL,"Train, DART or LUAS",Number,10769
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,M,Motorcycle or scooter,Number,884
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,CD,Car Driver,Number,74301
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,CP,Car passenger,Number,4900
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,V,Van,Number,5966
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,OTH,Other (incl. lorry),Number,408
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,WMFH,Work mainly at or from home,Number,19132
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,NS,Not stated,Number,10877
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,T,Total,Number,153686
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,F,On Foot,Number,6863
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,BI,Bicycle,Number,5229
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,BU,"Bus, minibus or coach",Number,15205
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,TDL,"Train, DART or LUAS",Number,4134
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,M,Motorcycle or scooter,Number,1041
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,CD,Car Driver,Number,69033
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,CP,Car passenger,Number,4680
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,V,Van,Number,6407
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,OTH,Other (incl. lorry),Number,313
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,WMFH,Work mainly at or from home,Number,14115
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,NS,Not stated,Number,9002
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,T,Total,Number,136022
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,F,On Foot,Number,6044
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,BI,Bicycle,Number,1439
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,BU,"Bus, minibus or coach",Number,4635
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,TDL,"Train, DART or LUAS",Number,4985
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,M,Motorcycle or scooter,Number,421
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,CD,Car Driver,Number,65408
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,CP,Car passenger,Number,4460
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,V,Van,Number,7218
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,OTH,Other (incl. lorry),Number,500
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,WMFH,Work mainly at or from home,Number,13439
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,NS,Not stated,Number,5483
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,T,Total,Number,114032
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,F,On Foot,Number,3560
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,BI,Bicycle,Number,575
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,BU,"Bus, minibus or coach",Number,509
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,TDL,"Train, DART or LUAS",Number,180
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,M,Motorcycle or scooter,Number,105
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,CD,Car Driver,Number,27940
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,CP,Car passenger,Number,1757
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,V,Van,Number,3654
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,OTH,Other (incl. lorry),Number,334
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,WMFH,Work mainly at or from home,Number,4994
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,NS,Not stated,Number,2121
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,T,Total,Number,45729
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,F,On Foot,Number,2086
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,BI,Bicycle,Number,373
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,BU,"Bus, minibus or coach",Number,585
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,TDL,"Train, DART or LUAS",Number,823
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,M,Motorcycle or scooter,Number,64
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,CD,Car Driver,Number,23951
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,CP,Car passenger,Number,1876
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,V,Van,Number,3622
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,OTH,Other (incl. lorry),Number,350
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,WMFH,Work mainly at or from home,Number,3459
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,NS,Not stated,Number,2495
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,T,Total,Number,39684
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,F,On Foot,Number,1257
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,BI,Bicycle,Number,261
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,BU,"Bus, minibus or coach",Number,242
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,TDL,"Train, DART or LUAS",Number,169
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,M,Motorcycle or scooter,Number,21
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,CD,Car Driver,Number,10632
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,CP,Car passenger,Number,865
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,V,Van,Number,1504
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,OTH,Other (incl. lorry),Number,184
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,WMFH,Work mainly at or from home,Number,1485
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,NS,Not stated,Number,2929
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,T,Total,Number,19549
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,F,On Foot,Number,5342
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,BI,Bicycle,Number,1154
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,BU,"Bus, minibus or coach",Number,2386
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,TDL,"Train, DART or LUAS",Number,677
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,M,Motorcycle or scooter,Number,151
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,CD,Car Driver,Number,31844
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,CP,Car passenger,Number,3004
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,V,Van,Number,3979
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,OTH,Other (incl. lorry),Number,289
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,WMFH,Work mainly at or from home,Number,5613
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,NS,Not stated,Number,4292
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,T,Total,Number,58731
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,F,On Foot,Number,5051
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,BI,Bicycle,Number,651
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,BU,"Bus, minibus or coach",Number,4937
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,TDL,"Train, DART or LUAS",Number,1244
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,M,Motorcycle or scooter,Number,278
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,CD,Car Driver,Number,60673
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,CP,Car passenger,Number,3965
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,V,Van,Number,7801
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,OTH,Other (incl. lorry),Number,622
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,WMFH,Work mainly at or from home,Number,11039
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,NS,Not stated,Number,4249
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,T,Total,Number,100510
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,F,On Foot,Number,2388
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,BI,Bicycle,Number,509
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,BU,"Bus, minibus or coach",Number,449
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,TDL,"Train, DART or LUAS",Number,398
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,M,Motorcycle or scooter,Number,59
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,CD,Car Driver,Number,21161
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,CP,Car passenger,Number,1627
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,V,Van,Number,3212
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,OTH,Other (incl. lorry),Number,330
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,WMFH,Work mainly at or from home,Number,2900
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,NS,Not stated,Number,2010
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,T,Total,Number,35043
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,F,On Foot,Number,2914
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,BI,Bicycle,Number,518
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,BU,"Bus, minibus or coach",Number,900
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,TDL,"Train, DART or LUAS",Number,354
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,M,Motorcycle or scooter,Number,72
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,CD,Car Driver,Number,24390
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,CP,Car passenger,Number,1905
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,V,Van,Number,3303
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,OTH,Other (incl. lorry),Number,314
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,WMFH,Work mainly at or from home,Number,3875
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,NS,Not stated,Number,3236
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,T,Total,Number,41781
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,F,On Foot,Number,4891
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,BI,Bicycle,Number,549
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,BU,"Bus, minibus or coach",Number,968
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,TDL,"Train, DART or LUAS",Number,160
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,M,Motorcycle or scooter,Number,137
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,CD,Car Driver,Number,41295
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,CP,Car passenger,Number,3340
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,V,Van,Number,6300
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,OTH,Other (incl. lorry),Number,535
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,WMFH,Work mainly at or from home,Number,6939
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,NS,Not stated,Number,3789
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,T,Total,Number,68903
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,F,On Foot,Number,4280
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,BI,Bicycle,Number,679
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,BU,"Bus, minibus or coach",Number,2580
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,TDL,"Train, DART or LUAS",Number,2712
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,M,Motorcycle or scooter,Number,268
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,CD,Car Driver,Number,37307
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,CP,Car passenger,Number,2488
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,V,Van,Number,4533
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,OTH,Other (incl. lorry),Number,412
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,WMFH,Work mainly at or from home,Number,9548
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,NS,Not stated,Number,3450
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,T,Total,Number,68257
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,F,On Foot,Number,3060
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,BI,Bicycle,Number,538
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,BU,"Bus, minibus or coach",Number,723
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,TDL,"Train, DART or LUAS",Number,125
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,M,Motorcycle or scooter,Number,119
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,CD,Car Driver,Number,34132
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,CP,Car passenger,Number,2327
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,V,Van,Number,4205
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,OTH,Other (incl. lorry),Number,369
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,WMFH,Work mainly at or from home,Number,5859
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,NS,Not stated,Number,3862
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,T,Total,Number,55319
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,F,On Foot,Number,11564
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,BI,Bicycle,Number,2560
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,BU,"Bus, minibus or coach",Number,7206
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,TDL,"Train, DART or LUAS",Number,384
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,M,Motorcycle or scooter,Number,394
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,CD,Car Driver,Number,50175
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,CP,Car passenger,Number,4681
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,V,Van,Number,3834
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,OTH,Other (incl. lorry),Number,243
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,WMFH,Work mainly at or from home,Number,12341
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,NS,Not stated,Number,8611
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,T,Total,Number,101993
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,F,On Foot,Number,9156
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,BI,Bicycle,Number,939
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,BU,"Bus, minibus or coach",Number,2363
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,TDL,"Train, DART or LUAS",Number,977
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,M,Motorcycle or scooter,Number,312
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,CD,Car Driver,Number,99062
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,CP,Car passenger,Number,5909
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,V,Van,Number,12997
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,OTH,Other (incl. lorry),Number,1266
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,WMFH,Work mainly at or from home,Number,19432
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,NS,Not stated,Number,7185
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,T,Total,Number,159598
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,F,On Foot,Number,5363
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,BI,Bicycle,Number,896
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,BU,"Bus, minibus or coach",Number,669
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,TDL,"Train, DART or LUAS",Number,124
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,M,Motorcycle or scooter,Number,129
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,CD,Car Driver,Number,38369
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,CP,Car passenger,Number,2523
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,V,Van,Number,6416
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,OTH,Other (incl. lorry),Number,443
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,WMFH,Work mainly at or from home,Number,6886
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,NS,Not stated,Number,4072
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,T,Total,Number,65890
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,F,On Foot,Number,7088
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,BI,Bicycle,Number,1314
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,BU,"Bus, minibus or coach",Number,2585
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,TDL,"Train, DART or LUAS",Number,160
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,M,Motorcycle or scooter,Number,226
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,CD,Car Driver,Number,49907
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,CP,Car passenger,Number,3686
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,V,Van,Number,5518
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,OTH,Other (incl. lorry),Number,535
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,WMFH,Work mainly at or from home,Number,9195
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,NS,Not stated,Number,9583
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,T,Total,Number,89797
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,F,On Foot,Number,5736
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,BI,Bicycle,Number,576
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,BU,"Bus, minibus or coach",Number,544
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,TDL,"Train, DART or LUAS",Number,324
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,M,Motorcycle or scooter,Number,124
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,CD,Car Driver,Number,44624
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,CP,Car passenger,Number,3124
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,V,Van,Number,5647
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,OTH,Other (incl. lorry),Number,715
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,WMFH,Work mainly at or from home,Number,6983
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,NS,Not stated,Number,4296
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,T,Total,Number,72693
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,F,On Foot,Number,4627
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,BI,Bicycle,Number,802
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,BU,"Bus, minibus or coach",Number,1273
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,TDL,"Train, DART or LUAS",Number,78
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,M,Motorcycle or scooter,Number,178
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,CD,Car Driver,Number,31658
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,CP,Car passenger,Number,2679
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,V,Van,Number,3277
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,OTH,Other (incl. lorry),Number,330
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,WMFH,Work mainly at or from home,Number,5855
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,NS,Not stated,Number,4082
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,T,Total,Number,54839
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,F,On Foot,Number,5352
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,BI,Bicycle,Number,1900
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,BU,"Bus, minibus or coach",Number,3068
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,TDL,"Train, DART or LUAS",Number,114
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,M,Motorcycle or scooter,Number,139
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,CD,Car Driver,Number,16718
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,CP,Car passenger,Number,1551
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,V,Van,Number,989
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,OTH,Other (incl. lorry),Number,76
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,WMFH,Work mainly at or from home,Number,4261
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,NS,Not stated,Number,4598
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,T,Total,Number,38766
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,F,On Foot,Number,3640
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,BI,Bicycle,Number,642
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,BU,"Bus, minibus or coach",Number,1172
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,TDL,"Train, DART or LUAS",Number,410
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,M,Motorcycle or scooter,Number,134
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,CD,Car Driver,Number,53545
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,CP,Car passenger,Number,2902
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,V,Van,Number,7666
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,OTH,Other (incl. lorry),Number,705
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,WMFH,Work mainly at or from home,Number,9509
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,NS,Not stated,Number,4740
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,T,Total,Number,85065
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,F,On Foot,Number,682
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,BI,Bicycle,Number,78
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,BU,"Bus, minibus or coach",Number,143
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,TDL,"Train, DART or LUAS",Number,67
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,M,Motorcycle or scooter,Number,18
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,CD,Car Driver,Number,9124
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,CP,Car passenger,Number,497
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,V,Van,Number,1589
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,OTH,Other (incl. lorry),Number,150
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,WMFH,Work mainly at or from home,Number,1500
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,NS,Not stated,Number,819
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,T,Total,Number,14667
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,F,On Foot,Number,3924
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,BI,Bicycle,Number,457
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,BU,"Bus, minibus or coach",Number,482
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,TDL,"Train, DART or LUAS",Number,103
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,M,Motorcycle or scooter,Number,74
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,CD,Car Driver,Number,35651
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,CP,Car passenger,Number,2214
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,V,Van,Number,5842
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,OTH,Other (incl. lorry),Number,476
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,WMFH,Work mainly at or from home,Number,5248
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,NS,Not stated,Number,3003
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,T,Total,Number,57474
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,F,On Foot,Number,1243
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,BI,Bicycle,Number,205
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,BU,"Bus, minibus or coach",Number,282
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,TDL,"Train, DART or LUAS",Number,190
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,M,Motorcycle or scooter,Number,30
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,CD,Car Driver,Number,18582
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,CP,Car passenger,Number,1126
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,V,Van,Number,2855
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,OTH,Other (incl. lorry),Number,328
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,WMFH,Work mainly at or from home,Number,2761
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,NS,Not stated,Number,1726
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,T,Total,Number,29328
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,F,On Foot,Number,2425
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,BI,Bicycle,Number,371
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,BU,"Bus, minibus or coach",Number,382
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,TDL,"Train, DART or LUAS",Number,85
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,M,Motorcycle or scooter,Number,55
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,CD,Car Driver,Number,17164
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,CP,Car passenger,Number,1144
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,V,Van,Number,2390
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,OTH,Other (incl. lorry),Number,226
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,WMFH,Work mainly at or from home,Number,3730
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,NS,Not stated,Number,2025
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,T,Total,Number,29997
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,F,On Foot,Number,2097
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,BI,Bicycle,Number,170
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,BU,"Bus, minibus or coach",Number,564
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,TDL,"Train, DART or LUAS",Number,43
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,M,Motorcycle or scooter,Number,39
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,CD,Car Driver,Number,21171
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,CP,Car passenger,Number,1652
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,V,Van,Number,3915
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,OTH,Other (incl. lorry),Number,402
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,WMFH,Work mainly at or from home,Number,2863
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,NS,Not stated,Number,2130
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,T,Total,Number,35046
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,F,On Foot,Number,3613
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,BI,Bicycle,Number,308
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,BU,"Bus, minibus or coach",Number,782
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,TDL,"Train, DART or LUAS",Number,43
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,M,Motorcycle or scooter,Number,50
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,CD,Car Driver,Number,38940
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,CP,Car passenger,Number,3460
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,V,Van,Number,7602
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,OTH,Other (incl. lorry),Number,641
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,WMFH,Work mainly at or from home,Number,7492
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,NS,Not stated,Number,3973
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,T,Total,Number,66904
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,F,On Foot,Number,1843
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,BI,Bicycle,Number,198
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,BU,"Bus, minibus or coach",Number,381
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,TDL,"Train, DART or LUAS",Number,39
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,M,Motorcycle or scooter,Number,31
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,CD,Car Driver,Number,17160
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,CP,Car passenger,Number,1472
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,V,Van,Number,3357
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,OTH,Other (incl. lorry),Number,338
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,WMFH,Work mainly at or from home,Number,2093
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,NS,Not stated,Number,1326
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,T,Total,Number,28238
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,F,On Foot,Number,178111
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,BI,Bicycle,Number,60671
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,BU,"Bus, minibus or coach",Number,119095
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,TDL,"Train, DART or LUAS",Number,60885
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,M,Motorcycle or scooter,Number,8481
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,CD,Car Driver,Number,1199481
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,CP,Car passenger,Number,84666
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,V,Van,Number,146265
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,OTH,Other (incl. lorry),Number,12744
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,WMFH,Work mainly at or from home,Number,259467
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,NS,Not stated,Number,163872
+SAP2022T11T1C01,Usually resident by means of travel to work,2022,2022,IE0,Ireland,T,Total,Number,2293738

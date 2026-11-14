@@ -6,3 +6,9 @@ description: "How many new homes are completed each year, and of what type."
 Fewer than 5,000 new homes were completed in 2013, a few years after the property crash. The number has risen in most years since. In 2025, 36,215 new homes were completed.
 
 {{< chart housing-completions >}}
+
+## By county
+
+Relative to their population, Louth, Meath and Dublin had the most new homes completed in 2025, at between 9 and 11 for every 1,000 people. Longford, Roscommon and Leitrim had the fewest, at between 2 and 4.
+
+{{< chart housing-completions-map >}}

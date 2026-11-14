@@ -17,7 +17,7 @@ listing:
 
 These pages show how long people in Ireland live compared with the rest of the EU, and how the main causes of death have changed over the past century. More on the health service will be added.
 
-{{< key-facts health-life-expectancy health-death-rates >}}
+{{< key-facts health-life-expectancy health-death-rates health-distance-emergency-department-map >}}
 
 :::{#pages}
 :::

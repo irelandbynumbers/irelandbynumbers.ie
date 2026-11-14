@@ -1,6 +1,7 @@
 """Health charts: life expectancy and causes of death."""
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.counties import SUMMED_NOTE, add_up, county
 
 TOPIC = "health"
 EU = "EU 27 Countries (from 2020)"
@@ -9,6 +10,7 @@ EU = "EU 27 Countries (from 2020)"
 def build():
     life_expectancy()
     death_rates()
+    distance_maps()
 
 
 def life_expectancy():
@@ -64,3 +66,36 @@ def death_rates():
                   if since <= d.Year.max() else "")),
         data=d, figure=fig,
     ).write()
+
+
+SERVICES = {"General Practitioner (GP)": ("gp", "a GP"), "HSE Emergency Department": ("emergency_department", "a hospital emergency department")}
+
+
+def distance_maps():
+    df = cso.fetch("MDSI05", where={"Statistic Label": ["Median Distance of Persons in Residential Dwellings to Services"],
+                                    "Type of Service": list(SERVICES)})
+    year = int(df.Year.max())
+    state = df[df.County == "Ireland"].set_index("Type of Service")["VALUE"]
+    df["county"] = df.County.map(county)
+    df = df.dropna(subset=["county"])
+    for service, (slug, words) in SERVICES.items():
+        d = df[df["Type of Service"] == service][["county", "VALUE"]].rename(columns={"VALUE": "median_distance_km"})
+        d = d.sort_values("county").reset_index(drop=True)
+        fig = figures.county_map(d, "county", "median_distance_km", value_format=".1f", suffix=" km",
+                                 legend_title=f"Median distance to {words.split(' ', 1)[1]} (km)")
+        hi, lo = d.loc[d.median_distance_km.idxmax()], d.loc[d.median_distance_km.idxmin()]
+        Chart(
+            id=f"health-distance-{slug.replace('_', '-')}-map", topic=TOPIC, kind="map", height=600,
+            title=f"Distance to {words.split(' ', 1)[1]} by county",
+            subtitle=f"Median distance by road from people's homes to the nearest {words.split(' ', 1)[1]}, in kilometres, {year}.",
+            sources=[Source.cso("MDSI05", "Average distance to the nearest service for individuals and households by County")],
+            notes=["The CSO measures the distance along the road network from each home to the nearest service, weighted by "
+                   "the number of people living there. Half of people in each county live closer than the median distance "
+                   "and half live further away.",
+                   "Emergency departments are those in HSE hospitals. Injury units, which treat less serious injuries, are not included."
+                   if slug == "emergency_department" else
+                   "The distance is to the nearest GP practice, which may not be taking new patients."],
+            key_fact=f"In {year}, half of people in {hi.county} lived more than {hi.median_distance_km:.1f} km by road from "
+                     f"{words}, the furthest of any county, compared with {state[service]:.1f} km across the State.",
+            data=d, figure=fig,
+        ).write()

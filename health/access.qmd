@@ -1,0 +1,13 @@
+---
+title: "Distance to health services"
+description: "How far people live from a GP and from a hospital emergency department, in each county."
+image: ../images/social/health-distance-emergency-department-map.png
+---
+
+The CSO measures how far people live, by road, from everyday services. In 2026, half of people in Dublin lived within 0.7 km of a GP, while half of people in Roscommon lived more than 5.3 km from one.
+
+{{< chart health-distance-gp-map >}}
+
+Distances to a hospital emergency department vary much more. Half of people in Monaghan, Roscommon and Leitrim lived roughly 40 km or more from one, compared with 4.9 km in Dublin.
+
+{{< chart health-distance-emergency-department-map >}}

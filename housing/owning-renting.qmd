@@ -1,0 +1,9 @@
+---
+title: "Owning and renting"
+description: "How many households own their home and how many rent, in each county."
+image: ../images/social/housing-renting-map.png
+---
+
+At the 2022 census, 29% of households rented their home, and 19% rented from a private landlord. Renting was most common in Dublin, where 38% of households rented, and in Longford, at 33%. It was least common in Meath and Roscommon, at 20% and 21%.
+
+{{< chart housing-renting-map >}}

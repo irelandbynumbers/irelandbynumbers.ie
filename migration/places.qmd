@@ -7,3 +7,9 @@ image: ../images/social/migration-by-place.png
 The CSO groups immigrants by the country or region they came from, and emigrants by where they went. In the twelve months to April 2026, the largest number of immigrants, 52,200, came from countries outside the EU, the United Kingdom, the United States, Canada and Australia. More people left for Australia than arrived from it, and the same was true of Canada and of the countries that were EU members before 2004.
 
 {{< chart migration-by-place >}}
+
+## Born abroad
+
+At the 2022 census, 20% of people living in Ireland were born outside the country. The share was highest in Dublin, at 25%, followed by Monaghan and Donegal. It was lowest in Kilkenny, Offaly and Tipperary, at about 14%.
+
+{{< chart migration-born-abroad-map >}}

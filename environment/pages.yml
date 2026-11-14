@@ -7,3 +7,8 @@
   path: eu-comparison.qmd
   image: ../images/charts/environment-emissions-per-person.png
   description: "Greenhouse gas emissions per person in Ireland compared with the EU average."
+
+- title: "Forests"
+  path: forests.qmd
+  image: ../images/charts/environment-forest-map.png
+  description: "How much of each county is covered by forests and woodland."

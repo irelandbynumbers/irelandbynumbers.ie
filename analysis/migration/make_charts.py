@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.counties import SUMMED_NOTE, add_up
 
 TOPIC = "migration"
 
@@ -36,6 +37,7 @@ PHRASE = {
 def build():
     flows()
     by_place()
+    born_abroad_map()
 
 
 def flows():
@@ -96,4 +98,28 @@ def by_place():
         key_fact=f"In the twelve months to April {year}, the largest group of emigrants, {top.emigrants:,} people, "
                  f"went to {PHRASE[top.place]}.",
         data=d[["place", "immigrants", "emigrants", "net_migration"]], figure=fig,
+    ).write()
+
+
+def born_abroad_map():
+    df = cso.fetch("SAP2022T2T1CTY", where={"Statistic Label": ["Usually resident population by birthplace"]})
+    area = "Administrative Counties"
+    d = df.pivot_table(index=area, columns="Location", values="VALUE", aggfunc="sum").reset_index()
+    d["born_abroad"] = d["Total"] - d["Ireland"] - d["Not stated"]
+    d["population"] = d["Total"] - d["Not stated"]
+    d = add_up(d, area, ["born_abroad", "population"])
+    d["percent_born_abroad"] = (d.born_abroad / d.population * 100).round(1)
+    fig = figures.county_map(d, "county", "percent_born_abroad", value_format=".0f", suffix="%",
+                             legend_title="% of residents born outside Ireland")
+    hi, lo = d.loc[d.percent_born_abroad.idxmax()], d.loc[d.percent_born_abroad.idxmin()]
+    Chart(
+        id="migration-born-abroad-map", topic=TOPIC, kind="map", height=600,
+        title="People born abroad by county",
+        subtitle="Percentage of people usually living in each county who were born outside Ireland, Census 2022.",
+        sources=[Source.cso("SAP2022T2T1CTY", "Census 2022 Small Area Population Statistics, birthplace")],
+        notes=["Born outside Ireland means any birthplace other than Ireland on the census form. People who did not "
+               "state their birthplace are left out of the total. Many people born abroad are Irish citizens.", SUMMED_NOTE],
+        key_fact=f"At the 2022 census, {hi.percent_born_abroad:.0f}% of people living in {hi.county} were born outside Ireland, "
+                 f"the highest share of any county, compared with {lo.percent_born_abroad:.0f}% in {lo.county}.",
+        data=d, figure=fig,
     ).write()

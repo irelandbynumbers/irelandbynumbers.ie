@@ -1,6 +1,6 @@
 ---
 title: "Waterford"
-description: "Population and rents in County Waterford, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Waterford, from Central Statistics Office data."
 image: ../images/social/county-waterford-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-waterford-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Waterford
+
+- In 2024, disposable income per person in County Waterford was €29,443, the 10th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Waterford was €323,200, the 10th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 5.7 new homes were completed for every 1,000 people in County Waterford, the 10th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 31% of households in County Waterford rented their home, the third highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 17% of people living in County Waterford were born outside Ireland, the 17th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 42% of people aged 3 and over in County Waterford said they could speak Irish, the 10th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 28% of people at work in County Waterford worked from home for at least part of the week, the 16th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Waterford went by car, the 9th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Waterford live more than 1.7 km by road from a GP, the 19th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Waterford live more than 11.7 km by road from a hospital emergency department, the third nearest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 15.8% of County Waterford in 2021, the third highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

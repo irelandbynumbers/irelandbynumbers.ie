@@ -1,6 +1,6 @@
 ---
 title: "Galway"
-description: "Population and rents in County Galway, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Galway, from Central Statistics Office data."
 image: ../images/social/county-galway-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-galway-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Galway
+
+- In 2024, disposable income per person in County Galway was €29,807, the 9th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Galway was €384,000, the 6th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 5.3 new homes were completed for every 1,000 people in County Galway, the 12th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 28% of households in County Galway rented their home, the 8th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 19% of people living in County Galway were born outside Ireland, the 7th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 49% of people aged 3 and over in County Galway said they could speak Irish, the highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 34% of people at work in County Galway worked from home for at least part of the week, the 6th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 74% of people travelling to work in County Galway went by car, the 22nd highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Galway live more than 1.9 km by road from a GP, the 16th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Galway live more than 19.4 km by road from a hospital emergency department, the 16th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 9.7% of County Galway in 2021, the 18th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

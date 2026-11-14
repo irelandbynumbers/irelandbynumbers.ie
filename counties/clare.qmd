@@ -1,6 +1,6 @@
 ---
 title: "Clare"
-description: "Population and rents in County Clare, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Clare, from Central Statistics Office data."
 image: ../images/social/county-clare-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-clare-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Clare
+
+- In 2024, disposable income per person in County Clare was €25,626, the 21st highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Clare was €322,400, the 11th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 4.9 new homes were completed for every 1,000 people in County Clare, the 14th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 22% of households in County Clare rented their home, the 23rd highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 17% of people living in County Clare were born outside Ireland, the 16th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 47% of people aged 3 and over in County Clare said they could speak Irish, the second highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 33% of people at work in County Clare worked from home for at least part of the week, the 7th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 80% of people travelling to work in County Clare went by car, the highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Clare live more than 2.3 km by road from a GP, the 14th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Clare live more than 37.3 km by road from a hospital emergency department, the 6th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 15.7% of County Clare in 2021, the 4th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

@@ -1,6 +1,6 @@
 ---
 title: "Kilkenny"
-description: "Population and rents in County Kilkenny, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Kilkenny, from Central Statistics Office data."
 image: ../images/social/county-kilkenny-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-kilkenny-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Kilkenny
+
+- In 2024, disposable income per person in County Kilkenny was €27,910, the 12th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Kilkenny was €349,100, the 7th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 5.0 new homes were completed for every 1,000 people in County Kilkenny, the 13th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 24% of households in County Kilkenny rented their home, the 19th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 14% of people living in County Kilkenny were born outside Ireland, the lowest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 43% of people aged 3 and over in County Kilkenny said they could speak Irish, the 7th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 30% of people at work in County Kilkenny worked from home for at least part of the week, the 9th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 77% of people travelling to work in County Kilkenny went by car, the 5th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Kilkenny live more than 2.7 km by road from a GP, the 10th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Kilkenny live more than 14.7 km by road from a hospital emergency department, the 21st furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 10.2% of County Kilkenny in 2021, the 14th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

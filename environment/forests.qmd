@@ -1,0 +1,9 @@
+---
+title: "Forests"
+description: "How much of each county is covered by forests and woodland."
+image: ../images/social/environment-forest-map.png
+---
+
+In 2021, forests and woodland covered between 3.7% and 20.7% of each county's area. Wicklow had the highest share, followed by Leitrim and Waterford. Meath, Dublin and Louth had the lowest, at about 4%.
+
+{{< chart environment-forest-map >}}

@@ -1,6 +1,6 @@
 ---
 title: "Longford"
-description: "Population and rents in County Longford, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Longford, from Central Statistics Office data."
 image: ../images/social/county-longford-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-longford-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Longford
+
+- In 2024, disposable income per person in County Longford was €23,725, the lowest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Longford was €209,300, the lowest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 2.1 new homes were completed for every 1,000 people in County Longford, the lowest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 33% of households in County Longford rented their home, the second highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 21% of people living in County Longford were born outside Ireland, the 5th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 38% of people aged 3 and over in County Longford said they could speak Irish, the 21st highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 26% of people at work in County Longford worked from home for at least part of the week, the 23rd highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Longford went by car, the 12th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Longford live more than 4.1 km by road from a GP, the 4th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Longford live more than 37.9 km by road from a hospital emergency department, the 4th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 9.8% of County Longford in 2021, the 17th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

@@ -1,6 +1,6 @@
 ---
 title: "Dublin"
-description: "Population and rents in County Dublin, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Dublin, from Central Statistics Office data."
 image: ../images/social/county-dublin-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-dublin-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Dublin
+
+- In 2024, disposable income per person in County Dublin was €33,889, the highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Dublin was €591,300, the highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 9.4 new homes were completed for every 1,000 people in County Dublin, the third highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 38% of households in County Dublin rented their home, the highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 25% of people living in County Dublin were born outside Ireland, the highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 36% of people aged 3 and over in County Dublin said they could speak Irish, the third lowest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 46% of people at work in County Dublin worked from home for at least part of the week, the highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 52% of people travelling to work in County Dublin went by car, the lowest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Dublin live more than 0.7 km by road from a GP, the nearest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Dublin live more than 4.9 km by road from a hospital emergency department, the nearest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 4.0% of County Dublin in 2021, the second lowest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

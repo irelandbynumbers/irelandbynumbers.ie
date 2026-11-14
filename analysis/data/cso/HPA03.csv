@@ -1,0 +1,1345 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03346V04033,Dwelling Status,C03341V04028,Stamp Duty Event,C03348V04035,RPPI Region,C03344V04031,Type of Buyer,UNIT,VALUE
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,17933.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,1276.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,248.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,505.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,116.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,140.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,267.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,917.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,277.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,115.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,195.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,330.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,1350.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,340.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,458.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,333.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,219.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,6239.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,2367.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,1252.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,1340.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,1280.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,2765.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,938.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,424.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,779.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,624.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,1510.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,163.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,490.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,432.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,425.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,1471.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,180.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,293.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,145.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,236.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,617.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,2405.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,337.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,1574.0
+HPA03C01,Volume of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,494.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,15026.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,1044.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,220.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,411.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,144.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,92.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,177.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,770.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,240.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,97.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,155.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,278.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,1254.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,335.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,425.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,319.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,175.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,5060.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,2154.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,1119.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,925.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,862.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,2058.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,667.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,381.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,537.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,473.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,1317.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,203.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,407.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,351.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,356.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,1385.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,151.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,283.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,188.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,230.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,533.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,2138.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,351.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,1341.0
+HPA03C01,Volume of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,446.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,20754.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,1392.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,269.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,528.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,167.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,113.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,315.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,1079.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,361.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,154.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,234.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,330.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,1655.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,398.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,539.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,420.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,298.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,7425.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,3088.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,1673.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,1453.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,1211.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,2823.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,952.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,510.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,701.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,660.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,1580.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,181.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,459.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,491.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,449.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,1880.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,201.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,387.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,233.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,260.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,799.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,2920.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,544.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,1773.0
+HPA03C01,Volume of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,603.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,24578.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,1782.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,373.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,600.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,278.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,180.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,351.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,1211.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,305.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,180.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,278.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,448.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,2143.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,512.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,746.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,459.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,426.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,8684.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,3615.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,1853.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,1735.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,1481.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,3454.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,1148.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,585.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,879.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,842.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,1881.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,243.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,502.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,541.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,595.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,2101.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,251.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,371.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,309.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,332.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,838.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,3322.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,635.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,2004.0
+HPA03C01,Volume of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,683.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,35257.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,2631.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,556.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,912.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,305.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,268.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,590.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2058.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,569.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,325.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,434.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,730.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3217.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,765.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1157.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,852.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,443.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,11247.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,4584.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2143.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,2603.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,1917.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,5165.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,1640.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,959.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,1407.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1159.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,2866.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,447.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,827.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,839.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,753.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3110.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,368.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,549.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,427.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,493.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1273.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,4963.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,930.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3022.0
+HPA03C01,Volume of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1011.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,39385.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3048.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,616.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1174.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,409.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,282.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,567.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2213.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,519.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,399.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,466.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,829.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3787.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,856.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1329.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1074.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,528.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,11966.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,4835.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2190.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,2948.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,1993.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,5620.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,1955.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1056.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,1427.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1182.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3495.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,546.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,994.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,957.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,998.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3534.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,430.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,593.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,518.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,594.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1399.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,5722.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,974.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3536.0
+HPA03C01,Volume of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1212.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,39774.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,2967.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,576.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1152.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,367.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,295.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,577.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2238.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,587.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,384.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,497.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,770.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3463.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,731.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1196.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,986.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,550.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,12804.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5183.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2500.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3119.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2002.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,5633.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,1904.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1044.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,1431.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1254.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3518.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,531.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,956.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,995.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1036.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3497.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,414.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,569.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,596.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,592.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1326.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,5654.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,913.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3513.0
+HPA03C01,Volume of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1228.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,43184.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,2993.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,639.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1023.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,394.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,319.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,618.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2231.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,602.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,325.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,521.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,783.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3681.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,899.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1195.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1019.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,568.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,14136.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5421.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2745.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3495.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2475.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,6832.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2262.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1073.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2031.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1466.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3859.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,630.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1035.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1017.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1177.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3551.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,416.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,605.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,553.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,590.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1387.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,5901.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1042.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3646.0
+HPA03C01,Volume of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1213.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,44397.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3132.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,651.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1110.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,386.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,280.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,705.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2319.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,624.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,354.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,493.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,848.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3718.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,808.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1239.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1031.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,640.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,14579.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5375.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2649.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3703.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2852.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,7098.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2380.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1202.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2167.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1349.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3812.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,594.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1095.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,978.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1145.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3720.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,467.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,624.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,531.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,661.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1437.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6019.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1032.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3757.0
+HPA03C01,Volume of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1230.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,45273.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3043.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,608.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1158.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,330.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,264.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,683.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2359.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,710.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,337.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,509.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,803.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3705.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,758.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1322.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1007.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,618.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,14621.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5406.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2546.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3654.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,3015.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,7691.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2553.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1210.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2291.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1637.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3872.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,582.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1118.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1009.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1163.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3807.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,454.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,641.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,570.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,663.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1479.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6175.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,998.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3992.0
+HPA03C01,Volume of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1185.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,37906.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,2749.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,544.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1099.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,333.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,245.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,528.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2079.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,587.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,287.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,490.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,715.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3357.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,597.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1164.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,994.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,602.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,11087.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,3953.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2216.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,2706.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2212.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,6608.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2235.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1029.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,1961.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1383.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3319.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,417.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,980.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,897.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1025.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,3438.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,365.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,552.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,474.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,631.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1416.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,5269.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,853.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,3342.0
+HPA03C01,Volume of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1074.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,46359.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3473.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,714.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1317.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,418.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,282.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,742.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2812.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,887.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,424.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,629.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,872.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,4177.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,685.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1485.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1261.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,746.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,13246.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5046.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2558.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3213.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2429.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,7923.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2790.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1241.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2217.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1675.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,4111.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,483.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1180.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1156.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1292.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,4192.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,483.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,739.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,605.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,689.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1676.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6425.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1029.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,4133.0
+HPA03C01,Volume of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1263.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,49972.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3649.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,692.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1346.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,454.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,389.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,768.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2972.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,851.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,422.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,735.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,964.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,4217.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,819.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1408.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1240.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,750.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,14604.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5216.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,2772.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3759.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2857.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,9009.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,3316.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1442.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2445.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1806.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,4282.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,586.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1230.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1123.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1343.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,4594.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,517.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,790.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,659.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,751.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1877.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6645.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1069.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,4259.0
+HPA03C01,Volume of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1317.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,50239.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3338.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,659.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1202.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,399.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,366.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,712.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,3074.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,1014.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,375.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,688.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,997.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,4129.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,1001.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1290.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1133.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,705.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,15371.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5553.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,3329.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3741.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,2748.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,9137.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,3463.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1377.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2320.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,1977.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3983.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,552.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1145.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1009.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1277.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,4523.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,510.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,788.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,696.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,678.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1851.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6684.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1050.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,4501.0
+HPA03C01,Volume of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1133.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,48859.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3021.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,599.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1157.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,366.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,315.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,584.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2913.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,973.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,352.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,698.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,890.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3759.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,805.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1247.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1086.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,621.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,15660.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5427.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,3291.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,3898.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,3044.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,8707.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2784.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1348.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2255.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,2320.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3746.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,563.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1037.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1001.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1145.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,4598.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,511.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,849.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,708.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,671.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1859.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6455.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1019.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,4355.0
+HPA03C01,Volume of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,1081.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Number,50569.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Number,3109.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Number,586.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Number,1130.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Number,349.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Number,345.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Number,699.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Number,2918.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Number,1025.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Number,323.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Number,614.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Number,956.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Number,3724.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Number,769.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Number,1318.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Number,1063.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Number,574.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Number,16414.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Number,5816.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Number,3196.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Number,4262.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Number,3140.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Number,9188.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Number,2978.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Number,1700.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Number,2454.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Number,2056.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Number,3966.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Number,593.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Number,1143.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Number,1062.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Number,1168.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Number,4457.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Number,488.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Number,841.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Number,732.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Number,629.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Number,1767.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Number,6793.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Number,1022.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Number,4777.0
+HPA03C01,Volume of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Number,994.0
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,4599.6
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,213.4
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,39.6
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,85.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,16.7
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,23.6
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,48.1
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,154.8
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,48.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,17.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,33.0
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,56.2
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,281.5
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,87.8
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,101.5
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,57.9
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,34.4
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,2113.2
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,758.5
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,570.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,423.5
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,360.7
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,698.5
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,240.4
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,80.9
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,184.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,193.0
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,284.8
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,32.1
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,98.8
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,79.8
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,74.1
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,281.8
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,33.1
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,59.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,27.6
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,47.5
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,114.3
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,571.6
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,84.7
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,386.2
+HPA03C02,Value of Sales,2010,2010,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,100.7
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,3403.2
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,140.8
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,29.8
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,57.8
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,16.6
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,12.5
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,24.1
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,105.9
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,32.9
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,11.4
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,21.5
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,40.1
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,221.1
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,76.7
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,74.1
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,49.9
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,20.4
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,1613.5
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,658.9
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,461.4
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,276.4
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,216.8
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,448.5
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,153.0
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,60.1
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,111.8
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,123.6
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,228.4
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,35.2
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,73.5
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,58.0
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,61.7
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,211.2
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,22.0
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,47.0
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,23.5
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,39.3
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,79.3
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,433.7
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,72.9
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,284.4
+HPA03C02,Value of Sales,2011,2011,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,76.4
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,4225.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,158.8
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,29.7
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,62.1
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,16.3
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,14.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,36.2
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,117.8
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,37.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,13.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,28.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,38.4
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,246.2
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,73.9
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,92.2
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,52.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,28.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,2175.7
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,859.8
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,671.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,374.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,270.4
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,540.6
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,186.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,70.8
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,125.9
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,157.9
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,227.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,29.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,73.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,68.1
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,56.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,244.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,22.2
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,54.9
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,25.9
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,36.5
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,104.4
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,515.0
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,96.1
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,323.9
+HPA03C02,Value of Sales,2012,2012,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,95.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,5078.5
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,178.3
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,36.3
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,60.7
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,22.3
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,18.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,40.9
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,125.3
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,33.0
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,13.6
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,29.7
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,49.0
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,300.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,96.8
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,112.2
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,55.7
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,35.3
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,2762.0
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,1079.2
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,838.8
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,484.5
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,359.5
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,673.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,234.2
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,74.9
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,150.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,213.8
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,240.3
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,34.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,73.1
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,66.4
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,66.6
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,256.6
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,30.2
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,51.9
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,31.4
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,43.4
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,99.7
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,542.8
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,105.2
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,346.5
+HPA03C02,Value of Sales,2013,2013,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,91.1
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,7601.2
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,266.5
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,51.4
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,91.2
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,24.9
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,27.4
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,71.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,219.3
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,61.4
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,24.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,51.5
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,81.8
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,446.1
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,153.1
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,164.1
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,92.2
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,36.8
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,3965.7
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,1558.7
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1099.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,762.2
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,545.1
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,1109.5
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,388.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,134.0
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,272.9
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,314.1
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,352.0
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,50.0
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,113.7
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,99.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,88.7
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,399.2
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,42.2
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,80.7
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,45.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,70.3
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,160.3
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,843.0
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,161.6
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,546.5
+HPA03C02,Value of Sales,2014,2014,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,134.9
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,8932.6
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,340.1
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,62.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,135.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,38.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,34.2
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,69.7
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,254.0
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,69.0
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,31.6
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,54.9
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,98.5
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,560.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,176.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,206.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,126.9
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,50.6
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,4434.5
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,1728.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1142.0
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,959.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,604.3
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,1317.1
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,490.0
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,160.0
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,310.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,356.7
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,470.7
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,69.6
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,153.5
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,122.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,124.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,497.6
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,56.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,100.5
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,56.6
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,89.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,194.4
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1057.8
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,200.1
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,688.9
+HPA03C02,Value of Sales,2015,2015,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,168.8
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,9928.0
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,343.2
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,66.1
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,132.3
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,34.3
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,39.4
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,71.2
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,281.8
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,81.5
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,34.1
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,59.3
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,106.9
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,545.2
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,170.8
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,203.0
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,119.2
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,52.1
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,5118.6
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,1995.8
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1403.3
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1073.6
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,645.9
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,1427.4
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,507.9
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,178.7
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,339.4
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,401.3
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,524.5
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,74.6
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,167.5
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,147.4
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,135.0
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,540.9
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,61.2
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,105.1
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,72.6
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,99.8
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,202.1
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1146.5
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,203.4
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,758.2
+HPA03C02,Value of Sales,2016,2016,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,185.0
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,11824.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,390.5
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,85.8
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,129.6
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,43.1
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,43.7
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,88.4
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,335.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,98.8
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,32.9
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,79.0
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,124.6
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,649.4
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,220.8
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,228.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,137.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,63.3
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,6063.9
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,2258.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1642.3
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1286.8
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,876.6
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,1876.3
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,640.4
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,208.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,526.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,501.5
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,615.3
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,91.5
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,199.7
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,163.4
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,160.7
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,601.6
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,65.4
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,112.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,81.3
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,111.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,231.5
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1291.9
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,251.3
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,840.2
+HPA03C02,Value of Sales,2017,2017,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,200.4
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,12938.1
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,426.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,93.5
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,136.8
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,45.6
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,44.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,106.1
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,378.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,108.2
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,37.9
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,79.4
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,152.6
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,707.2
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,232.4
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,252.2
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,143.8
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,78.9
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,6510.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,2423.5
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1639.5
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1411.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,1036.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,2071.3
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,724.1
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,259.8
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,607.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,480.5
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,692.8
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,111.9
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,230.8
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,176.1
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,174.0
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,699.5
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,83.9
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,131.2
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,85.4
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,132.7
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,266.3
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1453.2
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,276.5
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,958.3
+HPA03C02,Value of Sales,2018,2018,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,218.5
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,13408.6
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,443.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,93.1
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,154.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,39.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,41.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,114.4
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,412.4
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,131.2
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,43.2
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,85.2
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,152.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,747.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,222.8
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,289.4
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,152.9
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,82.6
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,6386.5
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,2327.4
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1533.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1436.0
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,1089.4
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,2345.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,803.0
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,266.6
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,682.0
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,593.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,745.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,106.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,248.9
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,194.5
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,195.7
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,749.2
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,79.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,139.9
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,98.0
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,144.0
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,288.1
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1579.0
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,294.3
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,1058.9
+HPA03C02,Value of Sales,2019,2019,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,225.8
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,11313.7
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,409.8
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,83.8
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,161.4
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,42.2
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,39.9
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,82.6
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,378.4
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,114.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,35.6
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,87.7
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,141.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,688.9
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,181.4
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,276.2
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,153.2
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,78.0
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,5013.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,1750.6
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1331.3
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1109.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,822.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,2072.4
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,724.0
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,234.7
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,576.2
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,537.5
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,658.5
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,84.2
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,229.7
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,173.5
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,171.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,718.5
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,71.8
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,123.3
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,88.6
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,143.5
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,291.4
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1374.0
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,251.4
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,909.1
+HPA03C02,Value of Sales,2020,2020,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,213.6
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,15189.2
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,587.0
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,126.1
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,203.7
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,63.6
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,53.3
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,140.2
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,575.6
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,193.4
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,62.5
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,127.7
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,192.0
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,938.8
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,228.4
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,371.8
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,222.4
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,116.2
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,6730.8
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,2544.0
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,1809.4
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1392.3
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,985.1
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,2704.1
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,966.5
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,313.9
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,690.7
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,732.9
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,889.4
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,102.5
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,287.9
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,249.9
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,249.1
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,976.2
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,104.8
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,188.7
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,125.0
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,173.6
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,384.0
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,1787.3
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,310.9
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,1197.0
+HPA03C02,Value of Sales,2021,2021,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,279.4
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,17879.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,715.1
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,136.6
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,251.6
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,77.8
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,82.3
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,166.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,685.6
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,203.8
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,70.6
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,170.4
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,240.9
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,1078.2
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,289.8
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,399.5
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,254.6
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,134.3
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,7766.5
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,2786.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,2017.0
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1743.1
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,1219.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,3311.3
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,1241.9
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,392.3
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,823.2
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,853.8
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,1033.1
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,138.4
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,332.0
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,282.0
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,280.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,1216.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,122.7
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,224.2
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,157.5
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,232.3
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,480.0
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,2073.1
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,352.2
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,1391.0
+HPA03C02,Value of Sales,2022,2022,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,329.9
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,18851.3
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,683.5
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,139.7
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,235.5
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,71.2
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,79.2
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,157.9
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,768.8
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,271.9
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,68.2
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,166.6
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,262.2
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,1135.2
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,369.7
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,383.9
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,249.5
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,132.1
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,8260.2
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,2939.9
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,2369.7
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1762.5
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,1188.1
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,3541.7
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,1372.1
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,409.0
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,833.9
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,926.7
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,1014.3
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,139.8
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,328.0
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,258.1
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,288.4
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,1259.1
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,128.3
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,239.3
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,177.0
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,215.6
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,498.8
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,2188.6
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,352.6
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,1538.7
+HPA03C02,Value of Sales,2023,2023,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,297.3
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,19739.2
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,679.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,137.2
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,243.7
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,71.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,72.0
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,155.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,787.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,273.3
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,69.6
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,185.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,259.2
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,1105.0
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,319.8
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,403.4
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,252.7
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,129.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,8904.6
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,3081.8
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,2491.6
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,1914.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,1417.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,3590.2
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,1168.0
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,428.9
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,861.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,1132.3
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,1052.8
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,156.5
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,330.0
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,290.6
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,275.7
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,1356.5
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,132.6
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,279.5
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,184.1
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,221.8
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,538.5
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,2264.0
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,370.3
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,1588.3
+HPA03C02,Value of Sales,2024,2024,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,305.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,-,All,-,All Buyer Types,Euro Million,21807.2
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,10,Border Excluding Louth,-,All Buyer Types,Euro Million,765.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,11,Cavan,-,All Buyer Types,Euro Million,152.5
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,12,Donegal,-,All Buyer Types,Euro Million,246.1
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,13,Leitrim,-,All Buyer Types,Euro Million,78.7
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,14,Monaghan,-,All Buyer Types,Euro Million,88.8
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,15,Sligo,-,All Buyer Types,Euro Million,199.3
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,20,Midland,-,All Buyer Types,Euro Million,873.7
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,21,Laois,-,All Buyer Types,Euro Million,326.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,22,Longford,-,All Buyer Types,Euro Million,67.6
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,23,Offaly,-,All Buyer Types,Euro Million,172.5
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,24,Westmeath,-,All Buyer Types,Euro Million,307.3
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,30,West,-,All Buyer Types,Euro Million,1198.9
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,31,Galway City,-,All Buyer Types,Euro Million,333.1
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,32,Galway County,-,All Buyer Types,Euro Million,468.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,33,Mayo,-,All Buyer Types,Euro Million,265.1
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,34,Roscommon,-,All Buyer Types,Euro Million,132.2
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,40,Dublin,-,All Buyer Types,Euro Million,9705.6
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,41,Dublin City,-,All Buyer Types,Euro Million,3404.7
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,42,Dún Laoghaire-Rathdown,-,All Buyer Types,Euro Million,2513.1
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,43,Fingal,-,All Buyer Types,Euro Million,2217.6
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,44,South Dublin,-,All Buyer Types,Euro Million,1570.2
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,50,Mid-East including Louth,-,All Buyer Types,Euro Million,3986.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,51,Kildare,-,All Buyer Types,Euro Million,1327.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,52,Louth,-,All Buyer Types,Euro Million,592.8
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,53,Meath,-,All Buyer Types,Euro Million,1023.7
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,54,Wicklow,-,All Buyer Types,Euro Million,1042.5
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,60,Mid-West including South Tipperary,-,All Buyer Types,Euro Million,1246.7
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,61,Limerick City,-,All Buyer Types,Euro Million,181.3
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,62,Limerick County,-,All Buyer Types,Euro Million,403.2
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,63,Clare,-,All Buyer Types,Euro Million,342.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,64,Tipperary,-,All Buyer Types,Euro Million,319.9
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,70,South-East excluding South Tipperary,-,All Buyer Types,Euro Million,1433.9
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,71,Carlow,-,All Buyer Types,Euro Million,137.0
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,73,Kilkenny,-,All Buyer Types,Euro Million,293.6
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,74,Waterford City,-,All Buyer Types,Euro Million,215.8
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,75,Waterford County,-,All Buyer Types,Euro Million,224.1
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,76,Wexford,-,All Buyer Types,Euro Million,563.4
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,80,South-West,-,All Buyer Types,Euro Million,2596.5
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,81,Cork City,-,All Buyer Types,Euro Million,407.0
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,82,Cork County,-,All Buyer Types,Euro Million,1880.6
+HPA03C02,Value of Sales,2025,2025,-,All Dwelling Statuses,2,Executions,83,Kerry,-,All Buyer Types,Euro Million,308.9

@@ -1,0 +1,9 @@
+---
+title: "Income by county"
+description: "Disposable income per person in each county."
+image: ../images/social/economy-income-map.png
+---
+
+Disposable income is the money households have to spend or save after income tax and social contributions, including social welfare payments. In 2024, disposable income per person was highest in Dublin, at €33,889, and lowest in Longford, at €23,725. The figures are not adjusted for differences between counties in the cost of living, such as housing costs.
+
+{{< chart economy-income-map >}}

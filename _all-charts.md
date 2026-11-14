@@ -8,7 +8,10 @@
 ## [Housing](/housing/)
 
 - [New homes completed each year](/charts/housing-completions.html). Number of new dwellings completed in Ireland, 2012 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/housing-completions.csv)
+- [New homes by county](/charts/housing-completions-map.html). New homes completed each year for every 1,000 people living in the county, 2011 to 2025. Use the slider to move through the years. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/housing-completions-map.csv)
 - [House prices](/charts/housing-prices.html). Residential Property Price Index, January 2005 to August 2026. 100 is the average price level in 2015. *Central Statistics Office (CSO).* [CSV](/charts/housing-prices.csv)
+- [Average house price by county](/charts/housing-prices-map.html). Average price paid for homes bought at market value by households, 2010 to 2025. Use the slider to move through the years. *Central Statistics Office (CSO).* [CSV](/charts/housing-prices-map.csv)
+- [Renting by county](/charts/housing-renting-map.html). Percentage of households renting their home, from a private landlord, a local authority or a housing body, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/housing-renting-map.csv)
 - [Average rent by county](/charts/housing-rents-map.html). Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025. Use the slider to move through the years. *Central Statistics Office (CSO).* [CSV](/charts/housing-rents-map.csv)
 
 ## [Cost of living](/cost-of-living/)
@@ -18,9 +21,12 @@
 
 ## [Economy and work](/economy/)
 
+- [Driving to work by county](/charts/economy-car-to-work-map.html). Percentage of people travelling to work who went by car, as a driver or passenger, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/economy-car-to-work-map.csv)
 - [Average weekly earnings](/charts/economy-earnings.html). Average weekly earnings of employees, in cash terms and adjusted for consumer prices (in 2026 Q2 prices), 2008 Q1 to 2026 Q2. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/economy-earnings.csv)
 - [GDP and modified gross national income](/charts/economy-gdp-gni.html). Gross domestic product (GDP) and modified gross national income (GNI*) in billions of euro at current prices, 1995 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/economy-gdp-gni.csv)
+- [Disposable income per person by county](/charts/economy-income-map.html). Average household disposable income per person in each county, in euro at current prices, 2000 to 2024. Use the slider to move through the years. *Central Statistics Office (CSO).* [CSV](/charts/economy-income-map.csv)
 - [Unemployment rate](/charts/economy-unemployment.html). Percentage of people in the labour force who are unemployed, seasonally adjusted, January 1998 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/economy-unemployment.csv)
+- [Working from home by county](/charts/economy-work-from-home-map.html). Percentage of people at work who said they worked from home for at least part of the week, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/economy-work-from-home-map.csv)
 
 ## [Crime](/crime/)
 
@@ -28,20 +34,25 @@
 
 ## [Migration](/migration/)
 
+- [People born abroad by county](/charts/migration-born-abroad-map.html). Percentage of people usually living in each county who were born outside Ireland, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/migration-born-abroad-map.csv)
 - [Where people came from and went to](/charts/migration-by-place.html). Estimated number of immigrants by the country or region they came from, and emigrants by where they went, in the twelve months to April 2026. *Central Statistics Office (CSO).* [CSV](/charts/migration-by-place.csv)
 - [People moving to and from Ireland](/charts/migration-flows.html). Estimated number of people who moved to Ireland (immigrants) and who left (emigrants) in the twelve months to April, 1987 to 2026. *Central Statistics Office (CSO).* [CSV](/charts/migration-flows.csv)
 
 ## [Health](/health/)
 
 - [Deaths from heart disease, cancer and tuberculosis](/charts/health-death-rates.html). Deaths per 100,000 people each year from heart disease, cancer and tuberculosis, 1922 to 2023. *Central Statistics Office (CSO).* [CSV](/charts/health-death-rates.csv)
+- [Distance to hospital emergency department by county](/charts/health-distance-emergency-department-map.html). Median distance by road from people's homes to the nearest hospital emergency department, in kilometres, 2026. *Central Statistics Office (CSO).* [CSV](/charts/health-distance-emergency-department-map.csv)
+- [Distance to GP by county](/charts/health-distance-gp-map.html). Median distance by road from people's homes to the nearest GP, in kilometres, 2026. *Central Statistics Office (CSO).* [CSV](/charts/health-distance-gp-map.csv)
 - [Life expectancy in Ireland and the EU](/charts/health-life-expectancy.html). Life expectancy at birth in years, Ireland and the 27 EU countries, 2018 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-life-expectancy.csv)
 
 ## [Environment and climate](/environment/)
 
 - [Greenhouse gas emissions by sector](/charts/environment-emissions-by-sector.html). Ireland's greenhouse gas emissions in millions of tonnes of carbon dioxide equivalent, by sector, 1990 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/environment-emissions-by-sector.csv)
 - [Emissions per person in Ireland and the EU](/charts/environment-emissions-per-person.html). Greenhouse gas emissions per person in tonnes of carbon dioxide equivalent, Ireland and the 27 EU countries, 2008 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/environment-emissions-per-person.csv)
+- [Forest cover by county](/charts/environment-forest-map.html). Forests and woodland as a percentage of each county's area, 2021. *Central Statistics Office (CSO).* [CSV](/charts/environment-forest-map.csv)
 
 ## [Irish language](/irish-language/)
 
 - [How often Irish speakers speak Irish](/charts/irish-language-frequency.html). People aged 3 and over who said they could speak Irish, by how often they speak it, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/irish-language-frequency.csv)
 - [Daily Irish speakers in the Gaeltacht](/charts/irish-language-gaeltacht.html). Percentage of people aged 3 and over in each Gaeltacht area who speak Irish every day outside school, Census 2011, 2016 and 2022. *Central Statistics Office (CSO).* [CSV](/charts/irish-language-gaeltacht.csv)
+- [Irish speakers by county](/charts/irish-language-speakers-map.html). Percentage of people aged 3 and over who said they could speak Irish, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/irish-language-speakers-map.csv)

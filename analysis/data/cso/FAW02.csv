@@ -1,0 +1,55 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03788V04538,County,UNIT,VALUE
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,Thousand Hectares,6.4
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,Thousand Hectares,19.9
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1450-13a3-e055-000000000001,Co. Clare,Thousand Hectares,54.1
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1451-13a3-e055-000000000001,Co. Cork,Thousand Hectares,90.3
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,Thousand Hectares,56.7
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,Thousand Hectares,3.7
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1453-13a3-e055-000000000001,Co. Galway,Thousand Hectares,59.8
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,Thousand Hectares,56.1
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,Thousand Hectares,9.7
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,Thousand Hectares,21.2
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-143e-13a3-e055-000000000001,Co. Laois,Thousand Hectares,25.0
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,Thousand Hectares,28.0
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,Thousand Hectares,27.7
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1441-13a3-e055-000000000001,Co. Longford,Thousand Hectares,10.7
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1442-13a3-e055-000000000001,Co. Louth,Thousand Hectares,3.4
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,Thousand Hectares,57.4
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1444-13a3-e055-000000000001,Co. Meath,Thousand Hectares,8.7
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,Thousand Hectares,6.8
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,Thousand Hectares,21.6
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,Thousand Hectares,25.2
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,Thousand Hectares,23.3
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,Thousand Hectares,50.8
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,Thousand Hectares,29.4
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,Thousand Hectares,15.3
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,Thousand Hectares,16.3
+FAW02C01,Extent of Forests and Woodlands,2021,2021,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,Thousand Hectares,41.9
+FAW02C01,Extent of Forests and Woodlands,2021,2021,IE0,Ireland,Thousand Hectares,769.4
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,%,7.2
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,%,10.3
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1450-13a3-e055-000000000001,Co. Clare,%,15.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1451-13a3-e055-000000000001,Co. Cork,%,12.0
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,%,11.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,%,4.0
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1453-13a3-e055-000000000001,Co. Galway,%,9.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,%,11.6
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,%,5.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,%,10.2
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-143e-13a3-e055-000000000001,Co. Laois,%,14.6
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,%,17.6
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,%,10.0
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1441-13a3-e055-000000000001,Co. Longford,%,9.8
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1442-13a3-e055-000000000001,Co. Louth,%,4.2
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,%,10.3
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1444-13a3-e055-000000000001,Co. Meath,%,3.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,%,5.2
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,%,10.8
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,%,9.9
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,%,12.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,%,11.8
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,%,15.8
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,%,8.3
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,%,6.9
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,%,20.7
+FAW02C02,Extent of Forests and Woodlands (as a percent of total county area),2021,2021,IE0,Ireland,%,
