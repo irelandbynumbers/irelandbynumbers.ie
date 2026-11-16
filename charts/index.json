@@ -24,6 +24,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "population-births-deaths",
+  "topic": "population",
+  "title": "Births and deaths",
+  "subtitle": "Number of births and deaths registered in Ireland each year, 1989 to 2025.",
+  "kind": "chart",
+  "page": "/charts/population-births-deaths.html",
+  "csv": "/charts/population-births-deaths.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Total Births and Deaths Registered Numbers and Rates (VSA03)",
+    "url": "https://data.cso.ie/table/VSA03",
+    "licence": "CC BY 4.0",
+    "code": "VSA03",
+    "updated": "2026-10-30",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "54,125 births and 35,587 deaths were registered in 2025. Births peaked at 75,554 in 2009.",
+  "listed": true,
+  "updated": "2026-10-30",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "population-change",
   "topic": "population",
   "title": "Births, deaths and migration",
@@ -70,6 +94,87 @@
   "listed": true,
   "updated": "2023-06-29",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "population-fertility",
+  "topic": "population",
+  "title": "Fertility rate",
+  "subtitle": "Average number of children a woman would have over her lifetime at each year's birth rates, 1969 to 2024.",
+  "kind": "chart",
+  "page": "/charts/population-fertility.html",
+  "csv": "/charts/population-fertility.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Fertility Rates (VSA104)",
+    "url": "https://data.cso.ie/table/VSA104",
+    "licence": "CC BY 4.0",
+    "code": "VSA104",
+    "updated": "2026-10-30",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Ireland's fertility rate was 1.47 in 2024, down from 3.85 in 1969. It was last at or above replacement level, 2.1, in 1990.",
+  "listed": true,
+  "updated": "2026-10-30",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "population-marriage-ceremonies",
+  "topic": "population",
+  "title": "How couples marry",
+  "subtitle": "Percentage of opposite-sex marriages by type of ceremony, 2000 to 2025.",
+  "kind": "chart",
+  "page": "/charts/population-marriage-ceremonies.html",
+  "csv": "/charts/population-marriage-ceremonies.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Opposite-Sex Marriages Registered (VSA44)",
+    "url": "https://data.cso.ie/table/VSA44",
+    "licence": "CC BY 4.0",
+    "code": "VSA44",
+    "updated": "2026-05-05",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 31% of opposite-sex marriages were Catholic ceremonies, down from 80% in 2000. 33% were civil ceremonies.",
+  "listed": true,
+  "updated": "2026-05-05",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "population-marriages",
+  "topic": "population",
+  "title": "Marriages",
+  "subtitle": "Number of marriages registered in Ireland each year, 2000 to 2025.",
+  "kind": "chart",
+  "page": "/charts/population-marriages.html",
+  "csv": "/charts/population-marriages.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Opposite-Sex Marriages Registered (VSA46)",
+    "url": "https://data.cso.ie/table/VSA46",
+    "licence": "CC BY 4.0",
+    "code": "VSA46",
+    "updated": "2026-05-05",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Same-Sex Marriages Registered (VSB12)",
+    "url": "https://data.cso.ie/table/VSB12",
+    "licence": "CC BY 4.0",
+    "code": "VSB12",
+    "updated": "2026-05-05",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "19,898 marriages were registered in 2025, including 624 same-sex marriages. The lowest number was 9,523, in 2020.",
+  "listed": true,
+  "updated": "2026-05-05",
+  "checked": "2026-11-16"
  },
  {
   "id": "population-total",
@@ -151,6 +256,50 @@
   "listed": true,
   "updated": "2026-10-29",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "housing-homelessness",
+  "topic": "housing",
+  "title": "People in emergency accommodation",
+  "subtitle": "Number of people in emergency accommodation for homeless people, by month, January 2019 to August 2026.",
+  "kind": "chart",
+  "page": "/charts/housing-homelessness.html",
+  "csv": "/charts/housing-homelessness.csv",
+  "sources": [
+   {
+    "publisher": "Department of Housing, Local Government and Heritage",
+    "title": "Monthly homelessness reports",
+    "url": "https://data.gov.ie/organization/department-of-housing-local-government-and-heritage",
+    "licence": "CC BY-SA 4.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "17,885 people were in emergency accommodation in August 2026, including 5,830 dependants, almost all of them children. That was up from 9,987 in January 2019.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "housing-homelessness-regions",
+  "topic": "housing",
+  "title": "Emergency accommodation by region",
+  "subtitle": "Number of people in emergency accommodation for homeless people, by region, August 2026.",
+  "kind": "chart",
+  "page": "/charts/housing-homelessness-regions.html",
+  "csv": "/charts/housing-homelessness-regions.csv",
+  "sources": [
+   {
+    "publisher": "Department of Housing, Local Government and Heritage",
+    "title": "Monthly homelessness reports",
+    "url": "https://data.gov.ie/organization/department-of-housing-local-government-and-heritage",
+    "licence": "CC BY-SA 4.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "In August 2026, 70% of people in emergency accommodation were in Dublin, 12,429 people.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
  },
  {
   "id": "housing-prices",
@@ -247,6 +396,78 @@
   "listed": true,
   "updated": "2026-05-14",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "cost-of-living-average-prices",
+  "topic": "cost-of-living",
+  "title": "What everyday items cost",
+  "subtitle": "Change in the national average price of selected items, October 2021 to October 2026, with the price at each date.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-average-prices.html",
+  "csv": "/charts/cost-of-living-average-prices.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "National Average Price (CPM12)",
+    "url": "https://data.cso.ie/table/CPM12",
+    "licence": "CC BY 4.0",
+    "code": "CPM12",
+    "updated": "2026-11-11",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Full fat milk cost €2.39 on average in October 2026, up from €1.69 in October 2021, a rise of 41%.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "cost-of-living-energy-prices",
+  "topic": "cost-of-living",
+  "title": "Energy prices",
+  "subtitle": "Consumer prices for electricity, gas, home heating oil and petrol, compared with all items, 2015 average = 100, January 2015 to October 2026.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-energy-prices.html",
+  "csv": "/charts/cost-of-living-energy-prices.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Consumer Price Index, detailed sub indices (CPM24)",
+    "url": "https://data.cso.ie/table/CPM24",
+    "licence": "CC BY 4.0",
+    "code": "CPM24",
+    "updated": "2026-11-11",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In October 2026, electricity prices were 91% higher than in 2015, and gas prices 116% higher, compared with 31% for all items.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "cost-of-living-food-prices",
+  "topic": "cost-of-living",
+  "title": "Food prices",
+  "subtitle": "Consumer prices for food, compared with all items, 2015 average = 100, January 2015 to October 2026.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-food-prices.html",
+  "csv": "/charts/cost-of-living-food-prices.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Consumer Price Index, detailed sub indices (CPM24)",
+    "url": "https://data.cso.ie/table/CPM24",
+    "licence": "CC BY 4.0",
+    "code": "CPM24",
+    "updated": "2026-11-11",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Food prices were 18% higher in October 2026 than in 2015, compared with 31% for all items. Food prices rose 29% between January 2021 and October 2026, after falling slightly in the years before.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-16"
  },
  {
   "id": "cost-of-living-inflation",
@@ -603,6 +824,96 @@
   "checked": "2026-11-14"
  },
  {
+  "id": "crime-assaults-map",
+  "topic": "crime",
+  "title": "Assaults, threats and harassment offences by Garda division",
+  "subtitle": "Recorded assaults, threats and harassment offences per 1,000 people in each Garda division, 2025.",
+  "kind": "map",
+  "page": "/charts/crime-assaults-map.html",
+  "csv": "/charts/crime-assaults-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Recorded crime incidents by Garda station (CJA07)",
+    "url": "https://data.cso.ie/table/CJA07",
+    "licence": "CC BY 4.0",
+    "code": "CJA07",
+    "checked": "2026-11-16",
+    "updated": "2026-06-25"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Population, population by county (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "checked": "2026-11-13",
+    "updated": "2023-06-29"
+   }
+  ],
+  "key_fact": "In 2025, the Westmeath division had the highest rate of recorded assaults, threats and harassment offences, 7.1 per 1,000 people, compared with 2.8 in the Meath division.",
+  "listed": true,
+  "updated": "2026-06-25",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "crime-burglary-map",
+  "topic": "crime",
+  "title": "Burglaries by Garda division",
+  "subtitle": "Recorded burglaries per 1,000 people in each Garda division, 2025.",
+  "kind": "map",
+  "page": "/charts/crime-burglary-map.html",
+  "csv": "/charts/crime-burglary-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Recorded crime incidents by Garda station (CJA07)",
+    "url": "https://data.cso.ie/table/CJA07",
+    "licence": "CC BY 4.0",
+    "code": "CJA07",
+    "checked": "2026-11-16",
+    "updated": "2026-06-25"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Population, population by county (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "checked": "2026-11-13",
+    "updated": "2023-06-29"
+   }
+  ],
+  "key_fact": "In 2025, the Dublin Metropolitan Region and the Wicklow division had the joint highest rate of recorded burglaries, 2.6 per 1,000 people, compared with 0.5 in the Mayo division.",
+  "listed": true,
+  "updated": "2026-06-25",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "crime-by-offence",
+  "topic": "crime",
+  "title": "Recorded crime by type of offence",
+  "subtitle": "Number of crime incidents recorded by An Garda Síochána in 2025, by type of offence.",
+  "kind": "chart",
+  "page": "/charts/crime-by-offence.html",
+  "csv": "/charts/crime-by-offence.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Recorded crime incidents (CJA01)",
+    "url": "https://data.cso.ie/table/CJA01",
+    "licence": "CC BY 4.0",
+    "code": "CJA01",
+    "checked": "2026-11-13",
+    "updated": "2026-10-01"
+   }
+  ],
+  "key_fact": "Theft was the most common type of recorded crime in 2025, with 73,564 incidents, about 26% of the offences shown.",
+  "listed": true,
+  "updated": "2026-10-01",
+  "checked": "2026-11-13"
+ },
+ {
   "id": "crime-thefts",
   "topic": "crime",
   "title": "Recorded thefts and burglaries",
@@ -617,11 +928,35 @@
     "url": "https://data.cso.ie/table/CJA01",
     "licence": "CC BY 4.0",
     "code": "CJA01",
-    "updated": "2026-10-01",
-    "checked": "2026-11-13"
+    "checked": "2026-11-13",
+    "updated": "2026-10-01"
    }
   ],
   "key_fact": "34,312 thefts from shops were recorded in 2025, compared with 15,692 in 2003.",
+  "listed": true,
+  "updated": "2026-10-01",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "crime-trends",
+  "topic": "crime",
+  "title": "Recorded crime over time",
+  "subtitle": "Number of crime incidents recorded by An Garda Síochána each year, for the five largest types of crime against people and property, 2003 to 2025.",
+  "kind": "chart",
+  "page": "/charts/crime-trends.html",
+  "csv": "/charts/crime-trends.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Recorded crime incidents (CJA01)",
+    "url": "https://data.cso.ie/table/CJA01",
+    "licence": "CC BY 4.0",
+    "code": "CJA01",
+    "checked": "2026-11-13",
+    "updated": "2026-10-01"
+   }
+  ],
+  "key_fact": "8,466 burglaries were recorded in 2025, down from a peak of 28,473 in 2012.",
   "listed": true,
   "updated": "2026-10-01",
   "checked": "2026-11-13"
@@ -771,6 +1106,30 @@
   "checked": "2026-11-14"
  },
  {
+  "id": "health-ed-times",
+  "topic": "health",
+  "title": "Time spent in emergency departments",
+  "subtitle": "Hours from arrival to leaving a public hospital emergency department, by month, January 2016 to December 2025.",
+  "kind": "chart",
+  "page": "/charts/health-ed-times.html",
+  "csv": "/charts/health-ed-times.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Patient experience time in emergency departments (KTA03)",
+    "url": "https://data.cso.ie/table/KTA03",
+    "licence": "CC BY 4.0",
+    "code": "KTA03",
+    "updated": "2026-06-05",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, half of patients left the emergency department within 5.0 hours, but one in twenty spent more than 20 hours there.",
+  "listed": true,
+  "updated": "2026-06-05",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "health-life-expectancy",
   "topic": "health",
   "title": "Life expectancy in Ireland and the EU",
@@ -793,6 +1152,78 @@
   "listed": true,
   "updated": "2026-10-20",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "health-outpatient-waits",
+  "topic": "health",
+  "title": "Outpatient waiting times",
+  "subtitle": "Percentage of people on the hospital outpatient waiting list who had been waiting less than 15 months, July 2021 to September 2024.",
+  "kind": "chart",
+  "page": "/charts/health-outpatient-waits.html",
+  "csv": "/charts/health-outpatient-waits.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Outpatient waiting times (HSPAN16)",
+    "url": "https://data.cso.ie/table/HSPAN16",
+    "licence": "CC BY 4.0",
+    "code": "HSPAN16",
+    "updated": "2025-06-25",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In September 2024, 88% of people on the outpatient waiting list had been waiting less than 15 months, up from 65% in July 2021.",
+  "listed": true,
+  "updated": "2025-06-25",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "health-spending",
+  "topic": "health",
+  "title": "Spending on health care",
+  "subtitle": "Current spending on health care in Ireland, by the State and by households and insurers, € billion, 2000 to 2024.",
+  "kind": "chart",
+  "page": "/charts/health-spending.html",
+  "csv": "/charts/health-spending.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Revised Health Care Expenditure (SHA07)",
+    "url": "https://data.cso.ie/table/SHA07",
+    "licence": "CC BY 4.0",
+    "code": "SHA07",
+    "updated": "2026-06-17",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Current spending on health care was €36.3 billion in 2024, of which €28.2 billion (78%) was public. That was 11.3% of GNI*.",
+  "listed": true,
+  "updated": "2026-06-17",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "health-trolleys",
+  "topic": "health",
+  "title": "Patients waiting on trolleys",
+  "subtitle": "Average number of admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, by month, January 2016 to December 2025.",
+  "kind": "chart",
+  "page": "/charts/health-trolleys.html",
+  "csv": "/charts/health-trolleys.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Admitted Patients Waiting on Trolleys in Public Acute Hospital Emergency Departments at 8 am (KTA02)",
+    "url": "https://data.cso.ie/table/KTA02",
+    "licence": "CC BY 4.0",
+    "code": "KTA02",
+    "updated": "2026-06-05",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "On an average morning in 2025, 265 admitted patients were waiting on trolleys in emergency departments. The highest single count was 804, on 3 January 2023.",
+  "listed": true,
+  "updated": "2026-06-05",
+  "checked": "2026-11-16"
  },
  {
   "id": "environment-emissions-by-sector",
@@ -937,6 +1368,135 @@
   "listed": true,
   "updated": "2023-09-15",
   "checked": "2026-11-14"
+ },
+ {
+  "id": "public-finances-balance",
+  "topic": "public-finances",
+  "title": "Government surplus or deficit",
+  "subtitle": "General government surplus (above zero) or deficit (below zero), € billion, 1995 to 2025.0.",
+  "kind": "chart",
+  "page": "/charts/public-finances-balance.html",
+  "csv": "/charts/public-finances-balance.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government Surplus/Deficit ESA2010 (GFA10)",
+    "url": "https://data.cso.ie/table/GFA10",
+    "licence": "CC BY 4.0",
+    "code": "GFA10",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "The State had a surplus of €10.7 billion in 2025. The largest deficit was €53.8 billion, in 2010.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "public-finances-debt",
+  "topic": "public-finances",
+  "title": "Government debt",
+  "subtitle": "Gross general government debt at the end of each year, € billion, 2000 to 2025.0.",
+  "kind": "chart",
+  "page": "/charts/public-finances-debt.html",
+  "csv": "/charts/public-finances-debt.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government Gross and Net Debt ESA2010 (GFA13)",
+    "url": "https://data.cso.ie/table/GFA13",
+    "licence": "CC BY 4.0",
+    "code": "GFA13",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Modified Gross National Income at Current Market Prices (NA001)",
+    "url": "https://data.cso.ie/table/NA001",
+    "licence": "CC BY 4.0",
+    "code": "NA001",
+    "updated": "2026-07-02",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "Government debt was €210 billion at the end of 2025, or 63% of GNI*. Relative to GNI*, it peaked in 2012 at 164%.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "public-finances-revenue",
+  "topic": "public-finances",
+  "title": "Where the State's money comes from",
+  "subtitle": "General government revenue by source, € billion, 2025.",
+  "kind": "chart",
+  "page": "/charts/public-finances-revenue.html",
+  "csv": "/charts/public-finances-revenue.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government: Detailed classification of revenue and output (GFA03)",
+    "url": "https://data.cso.ie/table/GFA03",
+    "licence": "CC BY 4.0",
+    "code": "GFA03",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025 the State raised €145 billion. Income tax brought in €36.9 billion and corporation tax €32.9 billion, together almost half of the total.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "public-finances-spending",
+  "topic": "public-finances",
+  "title": "What the State spends money on",
+  "subtitle": "General government spending by type, € billion, 2025.",
+  "kind": "chart",
+  "page": "/charts/public-finances-spending.html",
+  "csv": "/charts/public-finances-spending.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government: Detailed classification of expenditure and consumption (GFA04)",
+    "url": "https://data.cso.ie/table/GFA04",
+    "licence": "CC BY 4.0",
+    "code": "GFA04",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "The State spent €134 billion in 2025. The largest share, €43.8 billion (33%), went on social welfare and other benefits.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "public-finances-tax-trends",
+  "topic": "public-finances",
+  "title": "The three biggest taxes",
+  "subtitle": "Revenue from income tax, corporation tax and VAT, € billion, 2000 to 2025.",
+  "kind": "chart",
+  "page": "/charts/public-finances-tax-trends.html",
+  "csv": "/charts/public-finances-tax-trends.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government: Detailed classification of revenue and output (GFA03)",
+    "url": "https://data.cso.ie/table/GFA03",
+    "licence": "CC BY 4.0",
+    "code": "GFA03",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Corporation tax brought in €32.9 billion in 2025, up from €3.9 billion in 2000.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-16"
  },
  {
   "id": "county-carlow-population",
