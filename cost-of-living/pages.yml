@@ -8,3 +8,7 @@
   path: prices-by-category.qmd
   image: ../images/charts/cost-of-living-price-change-by-group.png
   description: "Which goods and services have risen most, from energy to food to rent."
+- title: "Energy and food prices"
+  path: energy-and-food.qmd
+  image: ../images/charts/cost-of-living-energy-prices.png
+  description: "How the price of electricity, gas, heating oil, petrol and food has changed, and what everyday items cost."

@@ -35,6 +35,9 @@ SHORT = {
 def build():
     inflation()
     price_change_by_group()
+    energy_prices()
+    food_prices()
+    average_prices()
 
 
 def inflation():
@@ -94,4 +97,133 @@ def price_change_by_group():
                "which weights each group by how much households spend on it.",
                "Housing and energy includes rents, mortgage interest, electricity, gas and other home heating fuels."],
         data=d.rename(columns={"group": "cso_group"}).assign(group=labels, period=span)[["group", "cso_group", "percent_change", "period"]], figure=fig,
+    ).write()
+
+
+ENERGY = {"Electricity": "electricity", "Natural gas through networks": "gas",
+          "Liquid fuels (Home Heating Oil)": "home_heating_oil", "Petrol": "petrol", "All Items": "all_items"}
+FOOD = {"Food": "food", "All Items": "all_items"}
+BASE_YEAR = 2015
+
+
+def _sub_indices(names):
+    """Detailed CPI sub-indices, rebased so the average of BASE_YEAR is 100."""
+    df = cso.fetch("CPM24", where={"Statistic Label": ["Consumer Price Index"],
+                                   "Detailed Sub Indices": list(ENERGY) + list(FOOD)})
+    df = df.rename(columns={"STATISTIC Label": "Statistic Label"})
+    df = df[df["Detailed Sub Indices"].isin(names)].dropna(subset=["VALUE"])
+    df["date"] = pd.to_datetime(df.Month, format="%Y %B")
+    d = df.pivot_table(index="date", columns="Detailed Sub Indices", values="VALUE")
+    d = (d / d[d.index.year == BASE_YEAR].mean() * 100).round(1)
+    d = d[d.index.year >= BASE_YEAR].rename(columns=names).reset_index()
+    d["date"] = d.date.dt.strftime("%Y-%m")
+    return d[["date", *names.values()]]
+
+
+INDEX_NOTE = (f"Each line is a Consumer Price Index, set to 100 for the average of {BASE_YEAR}, so a value of 150 means "
+              f"prices were 50% higher than in {BASE_YEAR}. The indices measure the price of the same quantity over time, "
+              "so they show price changes, not changes in how much households use.")
+
+
+def energy_prices():
+    d = _sub_indices(ENERGY)
+    labels = {"electricity": "Electricity", "gas": "Gas", "home_heating_oil": "Home heating oil", "petrol": "Petrol",
+              "all_items": "All items"}
+    fig = figures.lines(d, "date", labels, value_format=".0f", hover_x="%B %Y", label_last=False,
+                        colours=[style.BLUE, style.ORANGE, style.AQUA, style.PURPLE, style.INK_3])
+    fig.update_layout(showlegend=True, legend=style.legend_top(), margin=dict(t=64))
+    fig.add_hline(y=100, line=dict(color=style.INK_3, width=1, dash="dot"))
+    b = d.iloc[-1]
+    peak = d.loc[d.electricity.idxmax()]
+    when = lambda x: pd.to_datetime(x).strftime("%B %Y")
+    Chart(
+        id="cost-of-living-energy-prices", topic=TOPIC,
+        title="Energy prices",
+        subtitle=f"Consumer prices for electricity, gas, home heating oil and petrol, compared with all items, "
+                 f"{BASE_YEAR} average = 100, January {BASE_YEAR} to {when(b.date)}.",
+        sources=[Source.cso("CPM24", "Consumer Price Index, detailed sub indices")],
+        notes=[INDEX_NOTE,
+               "Gas is natural gas supplied through the network. Electricity and gas prices include the effect of "
+               "government energy credits in the months they were paid, which lowered bills."],
+        key_fact=f"In {when(b.date)}, electricity prices were {b.electricity - 100:.0f}% higher than in {BASE_YEAR}, and "
+                 f"gas prices {b.gas - 100:.0f}% higher, compared with {b.all_items - 100:.0f}% for all items.",
+        data=d, figure=fig,
+    ).write()
+
+
+def food_prices():
+    d = _sub_indices(FOOD)
+    fig = figures.lines(d, "date", {"food": "Food", "all_items": "All items"}, value_format=".0f", hover_x="%B %Y",
+                        colours=[style.BLUE, style.INK_3])
+    fig.add_hline(y=100, line=dict(color=style.INK_3, width=1, dash="dot"))
+    when = lambda x: pd.to_datetime(x).strftime("%B %Y")
+    b = d.iloc[-1]
+    jan21 = d[d.date == "2021-01"].iloc[0]
+    Chart(
+        id="cost-of-living-food-prices", topic=TOPIC,
+        title="Food prices",
+        subtitle=f"Consumer prices for food, compared with all items, {BASE_YEAR} average = 100, January {BASE_YEAR} to {when(b.date)}.",
+        sources=[Source.cso("CPM24", "Consumer Price Index, detailed sub indices")],
+        notes=[INDEX_NOTE, "Food covers food bought to eat at home. It does not include drinks, or meals in restaurants and cafés."],
+        key_fact=f"Food prices were {b.food - 100:.0f}% higher in {when(b.date)} than in {BASE_YEAR}, compared with "
+                 f"{b.all_items - 100:.0f}% for all items. Food prices rose {(b.food / jan21.food - 1) * 100:.0f}% between "
+                 f"January 2021 and {when(b.date)}, after falling slightly in the years before.",
+        data=d, figure=fig,
+    ).write()
+
+
+ITEMS = {
+    "Bread, white sliced pan, large (800g)": "White sliced pan (800g)",
+    "Full fat milk per 2 litre": "Full fat milk (2 litres)",
+    "Butter per lb": "Butter (1lb)",
+    "Large eggs per half dozen": "Large eggs (6)",
+    "Irish cheddar per kg": "Irish cheddar (1kg)",
+    "Uncooked chicken medium size 1.6kg": "Whole chicken (1.6kg)",
+    "Potatoes 2.5 kg": "Potatoes (2.5kg)",
+    "Bananas per kg": "Bananas (1kg)",
+    "Tea bags per 80": "Tea bags (80)",
+    "Petrol - unleaded per litre": "Petrol (1 litre)",
+    "Diesel per litre": "Diesel (1 litre)",
+    "Stout - draught bar (1 pint)": "Pint of stout in a bar",
+}
+
+
+def average_prices():
+    df = cso.fetch("CPM12")
+    df = df.rename(columns={"STATISTIC Label": "Statistic Label"})
+    df["date"] = pd.to_datetime(df.Month, format="%Y %B")
+    end = df.date.max()
+    start = end - pd.DateOffset(years=5)
+    p = df[df["Consumer Item"].isin(ITEMS) & df.date.isin([start, end])]
+    d = p.pivot_table(index="Consumer Item", columns="date", values="VALUE").reset_index()
+    d.columns = ["cso_item", "then", "now"]
+    d["item"] = d.cso_item.map(ITEMS)
+    d["percent_change"] = ((d.now / d.then - 1) * 100).round(1)
+    d[["then", "now"]] = d[["then", "now"]].round(2)
+    d = d.set_index("cso_item").loc[list(ITEMS)].reset_index()
+    a, b = start.strftime("%B %Y"), end.strftime("%B %Y")
+    d = d.sort_values("percent_change").reset_index(drop=True)
+    fig = go.Figure(go.Bar(y=d.item, x=d.percent_change, orientation="h", marker=dict(color=style.BLUE, cornerradius=4),
+                           text=[f"+{c:.0f}%  (€{t:.2f} to €{n:.2f})" if c >= 0 else f"{c:.0f}%  (€{t:.2f} to €{n:.2f})"
+                                 for c, t, n in zip(d.percent_change, d.then, d.now)],
+                           textposition="outside", cliponaxis=False, textfont=dict(color=style.INK, size=11),
+                           customdata=d[["then", "now"]].values,
+                           hovertemplate="<b>%{y}</b>: %{x:+.0f}%<br>€%{customdata[0]:.2f} to €%{customdata[1]:.2f}<extra></extra>"))
+    fig.update_layout(style.base_layout(margin=dict(l=8, r=150, t=8, b=32), bargap=0.3,
+                                        xaxis=style.value_axis(ticksuffix="%", zeroline=True, zerolinecolor=style.INK_3),
+                                        yaxis=style.axis(automargin=True, tickfont=dict(color=style.INK_2, size=12))))
+    food = d[~d.item.str.startswith(("Petrol", "Diesel", "Pint"))]
+    top = food.loc[food.percent_change.idxmax()]
+    Chart(
+        id="cost-of-living-average-prices", topic=TOPIC, height=520,
+        title="What everyday items cost",
+        subtitle=f"Change in the national average price of selected items, {a} to {b}, with the price at each date.",
+        sources=[Source.cso("CPM12", "National Average Price")],
+        notes=["The CSO collects these prices each month from shops, pubs and filling stations around the country, as part "
+               "of the Consumer Price Index. They are averages, so prices in any one shop can be higher or lower.",
+               "The data file gives each item's average price at both dates."],
+        key_fact=f"{top['item'].split(' (')[0]} cost €{top.now:.2f} on average in {b}, up from €{top.then:.2f} in {a}, "
+                 f"a rise of {top.percent_change:.0f}%.",
+        data=d.iloc[::-1][["item", "cso_item", "then", "now", "percent_change"]].rename(columns={"then": f"price_{start:%Y_%m}", "now": f"price_{end:%Y_%m}"}),
+        figure=fig,
     ).write()
