@@ -838,8 +838,8 @@
     "url": "https://data.cso.ie/table/CJA07",
     "licence": "CC BY 4.0",
     "code": "CJA07",
-    "checked": "2026-11-16",
-    "updated": "2026-06-25"
+    "updated": "2026-06-25",
+    "checked": "2026-11-16"
    },
    {
     "publisher": "Central Statistics Office (CSO)",
@@ -847,8 +847,8 @@
     "url": "https://data.cso.ie/table/F1001",
     "licence": "CC BY 4.0",
     "code": "F1001",
-    "checked": "2026-11-13",
-    "updated": "2023-06-29"
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
    }
   ],
   "key_fact": "In 2025, the Westmeath division had the highest rate of recorded assaults, threats and harassment offences, 7.1 per 1,000 people, compared with 2.8 in the Meath division.",
@@ -871,8 +871,8 @@
     "url": "https://data.cso.ie/table/CJA07",
     "licence": "CC BY 4.0",
     "code": "CJA07",
-    "checked": "2026-11-16",
-    "updated": "2026-06-25"
+    "updated": "2026-06-25",
+    "checked": "2026-11-16"
    },
    {
     "publisher": "Central Statistics Office (CSO)",
@@ -880,8 +880,8 @@
     "url": "https://data.cso.ie/table/F1001",
     "licence": "CC BY 4.0",
     "code": "F1001",
-    "checked": "2026-11-13",
-    "updated": "2023-06-29"
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
    }
   ],
   "key_fact": "In 2025, the Dublin Metropolitan Region and the Wicklow division had the joint highest rate of recorded burglaries, 2.6 per 1,000 people, compared with 0.5 in the Mayo division.",
@@ -904,8 +904,8 @@
     "url": "https://data.cso.ie/table/CJA01",
     "licence": "CC BY 4.0",
     "code": "CJA01",
-    "checked": "2026-11-13",
-    "updated": "2026-10-01"
+    "updated": "2026-10-01",
+    "checked": "2026-11-13"
    }
   ],
   "key_fact": "Theft was the most common type of recorded crime in 2025, with 73,564 incidents, about 26% of the offences shown.",
@@ -928,8 +928,8 @@
     "url": "https://data.cso.ie/table/CJA01",
     "licence": "CC BY 4.0",
     "code": "CJA01",
-    "checked": "2026-11-13",
-    "updated": "2026-10-01"
+    "updated": "2026-10-01",
+    "checked": "2026-11-13"
    }
   ],
   "key_fact": "34,312 thefts from shops were recorded in 2025, compared with 15,692 in 2003.",
@@ -952,8 +952,8 @@
     "url": "https://data.cso.ie/table/CJA01",
     "licence": "CC BY 4.0",
     "code": "CJA01",
-    "checked": "2026-11-13",
-    "updated": "2026-10-01"
+    "updated": "2026-10-01",
+    "checked": "2026-11-13"
    }
   ],
   "key_fact": "8,466 burglaries were recorded in 2025, down from a peak of 28,473 in 2012.",

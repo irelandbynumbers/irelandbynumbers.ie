@@ -120,11 +120,19 @@ class Chart:
         checked = min((d["checked"] for d in ds if d.get("checked")), default="")
         return updated, checked
 
+    def _licence(self):
+        """The chart's own licence: CC BY 4.0, or CC BY-SA 4.0 when a source requires share-alike."""
+        if any("BY-SA" in s.licence for s in self.sources):
+            return ("CC BY-SA 4.0", "https://creativecommons.org/licenses/by-sa/4.0/",
+                    "free to reuse under the same licence, with credit to Ireland by Numbers and the source above")
+        return ("CC BY 4.0", "https://creativecommons.org/licenses/by/4.0/",
+                "free to reuse with credit to Ireland by Numbers and the source above")
+
     def _page(self, lib):
         fig = self.figure.to_plotly_json()
         meta = dict(id=self.id, title=self.title, subtitle=self.subtitle,
                     source="Data from " + "; ".join(s.text() for s in self.sources),
-                    credit=f"irelandbynumbers.ie/charts/{self.id} · CC BY 4.0")
+                    credit=f"irelandbynumbers.ie/charts/{self.id} · {self._licence()[0]}")
         notes = "".join(f"<p>{n}</p>" for n in self.notes)
         sources = "; ".join(s.html() for s in self.sources)
         topic_name = TOPICS[self.topic]
@@ -139,7 +147,9 @@ class Chart:
             dates.append(f"Checked for new figures {_long_date(checked)}.")
         tables = "".join(f'<a href="{html.escape(s.url)}">Original table{" (" + html.escape(s.code) + ")" if s.code and len(self.sources) > 1 else ""}</a>'
                          for s in self.sources)
+        licence, licence_url, licence_terms = self._licence()
         return TEMPLATE.format(
+            licence=licence, licence_url=licence_url, licence_terms=licence_terms,
             source_names=html.escape(", ".join(dict.fromkeys(s.publisher for s in self.sources))),
             dates=(f'<p class="dates">{" ".join(dates)}</p>' if dates else ""), tables=tables,
             title=title, sub=sub, id=self.id, site=SITE, lib=lib, height=self.height,
@@ -313,7 +323,7 @@ TEMPLATE = """<!doctype html>
       <p>Copy this code to show the chart on your own site.</p>
       <textarea readonly></textarea>
     </div>
-    <p class="credit"><a href="/">Ireland by Numbers</a> · Chart licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, free to reuse with credit to Ireland by Numbers and the source above.</p>
+    <p class="credit"><a href="/">Ireland by Numbers</a> · Chart licensed <a href="{licence_url}">{licence}</a>, {licence_terms}.</p>
   </footer>
 </main>
 <div class="brand-card" aria-hidden="true"><span><b>Ireland by Numbers</b> · irelandbynumbers.ie</span><span>Data from {source_names}</span></div>

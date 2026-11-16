@@ -3,7 +3,7 @@ title: "Energy and food prices"
 description: "How the price of electricity, gas, heating oil, petrol and food has changed, and what everyday items cost."
 ---
 
-Energy prices rose sharply in 2022, after Russia's invasion of Ukraine pushed up the cost of gas across Europe. Electricity and gas prices for households more than doubled compared with 2015, and peaked between late 2022 and mid-2023. They have eased since then, but in October 2026 electricity was still 91% dearer than in 2015, and gas 116% dearer. Prices overall rose by 31% over the same period.
+Energy prices rose sharply in 2022, after Russia's invasion of Ukraine pushed up the cost of gas across Europe. Electricity and gas prices for households more than doubled compared with 2015, and peaked between late 2022 and mid-2023. They eased in 2024 and 2025 but have risen again in 2026. In October 2026 electricity was 91% dearer than in 2015, gas 116% dearer and home heating oil 159% dearer, after a sharp rise in heating oil prices during 2026. Prices overall rose by 31% over the same period.
 
 {{< chart cost-of-living-energy-prices >}}
 
