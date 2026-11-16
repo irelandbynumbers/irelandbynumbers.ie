@@ -1,5 +1,13 @@
 # Subtopic pages, shown as tiles on this topic's page. Set `image:` to a chart
 # thumbnail from images/charts/ (made by tools/thumbnails.js) once the page has charts.
+- title: "Crime by type of offence"
+  path: types.qmd
+  image: ../images/charts/crime-by-offence.png
+  description: "Which crimes are recorded most often, and how each has changed since 2003."
+- title: "Crime by Garda division"
+  path: divisions.qmd
+  image: ../images/charts/crime-burglary-map.png
+  description: "Rates of burglary and assault in each part of the country."
 - title: "Theft and car crime"
   path: theft.qmd
   image: ../images/charts/crime-thefts.png
