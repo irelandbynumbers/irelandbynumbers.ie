@@ -11,7 +11,7 @@ Half of patients who attended an emergency department in 2025 left within about 
 
 {{< chart health-ed-times >}}
 
-Many people wait a long time for a first appointment with a hospital consultant. In September 2024, 88% of people on the outpatient waiting list had been waiting less than 15 months, up from 65% in July 2021. That means about one in eight had been waiting longer.
+An outpatient appointment is a first appointment with a hospital consultant. In September 2024, 88% of people on the outpatient waiting list had been waiting less than 15 months, up from 65% in July 2021. That means about one in eight had been waiting longer.
 
 {{< chart health-outpatient-waits >}}
 

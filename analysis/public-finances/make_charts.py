@@ -148,7 +148,7 @@ def balance():
     Chart(
         id="public-finances-balance", topic=TOPIC,
         title="Government surplus or deficit",
-        subtitle=f"General government surplus (above zero) or deficit (below zero), € billion, {d.Year.min()} to {b.Year}.",
+        subtitle=f"General government surplus (above zero) or deficit (below zero), € billion, {d.Year.min():.0f} to {b.Year:.0f}.",
         sources=[Source.cso("GFA10", "General Government Surplus/Deficit ESA2010")],
         notes=[GG_NOTE, NOMINAL,
                "A deficit means the State spent more than it raised in that year, and borrowed to cover the difference. "
@@ -177,7 +177,7 @@ def debt():
     Chart(
         id="public-finances-debt", topic=TOPIC,
         title="Government debt",
-        subtitle=f"Gross general government debt at the end of each year, € billion, {d.Year.min()} to {b.Year}.",
+        subtitle=f"Gross general government debt at the end of each year, € billion, {d.Year.min():.0f} to {b.Year:.0f}.",
         sources=[Source.cso("GFA13", "General Government Gross and Net Debt ESA2010"),
                  Source.cso("NA001", "Modified Gross National Income at Current Market Prices")],
         notes=[GG_NOTE, NOMINAL,

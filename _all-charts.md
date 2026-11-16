@@ -65,7 +65,7 @@
 - [Deaths from heart disease, cancer and tuberculosis](/charts/health-death-rates.html). Deaths per 100,000 people each year from heart disease, cancer and tuberculosis, 1922 to 2023. *Central Statistics Office (CSO).* [CSV](/charts/health-death-rates.csv)
 - [Distance to hospital emergency department by county](/charts/health-distance-emergency-department-map.html). Median distance by road from people's homes to the nearest hospital emergency department, in kilometres, 2026. *Central Statistics Office (CSO).* [CSV](/charts/health-distance-emergency-department-map.csv)
 - [Distance to GP by county](/charts/health-distance-gp-map.html). Median distance by road from people's homes to the nearest GP, in kilometres, 2026. *Central Statistics Office (CSO).* [CSV](/charts/health-distance-gp-map.csv)
-- [Time spent in emergency departments](/charts/health-ed-times.html). Hours from arrival to leaving a public hospital emergency department, by month, January 2016 to December 2025. *Central Statistics Office (CSO).* [CSV](/charts/health-ed-times.csv)
+- [Time spent in emergency departments](/charts/health-ed-times.html). Hours within which half of patients, and 95% of patients, left a public hospital emergency department after arriving, by month, January 2016 to December 2025. *Central Statistics Office (CSO).* [CSV](/charts/health-ed-times.csv)
 - [Life expectancy in Ireland and the EU](/charts/health-life-expectancy.html). Life expectancy at birth in years, Ireland and the 27 EU countries, 2018 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-life-expectancy.csv)
 - [Outpatient waiting times](/charts/health-outpatient-waits.html). Percentage of people on the hospital outpatient waiting list who had been waiting less than 15 months, July 2021 to September 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-outpatient-waits.csv)
 - [Spending on health care](/charts/health-spending.html). Current spending on health care in Ireland, by the State and by households and insurers, € billion, 2000 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-spending.csv)
@@ -85,8 +85,8 @@
 
 ## [Public finances](/public-finances/)
 
-- [Government surplus or deficit](/charts/public-finances-balance.html). General government surplus (above zero) or deficit (below zero), € billion, 1995 to 2025.0. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-balance.csv)
-- [Government debt](/charts/public-finances-debt.html). Gross general government debt at the end of each year, € billion, 2000 to 2025.0. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/public-finances-debt.csv)
+- [Government surplus or deficit](/charts/public-finances-balance.html). General government surplus (above zero) or deficit (below zero), € billion, 1995 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-balance.csv)
+- [Government debt](/charts/public-finances-debt.html). Gross general government debt at the end of each year, € billion, 2000 to 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/public-finances-debt.csv)
 - [Where the State's money comes from](/charts/public-finances-revenue.html). General government revenue by source, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-revenue.csv)
 - [What the State spends money on](/charts/public-finances-spending.html). General government spending by type, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-spending.csv)
 - [The three biggest taxes](/charts/public-finances-tax-trends.html). Revenue from income tax, corporation tax and VAT, € billion, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-tax-trends.csv)

@@ -147,14 +147,15 @@ def emergency_department_times():
     d["median_hours"] = (d["50th percentile"] / 60).round(1)
     d["longest_5pc_hours"] = (d["95th percentile"] / 60).round(1)
     d = d[["month", "median_hours", "longest_5pc_hours"]].reset_index(drop=True)
-    fig = figures.lines(d, "month", {"median_hours": "Half of patients within", "longest_5pc_hours": "95% of patients within"},
+    fig = figures.lines(d, "month", {"median_hours": "Half", "longest_5pc_hours": "95%"},
                         value_format=".1f", suffix=" hours", hover_x="%B %Y", y_range=[0, d.longest_5pc_hours.max() * 1.1])
     a = d[d.month.dt.year == d.month.dt.year.min()]
     b = d[d.month.dt.year == d.month.dt.year.max()]
     Chart(
         id="health-ed-times", topic=TOPIC,
         title="Time spent in emergency departments",
-        subtitle=f"Hours from arrival to leaving a public hospital emergency department, by month, "
+        subtitle=f"Hours within which half of patients, and 95% of patients, left a public hospital emergency "
+                 f"department after arriving, by month, "
                  f"{d.month.min():%B %Y} to {d.month.max():%B %Y}.",
         sources=[Source.cso("KTA03", "Patient experience time in emergency departments")],
         notes=["Patient experience time runs from registration in the emergency department until the patient leaves it, "
