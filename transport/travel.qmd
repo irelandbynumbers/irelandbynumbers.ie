@@ -1,0 +1,18 @@
+---
+title: "Walking, cycling and other ways to travel"
+description: "How people travel to work and school, and how they make other journeys."
+---
+
+Most journeys in Ireland are made by car. In the CSO's National Travel Survey for 2024, 74% of all journeys were made by car, as a driver or passenger. 14% were made on foot, 4% by bus and 2% by bike. The survey covers journeys for any reason, including shopping, visiting people and leisure.
+
+{{< chart transport-journeys-by-mode >}}
+
+At the 2022 census, 55% of pupils and students went to school or college by car, most of them as passengers. 23% walked and 17% took a bus. 3.0% cycled, up from 2.4% in 2016.
+
+{{< chart transport-travel-to-school >}}
+
+Among people travelling to work in 2022, 64% drove and a further 4.5% were car passengers. 10% walked, 6% took a bus, 3% took a train, DART or Luas, and 3% cycled. These shares changed little between 2016 and 2022. The [Getting to work](../economy/commuting.qmd) page shows how many people work from home, and how many drive to work, in each county.
+
+{{< chart transport-travel-to-work >}}
+
+Fianaise has more [figures on cycling in Dublin](https://fianaise.ie/cycling/).

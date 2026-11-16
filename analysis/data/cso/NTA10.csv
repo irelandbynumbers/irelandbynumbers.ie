@@ -1,0 +1,460 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02196V0265,Region,C03662V04404,Mode of Travel,UNIT,VALUE
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,010,Private car - driver,%,64.1
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,020,Private car - passenger,%,12.6
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,030,Walk,%,20.1
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,040,Bus,%,1.2
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,050,Cycle,%,0.6
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,070,Rail,%,0.1
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,090,Taxi/hackney,%,0.0
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,130,Van,%,1.0
+NTA10,Distribution of journeys,2019,2019,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,140,Other mode of transport n.e.c.,%,0.3
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,010,Private car - driver,%,68.9
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,020,Private car - passenger,%,7.2
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,030,Walk,%,15.4
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,040,Bus,%,2.2
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,050,Cycle,%,0.8
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,070,Rail,%,1.5
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,090,Taxi/hackney,%,0.6
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,120,Lorry/motorcycle,%,0.5
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,130,Van,%,1.5
+NTA10,Distribution of journeys,2019,2019,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,140,Other mode of transport n.e.c.,%,1.4
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,010,Private car - driver,%,62.7
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,020,Private car - passenger,%,8.1
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,030,Walk,%,11.6
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,040,Bus,%,4.5
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,050,Cycle,%,2.1
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,070,Rail,%,0.8
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,080,DART/Luas,%,0.1
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,090,Taxi/hackney,%,1.4
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,130,Van,%,8.4
+NTA10,Distribution of journeys,2019,2019,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,140,Other mode of transport n.e.c.,%,0.2
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,010,Private car - driver,%,54.9
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,020,Private car - passenger,%,7.3
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,030,Walk,%,17.6
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,040,Bus,%,8.5
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,050,Cycle,%,3.4
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,070,Rail,%,1.0
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,080,DART/Luas,%,3.1
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,090,Taxi/hackney,%,1.5
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,120,Lorry/motorcycle,%,0.4
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,130,Van,%,1.7
+NTA10,Distribution of journeys,2019,2019,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,140,Other mode of transport n.e.c.,%,0.5
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,010,Private car - driver,%,70.5
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,020,Private car - passenger,%,7.7
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,030,Walk,%,10.4
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,040,Bus,%,4.2
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,050,Cycle,%,0.2
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,070,Rail,%,1.4
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,080,DART/Luas,%,0.8
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,090,Taxi/hackney,%,1.4
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,120,Lorry/motorcycle,%,0.4
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,130,Van,%,2.4
+NTA10,Distribution of journeys,2019,2019,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,140,Other mode of transport n.e.c.,%,0.5
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,010,Private car - driver,%,69.6
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,020,Private car - passenger,%,10.7
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,030,Walk,%,10.9
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,040,Bus,%,2.7
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,050,Cycle,%,0.5
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,070,Rail,%,0.5
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,090,Taxi/hackney,%,0.0
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,130,Van,%,3.7
+NTA10,Distribution of journeys,2019,2019,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,140,Other mode of transport n.e.c.,%,1.5
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,010,Private car - driver,%,76.5
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,020,Private car - passenger,%,10.0
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,030,Walk,%,8.1
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,040,Bus,%,1.2
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,050,Cycle,%,0.0
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,070,Rail,%,0.2
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,090,Taxi/hackney,%,0.1
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,120,Lorry/motorcycle,%,0.1
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,130,Van,%,2.2
+NTA10,Distribution of journeys,2019,2019,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,140,Other mode of transport n.e.c.,%,1.5
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,010,Private car - driver,%,70.0
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,020,Private car - passenger,%,8.4
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,030,Walk,%,11.2
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,040,Bus,%,4.8
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,050,Cycle,%,1.1
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,070,Rail,%,0.0
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,090,Taxi/hackney,%,0.8
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,120,Lorry/motorcycle,%,0.1
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,130,Van,%,3.2
+NTA10,Distribution of journeys,2019,2019,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,140,Other mode of transport n.e.c.,%,0.4
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,010,Private car - driver,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,020,Private car - passenger,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,030,Walk,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,040,Bus,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,050,Cycle,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,070,Rail,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,071,DART,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,072,Luas,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,080,DART/Luas,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,090,Taxi/hackney,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,120,Lorry/motorcycle,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,130,Van,%,
+NTA10,Distribution of journeys,2019,2019,IE0,Ireland,140,Other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,21,Private car - driver/passenger,%,76.5
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,010,Private car - driver,%,68.9
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,020,Private car - passenger,%,7.6
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,030,Walk,%,13.2
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,040,Bus,%,2.8
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,050,Cycle,%,0.3
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,070,Rail,%,0.0
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,090,Taxi/hackney,%,0.4
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,120,Lorry/motorcycle,%,1.6
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,130,Van,%,4.2
+NTA10,Distribution of journeys,2021,2021,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,140,Other mode of transport n.e.c.,%,1.0
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,21,Private car - driver/passenger,%,70.2
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,010,Private car - driver,%,65.4
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,020,Private car - passenger,%,4.8
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,030,Walk,%,23.5
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,040,Bus,%,0.2
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,050,Cycle,%,0.1
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,070,Rail,%,0.0
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,090,Taxi/hackney,%,0.2
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,130,Van,%,4.1
+NTA10,Distribution of journeys,2021,2021,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,140,Other mode of transport n.e.c.,%,1.8
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,21,Private car - driver/passenger,%,79.6
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,010,Private car - driver,%,72.7
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,020,Private car - passenger,%,6.9
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,030,Walk,%,11.2
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,040,Bus,%,1.7
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,050,Cycle,%,0.4
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,070,Rail,%,0.0
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,090,Taxi/hackney,%,0.2
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,130,Van,%,4.9
+NTA10,Distribution of journeys,2021,2021,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,140,Other mode of transport n.e.c.,%,2.0
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,21,Private car - driver/passenger,%,55.7
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,010,Private car - driver,%,52.2
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,020,Private car - passenger,%,3.5
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,030,Walk,%,24.6
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,040,Bus,%,7.8
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,050,Cycle,%,4.9
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,070,Rail,%,0.2
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,080,DART/Luas,%,2.9
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,090,Taxi/hackney,%,0.7
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,130,Van,%,1.7
+NTA10,Distribution of journeys,2021,2021,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,140,Other mode of transport n.e.c.,%,1.4
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,21,Private car - driver/passenger,%,71.1
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,010,Private car - driver,%,62.7
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,020,Private car - passenger,%,8.4
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,030,Walk,%,14.9
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,040,Bus,%,7.0
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,050,Cycle,%,0.4
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,070,Rail,%,1.4
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,080,DART/Luas,%,0.3
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,090,Taxi/hackney,%,0.4
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,130,Van,%,2.5
+NTA10,Distribution of journeys,2021,2021,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,140,Other mode of transport n.e.c.,%,2.0
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,21,Private car - driver/passenger,%,78.1
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,010,Private car - driver,%,69.8
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,020,Private car - passenger,%,8.3
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,030,Walk,%,15.1
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,040,Bus,%,1.6
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,050,Cycle,%,1.6
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,070,Rail,%,0.0
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,090,Taxi/hackney,%,0.8
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,120,Lorry/motorcycle,%,0.3
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,130,Van,%,1.1
+NTA10,Distribution of journeys,2021,2021,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,140,Other mode of transport n.e.c.,%,1.4
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,21,Private car - driver/passenger,%,76.0
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,010,Private car - driver,%,69.7
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,020,Private car - passenger,%,6.3
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,030,Walk,%,11.9
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,040,Bus,%,2.8
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,050,Cycle,%,2.9
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,070,Rail,%,0.0
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,090,Taxi/hackney,%,0.1
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,120,Lorry/motorcycle,%,0.0
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,130,Van,%,3.9
+NTA10,Distribution of journeys,2021,2021,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,140,Other mode of transport n.e.c.,%,2.4
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,21,Private car - driver/passenger,%,83.7
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,010,Private car - driver,%,71.4
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,020,Private car - passenger,%,12.3
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,030,Walk,%,10.2
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,040,Bus,%,1.2
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,050,Cycle,%,0.7
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,070,Rail,%,0.0
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,090,Taxi/hackney,%,0.2
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,120,Lorry/motorcycle,%,0.3
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,130,Van,%,1.3
+NTA10,Distribution of journeys,2021,2021,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,140,Other mode of transport n.e.c.,%,2.5
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,21,Private car - driver/passenger,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,010,Private car - driver,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,020,Private car - passenger,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,030,Walk,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,040,Bus,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,050,Cycle,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,060,Rail/DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,070,Rail,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,071,DART,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,072,Luas,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,080,DART/Luas,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,090,Taxi/hackney,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,120,Lorry/motorcycle,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,130,Van,%,
+NTA10,Distribution of journeys,2021,2021,IE0,Ireland,140,Other mode of transport n.e.c.,%,
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,21,Private car - driver/passenger,%,74.2
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,010,Private car - driver,%,13.1
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,020,Private car - passenger,%,61.1
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,030,Walk,%,12.7
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,040,Bus,%,1.5
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,050,Cycle,%,1.4
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,060,Rail/DART/Luas,%,0.1
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,070,Rail,%,0.1
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,071,DART,%,0.0
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,072,Luas,%,0.0
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,090,Taxi/hackney,%,1.2
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,8.9
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,120,Lorry/motorcycle,%,0.4
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,130,Van,%,7.0
+NTA10,Distribution of journeys,2024,2024,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,140,Other mode of transport n.e.c.,%,1.6
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,21,Private car - driver/passenger,%,75.2
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,010,Private car - driver,%,9.7
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,020,Private car - passenger,%,65.5
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,030,Walk,%,13.4
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,040,Bus,%,2.4
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,050,Cycle,%,2.7
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,060,Rail/DART/Luas,%,1.1
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,070,Rail,%,0.9
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,071,DART,%,0.0
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,072,Luas,%,0.2
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,080,DART/Luas,%,0.2
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,090,Taxi/hackney,%,0.1
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,5.1
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,120,Lorry/motorcycle,%,0.1
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,130,Van,%,3.4
+NTA10,Distribution of journeys,2024,2024,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midlands,140,Other mode of transport n.e.c.,%,1.6
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,21,Private car - driver/passenger,%,77.1
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,010,Private car - driver,%,9.4
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,020,Private car - passenger,%,67.6
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,030,Walk,%,11.9
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,040,Bus,%,3.7
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,050,Cycle,%,1.0
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,060,Rail/DART/Luas,%,1.5
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,070,Rail,%,0.8
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,071,DART,%,0.1
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,072,Luas,%,0.5
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,080,DART/Luas,%,0.6
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,090,Taxi/hackney,%,1.2
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,3.7
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,120,Lorry/motorcycle,%,0.3
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,130,Van,%,2.4
+NTA10,Distribution of journeys,2024,2024,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,140,Other mode of transport n.e.c.,%,0.9
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,21,Private car - driver/passenger,%,53.6
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,010,Private car - driver,%,8.8
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,020,Private car - passenger,%,44.8
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,030,Walk,%,19.7
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,040,Bus,%,14.3
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,050,Cycle,%,3.9
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,060,Rail/DART/Luas,%,4.2
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,070,Rail,%,0.9
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,071,DART,%,0.9
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,072,Luas,%,2.4
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,080,DART/Luas,%,3.3
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,090,Taxi/hackney,%,1.7
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,2.6
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,120,Lorry/motorcycle,%,0.6
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,130,Van,%,1.1
+NTA10,Distribution of journeys,2024,2024,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,140,Other mode of transport n.e.c.,%,0.9
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,21,Private car - driver/passenger,%,69.4
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,010,Private car - driver,%,9.6
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,020,Private car - passenger,%,59.8
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,030,Walk,%,17.0
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,040,Bus,%,4.5
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,050,Cycle,%,1.5
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,060,Rail/DART/Luas,%,3.4
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,070,Rail,%,2.3
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,071,DART,%,1.0
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,072,Luas,%,0.1
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,080,DART/Luas,%,1.1
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,090,Taxi/hackney,%,0.5
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,3.6
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,120,Lorry/motorcycle,%,0.4
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,130,Van,%,2.4
+NTA10,Distribution of journeys,2024,2024,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,140,Other mode of transport n.e.c.,%,0.9
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,21,Private car - driver/passenger,%,80.9
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,010,Private car - driver,%,13.3
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,020,Private car - passenger,%,67.7
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,030,Walk,%,9.6
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,040,Bus,%,2.1
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,050,Cycle,%,2.1
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,060,Rail/DART/Luas,%,0.4
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,070,Rail,%,0.4
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,071,DART,%,0.0
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,072,Luas,%,0.0
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,090,Taxi/hackney,%,0.5
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,4.2
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,120,Lorry/motorcycle,%,0.7
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,130,Van,%,2.4
+NTA10,Distribution of journeys,2024,2024,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,140,Other mode of transport n.e.c.,%,1.2
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,21,Private car - driver/passenger,%,80.2
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,010,Private car - driver,%,10.7
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,020,Private car - passenger,%,69.4
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,030,Walk,%,11.1
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,040,Bus,%,3.5
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,050,Cycle,%,1.0
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,060,Rail/DART/Luas,%,0.7
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,070,Rail,%,0.7
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,071,DART,%,0.0
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,072,Luas,%,0.0
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,080,DART/Luas,%,0.0
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,090,Taxi/hackney,%,0.3
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,3.3
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,120,Lorry/motorcycle,%,0.3
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,130,Van,%,2.1
+NTA10,Distribution of journeys,2024,2024,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,140,Other mode of transport n.e.c.,%,0.9
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,21,Private car - driver/passenger,%,73.9
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,010,Private car - driver,%,12.3
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,020,Private car - passenger,%,61.7
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,030,Walk,%,14.5
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,040,Bus,%,4.2
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,050,Cycle,%,2.3
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,060,Rail/DART/Luas,%,0.8
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,070,Rail,%,0.7
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,071,DART,%,0.0
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,072,Luas,%,0.1
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,080,DART/Luas,%,0.1
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,090,Taxi/hackney,%,0.6
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,3.7
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,120,Lorry/motorcycle,%,0.3
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,130,Van,%,1.9
+NTA10,Distribution of journeys,2024,2024,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,140,Other mode of transport n.e.c.,%,1.4
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,-,All modes of travel,%,100.0
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,21,Private car - driver/passenger,%,73.9
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,010,Private car - driver,%,10.5
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,020,Private car - passenger,%,63.4
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,030,Walk,%,13.6
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,040,Bus,%,4.1
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,050,Cycle,%,2.0
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,060,Rail/DART/Luas,%,1.4
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,070,Rail,%,0.9
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,071,DART,%,0.2
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,072,Luas,%,0.3
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,080,DART/Luas,%,0.5
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,090,Taxi/hackney,%,0.6
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,123,Lorry/motorcycle/van/other mode of transport n.e.c.,%,4.3
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,120,Lorry/motorcycle,%,0.3
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,130,Van,%,2.8
+NTA10,Distribution of journeys,2024,2024,IE0,Ireland,140,Other mode of transport n.e.c.,%,1.2

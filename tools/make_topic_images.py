@@ -174,12 +174,28 @@ def public_finances():
     return svg("".join(b), "A stack of coins and a euro banknote")
 
 
+def transport():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>',
+         f'<rect x="0" y="352" width="{W}" height="6" fill="#fff"/>']
+    # a bus and a bicycle on a road
+    b.append(f'<rect x="60" y="150" width="300" height="160" rx="18" fill="{BLUE}"/>'
+             f'<rect x="80" y="172" width="70" height="60" rx="6" fill="#fff" opacity=".9"/>'
+             f'<rect x="165" y="172" width="70" height="60" rx="6" fill="#fff" opacity=".9"/>'
+             f'<rect x="250" y="172" width="90" height="60" rx="6" fill="#fff" opacity=".9"/>'
+             f'<circle cx="130" cy="315" r="26" fill="{GREY}" stroke="#fff" stroke-width="5"/>'
+             f'<circle cx="290" cy="315" r="26" fill="{GREY}" stroke="#fff" stroke-width="5"/>')
+    b.append(f'<g fill="none" stroke="{ORANGE}" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">'
+             f'<circle cx="420" cy="300" r="38"/><circle cx="540" cy="300" r="38"/>'
+             f'<path d="M420 300L455 235H515L540 300M455 235L485 300H420M505 215H530M485 300L515 235"/></g>')
+    return svg("".join(b), "A bus and a bicycle on a road")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

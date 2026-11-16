@@ -1,0 +1,12 @@
+---
+title: "Public transport"
+description: "Passenger journeys by bus, rail and Luas."
+---
+
+More journeys are now made on public transport than before the pandemic. In 2025, Dublin city buses carried an average of 3.4 million passenger journeys a week, compared with 2.9 million in 2019. Luas carried 1.1 million a week, compared with 0.9 million. Journeys fell sharply in 2020 and 2021, during the pandemic, and were back to around their 2019 level by 2023.
+
+{{< chart transport-public-transport >}}
+
+There were 55.0 million rail journeys in 2025, the highest number in figures going back to 1981. Rail journeys fell below 18 million in 2020 and 2021, and passed their 2019 level of 50.1 million in 2024.
+
+{{< chart transport-rail-journeys >}}

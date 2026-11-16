@@ -1,0 +1,969 @@
+STATISTIC,STATISTIC Label,TLIST(A1),Year,C02172V02618,Type of Vehicle Registration,C01841V02268,Type of Fuel,UNIT,VALUE
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,-,All fuel types,Number,153850
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,1,Petrol,Number,35110
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,2,Diesel,Number,116623
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,3,Other fuel types,Number,6
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,4,Petrol and electric hybrid,Number,1402
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,6,Electric,Number,497
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,123
+TEA17,New Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,9,Diesel and electric hybrid,Number,89
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,-,All fuel types,Number,121110
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,1,Petrol,Number,32963
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,2,Diesel,Number,86103
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,3,Other fuel types,Number,6
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,4,Petrol and electric hybrid,Number,1354
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,6,Electric,Number,476
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,122
+TEA17,New Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,9,Diesel and electric hybrid,Number,86
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,-,All fuel types,Number,22939
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,1,Petrol,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,2,Diesel,Number,22924
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,6,Electric,Number,12
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,-,All fuel types,Number,1986
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,1,Petrol,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,2,Diesel,Number,1984
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,-,All fuel types,Number,1244
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,1,Petrol,Number,1237
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,2,Diesel,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,6,Electric,Number,5
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,-,All fuel types,Number,5234
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,1,Petrol,Number,896
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,2,Diesel,Number,4288
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,48
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,-,All fuel types,Number,761
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,1,Petrol,Number,5
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,2,Diesel,Number,753
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,-,All fuel types,Number,343
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,1,Petrol,Number,5
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,2,Diesel,Number,335
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,-,All fuel types,Number,418
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,2,Diesel,Number,418
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,-,All fuel types,Number,409
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,2,Diesel,Number,407
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,-,All fuel types,Number,167
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,1,Petrol,Number,5
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,2,Diesel,Number,162
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,-,All fuel types,Number,181293
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,1,Petrol,Number,42128
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,2,Diesel,Number,135892
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,4,Petrol and electric hybrid,Number,2571
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,6,Electric,Number,411
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,286
+TEA17,New Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,9,Diesel and electric hybrid,Number,4
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,-,All fuel types,Number,141931
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,1,Petrol,Number,39472
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,2,Diesel,Number,99306
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,4,Petrol and electric hybrid,Number,2474
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,6,Electric,Number,392
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,283
+TEA17,New Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,9,Diesel and electric hybrid,Number,4
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,-,All fuel types,Number,28051
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,1,Petrol,Number,4
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,2,Diesel,Number,28035
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,6,Electric,Number,10
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,-,All fuel types,Number,1934
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,1,Petrol,Number,7
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,2,Diesel,Number,1927
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,-,All fuel types,Number,1546
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,1,Petrol,Number,1539
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,2,Diesel,Number,1
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,4,Petrol and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,6,Electric,Number,5
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,-,All fuel types,Number,6207
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,1,Petrol,Number,1079
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,2,Diesel,Number,5035
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,89
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,6,Electric,Number,3
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,-,All fuel types,Number,957
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,1,Petrol,Number,21
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,2,Diesel,Number,929
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,7
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,-,All fuel types,Number,500
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,1,Petrol,Number,21
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,2,Diesel,Number,472
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,7
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,-,All fuel types,Number,457
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,2,Diesel,Number,457
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,-,All fuel types,Number,444
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,2,Diesel,Number,442
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,-,All fuel types,Number,223
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,1,Petrol,Number,6
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,2,Diesel,Number,217
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,-,All fuel types,Number,161840
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,1,Petrol,Number,41964
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,2,Diesel,Number,114461
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,3,Other fuel types,Number,3
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,4,Petrol and electric hybrid,Number,4486
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,6,Electric,Number,664
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,261
+TEA17,New Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,-,All fuel types,Number,127045
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,1,Petrol,Number,39391
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,2,Diesel,Number,82492
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,4,Petrol and electric hybrid,Number,4279
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,6,Electric,Number,623
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,259
+TEA17,New Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,-,All fuel types,Number,24101
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,1,Petrol,Number,11
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,2,Diesel,Number,24055
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,3,Other fuel types,Number,2
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,6,Electric,Number,32
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,-,All fuel types,Number,1810
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,1,Petrol,Number,10
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,2,Diesel,Number,1800
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,-,All fuel types,Number,1431
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,1,Petrol,Number,1413
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,2,Diesel,Number,2
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,4,Petrol and electric hybrid,Number,11
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,6,Electric,Number,4
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,-,All fuel types,Number,5854
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,1,Petrol,Number,1121
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,2,Diesel,Number,4551
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,179
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,-,All fuel types,Number,942
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,1,Petrol,Number,15
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,2,Diesel,Number,910
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,15
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,-,All fuel types,Number,505
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,1,Petrol,Number,15
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,2,Diesel,Number,473
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,15
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,-,All fuel types,Number,437
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,2,Diesel,Number,437
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,-,All fuel types,Number,424
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,2,Diesel,Number,422
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,-,All fuel types,Number,233
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,2,Diesel,Number,229
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,-,All fuel types,Number,157865
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,1,Petrol,Number,49778
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,2,Diesel,Number,99100
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,3,Other fuel types,Number,10
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,4,Petrol and electric hybrid,Number,6921
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,6,Electric,Number,1328
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,727
+TEA17,New Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,-,All fuel types,Number,121157
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,1,Petrol,Number,46776
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,2,Diesel,Number,65814
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,4,Petrol and electric hybrid,Number,6629
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,6,Electric,Number,1222
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,715
+TEA17,New Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,-,All fuel types,Number,25459
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,1,Petrol,Number,8
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,2,Diesel,Number,25372
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,3,Other fuel types,Number,10
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,6,Electric,Number,67
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,-,All fuel types,Number,2043
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,1,Petrol,Number,5
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,2,Diesel,Number,2038
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,-,All fuel types,Number,1556
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,1,Petrol,Number,1549
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,2,Diesel,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,6,Electric,Number,7
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,-,All fuel types,Number,5910
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,1,Petrol,Number,1416
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,2,Diesel,Number,4197
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,276
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,6,Electric,Number,11
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,10
+TEA17,New Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,-,All fuel types,Number,976
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,1,Petrol,Number,20
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,2,Diesel,Number,922
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,14
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,6,Electric,Number,20
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,-,All fuel types,Number,418
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,1,Petrol,Number,20
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,2,Diesel,Number,364
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,14
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,6,Electric,Number,20
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,-,All fuel types,Number,558
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,2,Diesel,Number,558
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,-,All fuel types,Number,472
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,2,Diesel,Number,471
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,-,All fuel types,Number,292
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,1,Petrol,Number,4
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,2,Diesel,Number,286
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,2
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,-,All fuel types,Number,149748
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,1,Petrol,Number,49132
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,2,Diesel,Number,85284
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,3,Other fuel types,Number,13
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,4,Petrol and electric hybrid,Number,10165
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,6,Electric,Number,3803
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1349
+TEA17,New Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,9,Diesel and electric hybrid,Number,2
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,-,All fuel types,Number,113305
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,1,Petrol,Number,45761
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,2,Diesel,Number,53201
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,4,Petrol and electric hybrid,Number,9578
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,6,Electric,Number,3443
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,1321
+TEA17,New Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,-,All fuel types,Number,24645
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,1,Petrol,Number,10
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,2,Diesel,Number,24327
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,3,Other fuel types,Number,10
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,6,Electric,Number,293
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,4
+TEA17,New Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,-,All fuel types,Number,2137
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,1,Petrol,Number,8
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,2,Diesel,Number,2129
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,-,All fuel types,Number,1848
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,1,Petrol,Number,1816
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,2,Diesel,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,6,Electric,Number,32
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,-,All fuel types,Number,5976
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,1,Petrol,Number,1531
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,2,Diesel,Number,3889
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,523
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,6,Electric,Number,11
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,22
+TEA17,New Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,-,All fuel types,Number,944
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,1,Petrol,Number,6
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,2,Diesel,Number,853
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,60
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,6,Electric,Number,23
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,-,All fuel types,Number,435
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,1,Petrol,Number,6
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,2,Diesel,Number,344
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,60
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,6,Electric,Number,23
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,-,All fuel types,Number,509
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,2,Diesel,Number,509
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,-,All fuel types,Number,547
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,2,Diesel,Number,544
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,3,Other fuel types,Number,2
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,-,All fuel types,Number,346
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,2,Diesel,Number,341
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,4
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,-,All fuel types,Number,116514
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,1,Petrol,Number,34586
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,2,Diesel,Number,64008
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,3,Other fuel types,Number,19
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,4,Petrol and electric hybrid,Number,10433
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,6,Electric,Number,4443
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,2496
+TEA17,New Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,9,Diesel and electric hybrid,Number,529
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,-,All fuel types,Number,84309
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,1,Petrol,Number,31507
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,2,Diesel,Number,36208
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,4,Petrol and electric hybrid,Number,9787
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,6,Electric,Number,3940
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,2402
+TEA17,New Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,9,Diesel and electric hybrid,Number,465
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,-,All fuel types,Number,21495
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,1,Petrol,Number,21
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,2,Diesel,Number,20977
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,3,Other fuel types,Number,19
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,6,Electric,Number,443
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,14
+TEA17,New Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,20
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,-,All fuel types,Number,2190
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,1,Petrol,Number,89
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,2,Diesel,Number,2101
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,-,All fuel types,Number,1709
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,1,Petrol,Number,1674
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,2,Diesel,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,6,Electric,Number,34
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,-,All fuel types,Number,5692
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,1,Petrol,Number,1288
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,2,Diesel,Number,3671
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,589
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,6,Electric,Number,22
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,78
+TEA17,New Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,44
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,-,All fuel types,Number,379
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,2,Diesel,Number,316
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,56
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,6,Electric,Number,3
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,-,All fuel types,Number,212
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,2,Diesel,Number,149
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,56
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,6,Electric,Number,3
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,-,All fuel types,Number,167
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,2,Diesel,Number,167
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,-,All fuel types,Number,415
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,1,Petrol,Number,1
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,2,Diesel,Number,413
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,-,All fuel types,Number,325
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,2,Diesel,Number,322
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,-,All fuel types,Number,142376
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,1,Petrol,Number,36472
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,2,Diesel,Number,68468
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,3,Other fuel types,Number,322
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,4,Petrol and electric hybrid,Number,16976
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,6,Electric,Number,9616
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,7995
+TEA17,New Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,9,Diesel and electric hybrid,Number,2527
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,-,All fuel types,Number,101853
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,1,Petrol,Number,32950
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,2,Diesel,Number,34396
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,3,Other fuel types,Number,292
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,4,Petrol and electric hybrid,Number,16027
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,6,Electric,Number,8554
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,7626
+TEA17,New Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,9,Diesel and electric hybrid,Number,2008
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,-,All fuel types,Number,28387
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,1,Petrol,Number,28
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,2,Diesel,Number,27258
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,3,Other fuel types,Number,23
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,7
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,6,Electric,Number,894
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,20
+TEA17,New Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,157
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,-,All fuel types,Number,2491
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,1,Petrol,Number,63
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,2,Diesel,Number,2428
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,-,All fuel types,Number,2335
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,1,Petrol,Number,2260
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,2,Diesel,Number,4
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,6,Electric,Number,66
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,5
+TEA17,New Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,-,All fuel types,Number,5604
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,1,Petrol,Number,1163
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,2,Diesel,Number,3002
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,3,Other fuel types,Number,5
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,911
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,6,Electric,Number,60
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,244
+TEA17,New Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,219
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,-,All fuel types,Number,630
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,1,Petrol,Number,1
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,2,Diesel,Number,311
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,3,Other fuel types,Number,2
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,31
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,6,Electric,Number,42
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,100
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,143
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,-,All fuel types,Number,156
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,1,Petrol,Number,1
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,2,Diesel,Number,79
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,31
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,6,Electric,Number,40
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,5
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,-,All fuel types,Number,474
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,2,Diesel,Number,232
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,3,Other fuel types,Number,2
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,100
+TEA17,New Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,138
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,-,All fuel types,Number,570
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,2,Diesel,Number,570
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,-,All fuel types,Number,506
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,1,Petrol,Number,7
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,2,Diesel,Number,499
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,-,All fuel types,Number,137248
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,1,Petrol,Number,34749
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,2,Diesel,Number,56370
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,3,Other fuel types,Number,751
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,4,Petrol and electric hybrid,Number,20259
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,6,Electric,Number,16268
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,7749
+TEA17,New Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,9,Diesel and electric hybrid,Number,1102
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,-,All fuel types,Number,101349
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,1,Petrol,Number,30627
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,2,Diesel,Number,27188
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,3,Other fuel types,Number,717
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,4,Petrol and electric hybrid,Number,19015
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,6,Electric,Number,15462
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,7447
+TEA17,New Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,9,Diesel and electric hybrid,Number,893
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,-,All fuel types,Number,23655
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,1,Petrol,Number,121
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,2,Diesel,Number,22974
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,3,Other fuel types,Number,25
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,15
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,6,Electric,Number,411
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,10
+TEA17,New Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,99
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,-,All fuel types,Number,2368
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,1,Petrol,Number,68
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,2,Diesel,Number,2299
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,-,All fuel types,Number,2871
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,1,Petrol,Number,2772
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,2,Diesel,Number,18
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,6,Electric,Number,81
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,-,All fuel types,Number,5534
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,1,Petrol,Number,1149
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,2,Diesel,Number,2590
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,3,Other fuel types,Number,8
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,1191
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,6,Electric,Number,241
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,291
+TEA17,New Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,64
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,-,All fuel types,Number,537
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,1,Petrol,Number,8
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,2,Diesel,Number,381
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,35
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,6,Electric,Number,68
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,44
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,-,All fuel types,Number,162
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,1,Petrol,Number,8
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,2,Diesel,Number,59
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,35
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,6,Electric,Number,57
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,2
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,-,All fuel types,Number,375
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,2,Diesel,Number,322
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,6,Electric,Number,11
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,42
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,-,All fuel types,Number,561
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,2,Diesel,Number,557
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,6,Electric,Number,3
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,-,All fuel types,Number,373
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,1,Petrol,Number,4
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,2,Diesel,Number,363
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,3
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,2
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,-,All fuel types,Number,159778
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,1,Petrol,Number,43287
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,2,Diesel,Number,60525
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,3,Other fuel types,Number,30
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,4,Petrol and electric hybrid,Number,19382
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,6,Electric,Number,23762
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,10348
+TEA17,New Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,9,Diesel and electric hybrid,Number,2444
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,-,All fuel types,Number,117424
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,1,Petrol,Number,38746
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,2,Diesel,Number,25938
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,3,Other fuel types,Number,5
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,4,Petrol and electric hybrid,Number,18026
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,6,Electric,Number,22493
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,9972
+TEA17,New Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,9,Diesel and electric hybrid,Number,2244
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,-,All fuel types,Number,29038
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,1,Petrol,Number,191
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,2,Diesel,Number,27986
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,3,Other fuel types,Number,24
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,40
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,6,Electric,Number,734
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,31
+TEA17,New Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,32
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,-,All fuel types,Number,2310
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,1,Petrol,Number,76
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,2,Diesel,Number,2232
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,6,Electric,Number,2
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,-,All fuel types,Number,2932
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,1,Petrol,Number,2862
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,2,Diesel,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,6,Electric,Number,70
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,-,All fuel types,Number,6225
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,1,Petrol,Number,1406
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,2,Diesel,Number,2685
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,1270
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,6,Electric,Number,372
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,335
+TEA17,New Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,157
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,-,All fuel types,Number,760
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,1,Petrol,Number,2
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,2,Diesel,Number,615
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,45
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,6,Electric,Number,82
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,9
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,7
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,-,All fuel types,Number,366
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,1,Petrol,Number,2
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,2,Diesel,Number,263
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,45
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,6,Electric,Number,42
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,9
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,5
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,-,All fuel types,Number,394
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,2,Diesel,Number,352
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,6,Electric,Number,40
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,2
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,-,All fuel types,Number,645
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,1,Petrol,Number,1
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,2,Diesel,Number,638
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,6,Electric,Number,5
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,-,All fuel types,Number,444
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,2,Diesel,Number,431
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,6,Electric,Number,4
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,4
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,-,All fuel types,Number,161095
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,1,Petrol,Number,40649
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,2,Diesel,Number,63008
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,3,Other fuel types,Number,67
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,4,Petrol and electric hybrid,Number,25649
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,6,Electric,Number,18715
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,11451
+TEA17,New Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,9,Diesel and electric hybrid,Number,1556
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,-,All fuel types,Number,116683
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,1,Petrol,Number,36433
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,2,Diesel,Number,26728
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,4,Petrol and electric hybrid,Number,23909
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,6,Electric,Number,17191
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,11060
+TEA17,New Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,9,Diesel and electric hybrid,Number,1361
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,-,All fuel types,Number,30802
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,1,Petrol,Number,180
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,2,Diesel,Number,29523
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,3,Other fuel types,Number,63
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,68
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,6,Electric,Number,871
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,23
+TEA17,New Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,74
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,-,All fuel types,Number,2131
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,1,Petrol,Number,88
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,2,Diesel,Number,2039
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,6,Electric,Number,3
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,-,All fuel types,Number,2760
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,1,Petrol,Number,2714
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,2,Diesel,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,6,Electric,Number,45
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,-,All fuel types,Number,6371
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,1,Petrol,Number,1230
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,2,Diesel,Number,2743
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,1608
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,6,Electric,Number,315
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,363
+TEA17,New Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,111
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,-,All fuel types,Number,1241
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,2,Diesel,Number,873
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,64
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,6,Electric,Number,289
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,5
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,7
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,-,All fuel types,Number,502
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,1,Petrol,Number,3
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,2,Diesel,Number,336
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,64
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,6,Electric,Number,87
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,5
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,7
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,-,All fuel types,Number,739
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,2,Diesel,Number,537
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,6,Electric,Number,202
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,-,All fuel types,Number,654
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,2,Diesel,Number,654
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,6,Electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,-,All fuel types,Number,453
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,1,Petrol,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,2,Diesel,Number,447
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,3
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,-,All fuel types,Number,167562
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,1,Petrol,Number,35287
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,2,Diesel,Number,57725
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,3,Other fuel types,Number,17
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,4,Petrol and electric hybrid,Number,27840
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,6,Electric,Number,25740
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,19361
+TEA17,New Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,9,Diesel and electric hybrid,Number,1592
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,-,All fuel types,Number,120797
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,1,Petrol,Number,31221
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,2,Diesel,Number,20562
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,4,Petrol and electric hybrid,Number,25917
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,6,Electric,Number,23398
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,7,Petrol or Diesel plug-in hybrid electric,Number,18237
+TEA17,New Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,9,Diesel and electric hybrid,Number,1462
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,-,All fuel types,Number,32223
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,1,Petrol,Number,150
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,2,Diesel,Number,29934
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,3,Other fuel types,Number,13
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,4,Petrol and electric hybrid,Number,103
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,6,Electric,Number,1796
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,218
+TEA17,New Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,9,Diesel and electric hybrid,Number,9
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,-,All fuel types,Number,2464
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,1,Petrol,Number,129
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,2,Diesel,Number,2329
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,3,Other fuel types,Number,3
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,6,Electric,Number,3
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,013,New Tractors,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,-,All fuel types,Number,2729
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,1,Petrol,Number,2683
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,2,Diesel,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,3,Other fuel types,Number,1
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,6,Electric,Number,45
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,-,All fuel types,Number,6575
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,1,Petrol,Number,1098
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,2,Diesel,Number,2569
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,4,Petrol and electric hybrid,Number,1752
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,6,Electric,Number,343
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,695
+TEA17,New Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,9,Diesel and electric hybrid,Number,118
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,-,All fuel types,Number,1568
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,1,Petrol,Number,6
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,2,Diesel,Number,1134
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,4,Petrol and electric hybrid,Number,67
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,6,Electric,Number,147
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,211
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,9,Diesel and electric hybrid,Number,3
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,-,All fuel types,Number,775
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,1,Petrol,Number,6
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,2,Diesel,Number,389
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,4,Petrol and electric hybrid,Number,67
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,6,Electric,Number,99
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,211
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,9,Diesel and electric hybrid,Number,3
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,-,All fuel types,Number,793
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,2,Diesel,Number,745
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,6,Electric,Number,48
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,-,All fuel types,Number,757
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,2,Diesel,Number,750
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,4,Petrol and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,6,Electric,Number,7
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,9,Diesel and electric hybrid,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,-,All fuel types,Number,449
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,1,Petrol,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,2,Diesel,Number,447
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,3,Other fuel types,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,4,Petrol and electric hybrid,Number,1
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,6,Electric,Number,1
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,7,Petrol or Diesel plug-in hybrid electric,Number,0
+TEA17,New Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,9,Diesel and electric hybrid,Number,0

@@ -31,4 +31,4 @@ Every county also has its own page, with its population and rents. [See the coun
 
 ## Topics on the way
 
-Childhood, energy, water and nature, infrastructure and transport, agriculture and food, defence, the diaspora, elections, and architecture and heritage. Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).
+Childhood, energy, water and nature, infrastructure, agriculture and food, defence, the diaspora, elections, and architecture and heritage. Suggestions for topics and datasets are welcome at [irelandbynumbers@proton.me](mailto:irelandbynumbers@proton.me).

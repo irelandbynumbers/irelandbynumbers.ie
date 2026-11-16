@@ -1,0 +1,17 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Road safety"
+  path: road-safety.qmd
+  image: ../images/charts/transport-road-deaths.png
+  description: "How many people are killed or seriously injured on the roads, and where."
+- title: "Walking, cycling and other ways to travel"
+  path: travel.qmd
+  image: ../images/charts/transport-travel-to-school.png
+  description: "How people travel to work and school, and how they make other journeys."
+- title: "Public transport"
+  path: public-transport.qmd
+  image: ../images/charts/transport-public-transport.png
+  description: "Passenger journeys by bus, rail and Luas."
+- title: "Cars"
+  path: cars.qmd
+  image: ../images/charts/transport-new-car-fuel.png
+  description: "New and imported cars, and how many are electric."

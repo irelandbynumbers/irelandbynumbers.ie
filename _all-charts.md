@@ -90,3 +90,18 @@
 - [Where the State's money comes from](/charts/public-finances-revenue.html). General government revenue by source, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-revenue.csv)
 - [What the State spends money on](/charts/public-finances-spending.html). General government spending by type, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-spending.csv)
 - [The three biggest taxes](/charts/public-finances-tax-trends.html). Revenue from income tax, corporation tax and VAT, € billion, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-tax-trends.csv)
+
+## [Transport](/transport/)
+
+- [Electric cars in Ireland and the EU](/charts/transport-electric-cars-eu.html). Fully electric cars as a share of new passenger cars registered, EU countries, 2024. *Central Statistics Office (CSO).* [CSV](/charts/transport-electric-cars-eu.csv)
+- [How people make their journeys](/charts/transport-journeys-by-mode.html). Share of all journeys by main mode of travel, 2024. *Central Statistics Office (CSO).* [CSV](/charts/transport-journeys-by-mode.csv)
+- [New cars by fuel type](/charts/transport-new-car-fuel.html). Share of new private cars licensed for the first time, by fuel, 2015 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-new-car-fuel.csv)
+- [New and imported used cars](/charts/transport-new-cars.html). Number of private cars licensed in Ireland for the first time, 1997 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-new-cars.csv)
+- [Public transport journeys each week](/charts/transport-public-transport.html). Passenger journeys per week by bus, rail and Luas, million, average of the last four weeks, 2019 to 2026. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-public-transport.csv)
+- [Rail journeys each year](/charts/transport-rail-journeys.html). Passenger journeys on Iarnród Éireann trains, including the DART, million, 1981 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-rail-journeys.csv)
+- [Deaths on Irish roads](/charts/transport-road-deaths.html). Number of people killed in road collisions each year, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-road-deaths.csv)
+- [Road deaths by type of road user](/charts/transport-road-deaths-by-user.html). Number of people killed in road collisions, by how they were travelling, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-road-deaths-by-user.csv)
+- [Road deaths by county](/charts/transport-road-deaths-map.html). Average number of people killed in road collisions each year per 100,000 people, by county, 2021 to 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-road-deaths-map.csv)
+- [People killed or seriously injured on the roads](/charts/transport-serious-injuries.html). Number of people killed or seriously injured in road collisions, for four types of road user, 2019 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-serious-injuries.csv)
+- [How pupils and students travel to school or college](/charts/transport-travel-to-school.html). Share of people aged 5 and over travelling to school or college, by main means of travel, census 2016 and 2022. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-travel-to-school.csv)
+- [How people travel to work](/charts/transport-travel-to-work.html). Share of people travelling to work, by main means of travel, census 2016 and 2022. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-travel-to-work.csv)

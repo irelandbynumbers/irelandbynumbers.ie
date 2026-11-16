@@ -11,3 +11,5 @@ At the 2022 census, 36% of people at work said they worked from home for at leas
 Among people who travelled to work, 69% went by car. Driving was least common in Dublin, at 52%, and most common in Leitrim, Roscommon and Clare, at between 78% and 80%.
 
 {{< chart economy-car-to-work-map >}}
+
+The [Transport](../transport/index.qmd) pages show how people travel to work and school across Ireland, how this changed between 2016 and 2022, and how many journeys are made by bus, rail and Luas.

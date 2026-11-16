@@ -1,0 +1,1237 @@
+STATISTIC,Statistic Label,TLIST(W1),Week,C03132V03784,Luas Line,UNIT,VALUE
+TII03C01,Passenger Journeys,2019W01,2019 Week 01,-,All Luas lines,Number,549533.0
+TII03C01,Passenger Journeys,2019W01,2019 Week 01,1,Red line,Number,274139.0
+TII03C01,Passenger Journeys,2019W01,2019 Week 01,2,Green line,Number,275394.0
+TII03C01,Passenger Journeys,2019W02,2019 Week 02,-,All Luas lines,Number,839022.0
+TII03C01,Passenger Journeys,2019W02,2019 Week 02,1,Red line,Number,408199.0
+TII03C01,Passenger Journeys,2019W02,2019 Week 02,2,Green line,Number,430823.0
+TII03C01,Passenger Journeys,2019W03,2019 Week 03,-,All Luas lines,Number,819359.0
+TII03C01,Passenger Journeys,2019W03,2019 Week 03,1,Red line,Number,376785.0
+TII03C01,Passenger Journeys,2019W03,2019 Week 03,2,Green line,Number,442574.0
+TII03C01,Passenger Journeys,2019W04,2019 Week 04,-,All Luas lines,Number,860745.0
+TII03C01,Passenger Journeys,2019W04,2019 Week 04,1,Red line,Number,405224.0
+TII03C01,Passenger Journeys,2019W04,2019 Week 04,2,Green line,Number,455521.0
+TII03C01,Passenger Journeys,2019W05,2019 Week 05,-,All Luas lines,Number,912795.0
+TII03C01,Passenger Journeys,2019W05,2019 Week 05,1,Red line,Number,441197.0
+TII03C01,Passenger Journeys,2019W05,2019 Week 05,2,Green line,Number,471598.0
+TII03C01,Passenger Journeys,2019W06,2019 Week 06,-,All Luas lines,Number,912612.0
+TII03C01,Passenger Journeys,2019W06,2019 Week 06,1,Red line,Number,449398.0
+TII03C01,Passenger Journeys,2019W06,2019 Week 06,2,Green line,Number,463215.0
+TII03C01,Passenger Journeys,2019W07,2019 Week 07,-,All Luas lines,Number,940476.0
+TII03C01,Passenger Journeys,2019W07,2019 Week 07,1,Red line,Number,466795.0
+TII03C01,Passenger Journeys,2019W07,2019 Week 07,2,Green line,Number,473682.0
+TII03C01,Passenger Journeys,2019W08,2019 Week 08,-,All Luas lines,Number,952291.0
+TII03C01,Passenger Journeys,2019W08,2019 Week 08,1,Red line,Number,480974.0
+TII03C01,Passenger Journeys,2019W08,2019 Week 08,2,Green line,Number,471317.0
+TII03C01,Passenger Journeys,2019W09,2019 Week 09,-,All Luas lines,Number,929391.0
+TII03C01,Passenger Journeys,2019W09,2019 Week 09,1,Red line,Number,468299.0
+TII03C01,Passenger Journeys,2019W09,2019 Week 09,2,Green line,Number,461093.0
+TII03C01,Passenger Journeys,2019W10,2019 Week 10,-,All Luas lines,Number,941919.0
+TII03C01,Passenger Journeys,2019W10,2019 Week 10,1,Red line,Number,475467.0
+TII03C01,Passenger Journeys,2019W10,2019 Week 10,2,Green line,Number,466451.0
+TII03C01,Passenger Journeys,2019W11,2019 Week 11,-,All Luas lines,Number,924998.0
+TII03C01,Passenger Journeys,2019W11,2019 Week 11,1,Red line,Number,442796.0
+TII03C01,Passenger Journeys,2019W11,2019 Week 11,2,Green line,Number,482201.0
+TII03C01,Passenger Journeys,2019W12,2019 Week 12,-,All Luas lines,Number,868205.0
+TII03C01,Passenger Journeys,2019W12,2019 Week 12,1,Red line,Number,440137.0
+TII03C01,Passenger Journeys,2019W12,2019 Week 12,2,Green line,Number,428068.0
+TII03C01,Passenger Journeys,2019W13,2019 Week 13,-,All Luas lines,Number,1003871.0
+TII03C01,Passenger Journeys,2019W13,2019 Week 13,1,Red line,Number,516298.0
+TII03C01,Passenger Journeys,2019W13,2019 Week 13,2,Green line,Number,487573.0
+TII03C01,Passenger Journeys,2019W14,2019 Week 14,-,All Luas lines,Number,933575.0
+TII03C01,Passenger Journeys,2019W14,2019 Week 14,1,Red line,Number,457616.0
+TII03C01,Passenger Journeys,2019W14,2019 Week 14,2,Green line,Number,475959.0
+TII03C01,Passenger Journeys,2019W15,2019 Week 15,-,All Luas lines,Number,945662.0
+TII03C01,Passenger Journeys,2019W15,2019 Week 15,1,Red line,Number,469346.0
+TII03C01,Passenger Journeys,2019W15,2019 Week 15,2,Green line,Number,476316.0
+TII03C01,Passenger Journeys,2019W16,2019 Week 16,-,All Luas lines,Number,842186.0
+TII03C01,Passenger Journeys,2019W16,2019 Week 16,1,Red line,Number,426377.0
+TII03C01,Passenger Journeys,2019W16,2019 Week 16,2,Green line,Number,415809.0
+TII03C01,Passenger Journeys,2019W17,2019 Week 17,-,All Luas lines,Number,801296.0
+TII03C01,Passenger Journeys,2019W17,2019 Week 17,1,Red line,Number,408238.0
+TII03C01,Passenger Journeys,2019W17,2019 Week 17,2,Green line,Number,393058.0
+TII03C01,Passenger Journeys,2019W18,2019 Week 18,-,All Luas lines,Number,919255.0
+TII03C01,Passenger Journeys,2019W18,2019 Week 18,1,Red line,Number,453764.0
+TII03C01,Passenger Journeys,2019W18,2019 Week 18,2,Green line,Number,465491.0
+TII03C01,Passenger Journeys,2019W19,2019 Week 19,-,All Luas lines,Number,817933.0
+TII03C01,Passenger Journeys,2019W19,2019 Week 19,1,Red line,Number,411312.0
+TII03C01,Passenger Journeys,2019W19,2019 Week 19,2,Green line,Number,406621.0
+TII03C01,Passenger Journeys,2019W20,2019 Week 20,-,All Luas lines,Number,904983.0
+TII03C01,Passenger Journeys,2019W20,2019 Week 20,1,Red line,Number,446595.0
+TII03C01,Passenger Journeys,2019W20,2019 Week 20,2,Green line,Number,458388.0
+TII03C01,Passenger Journeys,2019W21,2019 Week 21,-,All Luas lines,Number,902415.0
+TII03C01,Passenger Journeys,2019W21,2019 Week 21,1,Red line,Number,455929.0
+TII03C01,Passenger Journeys,2019W21,2019 Week 21,2,Green line,Number,446486.0
+TII03C01,Passenger Journeys,2019W22,2019 Week 22,-,All Luas lines,Number,973025.0
+TII03C01,Passenger Journeys,2019W22,2019 Week 22,1,Red line,Number,502622.0
+TII03C01,Passenger Journeys,2019W22,2019 Week 22,2,Green line,Number,470403.0
+TII03C01,Passenger Journeys,2019W23,2019 Week 23,-,All Luas lines,Number,826269.0
+TII03C01,Passenger Journeys,2019W23,2019 Week 23,1,Red line,Number,422419.0
+TII03C01,Passenger Journeys,2019W23,2019 Week 23,2,Green line,Number,403850.0
+TII03C01,Passenger Journeys,2019W24,2019 Week 24,-,All Luas lines,Number,925516.0
+TII03C01,Passenger Journeys,2019W24,2019 Week 24,1,Red line,Number,471816.0
+TII03C01,Passenger Journeys,2019W24,2019 Week 24,2,Green line,Number,453700.0
+TII03C01,Passenger Journeys,2019W25,2019 Week 25,-,All Luas lines,Number,883208.0
+TII03C01,Passenger Journeys,2019W25,2019 Week 25,1,Red line,Number,444675.0
+TII03C01,Passenger Journeys,2019W25,2019 Week 25,2,Green line,Number,438533.0
+TII03C01,Passenger Journeys,2019W26,2019 Week 26,-,All Luas lines,Number,905636.0
+TII03C01,Passenger Journeys,2019W26,2019 Week 26,1,Red line,Number,457342.0
+TII03C01,Passenger Journeys,2019W26,2019 Week 26,2,Green line,Number,448295.0
+TII03C01,Passenger Journeys,2019W27,2019 Week 27,-,All Luas lines,Number,982288.0
+TII03C01,Passenger Journeys,2019W27,2019 Week 27,1,Red line,Number,498818.0
+TII03C01,Passenger Journeys,2019W27,2019 Week 27,2,Green line,Number,483470.0
+TII03C01,Passenger Journeys,2019W28,2019 Week 28,-,All Luas lines,Number,919158.0
+TII03C01,Passenger Journeys,2019W28,2019 Week 28,1,Red line,Number,478360.0
+TII03C01,Passenger Journeys,2019W28,2019 Week 28,2,Green line,Number,440798.0
+TII03C01,Passenger Journeys,2019W29,2019 Week 29,-,All Luas lines,Number,903958.0
+TII03C01,Passenger Journeys,2019W29,2019 Week 29,1,Red line,Number,452205.0
+TII03C01,Passenger Journeys,2019W29,2019 Week 29,2,Green line,Number,451753.0
+TII03C01,Passenger Journeys,2019W30,2019 Week 30,-,All Luas lines,Number,926491.0
+TII03C01,Passenger Journeys,2019W30,2019 Week 30,1,Red line,Number,469191.0
+TII03C01,Passenger Journeys,2019W30,2019 Week 30,2,Green line,Number,457300.0
+TII03C01,Passenger Journeys,2019W31,2019 Week 31,-,All Luas lines,Number,832452.0
+TII03C01,Passenger Journeys,2019W31,2019 Week 31,1,Red line,Number,422939.0
+TII03C01,Passenger Journeys,2019W31,2019 Week 31,2,Green line,Number,409513.0
+TII03C01,Passenger Journeys,2019W32,2019 Week 32,-,All Luas lines,Number,807393.0
+TII03C01,Passenger Journeys,2019W32,2019 Week 32,1,Red line,Number,423004.0
+TII03C01,Passenger Journeys,2019W32,2019 Week 32,2,Green line,Number,384389.0
+TII03C01,Passenger Journeys,2019W33,2019 Week 33,-,All Luas lines,Number,868677.0
+TII03C01,Passenger Journeys,2019W33,2019 Week 33,1,Red line,Number,445915.0
+TII03C01,Passenger Journeys,2019W33,2019 Week 33,2,Green line,Number,422762.0
+TII03C01,Passenger Journeys,2019W34,2019 Week 34,-,All Luas lines,Number,862939.0
+TII03C01,Passenger Journeys,2019W34,2019 Week 34,1,Red line,Number,448568.0
+TII03C01,Passenger Journeys,2019W34,2019 Week 34,2,Green line,Number,414371.0
+TII03C01,Passenger Journeys,2019W35,2019 Week 35,-,All Luas lines,Number,897355.0
+TII03C01,Passenger Journeys,2019W35,2019 Week 35,1,Red line,Number,442634.0
+TII03C01,Passenger Journeys,2019W35,2019 Week 35,2,Green line,Number,454721.0
+TII03C01,Passenger Journeys,2019W36,2019 Week 36,-,All Luas lines,Number,933362.0
+TII03C01,Passenger Journeys,2019W36,2019 Week 36,1,Red line,Number,454849.0
+TII03C01,Passenger Journeys,2019W36,2019 Week 36,2,Green line,Number,478513.0
+TII03C01,Passenger Journeys,2019W37,2019 Week 37,-,All Luas lines,Number,969818.0
+TII03C01,Passenger Journeys,2019W37,2019 Week 37,1,Red line,Number,469489.0
+TII03C01,Passenger Journeys,2019W37,2019 Week 37,2,Green line,Number,500329.0
+TII03C01,Passenger Journeys,2019W38,2019 Week 38,-,All Luas lines,Number,990123.0
+TII03C01,Passenger Journeys,2019W38,2019 Week 38,1,Red line,Number,484461.0
+TII03C01,Passenger Journeys,2019W38,2019 Week 38,2,Green line,Number,505662.0
+TII03C01,Passenger Journeys,2019W39,2019 Week 39,-,All Luas lines,Number,1031937.0
+TII03C01,Passenger Journeys,2019W39,2019 Week 39,1,Red line,Number,515967.0
+TII03C01,Passenger Journeys,2019W39,2019 Week 39,2,Green line,Number,515970.0
+TII03C01,Passenger Journeys,2019W40,2019 Week 40,-,All Luas lines,Number,986159.0
+TII03C01,Passenger Journeys,2019W40,2019 Week 40,1,Red line,Number,484015.0
+TII03C01,Passenger Journeys,2019W40,2019 Week 40,2,Green line,Number,502144.0
+TII03C01,Passenger Journeys,2019W41,2019 Week 41,-,All Luas lines,Number,1054749.0
+TII03C01,Passenger Journeys,2019W41,2019 Week 41,1,Red line,Number,534986.0
+TII03C01,Passenger Journeys,2019W41,2019 Week 41,2,Green line,Number,519763.0
+TII03C01,Passenger Journeys,2019W42,2019 Week 42,-,All Luas lines,Number,1014017.0
+TII03C01,Passenger Journeys,2019W42,2019 Week 42,1,Red line,Number,499959.0
+TII03C01,Passenger Journeys,2019W42,2019 Week 42,2,Green line,Number,514057.0
+TII03C01,Passenger Journeys,2019W43,2019 Week 43,-,All Luas lines,Number,1028522.0
+TII03C01,Passenger Journeys,2019W43,2019 Week 43,1,Red line,Number,502241.0
+TII03C01,Passenger Journeys,2019W43,2019 Week 43,2,Green line,Number,526281.0
+TII03C01,Passenger Journeys,2019W44,2019 Week 44,-,All Luas lines,Number,924586.0
+TII03C01,Passenger Journeys,2019W44,2019 Week 44,1,Red line,Number,471553.0
+TII03C01,Passenger Journeys,2019W44,2019 Week 44,2,Green line,Number,453032.0
+TII03C01,Passenger Journeys,2019W45,2019 Week 45,-,All Luas lines,Number,1019705.0
+TII03C01,Passenger Journeys,2019W45,2019 Week 45,1,Red line,Number,497796.0
+TII03C01,Passenger Journeys,2019W45,2019 Week 45,2,Green line,Number,521908.0
+TII03C01,Passenger Journeys,2019W46,2019 Week 46,-,All Luas lines,Number,1038825.0
+TII03C01,Passenger Journeys,2019W46,2019 Week 46,1,Red line,Number,514523.0
+TII03C01,Passenger Journeys,2019W46,2019 Week 46,2,Green line,Number,524302.0
+TII03C01,Passenger Journeys,2019W47,2019 Week 47,-,All Luas lines,Number,1062275.0
+TII03C01,Passenger Journeys,2019W47,2019 Week 47,1,Red line,Number,530882.0
+TII03C01,Passenger Journeys,2019W47,2019 Week 47,2,Green line,Number,531392.0
+TII03C01,Passenger Journeys,2019W48,2019 Week 48,-,All Luas lines,Number,1113668.0
+TII03C01,Passenger Journeys,2019W48,2019 Week 48,1,Red line,Number,544022.0
+TII03C01,Passenger Journeys,2019W48,2019 Week 48,2,Green line,Number,569646.0
+TII03C01,Passenger Journeys,2019W49,2019 Week 49,-,All Luas lines,Number,1080791.0
+TII03C01,Passenger Journeys,2019W49,2019 Week 49,1,Red line,Number,519257.0
+TII03C01,Passenger Journeys,2019W49,2019 Week 49,2,Green line,Number,561534.0
+TII03C01,Passenger Journeys,2019W50,2019 Week 50,-,All Luas lines,Number,1151098.0
+TII03C01,Passenger Journeys,2019W50,2019 Week 50,1,Red line,Number,556229.0
+TII03C01,Passenger Journeys,2019W50,2019 Week 50,2,Green line,Number,594869.0
+TII03C01,Passenger Journeys,2019W51,2019 Week 51,-,All Luas lines,Number,1173473.0
+TII03C01,Passenger Journeys,2019W51,2019 Week 51,1,Red line,Number,550775.0
+TII03C01,Passenger Journeys,2019W51,2019 Week 51,2,Green line,Number,622699.0
+TII03C01,Passenger Journeys,2019W52,2019 Week 52,-,All Luas lines,Number,538511.0
+TII03C01,Passenger Journeys,2019W52,2019 Week 52,1,Red line,Number,259211.0
+TII03C01,Passenger Journeys,2019W52,2019 Week 52,2,Green line,Number,279301.0
+TII03C01,Passenger Journeys,2019W53,2019 Week 53,-,All Luas lines,Number,
+TII03C01,Passenger Journeys,2019W53,2019 Week 53,1,Red line,Number,
+TII03C01,Passenger Journeys,2019W53,2019 Week 53,2,Green line,Number,
+TII03C01,Passenger Journeys,2020W01,2020 Week 01,-,All Luas lines,Number,602998.0
+TII03C01,Passenger Journeys,2020W01,2020 Week 01,1,Red line,Number,304607.0
+TII03C01,Passenger Journeys,2020W01,2020 Week 01,2,Green line,Number,298391.0
+TII03C01,Passenger Journeys,2020W02,2020 Week 02,-,All Luas lines,Number,828455.0
+TII03C01,Passenger Journeys,2020W02,2020 Week 02,1,Red line,Number,401704.0
+TII03C01,Passenger Journeys,2020W02,2020 Week 02,2,Green line,Number,426751.0
+TII03C01,Passenger Journeys,2020W03,2020 Week 03,-,All Luas lines,Number,889804.0
+TII03C01,Passenger Journeys,2020W03,2020 Week 03,1,Red line,Number,436427.0
+TII03C01,Passenger Journeys,2020W03,2020 Week 03,2,Green line,Number,453378.0
+TII03C01,Passenger Journeys,2020W04,2020 Week 04,-,All Luas lines,Number,904841.0
+TII03C01,Passenger Journeys,2020W04,2020 Week 04,1,Red line,Number,438798.0
+TII03C01,Passenger Journeys,2020W04,2020 Week 04,2,Green line,Number,466044.0
+TII03C01,Passenger Journeys,2020W05,2020 Week 05,-,All Luas lines,Number,942828.0
+TII03C01,Passenger Journeys,2020W05,2020 Week 05,1,Red line,Number,460495.0
+TII03C01,Passenger Journeys,2020W05,2020 Week 05,2,Green line,Number,482333.0
+TII03C01,Passenger Journeys,2020W06,2020 Week 06,-,All Luas lines,Number,920121.0
+TII03C01,Passenger Journeys,2020W06,2020 Week 06,1,Red line,Number,460914.0
+TII03C01,Passenger Journeys,2020W06,2020 Week 06,2,Green line,Number,459207.0
+TII03C01,Passenger Journeys,2020W07,2020 Week 07,-,All Luas lines,Number,911461.0
+TII03C01,Passenger Journeys,2020W07,2020 Week 07,1,Red line,Number,448811.0
+TII03C01,Passenger Journeys,2020W07,2020 Week 07,2,Green line,Number,462651.0
+TII03C01,Passenger Journeys,2020W08,2020 Week 08,-,All Luas lines,Number,923869.0
+TII03C01,Passenger Journeys,2020W08,2020 Week 08,1,Red line,Number,461085.0
+TII03C01,Passenger Journeys,2020W08,2020 Week 08,2,Green line,Number,462784.0
+TII03C01,Passenger Journeys,2020W09,2020 Week 09,-,All Luas lines,Number,898856.0
+TII03C01,Passenger Journeys,2020W09,2020 Week 09,1,Red line,Number,437082.0
+TII03C01,Passenger Journeys,2020W09,2020 Week 09,2,Green line,Number,461774.0
+TII03C01,Passenger Journeys,2020W10,2020 Week 10,-,All Luas lines,Number,914613.0
+TII03C01,Passenger Journeys,2020W10,2020 Week 10,1,Red line,Number,472655.0
+TII03C01,Passenger Journeys,2020W10,2020 Week 10,2,Green line,Number,441958.0
+TII03C01,Passenger Journeys,2020W11,2020 Week 11,-,All Luas lines,Number,684508.0
+TII03C01,Passenger Journeys,2020W11,2020 Week 11,1,Red line,Number,347419.0
+TII03C01,Passenger Journeys,2020W11,2020 Week 11,2,Green line,Number,337090.0
+TII03C01,Passenger Journeys,2020W12,2020 Week 12,-,All Luas lines,Number,172062.0
+TII03C01,Passenger Journeys,2020W12,2020 Week 12,1,Red line,Number,94591.0
+TII03C01,Passenger Journeys,2020W12,2020 Week 12,2,Green line,Number,77471.0
+TII03C01,Passenger Journeys,2020W13,2020 Week 13,-,All Luas lines,Number,109378.0
+TII03C01,Passenger Journeys,2020W13,2020 Week 13,1,Red line,Number,64188.0
+TII03C01,Passenger Journeys,2020W13,2020 Week 13,2,Green line,Number,45190.0
+TII03C01,Passenger Journeys,2020W14,2020 Week 14,-,All Luas lines,Number,51655.0
+TII03C01,Passenger Journeys,2020W14,2020 Week 14,1,Red line,Number,30357.0
+TII03C01,Passenger Journeys,2020W14,2020 Week 14,2,Green line,Number,21298.0
+TII03C01,Passenger Journeys,2020W15,2020 Week 15,-,All Luas lines,Number,51695.0
+TII03C01,Passenger Journeys,2020W15,2020 Week 15,1,Red line,Number,31902.0
+TII03C01,Passenger Journeys,2020W15,2020 Week 15,2,Green line,Number,19793.0
+TII03C01,Passenger Journeys,2020W16,2020 Week 16,-,All Luas lines,Number,49393.0
+TII03C01,Passenger Journeys,2020W16,2020 Week 16,1,Red line,Number,29666.0
+TII03C01,Passenger Journeys,2020W16,2020 Week 16,2,Green line,Number,19727.0
+TII03C01,Passenger Journeys,2020W17,2020 Week 17,-,All Luas lines,Number,55246.0
+TII03C01,Passenger Journeys,2020W17,2020 Week 17,1,Red line,Number,33589.0
+TII03C01,Passenger Journeys,2020W17,2020 Week 17,2,Green line,Number,21657.0
+TII03C01,Passenger Journeys,2020W18,2020 Week 18,-,All Luas lines,Number,53321.0
+TII03C01,Passenger Journeys,2020W18,2020 Week 18,1,Red line,Number,30363.0
+TII03C01,Passenger Journeys,2020W18,2020 Week 18,2,Green line,Number,22958.0
+TII03C01,Passenger Journeys,2020W19,2020 Week 19,-,All Luas lines,Number,62327.0
+TII03C01,Passenger Journeys,2020W19,2020 Week 19,1,Red line,Number,37373.0
+TII03C01,Passenger Journeys,2020W19,2020 Week 19,2,Green line,Number,24953.0
+TII03C01,Passenger Journeys,2020W20,2020 Week 20,-,All Luas lines,Number,70288.0
+TII03C01,Passenger Journeys,2020W20,2020 Week 20,1,Red line,Number,42233.0
+TII03C01,Passenger Journeys,2020W20,2020 Week 20,2,Green line,Number,28056.0
+TII03C01,Passenger Journeys,2020W21,2020 Week 21,-,All Luas lines,Number,97318.0
+TII03C01,Passenger Journeys,2020W21,2020 Week 21,1,Red line,Number,57828.0
+TII03C01,Passenger Journeys,2020W21,2020 Week 21,2,Green line,Number,39490.0
+TII03C01,Passenger Journeys,2020W22,2020 Week 22,-,All Luas lines,Number,121645.0
+TII03C01,Passenger Journeys,2020W22,2020 Week 22,1,Red line,Number,70711.0
+TII03C01,Passenger Journeys,2020W22,2020 Week 22,2,Green line,Number,50934.0
+TII03C01,Passenger Journeys,2020W23,2020 Week 23,-,All Luas lines,Number,116454.0
+TII03C01,Passenger Journeys,2020W23,2020 Week 23,1,Red line,Number,66098.0
+TII03C01,Passenger Journeys,2020W23,2020 Week 23,2,Green line,Number,50356.0
+TII03C01,Passenger Journeys,2020W24,2020 Week 24,-,All Luas lines,Number,162187.0
+TII03C01,Passenger Journeys,2020W24,2020 Week 24,1,Red line,Number,91498.0
+TII03C01,Passenger Journeys,2020W24,2020 Week 24,2,Green line,Number,70689.0
+TII03C01,Passenger Journeys,2020W25,2020 Week 25,-,All Luas lines,Number,198036.0
+TII03C01,Passenger Journeys,2020W25,2020 Week 25,1,Red line,Number,104738.0
+TII03C01,Passenger Journeys,2020W25,2020 Week 25,2,Green line,Number,93298.0
+TII03C01,Passenger Journeys,2020W26,2020 Week 26,-,All Luas lines,Number,212109.0
+TII03C01,Passenger Journeys,2020W26,2020 Week 26,1,Red line,Number,111503.0
+TII03C01,Passenger Journeys,2020W26,2020 Week 26,2,Green line,Number,100606.0
+TII03C01,Passenger Journeys,2020W27,2020 Week 27,-,All Luas lines,Number,260302.0
+TII03C01,Passenger Journeys,2020W27,2020 Week 27,1,Red line,Number,132545.0
+TII03C01,Passenger Journeys,2020W27,2020 Week 27,2,Green line,Number,127756.0
+TII03C01,Passenger Journeys,2020W28,2020 Week 28,-,All Luas lines,Number,272181.0
+TII03C01,Passenger Journeys,2020W28,2020 Week 28,1,Red line,Number,144676.0
+TII03C01,Passenger Journeys,2020W28,2020 Week 28,2,Green line,Number,127505.0
+TII03C01,Passenger Journeys,2020W29,2020 Week 29,-,All Luas lines,Number,281255.0
+TII03C01,Passenger Journeys,2020W29,2020 Week 29,1,Red line,Number,147109.0
+TII03C01,Passenger Journeys,2020W29,2020 Week 29,2,Green line,Number,134146.0
+TII03C01,Passenger Journeys,2020W30,2020 Week 30,-,All Luas lines,Number,299837.0
+TII03C01,Passenger Journeys,2020W30,2020 Week 30,1,Red line,Number,153043.0
+TII03C01,Passenger Journeys,2020W30,2020 Week 30,2,Green line,Number,146794.0
+TII03C01,Passenger Journeys,2020W31,2020 Week 31,-,All Luas lines,Number,329979.0
+TII03C01,Passenger Journeys,2020W31,2020 Week 31,1,Red line,Number,175329.0
+TII03C01,Passenger Journeys,2020W31,2020 Week 31,2,Green line,Number,154650.0
+TII03C01,Passenger Journeys,2020W32,2020 Week 32,-,All Luas lines,Number,324687.0
+TII03C01,Passenger Journeys,2020W32,2020 Week 32,1,Red line,Number,173546.0
+TII03C01,Passenger Journeys,2020W32,2020 Week 32,2,Green line,Number,151141.0
+TII03C01,Passenger Journeys,2020W33,2020 Week 33,-,All Luas lines,Number,327981.0
+TII03C01,Passenger Journeys,2020W33,2020 Week 33,1,Red line,Number,166560.0
+TII03C01,Passenger Journeys,2020W33,2020 Week 33,2,Green line,Number,161421.0
+TII03C01,Passenger Journeys,2020W34,2020 Week 34,-,All Luas lines,Number,332762.0
+TII03C01,Passenger Journeys,2020W34,2020 Week 34,1,Red line,Number,176256.0
+TII03C01,Passenger Journeys,2020W34,2020 Week 34,2,Green line,Number,156507.0
+TII03C01,Passenger Journeys,2020W35,2020 Week 35,-,All Luas lines,Number,352046.0
+TII03C01,Passenger Journeys,2020W35,2020 Week 35,1,Red line,Number,183972.0
+TII03C01,Passenger Journeys,2020W35,2020 Week 35,2,Green line,Number,168074.0
+TII03C01,Passenger Journeys,2020W36,2020 Week 36,-,All Luas lines,Number,364177.0
+TII03C01,Passenger Journeys,2020W36,2020 Week 36,1,Red line,Number,181996.0
+TII03C01,Passenger Journeys,2020W36,2020 Week 36,2,Green line,Number,182181.0
+TII03C01,Passenger Journeys,2020W37,2020 Week 37,-,All Luas lines,Number,385884.0
+TII03C01,Passenger Journeys,2020W37,2020 Week 37,1,Red line,Number,196461.0
+TII03C01,Passenger Journeys,2020W37,2020 Week 37,2,Green line,Number,189424.0
+TII03C01,Passenger Journeys,2020W38,2020 Week 38,-,All Luas lines,Number,359756.0
+TII03C01,Passenger Journeys,2020W38,2020 Week 38,1,Red line,Number,183897.0
+TII03C01,Passenger Journeys,2020W38,2020 Week 38,2,Green line,Number,175859.0
+TII03C01,Passenger Journeys,2020W39,2020 Week 39,-,All Luas lines,Number,322384.0
+TII03C01,Passenger Journeys,2020W39,2020 Week 39,1,Red line,Number,158777.0
+TII03C01,Passenger Journeys,2020W39,2020 Week 39,2,Green line,Number,163607.0
+TII03C01,Passenger Journeys,2020W40,2020 Week 40,-,All Luas lines,Number,334649.0
+TII03C01,Passenger Journeys,2020W40,2020 Week 40,1,Red line,Number,167616.0
+TII03C01,Passenger Journeys,2020W40,2020 Week 40,2,Green line,Number,167033.0
+TII03C01,Passenger Journeys,2020W41,2020 Week 41,-,All Luas lines,Number,350028.0
+TII03C01,Passenger Journeys,2020W41,2020 Week 41,1,Red line,Number,174748.0
+TII03C01,Passenger Journeys,2020W41,2020 Week 41,2,Green line,Number,175280.0
+TII03C01,Passenger Journeys,2020W42,2020 Week 42,-,All Luas lines,Number,338183.0
+TII03C01,Passenger Journeys,2020W42,2020 Week 42,1,Red line,Number,164088.0
+TII03C01,Passenger Journeys,2020W42,2020 Week 42,2,Green line,Number,174095.0
+TII03C01,Passenger Journeys,2020W43,2020 Week 43,-,All Luas lines,Number,283638.0
+TII03C01,Passenger Journeys,2020W43,2020 Week 43,1,Red line,Number,145295.0
+TII03C01,Passenger Journeys,2020W43,2020 Week 43,2,Green line,Number,138343.0
+TII03C01,Passenger Journeys,2020W44,2020 Week 44,-,All Luas lines,Number,186287.0
+TII03C01,Passenger Journeys,2020W44,2020 Week 44,1,Red line,Number,102521.0
+TII03C01,Passenger Journeys,2020W44,2020 Week 44,2,Green line,Number,83766.0
+TII03C01,Passenger Journeys,2020W45,2020 Week 45,-,All Luas lines,Number,227605.0
+TII03C01,Passenger Journeys,2020W45,2020 Week 45,1,Red line,Number,118170.0
+TII03C01,Passenger Journeys,2020W45,2020 Week 45,2,Green line,Number,109435.0
+TII03C01,Passenger Journeys,2020W46,2020 Week 46,-,All Luas lines,Number,237979.0
+TII03C01,Passenger Journeys,2020W46,2020 Week 46,1,Red line,Number,124527.0
+TII03C01,Passenger Journeys,2020W46,2020 Week 46,2,Green line,Number,113452.0
+TII03C01,Passenger Journeys,2020W47,2020 Week 47,-,All Luas lines,Number,244276.0
+TII03C01,Passenger Journeys,2020W47,2020 Week 47,1,Red line,Number,129443.0
+TII03C01,Passenger Journeys,2020W47,2020 Week 47,2,Green line,Number,114833.0
+TII03C01,Passenger Journeys,2020W48,2020 Week 48,-,All Luas lines,Number,259772.0
+TII03C01,Passenger Journeys,2020W48,2020 Week 48,1,Red line,Number,133829.0
+TII03C01,Passenger Journeys,2020W48,2020 Week 48,2,Green line,Number,125944.0
+TII03C01,Passenger Journeys,2020W49,2020 Week 49,-,All Luas lines,Number,394613.0
+TII03C01,Passenger Journeys,2020W49,2020 Week 49,1,Red line,Number,195204.0
+TII03C01,Passenger Journeys,2020W49,2020 Week 49,2,Green line,Number,199409.0
+TII03C01,Passenger Journeys,2020W50,2020 Week 50,-,All Luas lines,Number,443719.0
+TII03C01,Passenger Journeys,2020W50,2020 Week 50,1,Red line,Number,214437.0
+TII03C01,Passenger Journeys,2020W50,2020 Week 50,2,Green line,Number,229282.0
+TII03C01,Passenger Journeys,2020W51,2020 Week 51,-,All Luas lines,Number,460029.0
+TII03C01,Passenger Journeys,2020W51,2020 Week 51,1,Red line,Number,223291.0
+TII03C01,Passenger Journeys,2020W51,2020 Week 51,2,Green line,Number,236739.0
+TII03C01,Passenger Journeys,2020W52,2020 Week 52,-,All Luas lines,Number,276844.0
+TII03C01,Passenger Journeys,2020W52,2020 Week 52,1,Red line,Number,135020.0
+TII03C01,Passenger Journeys,2020W52,2020 Week 52,2,Green line,Number,141825.0
+TII03C01,Passenger Journeys,2020W53,2020 Week 53,-,All Luas lines,Number,141651.0
+TII03C01,Passenger Journeys,2020W53,2020 Week 53,1,Red line,Number,71440.0
+TII03C01,Passenger Journeys,2020W53,2020 Week 53,2,Green line,Number,70211.0
+TII03C01,Passenger Journeys,2021W01,2021 Week 01,-,All Luas lines,Number,154882.0
+TII03C01,Passenger Journeys,2021W01,2021 Week 01,1,Red line,Number,86518.0
+TII03C01,Passenger Journeys,2021W01,2021 Week 01,2,Green line,Number,68364.0
+TII03C01,Passenger Journeys,2021W02,2021 Week 02,-,All Luas lines,Number,147908.0
+TII03C01,Passenger Journeys,2021W02,2021 Week 02,1,Red line,Number,83202.0
+TII03C01,Passenger Journeys,2021W02,2021 Week 02,2,Green line,Number,64705.0
+TII03C01,Passenger Journeys,2021W03,2021 Week 03,-,All Luas lines,Number,150280.0
+TII03C01,Passenger Journeys,2021W03,2021 Week 03,1,Red line,Number,84576.0
+TII03C01,Passenger Journeys,2021W03,2021 Week 03,2,Green line,Number,65704.0
+TII03C01,Passenger Journeys,2021W04,2021 Week 04,-,All Luas lines,Number,148633.0
+TII03C01,Passenger Journeys,2021W04,2021 Week 04,1,Red line,Number,84355.0
+TII03C01,Passenger Journeys,2021W04,2021 Week 04,2,Green line,Number,64278.0
+TII03C01,Passenger Journeys,2021W05,2021 Week 05,-,All Luas lines,Number,156469.0
+TII03C01,Passenger Journeys,2021W05,2021 Week 05,1,Red line,Number,87285.0
+TII03C01,Passenger Journeys,2021W05,2021 Week 05,2,Green line,Number,69184.0
+TII03C01,Passenger Journeys,2021W06,2021 Week 06,-,All Luas lines,Number,154595.0
+TII03C01,Passenger Journeys,2021W06,2021 Week 06,1,Red line,Number,86266.0
+TII03C01,Passenger Journeys,2021W06,2021 Week 06,2,Green line,Number,68329.0
+TII03C01,Passenger Journeys,2021W07,2021 Week 07,-,All Luas lines,Number,158958.0
+TII03C01,Passenger Journeys,2021W07,2021 Week 07,1,Red line,Number,85601.0
+TII03C01,Passenger Journeys,2021W07,2021 Week 07,2,Green line,Number,73357.0
+TII03C01,Passenger Journeys,2021W08,2021 Week 08,-,All Luas lines,Number,173458.0
+TII03C01,Passenger Journeys,2021W08,2021 Week 08,1,Red line,Number,95896.0
+TII03C01,Passenger Journeys,2021W08,2021 Week 08,2,Green line,Number,77563.0
+TII03C01,Passenger Journeys,2021W09,2021 Week 09,-,All Luas lines,Number,182546.0
+TII03C01,Passenger Journeys,2021W09,2021 Week 09,1,Red line,Number,99907.0
+TII03C01,Passenger Journeys,2021W09,2021 Week 09,2,Green line,Number,82639.0
+TII03C01,Passenger Journeys,2021W10,2021 Week 10,-,All Luas lines,Number,182343.0
+TII03C01,Passenger Journeys,2021W10,2021 Week 10,1,Red line,Number,100098.0
+TII03C01,Passenger Journeys,2021W10,2021 Week 10,2,Green line,Number,82245.0
+TII03C01,Passenger Journeys,2021W11,2021 Week 11,-,All Luas lines,Number,184592.0
+TII03C01,Passenger Journeys,2021W11,2021 Week 11,1,Red line,Number,97816.0
+TII03C01,Passenger Journeys,2021W11,2021 Week 11,2,Green line,Number,86775.0
+TII03C01,Passenger Journeys,2021W12,2021 Week 12,-,All Luas lines,Number,194458.0
+TII03C01,Passenger Journeys,2021W12,2021 Week 12,1,Red line,Number,103504.0
+TII03C01,Passenger Journeys,2021W12,2021 Week 12,2,Green line,Number,90954.0
+TII03C01,Passenger Journeys,2021W13,2021 Week 13,-,All Luas lines,Number,193222.0
+TII03C01,Passenger Journeys,2021W13,2021 Week 13,1,Red line,Number,104351.0
+TII03C01,Passenger Journeys,2021W13,2021 Week 13,2,Green line,Number,88872.0
+TII03C01,Passenger Journeys,2021W14,2021 Week 14,-,All Luas lines,Number,175429.0
+TII03C01,Passenger Journeys,2021W14,2021 Week 14,1,Red line,Number,94942.0
+TII03C01,Passenger Journeys,2021W14,2021 Week 14,2,Green line,Number,80488.0
+TII03C01,Passenger Journeys,2021W15,2021 Week 15,-,All Luas lines,Number,232495.0
+TII03C01,Passenger Journeys,2021W15,2021 Week 15,1,Red line,Number,118595.0
+TII03C01,Passenger Journeys,2021W15,2021 Week 15,2,Green line,Number,113900.0
+TII03C01,Passenger Journeys,2021W16,2021 Week 16,-,All Luas lines,Number,240221.0
+TII03C01,Passenger Journeys,2021W16,2021 Week 16,1,Red line,Number,126802.0
+TII03C01,Passenger Journeys,2021W16,2021 Week 16,2,Green line,Number,113419.0
+TII03C01,Passenger Journeys,2021W17,2021 Week 17,-,All Luas lines,Number,237120.0
+TII03C01,Passenger Journeys,2021W17,2021 Week 17,1,Red line,Number,125669.0
+TII03C01,Passenger Journeys,2021W17,2021 Week 17,2,Green line,Number,111451.0
+TII03C01,Passenger Journeys,2021W18,2021 Week 18,-,All Luas lines,Number,216926.0
+TII03C01,Passenger Journeys,2021W18,2021 Week 18,1,Red line,Number,112233.0
+TII03C01,Passenger Journeys,2021W18,2021 Week 18,2,Green line,Number,104694.0
+TII03C01,Passenger Journeys,2021W19,2021 Week 19,-,All Luas lines,Number,304059.0
+TII03C01,Passenger Journeys,2021W19,2021 Week 19,1,Red line,Number,157788.0
+TII03C01,Passenger Journeys,2021W19,2021 Week 19,2,Green line,Number,146271.0
+TII03C01,Passenger Journeys,2021W20,2021 Week 20,-,All Luas lines,Number,356075.0
+TII03C01,Passenger Journeys,2021W20,2021 Week 20,1,Red line,Number,181324.0
+TII03C01,Passenger Journeys,2021W20,2021 Week 20,2,Green line,Number,174751.0
+TII03C01,Passenger Journeys,2021W21,2021 Week 21,-,All Luas lines,Number,388279.0
+TII03C01,Passenger Journeys,2021W21,2021 Week 21,1,Red line,Number,202202.0
+TII03C01,Passenger Journeys,2021W21,2021 Week 21,2,Green line,Number,186077.0
+TII03C01,Passenger Journeys,2021W22,2021 Week 22,-,All Luas lines,Number,381468.0
+TII03C01,Passenger Journeys,2021W22,2021 Week 22,1,Red line,Number,210560.0
+TII03C01,Passenger Journeys,2021W22,2021 Week 22,2,Green line,Number,170908.0
+TII03C01,Passenger Journeys,2021W23,2021 Week 23,-,All Luas lines,Number,376282.0
+TII03C01,Passenger Journeys,2021W23,2021 Week 23,1,Red line,Number,196288.0
+TII03C01,Passenger Journeys,2021W23,2021 Week 23,2,Green line,Number,179995.0
+TII03C01,Passenger Journeys,2021W24,2021 Week 24,-,All Luas lines,Number,414980.0
+TII03C01,Passenger Journeys,2021W24,2021 Week 24,1,Red line,Number,219396.0
+TII03C01,Passenger Journeys,2021W24,2021 Week 24,2,Green line,Number,195584.0
+TII03C01,Passenger Journeys,2021W25,2021 Week 25,-,All Luas lines,Number,413187.0
+TII03C01,Passenger Journeys,2021W25,2021 Week 25,1,Red line,Number,218088.0
+TII03C01,Passenger Journeys,2021W25,2021 Week 25,2,Green line,Number,195099.0
+TII03C01,Passenger Journeys,2021W26,2021 Week 26,-,All Luas lines,Number,408603.0
+TII03C01,Passenger Journeys,2021W26,2021 Week 26,1,Red line,Number,218863.0
+TII03C01,Passenger Journeys,2021W26,2021 Week 26,2,Green line,Number,189741.0
+TII03C01,Passenger Journeys,2021W27,2021 Week 27,-,All Luas lines,Number,403259.0
+TII03C01,Passenger Journeys,2021W27,2021 Week 27,1,Red line,Number,216285.0
+TII03C01,Passenger Journeys,2021W27,2021 Week 27,2,Green line,Number,186974.0
+TII03C01,Passenger Journeys,2021W28,2021 Week 28,-,All Luas lines,Number,417819.0
+TII03C01,Passenger Journeys,2021W28,2021 Week 28,1,Red line,Number,225848.0
+TII03C01,Passenger Journeys,2021W28,2021 Week 28,2,Green line,Number,191971.0
+TII03C01,Passenger Journeys,2021W29,2021 Week 29,-,All Luas lines,Number,416359.0
+TII03C01,Passenger Journeys,2021W29,2021 Week 29,1,Red line,Number,228641.0
+TII03C01,Passenger Journeys,2021W29,2021 Week 29,2,Green line,Number,187718.0
+TII03C01,Passenger Journeys,2021W30,2021 Week 30,-,All Luas lines,Number,391588.0
+TII03C01,Passenger Journeys,2021W30,2021 Week 30,1,Red line,Number,201734.0
+TII03C01,Passenger Journeys,2021W30,2021 Week 30,2,Green line,Number,189854.0
+TII03C01,Passenger Journeys,2021W31,2021 Week 31,-,All Luas lines,Number,386208.0
+TII03C01,Passenger Journeys,2021W31,2021 Week 31,1,Red line,Number,203388.0
+TII03C01,Passenger Journeys,2021W31,2021 Week 31,2,Green line,Number,182820.0
+TII03C01,Passenger Journeys,2021W32,2021 Week 32,-,All Luas lines,Number,430283.0
+TII03C01,Passenger Journeys,2021W32,2021 Week 32,1,Red line,Number,231872.0
+TII03C01,Passenger Journeys,2021W32,2021 Week 32,2,Green line,Number,198411.0
+TII03C01,Passenger Journeys,2021W33,2021 Week 33,-,All Luas lines,Number,441304.0
+TII03C01,Passenger Journeys,2021W33,2021 Week 33,1,Red line,Number,235705.0
+TII03C01,Passenger Journeys,2021W33,2021 Week 33,2,Green line,Number,205599.0
+TII03C01,Passenger Journeys,2021W34,2021 Week 34,-,All Luas lines,Number,462372.0
+TII03C01,Passenger Journeys,2021W34,2021 Week 34,1,Red line,Number,239564.0
+TII03C01,Passenger Journeys,2021W34,2021 Week 34,2,Green line,Number,222808.0
+TII03C01,Passenger Journeys,2021W35,2021 Week 35,-,All Luas lines,Number,456687.0
+TII03C01,Passenger Journeys,2021W35,2021 Week 35,1,Red line,Number,230456.0
+TII03C01,Passenger Journeys,2021W35,2021 Week 35,2,Green line,Number,226231.0
+TII03C01,Passenger Journeys,2021W36,2021 Week 36,-,All Luas lines,Number,490349.0
+TII03C01,Passenger Journeys,2021W36,2021 Week 36,1,Red line,Number,245380.0
+TII03C01,Passenger Journeys,2021W36,2021 Week 36,2,Green line,Number,244968.0
+TII03C01,Passenger Journeys,2021W37,2021 Week 37,-,All Luas lines,Number,505786.0
+TII03C01,Passenger Journeys,2021W37,2021 Week 37,1,Red line,Number,249168.0
+TII03C01,Passenger Journeys,2021W37,2021 Week 37,2,Green line,Number,256618.0
+TII03C01,Passenger Journeys,2021W38,2021 Week 38,-,All Luas lines,Number,552233.0
+TII03C01,Passenger Journeys,2021W38,2021 Week 38,1,Red line,Number,268040.0
+TII03C01,Passenger Journeys,2021W38,2021 Week 38,2,Green line,Number,284193.0
+TII03C01,Passenger Journeys,2021W39,2021 Week 39,-,All Luas lines,Number,551254.0
+TII03C01,Passenger Journeys,2021W39,2021 Week 39,1,Red line,Number,270932.0
+TII03C01,Passenger Journeys,2021W39,2021 Week 39,2,Green line,Number,280322.0
+TII03C01,Passenger Journeys,2021W40,2021 Week 40,-,All Luas lines,Number,592664.0
+TII03C01,Passenger Journeys,2021W40,2021 Week 40,1,Red line,Number,290380.0
+TII03C01,Passenger Journeys,2021W40,2021 Week 40,2,Green line,Number,302283.0
+TII03C01,Passenger Journeys,2021W41,2021 Week 41,-,All Luas lines,Number,575688.0
+TII03C01,Passenger Journeys,2021W41,2021 Week 41,1,Red line,Number,262502.0
+TII03C01,Passenger Journeys,2021W41,2021 Week 41,2,Green line,Number,313186.0
+TII03C01,Passenger Journeys,2021W42,2021 Week 42,-,All Luas lines,Number,606775.0
+TII03C01,Passenger Journeys,2021W42,2021 Week 42,1,Red line,Number,301424.0
+TII03C01,Passenger Journeys,2021W42,2021 Week 42,2,Green line,Number,305350.0
+TII03C01,Passenger Journeys,2021W43,2021 Week 43,-,All Luas lines,Number,546048.0
+TII03C01,Passenger Journeys,2021W43,2021 Week 43,1,Red line,Number,279174.0
+TII03C01,Passenger Journeys,2021W43,2021 Week 43,2,Green line,Number,266874.0
+TII03C01,Passenger Journeys,2021W44,2021 Week 44,-,All Luas lines,Number,616810.0
+TII03C01,Passenger Journeys,2021W44,2021 Week 44,1,Red line,Number,308166.0
+TII03C01,Passenger Journeys,2021W44,2021 Week 44,2,Green line,Number,308644.0
+TII03C01,Passenger Journeys,2021W45,2021 Week 45,-,All Luas lines,Number,630247.0
+TII03C01,Passenger Journeys,2021W45,2021 Week 45,1,Red line,Number,310262.0
+TII03C01,Passenger Journeys,2021W45,2021 Week 45,2,Green line,Number,319985.0
+TII03C01,Passenger Journeys,2021W46,2021 Week 46,-,All Luas lines,Number,617761.0
+TII03C01,Passenger Journeys,2021W46,2021 Week 46,1,Red line,Number,306977.0
+TII03C01,Passenger Journeys,2021W46,2021 Week 46,2,Green line,Number,310783.0
+TII03C01,Passenger Journeys,2021W47,2021 Week 47,-,All Luas lines,Number,613392.0
+TII03C01,Passenger Journeys,2021W47,2021 Week 47,1,Red line,Number,309178.0
+TII03C01,Passenger Journeys,2021W47,2021 Week 47,2,Green line,Number,304214.0
+TII03C01,Passenger Journeys,2021W48,2021 Week 48,-,All Luas lines,Number,597259.0
+TII03C01,Passenger Journeys,2021W48,2021 Week 48,1,Red line,Number,300053.0
+TII03C01,Passenger Journeys,2021W48,2021 Week 48,2,Green line,Number,297205.0
+TII03C01,Passenger Journeys,2021W49,2021 Week 49,-,All Luas lines,Number,550174.0
+TII03C01,Passenger Journeys,2021W49,2021 Week 49,1,Red line,Number,281430.0
+TII03C01,Passenger Journeys,2021W49,2021 Week 49,2,Green line,Number,268744.0
+TII03C01,Passenger Journeys,2021W50,2021 Week 50,-,All Luas lines,Number,649573.0
+TII03C01,Passenger Journeys,2021W50,2021 Week 50,1,Red line,Number,327777.0
+TII03C01,Passenger Journeys,2021W50,2021 Week 50,2,Green line,Number,321796.0
+TII03C01,Passenger Journeys,2021W51,2021 Week 51,-,All Luas lines,Number,403994.0
+TII03C01,Passenger Journeys,2021W51,2021 Week 51,1,Red line,Number,202322.0
+TII03C01,Passenger Journeys,2021W51,2021 Week 51,2,Green line,Number,201673.0
+TII03C01,Passenger Journeys,2021W52,2021 Week 52,-,All Luas lines,Number,278203.0
+TII03C01,Passenger Journeys,2021W52,2021 Week 52,1,Red line,Number,148925.0
+TII03C01,Passenger Journeys,2021W52,2021 Week 52,2,Green line,Number,129279.0
+TII03C01,Passenger Journeys,2021W53,2021 Week 53,-,All Luas lines,Number,
+TII03C01,Passenger Journeys,2021W53,2021 Week 53,1,Red line,Number,
+TII03C01,Passenger Journeys,2021W53,2021 Week 53,2,Green line,Number,
+TII03C01,Passenger Journeys,2022W01,2022 Week 01,-,All Luas lines,Number,345593.0
+TII03C01,Passenger Journeys,2022W01,2022 Week 01,1,Red line,Number,184047.0
+TII03C01,Passenger Journeys,2022W01,2022 Week 01,2,Green line,Number,161546.0
+TII03C01,Passenger Journeys,2022W02,2022 Week 02,-,All Luas lines,Number,433914.0
+TII03C01,Passenger Journeys,2022W02,2022 Week 02,1,Red line,Number,225426.0
+TII03C01,Passenger Journeys,2022W02,2022 Week 02,2,Green line,Number,208488.0
+TII03C01,Passenger Journeys,2022W03,2022 Week 03,-,All Luas lines,Number,462831.0
+TII03C01,Passenger Journeys,2022W03,2022 Week 03,1,Red line,Number,241094.0
+TII03C01,Passenger Journeys,2022W03,2022 Week 03,2,Green line,Number,221737.0
+TII03C01,Passenger Journeys,2022W04,2022 Week 04,-,All Luas lines,Number,537929.0
+TII03C01,Passenger Journeys,2022W04,2022 Week 04,1,Red line,Number,274293.0
+TII03C01,Passenger Journeys,2022W04,2022 Week 04,2,Green line,Number,263636.0
+TII03C01,Passenger Journeys,2022W05,2022 Week 05,-,All Luas lines,Number,571873.0
+TII03C01,Passenger Journeys,2022W05,2022 Week 05,1,Red line,Number,293209.0
+TII03C01,Passenger Journeys,2022W05,2022 Week 05,2,Green line,Number,278664.0
+TII03C01,Passenger Journeys,2022W06,2022 Week 06,-,All Luas lines,Number,586898.0
+TII03C01,Passenger Journeys,2022W06,2022 Week 06,1,Red line,Number,298548.0
+TII03C01,Passenger Journeys,2022W06,2022 Week 06,2,Green line,Number,288350.0
+TII03C01,Passenger Journeys,2022W07,2022 Week 07,-,All Luas lines,Number,579835.0
+TII03C01,Passenger Journeys,2022W07,2022 Week 07,1,Red line,Number,295635.0
+TII03C01,Passenger Journeys,2022W07,2022 Week 07,2,Green line,Number,284200.0
+TII03C01,Passenger Journeys,2022W08,2022 Week 08,-,All Luas lines,Number,577293.0
+TII03C01,Passenger Journeys,2022W08,2022 Week 08,1,Red line,Number,302427.0
+TII03C01,Passenger Journeys,2022W08,2022 Week 08,2,Green line,Number,274866.0
+TII03C01,Passenger Journeys,2022W09,2022 Week 09,-,All Luas lines,Number,607075.0
+TII03C01,Passenger Journeys,2022W09,2022 Week 09,1,Red line,Number,319517.0
+TII03C01,Passenger Journeys,2022W09,2022 Week 09,2,Green line,Number,287557.0
+TII03C01,Passenger Journeys,2022W10,2022 Week 10,-,All Luas lines,Number,590952.0
+TII03C01,Passenger Journeys,2022W10,2022 Week 10,1,Red line,Number,316221.0
+TII03C01,Passenger Journeys,2022W10,2022 Week 10,2,Green line,Number,274731.0
+TII03C01,Passenger Journeys,2022W11,2022 Week 11,-,All Luas lines,Number,576609.0
+TII03C01,Passenger Journeys,2022W11,2022 Week 11,1,Red line,Number,314256.0
+TII03C01,Passenger Journeys,2022W11,2022 Week 11,2,Green line,Number,262354.0
+TII03C01,Passenger Journeys,2022W12,2022 Week 12,-,All Luas lines,Number,603392.0
+TII03C01,Passenger Journeys,2022W12,2022 Week 12,1,Red line,Number,310281.0
+TII03C01,Passenger Journeys,2022W12,2022 Week 12,2,Green line,Number,293111.0
+TII03C01,Passenger Journeys,2022W13,2022 Week 13,-,All Luas lines,Number,632821.0
+TII03C01,Passenger Journeys,2022W13,2022 Week 13,1,Red line,Number,337105.0
+TII03C01,Passenger Journeys,2022W13,2022 Week 13,2,Green line,Number,295716.0
+TII03C01,Passenger Journeys,2022W14,2022 Week 14,-,All Luas lines,Number,640207.0
+TII03C01,Passenger Journeys,2022W14,2022 Week 14,1,Red line,Number,333218.0
+TII03C01,Passenger Journeys,2022W14,2022 Week 14,2,Green line,Number,306988.0
+TII03C01,Passenger Journeys,2022W15,2022 Week 15,-,All Luas lines,Number,619031.0
+TII03C01,Passenger Journeys,2022W15,2022 Week 15,1,Red line,Number,345061.0
+TII03C01,Passenger Journeys,2022W15,2022 Week 15,2,Green line,Number,273971.0
+TII03C01,Passenger Journeys,2022W16,2022 Week 16,-,All Luas lines,Number,617520.0
+TII03C01,Passenger Journeys,2022W16,2022 Week 16,1,Red line,Number,340040.0
+TII03C01,Passenger Journeys,2022W16,2022 Week 16,2,Green line,Number,277480.0
+TII03C01,Passenger Journeys,2022W17,2022 Week 17,-,All Luas lines,Number,642988.0
+TII03C01,Passenger Journeys,2022W17,2022 Week 17,1,Red line,Number,326313.0
+TII03C01,Passenger Journeys,2022W17,2022 Week 17,2,Green line,Number,316675.0
+TII03C01,Passenger Journeys,2022W18,2022 Week 18,-,All Luas lines,Number,650527.0
+TII03C01,Passenger Journeys,2022W18,2022 Week 18,1,Red line,Number,336415.0
+TII03C01,Passenger Journeys,2022W18,2022 Week 18,2,Green line,Number,314112.0
+TII03C01,Passenger Journeys,2022W19,2022 Week 19,-,All Luas lines,Number,701703.0
+TII03C01,Passenger Journeys,2022W19,2022 Week 19,1,Red line,Number,367620.0
+TII03C01,Passenger Journeys,2022W19,2022 Week 19,2,Green line,Number,334083.0
+TII03C01,Passenger Journeys,2022W20,2022 Week 20,-,All Luas lines,Number,702050.0
+TII03C01,Passenger Journeys,2022W20,2022 Week 20,1,Red line,Number,364591.0
+TII03C01,Passenger Journeys,2022W20,2022 Week 20,2,Green line,Number,337459.0
+TII03C01,Passenger Journeys,2022W21,2022 Week 21,-,All Luas lines,Number,736455.0
+TII03C01,Passenger Journeys,2022W21,2022 Week 21,1,Red line,Number,400252.0
+TII03C01,Passenger Journeys,2022W21,2022 Week 21,2,Green line,Number,336203.0
+TII03C01,Passenger Journeys,2022W22,2022 Week 22,-,All Luas lines,Number,748966.0
+TII03C01,Passenger Journeys,2022W22,2022 Week 22,1,Red line,Number,414633.0
+TII03C01,Passenger Journeys,2022W22,2022 Week 22,2,Green line,Number,334333.0
+TII03C01,Passenger Journeys,2022W23,2022 Week 23,-,All Luas lines,Number,654577.0
+TII03C01,Passenger Journeys,2022W23,2022 Week 23,1,Red line,Number,351030.0
+TII03C01,Passenger Journeys,2022W23,2022 Week 23,2,Green line,Number,303546.0
+TII03C01,Passenger Journeys,2022W24,2022 Week 24,-,All Luas lines,Number,746758.0
+TII03C01,Passenger Journeys,2022W24,2022 Week 24,1,Red line,Number,403216.0
+TII03C01,Passenger Journeys,2022W24,2022 Week 24,2,Green line,Number,343542.0
+TII03C01,Passenger Journeys,2022W25,2022 Week 25,-,All Luas lines,Number,768947.0
+TII03C01,Passenger Journeys,2022W25,2022 Week 25,1,Red line,Number,425115.0
+TII03C01,Passenger Journeys,2022W25,2022 Week 25,2,Green line,Number,343832.0
+TII03C01,Passenger Journeys,2022W26,2022 Week 26,-,All Luas lines,Number,779963.0
+TII03C01,Passenger Journeys,2022W26,2022 Week 26,1,Red line,Number,401680.0
+TII03C01,Passenger Journeys,2022W26,2022 Week 26,2,Green line,Number,378283.0
+TII03C01,Passenger Journeys,2022W27,2022 Week 27,-,All Luas lines,Number,761521.0
+TII03C01,Passenger Journeys,2022W27,2022 Week 27,1,Red line,Number,402776.0
+TII03C01,Passenger Journeys,2022W27,2022 Week 27,2,Green line,Number,358745.0
+TII03C01,Passenger Journeys,2022W28,2022 Week 28,-,All Luas lines,Number,739605.0
+TII03C01,Passenger Journeys,2022W28,2022 Week 28,1,Red line,Number,384792.0
+TII03C01,Passenger Journeys,2022W28,2022 Week 28,2,Green line,Number,354813.0
+TII03C01,Passenger Journeys,2022W29,2022 Week 29,-,All Luas lines,Number,739584.0
+TII03C01,Passenger Journeys,2022W29,2022 Week 29,1,Red line,Number,386315.0
+TII03C01,Passenger Journeys,2022W29,2022 Week 29,2,Green line,Number,353269.0
+TII03C01,Passenger Journeys,2022W30,2022 Week 30,-,All Luas lines,Number,723458.0
+TII03C01,Passenger Journeys,2022W30,2022 Week 30,1,Red line,Number,381066.0
+TII03C01,Passenger Journeys,2022W30,2022 Week 30,2,Green line,Number,342392.0
+TII03C01,Passenger Journeys,2022W31,2022 Week 31,-,All Luas lines,Number,689408.0
+TII03C01,Passenger Journeys,2022W31,2022 Week 31,1,Red line,Number,370788.0
+TII03C01,Passenger Journeys,2022W31,2022 Week 31,2,Green line,Number,318620.0
+TII03C01,Passenger Journeys,2022W32,2022 Week 32,-,All Luas lines,Number,716924.0
+TII03C01,Passenger Journeys,2022W32,2022 Week 32,1,Red line,Number,385414.0
+TII03C01,Passenger Journeys,2022W32,2022 Week 32,2,Green line,Number,331511.0
+TII03C01,Passenger Journeys,2022W33,2022 Week 33,-,All Luas lines,Number,742734.0
+TII03C01,Passenger Journeys,2022W33,2022 Week 33,1,Red line,Number,394475.0
+TII03C01,Passenger Journeys,2022W33,2022 Week 33,2,Green line,Number,348259.0
+TII03C01,Passenger Journeys,2022W34,2022 Week 34,-,All Luas lines,Number,778106.0
+TII03C01,Passenger Journeys,2022W34,2022 Week 34,1,Red line,Number,407670.0
+TII03C01,Passenger Journeys,2022W34,2022 Week 34,2,Green line,Number,370436.0
+TII03C01,Passenger Journeys,2022W35,2022 Week 35,-,All Luas lines,Number,749341.0
+TII03C01,Passenger Journeys,2022W35,2022 Week 35,1,Red line,Number,394870.0
+TII03C01,Passenger Journeys,2022W35,2022 Week 35,2,Green line,Number,354471.0
+TII03C01,Passenger Journeys,2022W36,2022 Week 36,-,All Luas lines,Number,839027.0
+TII03C01,Passenger Journeys,2022W36,2022 Week 36,1,Red line,Number,441116.0
+TII03C01,Passenger Journeys,2022W36,2022 Week 36,2,Green line,Number,397912.0
+TII03C01,Passenger Journeys,2022W37,2022 Week 37,-,All Luas lines,Number,890854.0
+TII03C01,Passenger Journeys,2022W37,2022 Week 37,1,Red line,Number,464639.0
+TII03C01,Passenger Journeys,2022W37,2022 Week 37,2,Green line,Number,426215.0
+TII03C01,Passenger Journeys,2022W38,2022 Week 38,-,All Luas lines,Number,915330.0
+TII03C01,Passenger Journeys,2022W38,2022 Week 38,1,Red line,Number,468498.0
+TII03C01,Passenger Journeys,2022W38,2022 Week 38,2,Green line,Number,446831.0
+TII03C01,Passenger Journeys,2022W39,2022 Week 39,-,All Luas lines,Number,966770.0
+TII03C01,Passenger Journeys,2022W39,2022 Week 39,1,Red line,Number,495114.0
+TII03C01,Passenger Journeys,2022W39,2022 Week 39,2,Green line,Number,471656.0
+TII03C01,Passenger Journeys,2022W40,2022 Week 40,-,All Luas lines,Number,976883.0
+TII03C01,Passenger Journeys,2022W40,2022 Week 40,1,Red line,Number,499121.0
+TII03C01,Passenger Journeys,2022W40,2022 Week 40,2,Green line,Number,477762.0
+TII03C01,Passenger Journeys,2022W41,2022 Week 41,-,All Luas lines,Number,973313.0
+TII03C01,Passenger Journeys,2022W41,2022 Week 41,1,Red line,Number,490773.0
+TII03C01,Passenger Journeys,2022W41,2022 Week 41,2,Green line,Number,482540.0
+TII03C01,Passenger Journeys,2022W42,2022 Week 42,-,All Luas lines,Number,988465.0
+TII03C01,Passenger Journeys,2022W42,2022 Week 42,1,Red line,Number,507315.0
+TII03C01,Passenger Journeys,2022W42,2022 Week 42,2,Green line,Number,481150.0
+TII03C01,Passenger Journeys,2022W43,2022 Week 43,-,All Luas lines,Number,1024107.0
+TII03C01,Passenger Journeys,2022W43,2022 Week 43,1,Red line,Number,527175.0
+TII03C01,Passenger Journeys,2022W43,2022 Week 43,2,Green line,Number,496932.0
+TII03C01,Passenger Journeys,2022W44,2022 Week 44,-,All Luas lines,Number,892530.0
+TII03C01,Passenger Journeys,2022W44,2022 Week 44,1,Red line,Number,472903.0
+TII03C01,Passenger Journeys,2022W44,2022 Week 44,2,Green line,Number,419627.0
+TII03C01,Passenger Journeys,2022W45,2022 Week 45,-,All Luas lines,Number,1027304.0
+TII03C01,Passenger Journeys,2022W45,2022 Week 45,1,Red line,Number,530589.0
+TII03C01,Passenger Journeys,2022W45,2022 Week 45,2,Green line,Number,496715.0
+TII03C01,Passenger Journeys,2022W46,2022 Week 46,-,All Luas lines,Number,1036079.0
+TII03C01,Passenger Journeys,2022W46,2022 Week 46,1,Red line,Number,535652.0
+TII03C01,Passenger Journeys,2022W46,2022 Week 46,2,Green line,Number,500427.0
+TII03C01,Passenger Journeys,2022W47,2022 Week 47,-,All Luas lines,Number,1039314.0
+TII03C01,Passenger Journeys,2022W47,2022 Week 47,1,Red line,Number,535559.0
+TII03C01,Passenger Journeys,2022W47,2022 Week 47,2,Green line,Number,503755.0
+TII03C01,Passenger Journeys,2022W48,2022 Week 48,-,All Luas lines,Number,1038722.0
+TII03C01,Passenger Journeys,2022W48,2022 Week 48,1,Red line,Number,547010.0
+TII03C01,Passenger Journeys,2022W48,2022 Week 48,2,Green line,Number,491713.0
+TII03C01,Passenger Journeys,2022W49,2022 Week 49,-,All Luas lines,Number,1035628.0
+TII03C01,Passenger Journeys,2022W49,2022 Week 49,1,Red line,Number,537455.0
+TII03C01,Passenger Journeys,2022W49,2022 Week 49,2,Green line,Number,498173.0
+TII03C01,Passenger Journeys,2022W50,2022 Week 50,-,All Luas lines,Number,1060205.0
+TII03C01,Passenger Journeys,2022W50,2022 Week 50,1,Red line,Number,526929.0
+TII03C01,Passenger Journeys,2022W50,2022 Week 50,2,Green line,Number,533275.0
+TII03C01,Passenger Journeys,2022W51,2022 Week 51,-,All Luas lines,Number,832231.0
+TII03C01,Passenger Journeys,2022W51,2022 Week 51,1,Red line,Number,420463.0
+TII03C01,Passenger Journeys,2022W51,2022 Week 51,2,Green line,Number,411768.0
+TII03C01,Passenger Journeys,2022W52,2022 Week 52,-,All Luas lines,Number,560483.0
+TII03C01,Passenger Journeys,2022W52,2022 Week 52,1,Red line,Number,289972.0
+TII03C01,Passenger Journeys,2022W52,2022 Week 52,2,Green line,Number,270512.0
+TII03C01,Passenger Journeys,2022W53,2022 Week 53,-,All Luas lines,Number,
+TII03C01,Passenger Journeys,2022W53,2022 Week 53,1,Red line,Number,
+TII03C01,Passenger Journeys,2022W53,2022 Week 53,2,Green line,Number,
+TII03C01,Passenger Journeys,2023W01,2023 Week 01,-,All Luas lines,Number,711191.0
+TII03C01,Passenger Journeys,2023W01,2023 Week 01,1,Red line,Number,371194.0
+TII03C01,Passenger Journeys,2023W01,2023 Week 01,2,Green line,Number,339997.0
+TII03C01,Passenger Journeys,2023W02,2023 Week 02,-,All Luas lines,Number,828385.0
+TII03C01,Passenger Journeys,2023W02,2023 Week 02,1,Red line,Number,430666.0
+TII03C01,Passenger Journeys,2023W02,2023 Week 02,2,Green line,Number,397719.0
+TII03C01,Passenger Journeys,2023W03,2023 Week 03,-,All Luas lines,Number,851892.0
+TII03C01,Passenger Journeys,2023W03,2023 Week 03,1,Red line,Number,440142.0
+TII03C01,Passenger Journeys,2023W03,2023 Week 03,2,Green line,Number,411750.0
+TII03C01,Passenger Journeys,2023W04,2023 Week 04,-,All Luas lines,Number,948591.0
+TII03C01,Passenger Journeys,2023W04,2023 Week 04,1,Red line,Number,486675.0
+TII03C01,Passenger Journeys,2023W04,2023 Week 04,2,Green line,Number,461916.0
+TII03C01,Passenger Journeys,2023W05,2023 Week 05,-,All Luas lines,Number,952736.0
+TII03C01,Passenger Journeys,2023W05,2023 Week 05,1,Red line,Number,489532.0
+TII03C01,Passenger Journeys,2023W05,2023 Week 05,2,Green line,Number,463204.0
+TII03C01,Passenger Journeys,2023W06,2023 Week 06,-,All Luas lines,Number,957284.0
+TII03C01,Passenger Journeys,2023W06,2023 Week 06,1,Red line,Number,497428.0
+TII03C01,Passenger Journeys,2023W06,2023 Week 06,2,Green line,Number,459856.0
+TII03C01,Passenger Journeys,2023W07,2023 Week 07,-,All Luas lines,Number,968927.0
+TII03C01,Passenger Journeys,2023W07,2023 Week 07,1,Red line,Number,500579.0
+TII03C01,Passenger Journeys,2023W07,2023 Week 07,2,Green line,Number,468348.0
+TII03C01,Passenger Journeys,2023W08,2023 Week 08,-,All Luas lines,Number,949241.0
+TII03C01,Passenger Journeys,2023W08,2023 Week 08,1,Red line,Number,491496.0
+TII03C01,Passenger Journeys,2023W08,2023 Week 08,2,Green line,Number,457745.0
+TII03C01,Passenger Journeys,2023W09,2023 Week 09,-,All Luas lines,Number,915330.0
+TII03C01,Passenger Journeys,2023W09,2023 Week 09,1,Red line,Number,468498.0
+TII03C01,Passenger Journeys,2023W09,2023 Week 09,2,Green line,Number,446831.0
+TII03C01,Passenger Journeys,2023W10,2023 Week 10,-,All Luas lines,Number,887706.0
+TII03C01,Passenger Journeys,2023W10,2023 Week 10,1,Red line,Number,479445.0
+TII03C01,Passenger Journeys,2023W10,2023 Week 10,2,Green line,Number,408261.0
+TII03C01,Passenger Journeys,2023W11,2023 Week 11,-,All Luas lines,Number,933919.0
+TII03C01,Passenger Journeys,2023W11,2023 Week 11,1,Red line,Number,502781.0
+TII03C01,Passenger Journeys,2023W11,2023 Week 11,2,Green line,Number,431138.0
+TII03C01,Passenger Journeys,2023W12,2023 Week 12,-,All Luas lines,Number,942682.0
+TII03C01,Passenger Journeys,2023W12,2023 Week 12,1,Red line,Number,505332.0
+TII03C01,Passenger Journeys,2023W12,2023 Week 12,2,Green line,Number,437350.0
+TII03C01,Passenger Journeys,2023W13,2023 Week 13,-,All Luas lines,Number,971374.0
+TII03C01,Passenger Journeys,2023W13,2023 Week 13,1,Red line,Number,507092.0
+TII03C01,Passenger Journeys,2023W13,2023 Week 13,2,Green line,Number,464282.0
+TII03C01,Passenger Journeys,2023W14,2023 Week 14,-,All Luas lines,Number,894947.0
+TII03C01,Passenger Journeys,2023W14,2023 Week 14,1,Red line,Number,482842.0
+TII03C01,Passenger Journeys,2023W14,2023 Week 14,2,Green line,Number,412105.0
+TII03C01,Passenger Journeys,2023W15,2023 Week 15,-,All Luas lines,Number,830253.0
+TII03C01,Passenger Journeys,2023W15,2023 Week 15,1,Red line,Number,476106.0
+TII03C01,Passenger Journeys,2023W15,2023 Week 15,2,Green line,Number,354148.0
+TII03C01,Passenger Journeys,2023W16,2023 Week 16,-,All Luas lines,Number,936981.0
+TII03C01,Passenger Journeys,2023W16,2023 Week 16,1,Red line,Number,493366.0
+TII03C01,Passenger Journeys,2023W16,2023 Week 16,2,Green line,Number,443616.0
+TII03C01,Passenger Journeys,2023W17,2023 Week 17,-,All Luas lines,Number,913737.0
+TII03C01,Passenger Journeys,2023W17,2023 Week 17,1,Red line,Number,495522.0
+TII03C01,Passenger Journeys,2023W17,2023 Week 17,2,Green line,Number,418215.0
+TII03C01,Passenger Journeys,2023W18,2023 Week 18,-,All Luas lines,Number,885361.0
+TII03C01,Passenger Journeys,2023W18,2023 Week 18,1,Red line,Number,483525.0
+TII03C01,Passenger Journeys,2023W18,2023 Week 18,2,Green line,Number,401836.0
+TII03C01,Passenger Journeys,2023W19,2023 Week 19,-,All Luas lines,Number,939287.0
+TII03C01,Passenger Journeys,2023W19,2023 Week 19,1,Red line,Number,496075.0
+TII03C01,Passenger Journeys,2023W19,2023 Week 19,2,Green line,Number,443212.0
+TII03C01,Passenger Journeys,2023W20,2023 Week 20,-,All Luas lines,Number,934041.0
+TII03C01,Passenger Journeys,2023W20,2023 Week 20,1,Red line,Number,487287.0
+TII03C01,Passenger Journeys,2023W20,2023 Week 20,2,Green line,Number,446753.0
+TII03C01,Passenger Journeys,2023W21,2023 Week 21,-,All Luas lines,Number,942106.0
+TII03C01,Passenger Journeys,2023W21,2023 Week 21,1,Red line,Number,598293.0
+TII03C01,Passenger Journeys,2023W21,2023 Week 21,2,Green line,Number,343813.0
+TII03C01,Passenger Journeys,2023W22,2023 Week 22,-,All Luas lines,Number,712764.0
+TII03C01,Passenger Journeys,2023W22,2023 Week 22,1,Red line,Number,383243.0
+TII03C01,Passenger Journeys,2023W22,2023 Week 22,2,Green line,Number,329521.0
+TII03C01,Passenger Journeys,2023W23,2023 Week 23,-,All Luas lines,Number,845530.0
+TII03C01,Passenger Journeys,2023W23,2023 Week 23,1,Red line,Number,465542.0
+TII03C01,Passenger Journeys,2023W23,2023 Week 23,2,Green line,Number,379988.0
+TII03C01,Passenger Journeys,2023W24,2023 Week 24,-,All Luas lines,Number,908491.0
+TII03C01,Passenger Journeys,2023W24,2023 Week 24,1,Red line,Number,482633.0
+TII03C01,Passenger Journeys,2023W24,2023 Week 24,2,Green line,Number,425858.0
+TII03C01,Passenger Journeys,2023W25,2023 Week 25,-,All Luas lines,Number,942501.0
+TII03C01,Passenger Journeys,2023W25,2023 Week 25,1,Red line,Number,510176.0
+TII03C01,Passenger Journeys,2023W25,2023 Week 25,2,Green line,Number,432325.0
+TII03C01,Passenger Journeys,2023W26,2023 Week 26,-,All Luas lines,Number,965830.0
+TII03C01,Passenger Journeys,2023W26,2023 Week 26,1,Red line,Number,525000.0
+TII03C01,Passenger Journeys,2023W26,2023 Week 26,2,Green line,Number,440830.0
+TII03C01,Passenger Journeys,2023W27,2023 Week 27,-,All Luas lines,Number,917233.0
+TII03C01,Passenger Journeys,2023W27,2023 Week 27,1,Red line,Number,501656.0
+TII03C01,Passenger Journeys,2023W27,2023 Week 27,2,Green line,Number,415577.0
+TII03C01,Passenger Journeys,2023W28,2023 Week 28,-,All Luas lines,Number,854628.0
+TII03C01,Passenger Journeys,2023W28,2023 Week 28,1,Red line,Number,458273.0
+TII03C01,Passenger Journeys,2023W28,2023 Week 28,2,Green line,Number,396355.0
+TII03C01,Passenger Journeys,2023W29,2023 Week 29,-,All Luas lines,Number,866913.0
+TII03C01,Passenger Journeys,2023W29,2023 Week 29,1,Red line,Number,463673.0
+TII03C01,Passenger Journeys,2023W29,2023 Week 29,2,Green line,Number,403240.0
+TII03C01,Passenger Journeys,2023W30,2023 Week 30,-,All Luas lines,Number,898925.0
+TII03C01,Passenger Journeys,2023W30,2023 Week 30,1,Red line,Number,490187.0
+TII03C01,Passenger Journeys,2023W30,2023 Week 30,2,Green line,Number,408738.0
+TII03C01,Passenger Journeys,2023W31,2023 Week 31,-,All Luas lines,Number,807150.0
+TII03C01,Passenger Journeys,2023W31,2023 Week 31,1,Red line,Number,466708.0
+TII03C01,Passenger Journeys,2023W31,2023 Week 31,2,Green line,Number,340441.0
+TII03C01,Passenger Journeys,2023W32,2023 Week 32,-,All Luas lines,Number,773935.0
+TII03C01,Passenger Journeys,2023W32,2023 Week 32,1,Red line,Number,437277.0
+TII03C01,Passenger Journeys,2023W32,2023 Week 32,2,Green line,Number,336659.0
+TII03C01,Passenger Journeys,2023W33,2023 Week 33,-,All Luas lines,Number,830665.0
+TII03C01,Passenger Journeys,2023W33,2023 Week 33,1,Red line,Number,449135.0
+TII03C01,Passenger Journeys,2023W33,2023 Week 33,2,Green line,Number,381530.0
+TII03C01,Passenger Journeys,2023W34,2023 Week 34,-,All Luas lines,Number,900531.0
+TII03C01,Passenger Journeys,2023W34,2023 Week 34,1,Red line,Number,495211.0
+TII03C01,Passenger Journeys,2023W34,2023 Week 34,2,Green line,Number,405320.0
+TII03C01,Passenger Journeys,2023W35,2023 Week 35,-,All Luas lines,Number,844129.0
+TII03C01,Passenger Journeys,2023W35,2023 Week 35,1,Red line,Number,432251.0
+TII03C01,Passenger Journeys,2023W35,2023 Week 35,2,Green line,Number,411878.0
+TII03C01,Passenger Journeys,2023W36,2023 Week 36,-,All Luas lines,Number,898741.0
+TII03C01,Passenger Journeys,2023W36,2023 Week 36,1,Red line,Number,465836.0
+TII03C01,Passenger Journeys,2023W36,2023 Week 36,2,Green line,Number,432905.0
+TII03C01,Passenger Journeys,2023W37,2023 Week 37,-,All Luas lines,Number,907481.0
+TII03C01,Passenger Journeys,2023W37,2023 Week 37,1,Red line,Number,462007.0
+TII03C01,Passenger Journeys,2023W37,2023 Week 37,2,Green line,Number,445474.0
+TII03C01,Passenger Journeys,2023W38,2023 Week 38,-,All Luas lines,Number,1031691.0
+TII03C01,Passenger Journeys,2023W38,2023 Week 38,1,Red line,Number,533098.0
+TII03C01,Passenger Journeys,2023W38,2023 Week 38,2,Green line,Number,498593.0
+TII03C01,Passenger Journeys,2023W39,2023 Week 39,-,All Luas lines,Number,1013117.0
+TII03C01,Passenger Journeys,2023W39,2023 Week 39,1,Red line,Number,512536.0
+TII03C01,Passenger Journeys,2023W39,2023 Week 39,2,Green line,Number,500581.0
+TII03C01,Passenger Journeys,2023W40,2023 Week 40,-,All Luas lines,Number,1050425.0
+TII03C01,Passenger Journeys,2023W40,2023 Week 40,1,Red line,Number,534463.0
+TII03C01,Passenger Journeys,2023W40,2023 Week 40,2,Green line,Number,515962.0
+TII03C01,Passenger Journeys,2023W41,2023 Week 41,-,All Luas lines,Number,1045716.0
+TII03C01,Passenger Journeys,2023W41,2023 Week 41,1,Red line,Number,532162.0
+TII03C01,Passenger Journeys,2023W41,2023 Week 41,2,Green line,Number,513554.0
+TII03C01,Passenger Journeys,2023W42,2023 Week 42,-,All Luas lines,Number,1085573.0
+TII03C01,Passenger Journeys,2023W42,2023 Week 42,1,Red line,Number,571365.0
+TII03C01,Passenger Journeys,2023W42,2023 Week 42,2,Green line,Number,514208.0
+TII03C01,Passenger Journeys,2023W43,2023 Week 43,-,All Luas lines,Number,1106246.0
+TII03C01,Passenger Journeys,2023W43,2023 Week 43,1,Red line,Number,578178.0
+TII03C01,Passenger Journeys,2023W43,2023 Week 43,2,Green line,Number,528068.0
+TII03C01,Passenger Journeys,2023W44,2023 Week 44,-,All Luas lines,Number,949071.0
+TII03C01,Passenger Journeys,2023W44,2023 Week 44,1,Red line,Number,502054.0
+TII03C01,Passenger Journeys,2023W44,2023 Week 44,2,Green line,Number,447017.0
+TII03C01,Passenger Journeys,2023W45,2023 Week 45,-,All Luas lines,Number,1080480.0
+TII03C01,Passenger Journeys,2023W45,2023 Week 45,1,Red line,Number,557972.0
+TII03C01,Passenger Journeys,2023W45,2023 Week 45,2,Green line,Number,522508.0
+TII03C01,Passenger Journeys,2023W46,2023 Week 46,-,All Luas lines,Number,1009030.0
+TII03C01,Passenger Journeys,2023W46,2023 Week 46,1,Red line,Number,528422.0
+TII03C01,Passenger Journeys,2023W46,2023 Week 46,2,Green line,Number,480607.0
+TII03C01,Passenger Journeys,2023W47,2023 Week 47,-,All Luas lines,Number,917300.0
+TII03C01,Passenger Journeys,2023W47,2023 Week 47,1,Red line,Number,465137.0
+TII03C01,Passenger Journeys,2023W47,2023 Week 47,2,Green line,Number,452163.0
+TII03C01,Passenger Journeys,2023W48,2023 Week 48,-,All Luas lines,Number,1084541.0
+TII03C01,Passenger Journeys,2023W48,2023 Week 48,1,Red line,Number,556742.0
+TII03C01,Passenger Journeys,2023W48,2023 Week 48,2,Green line,Number,527799.0
+TII03C01,Passenger Journeys,2023W49,2023 Week 49,-,All Luas lines,Number,1068179.0
+TII03C01,Passenger Journeys,2023W49,2023 Week 49,1,Red line,Number,531194.0
+TII03C01,Passenger Journeys,2023W49,2023 Week 49,2,Green line,Number,536986.0
+TII03C01,Passenger Journeys,2023W50,2023 Week 50,-,All Luas lines,Number,1126106.0
+TII03C01,Passenger Journeys,2023W50,2023 Week 50,1,Red line,Number,565057.0
+TII03C01,Passenger Journeys,2023W50,2023 Week 50,2,Green line,Number,561049.0
+TII03C01,Passenger Journeys,2023W51,2023 Week 51,-,All Luas lines,Number,999461.0
+TII03C01,Passenger Journeys,2023W51,2023 Week 51,1,Red line,Number,498469.0
+TII03C01,Passenger Journeys,2023W51,2023 Week 51,2,Green line,Number,500992.0
+TII03C01,Passenger Journeys,2023W52,2023 Week 52,-,All Luas lines,Number,499366.0
+TII03C01,Passenger Journeys,2023W52,2023 Week 52,1,Red line,Number,256060.0
+TII03C01,Passenger Journeys,2023W52,2023 Week 52,2,Green line,Number,243306.0
+TII03C01,Passenger Journeys,2024W01,2024 Week 01,-,All Luas lines,Number,700059.0
+TII03C01,Passenger Journeys,2024W01,2024 Week 01,1,Red line,Number,372152.0
+TII03C01,Passenger Journeys,2024W01,2024 Week 01,2,Green line,Number,327907.0
+TII03C01,Passenger Journeys,2024W02,2024 Week 02,-,All Luas lines,Number,899981.0
+TII03C01,Passenger Journeys,2024W02,2024 Week 02,1,Red line,Number,463244.0
+TII03C01,Passenger Journeys,2024W02,2024 Week 02,2,Green line,Number,436737.0
+TII03C01,Passenger Journeys,2024W03,2024 Week 03,-,All Luas lines,Number,907998.0
+TII03C01,Passenger Journeys,2024W03,2024 Week 03,1,Red line,Number,469301.0
+TII03C01,Passenger Journeys,2024W03,2024 Week 03,2,Green line,Number,438697.0
+TII03C01,Passenger Journeys,2024W04,2024 Week 04,-,All Luas lines,Number,1021385.0
+TII03C01,Passenger Journeys,2024W04,2024 Week 04,1,Red line,Number,523628.0
+TII03C01,Passenger Journeys,2024W04,2024 Week 04,2,Green line,Number,497758.0
+TII03C01,Passenger Journeys,2024W05,2024 Week 05,-,All Luas lines,Number,1038070.0
+TII03C01,Passenger Journeys,2024W05,2024 Week 05,1,Red line,Number,531915.0
+TII03C01,Passenger Journeys,2024W05,2024 Week 05,2,Green line,Number,506155.0
+TII03C01,Passenger Journeys,2024W06,2024 Week 06,-,All Luas lines,Number,959558.0
+TII03C01,Passenger Journeys,2024W06,2024 Week 06,1,Red line,Number,501799.0
+TII03C01,Passenger Journeys,2024W06,2024 Week 06,2,Green line,Number,457759.0
+TII03C01,Passenger Journeys,2024W07,2024 Week 07,-,All Luas lines,Number,1054039.0
+TII03C01,Passenger Journeys,2024W07,2024 Week 07,1,Red line,Number,549879.0
+TII03C01,Passenger Journeys,2024W07,2024 Week 07,2,Green line,Number,504160.0
+TII03C01,Passenger Journeys,2024W08,2024 Week 08,-,All Luas lines,Number,1083395.0
+TII03C01,Passenger Journeys,2024W08,2024 Week 08,1,Red line,Number,570849.0
+TII03C01,Passenger Journeys,2024W08,2024 Week 08,2,Green line,Number,512547.0
+TII03C01,Passenger Journeys,2024W09,2024 Week 09,-,All Luas lines,Number,1037397.0
+TII03C01,Passenger Journeys,2024W09,2024 Week 09,1,Red line,Number,530814.0
+TII03C01,Passenger Journeys,2024W09,2024 Week 09,2,Green line,Number,506583.0
+TII03C01,Passenger Journeys,2024W10,2024 Week 10,-,All Luas lines,Number,1059376.0
+TII03C01,Passenger Journeys,2024W10,2024 Week 10,1,Red line,Number,559868.0
+TII03C01,Passenger Journeys,2024W10,2024 Week 10,2,Green line,Number,499508.0
+TII03C01,Passenger Journeys,2024W11,2024 Week 11,-,All Luas lines,Number,1087684.0
+TII03C01,Passenger Journeys,2024W11,2024 Week 11,1,Red line,Number,563933.0
+TII03C01,Passenger Journeys,2024W11,2024 Week 11,2,Green line,Number,523751.0
+TII03C01,Passenger Journeys,2024W12,2024 Week 12,-,All Luas lines,Number,971136.0
+TII03C01,Passenger Journeys,2024W12,2024 Week 12,1,Red line,Number,509915.0
+TII03C01,Passenger Journeys,2024W12,2024 Week 12,2,Green line,Number,461220.0
+TII03C01,Passenger Journeys,2024W13,2024 Week 13,-,All Luas lines,Number,938701.0
+TII03C01,Passenger Journeys,2024W13,2024 Week 13,1,Red line,Number,496198.0
+TII03C01,Passenger Journeys,2024W13,2024 Week 13,2,Green line,Number,442503.0
+TII03C01,Passenger Journeys,2024W14,2024 Week 14,-,All Luas lines,Number,888258.0
+TII03C01,Passenger Journeys,2024W14,2024 Week 14,1,Red line,Number,467427.0
+TII03C01,Passenger Journeys,2024W14,2024 Week 14,2,Green line,Number,420831.0
+TII03C01,Passenger Journeys,2024W15,2024 Week 15,-,All Luas lines,Number,1068239.0
+TII03C01,Passenger Journeys,2024W15,2024 Week 15,1,Red line,Number,549242.0
+TII03C01,Passenger Journeys,2024W15,2024 Week 15,2,Green line,Number,518997.0
+TII03C01,Passenger Journeys,2024W16,2024 Week 16,-,All Luas lines,Number,1064820.0
+TII03C01,Passenger Journeys,2024W16,2024 Week 16,1,Red line,Number,555880.0
+TII03C01,Passenger Journeys,2024W16,2024 Week 16,2,Green line,Number,508940.0
+TII03C01,Passenger Journeys,2024W17,2024 Week 17,-,All Luas lines,Number,1063398.0
+TII03C01,Passenger Journeys,2024W17,2024 Week 17,1,Red line,Number,559778.0
+TII03C01,Passenger Journeys,2024W17,2024 Week 17,2,Green line,Number,503620.0
+TII03C01,Passenger Journeys,2024W18,2024 Week 18,-,All Luas lines,Number,1076766.0
+TII03C01,Passenger Journeys,2024W18,2024 Week 18,1,Red line,Number,567802.0
+TII03C01,Passenger Journeys,2024W18,2024 Week 18,2,Green line,Number,508964.0
+TII03C01,Passenger Journeys,2024W19,2024 Week 19,-,All Luas lines,Number,946487.0
+TII03C01,Passenger Journeys,2024W19,2024 Week 19,1,Red line,Number,499076.0
+TII03C01,Passenger Journeys,2024W19,2024 Week 19,2,Green line,Number,447411.0
+TII03C01,Passenger Journeys,2024W20,2024 Week 20,-,All Luas lines,Number,1060320.0
+TII03C01,Passenger Journeys,2024W20,2024 Week 20,1,Red line,Number,565635.0
+TII03C01,Passenger Journeys,2024W20,2024 Week 20,2,Green line,Number,494685.0
+TII03C01,Passenger Journeys,2024W21,2024 Week 21,-,All Luas lines,Number,1008790.0
+TII03C01,Passenger Journeys,2024W21,2024 Week 21,1,Red line,Number,530914.0
+TII03C01,Passenger Journeys,2024W21,2024 Week 21,2,Green line,Number,477876.0
+TII03C01,Passenger Journeys,2024W22,2024 Week 22,-,All Luas lines,Number,1033713.0
+TII03C01,Passenger Journeys,2024W22,2024 Week 22,1,Red line,Number,549403.0
+TII03C01,Passenger Journeys,2024W22,2024 Week 22,2,Green line,Number,484310.0
+TII03C01,Passenger Journeys,2024W23,2024 Week 23,-,All Luas lines,Number,909484.0
+TII03C01,Passenger Journeys,2024W23,2024 Week 23,1,Red line,Number,487340.0
+TII03C01,Passenger Journeys,2024W23,2024 Week 23,2,Green line,Number,422143.0
+TII03C01,Passenger Journeys,2024W24,2024 Week 24,-,All Luas lines,Number,1011172.0
+TII03C01,Passenger Journeys,2024W24,2024 Week 24,1,Red line,Number,543407.0
+TII03C01,Passenger Journeys,2024W24,2024 Week 24,2,Green line,Number,467765.0
+TII03C01,Passenger Journeys,2024W25,2024 Week 25,-,All Luas lines,Number,1010897.0
+TII03C01,Passenger Journeys,2024W25,2024 Week 25,1,Red line,Number,541440.0
+TII03C01,Passenger Journeys,2024W25,2024 Week 25,2,Green line,Number,469457.0
+TII03C01,Passenger Journeys,2024W26,2024 Week 26,-,All Luas lines,Number,1062408.0
+TII03C01,Passenger Journeys,2024W26,2024 Week 26,1,Red line,Number,579523.0
+TII03C01,Passenger Journeys,2024W26,2024 Week 26,2,Green line,Number,482885.0
+TII03C01,Passenger Journeys,2024W27,2024 Week 27,-,All Luas lines,Number,1023603.0
+TII03C01,Passenger Journeys,2024W27,2024 Week 27,1,Red line,Number,547290.0
+TII03C01,Passenger Journeys,2024W27,2024 Week 27,2,Green line,Number,476313.0
+TII03C01,Passenger Journeys,2024W28,2024 Week 28,-,All Luas lines,Number,977358.0
+TII03C01,Passenger Journeys,2024W28,2024 Week 28,1,Red line,Number,522093.0
+TII03C01,Passenger Journeys,2024W28,2024 Week 28,2,Green line,Number,455266.0
+TII03C01,Passenger Journeys,2024W29,2024 Week 29,-,All Luas lines,Number,950109.0
+TII03C01,Passenger Journeys,2024W29,2024 Week 29,1,Red line,Number,515679.0
+TII03C01,Passenger Journeys,2024W29,2024 Week 29,2,Green line,Number,434429.0
+TII03C01,Passenger Journeys,2024W30,2024 Week 30,-,All Luas lines,Number,968199.0
+TII03C01,Passenger Journeys,2024W30,2024 Week 30,1,Red line,Number,520262.0
+TII03C01,Passenger Journeys,2024W30,2024 Week 30,2,Green line,Number,447937.0
+TII03C01,Passenger Journeys,2024W31,2024 Week 31,-,All Luas lines,Number,922551.0
+TII03C01,Passenger Journeys,2024W31,2024 Week 31,1,Red line,Number,499416.0
+TII03C01,Passenger Journeys,2024W31,2024 Week 31,2,Green line,Number,423135.0
+TII03C01,Passenger Journeys,2024W32,2024 Week 32,-,All Luas lines,Number,876982.0
+TII03C01,Passenger Journeys,2024W32,2024 Week 32,1,Red line,Number,479410.0
+TII03C01,Passenger Journeys,2024W32,2024 Week 32,2,Green line,Number,397572.0
+TII03C01,Passenger Journeys,2024W33,2024 Week 33,-,All Luas lines,Number,926160.0
+TII03C01,Passenger Journeys,2024W33,2024 Week 33,1,Red line,Number,498974.0
+TII03C01,Passenger Journeys,2024W33,2024 Week 33,2,Green line,Number,427186.0
+TII03C01,Passenger Journeys,2024W34,2024 Week 34,-,All Luas lines,Number,1004736.0
+TII03C01,Passenger Journeys,2024W34,2024 Week 34,1,Red line,Number,550965.0
+TII03C01,Passenger Journeys,2024W34,2024 Week 34,2,Green line,Number,453770.0
+TII03C01,Passenger Journeys,2024W35,2024 Week 35,-,All Luas lines,Number,1073309.0
+TII03C01,Passenger Journeys,2024W35,2024 Week 35,1,Red line,Number,581286.0
+TII03C01,Passenger Journeys,2024W35,2024 Week 35,2,Green line,Number,492022.0
+TII03C01,Passenger Journeys,2024W36,2024 Week 36,-,All Luas lines,Number,1050873.0
+TII03C01,Passenger Journeys,2024W36,2024 Week 36,1,Red line,Number,558201.0
+TII03C01,Passenger Journeys,2024W36,2024 Week 36,2,Green line,Number,492672.0
+TII03C01,Passenger Journeys,2024W37,2024 Week 37,-,All Luas lines,Number,1075730.0
+TII03C01,Passenger Journeys,2024W37,2024 Week 37,1,Red line,Number,560570.0
+TII03C01,Passenger Journeys,2024W37,2024 Week 37,2,Green line,Number,515160.0
+TII03C01,Passenger Journeys,2024W38,2024 Week 38,-,All Luas lines,Number,1161269.0
+TII03C01,Passenger Journeys,2024W38,2024 Week 38,1,Red line,Number,602385.0
+TII03C01,Passenger Journeys,2024W38,2024 Week 38,2,Green line,Number,558883.0
+TII03C01,Passenger Journeys,2024W39,2024 Week 39,-,All Luas lines,Number,1185060.0
+TII03C01,Passenger Journeys,2024W39,2024 Week 39,1,Red line,Number,627769.0
+TII03C01,Passenger Journeys,2024W39,2024 Week 39,2,Green line,Number,557291.0
+TII03C01,Passenger Journeys,2024W40,2024 Week 40,-,All Luas lines,Number,1161123.0
+TII03C01,Passenger Journeys,2024W40,2024 Week 40,1,Red line,Number,609389.0
+TII03C01,Passenger Journeys,2024W40,2024 Week 40,2,Green line,Number,551735.0
+TII03C01,Passenger Journeys,2024W41,2024 Week 41,-,All Luas lines,Number,1216329.0
+TII03C01,Passenger Journeys,2024W41,2024 Week 41,1,Red line,Number,641527.0
+TII03C01,Passenger Journeys,2024W41,2024 Week 41,2,Green line,Number,574802.0
+TII03C01,Passenger Journeys,2024W42,2024 Week 42,-,All Luas lines,Number,1173457.0
+TII03C01,Passenger Journeys,2024W42,2024 Week 42,1,Red line,Number,616286.0
+TII03C01,Passenger Journeys,2024W42,2024 Week 42,2,Green line,Number,557171.0
+TII03C01,Passenger Journeys,2024W43,2024 Week 43,-,All Luas lines,Number,1177447.0
+TII03C01,Passenger Journeys,2024W43,2024 Week 43,1,Red line,Number,612531.0
+TII03C01,Passenger Journeys,2024W43,2024 Week 43,2,Green line,Number,564916.0
+TII03C01,Passenger Journeys,2024W44,2024 Week 44,-,All Luas lines,Number,1054921.0
+TII03C01,Passenger Journeys,2024W44,2024 Week 44,1,Red line,Number,571603.0
+TII03C01,Passenger Journeys,2024W44,2024 Week 44,2,Green line,Number,483318.0
+TII03C01,Passenger Journeys,2024W45,2024 Week 45,-,All Luas lines,Number,1171116.0
+TII03C01,Passenger Journeys,2024W45,2024 Week 45,1,Red line,Number,610177.0
+TII03C01,Passenger Journeys,2024W45,2024 Week 45,2,Green line,Number,560938.0
+TII03C01,Passenger Journeys,2024W46,2024 Week 46,-,All Luas lines,Number,1223973.0
+TII03C01,Passenger Journeys,2024W46,2024 Week 46,1,Red line,Number,651128.0
+TII03C01,Passenger Journeys,2024W46,2024 Week 46,2,Green line,Number,572846.0
+TII03C01,Passenger Journeys,2024W47,2024 Week 47,-,All Luas lines,Number,1172631.0
+TII03C01,Passenger Journeys,2024W47,2024 Week 47,1,Red line,Number,615102.0
+TII03C01,Passenger Journeys,2024W47,2024 Week 47,2,Green line,Number,557529.0
+TII03C01,Passenger Journeys,2024W48,2024 Week 48,-,All Luas lines,Number,1259374.0
+TII03C01,Passenger Journeys,2024W48,2024 Week 48,1,Red line,Number,667517.0
+TII03C01,Passenger Journeys,2024W48,2024 Week 48,2,Green line,Number,591857.0
+TII03C01,Passenger Journeys,2024W49,2024 Week 49,-,All Luas lines,Number,1229041.0
+TII03C01,Passenger Journeys,2024W49,2024 Week 49,1,Red line,Number,653076.0
+TII03C01,Passenger Journeys,2024W49,2024 Week 49,2,Green line,Number,575965.0
+TII03C01,Passenger Journeys,2024W50,2024 Week 50,-,All Luas lines,Number,1251360.0
+TII03C01,Passenger Journeys,2024W50,2024 Week 50,1,Red line,Number,654650.0
+TII03C01,Passenger Journeys,2024W50,2024 Week 50,2,Green line,Number,596710.0
+TII03C01,Passenger Journeys,2024W51,2024 Week 51,-,All Luas lines,Number,1174263.0
+TII03C01,Passenger Journeys,2024W51,2024 Week 51,1,Red line,Number,600256.0
+TII03C01,Passenger Journeys,2024W51,2024 Week 51,2,Green line,Number,574007.0
+TII03C01,Passenger Journeys,2024W52,2024 Week 52,-,All Luas lines,Number,590536.0
+TII03C01,Passenger Journeys,2024W52,2024 Week 52,1,Red line,Number,298465.0
+TII03C01,Passenger Journeys,2024W52,2024 Week 52,2,Green line,Number,292071.0
+TII03C01,Passenger Journeys,2025W01,2025 Week 01,-,All Luas lines,Number,668772.0
+TII03C01,Passenger Journeys,2025W01,2025 Week 01,1,Red line,Number,364755.0
+TII03C01,Passenger Journeys,2025W01,2025 Week 01,2,Green line,Number,304016.0
+TII03C01,Passenger Journeys,2025W02,2025 Week 02,-,All Luas lines,Number,917245.0
+TII03C01,Passenger Journeys,2025W02,2025 Week 02,1,Red line,Number,474539.0
+TII03C01,Passenger Journeys,2025W02,2025 Week 02,2,Green line,Number,442706.0
+TII03C01,Passenger Journeys,2025W03,2025 Week 03,-,All Luas lines,Number,1045626.0
+TII03C01,Passenger Journeys,2025W03,2025 Week 03,1,Red line,Number,543480.0
+TII03C01,Passenger Journeys,2025W03,2025 Week 03,2,Green line,Number,502146.0
+TII03C01,Passenger Journeys,2025W04,2025 Week 04,-,All Luas lines,Number,902930.0
+TII03C01,Passenger Journeys,2025W04,2025 Week 04,1,Red line,Number,465036.0
+TII03C01,Passenger Journeys,2025W04,2025 Week 04,2,Green line,Number,437893.0
+TII03C01,Passenger Journeys,2025W05,2025 Week 05,-,All Luas lines,Number,1154186.0
+TII03C01,Passenger Journeys,2025W05,2025 Week 05,1,Red line,Number,592077.0
+TII03C01,Passenger Journeys,2025W05,2025 Week 05,2,Green line,Number,562109.0
+TII03C01,Passenger Journeys,2025W06,2025 Week 06,-,All Luas lines,Number,1034820.0
+TII03C01,Passenger Journeys,2025W06,2025 Week 06,1,Red line,Number,538613.0
+TII03C01,Passenger Journeys,2025W06,2025 Week 06,2,Green line,Number,496206.0
+TII03C01,Passenger Journeys,2025W07,2025 Week 07,-,All Luas lines,Number,1162702.0
+TII03C01,Passenger Journeys,2025W07,2025 Week 07,1,Red line,Number,604789.0
+TII03C01,Passenger Journeys,2025W07,2025 Week 07,2,Green line,Number,557913.0
+TII03C01,Passenger Journeys,2025W08,2025 Week 08,-,All Luas lines,Number,1158114.0
+TII03C01,Passenger Journeys,2025W08,2025 Week 08,1,Red line,Number,621230.0
+TII03C01,Passenger Journeys,2025W08,2025 Week 08,2,Green line,Number,536884.0
+TII03C01,Passenger Journeys,2025W09,2025 Week 09,-,All Luas lines,Number,1163522.0
+TII03C01,Passenger Journeys,2025W09,2025 Week 09,1,Red line,Number,608192.0
+TII03C01,Passenger Journeys,2025W09,2025 Week 09,2,Green line,Number,555330.0
+TII03C01,Passenger Journeys,2025W10,2025 Week 10,-,All Luas lines,Number,1183270.0
+TII03C01,Passenger Journeys,2025W10,2025 Week 10,1,Red line,Number,627026.0
+TII03C01,Passenger Journeys,2025W10,2025 Week 10,2,Green line,Number,556244.0
+TII03C01,Passenger Journeys,2025W11,2025 Week 11,-,All Luas lines,Number,1202814.0
+TII03C01,Passenger Journeys,2025W11,2025 Week 11,1,Red line,Number,642681.0
+TII03C01,Passenger Journeys,2025W11,2025 Week 11,2,Green line,Number,560132.0
+TII03C01,Passenger Journeys,2025W12,2025 Week 12,-,All Luas lines,Number,1059380.0
+TII03C01,Passenger Journeys,2025W12,2025 Week 12,1,Red line,Number,557871.0
+TII03C01,Passenger Journeys,2025W12,2025 Week 12,2,Green line,Number,501509.0
+TII03C01,Passenger Journeys,2025W13,2025 Week 13,-,All Luas lines,Number,1148465.0
+TII03C01,Passenger Journeys,2025W13,2025 Week 13,1,Red line,Number,573543.0
+TII03C01,Passenger Journeys,2025W13,2025 Week 13,2,Green line,Number,574922.0
+TII03C01,Passenger Journeys,2025W14,2025 Week 14,-,All Luas lines,Number,1131438.0
+TII03C01,Passenger Journeys,2025W14,2025 Week 14,1,Red line,Number,561691.0
+TII03C01,Passenger Journeys,2025W14,2025 Week 14,2,Green line,Number,569747.0
+TII03C01,Passenger Journeys,2025W15,2025 Week 15,-,All Luas lines,Number,1132911.0
+TII03C01,Passenger Journeys,2025W15,2025 Week 15,1,Red line,Number,548880.0
+TII03C01,Passenger Journeys,2025W15,2025 Week 15,2,Green line,Number,584031.0
+TII03C01,Passenger Journeys,2025W16,2025 Week 16,-,All Luas lines,Number,959854.0
+TII03C01,Passenger Journeys,2025W16,2025 Week 16,1,Red line,Number,498409.0
+TII03C01,Passenger Journeys,2025W16,2025 Week 16,2,Green line,Number,461446.0
+TII03C01,Passenger Journeys,2025W17,2025 Week 17,-,All Luas lines,Number,934817.0
+TII03C01,Passenger Journeys,2025W17,2025 Week 17,1,Red line,Number,483461.0
+TII03C01,Passenger Journeys,2025W17,2025 Week 17,2,Green line,Number,451356.0
+TII03C01,Passenger Journeys,2025W18,2025 Week 18,-,All Luas lines,Number,1115022.0
+TII03C01,Passenger Journeys,2025W18,2025 Week 18,1,Red line,Number,564754.0
+TII03C01,Passenger Journeys,2025W18,2025 Week 18,2,Green line,Number,550268.0
+TII03C01,Passenger Journeys,2025W19,2025 Week 19,-,All Luas lines,Number,1000972.0
+TII03C01,Passenger Journeys,2025W19,2025 Week 19,1,Red line,Number,516524.0
+TII03C01,Passenger Journeys,2025W19,2025 Week 19,2,Green line,Number,484448.0
+TII03C01,Passenger Journeys,2025W20,2025 Week 20,-,All Luas lines,Number,1088122.0
+TII03C01,Passenger Journeys,2025W20,2025 Week 20,1,Red line,Number,552366.0
+TII03C01,Passenger Journeys,2025W20,2025 Week 20,2,Green line,Number,535756.0
+TII03C01,Passenger Journeys,2025W21,2025 Week 21,-,All Luas lines,Number,1097114.0
+TII03C01,Passenger Journeys,2025W21,2025 Week 21,1,Red line,Number,564860.0
+TII03C01,Passenger Journeys,2025W21,2025 Week 21,2,Green line,Number,532254.0
+TII03C01,Passenger Journeys,2025W22,2025 Week 22,-,All Luas lines,Number,1137869.0
+TII03C01,Passenger Journeys,2025W22,2025 Week 22,1,Red line,Number,589379.0
+TII03C01,Passenger Journeys,2025W22,2025 Week 22,2,Green line,Number,548490.0
+TII03C01,Passenger Journeys,2025W23,2025 Week 23,-,All Luas lines,Number,981701.0
+TII03C01,Passenger Journeys,2025W23,2025 Week 23,1,Red line,Number,515490.0
+TII03C01,Passenger Journeys,2025W23,2025 Week 23,2,Green line,Number,466212.0
+TII03C01,Passenger Journeys,2025W24,2025 Week 24,-,All Luas lines,Number,1027489.0
+TII03C01,Passenger Journeys,2025W24,2025 Week 24,1,Red line,Number,527195.0
+TII03C01,Passenger Journeys,2025W24,2025 Week 24,2,Green line,Number,500294.0
+TII03C01,Passenger Journeys,2025W25,2025 Week 25,-,All Luas lines,Number,1106398.0
+TII03C01,Passenger Journeys,2025W25,2025 Week 25,1,Red line,Number,588039.0
+TII03C01,Passenger Journeys,2025W25,2025 Week 25,2,Green line,Number,518359.0
+TII03C01,Passenger Journeys,2025W26,2025 Week 26,-,All Luas lines,Number,1089204.0
+TII03C01,Passenger Journeys,2025W26,2025 Week 26,1,Red line,Number,567198.0
+TII03C01,Passenger Journeys,2025W26,2025 Week 26,2,Green line,Number,522005.0
+TII03C01,Passenger Journeys,2025W27,2025 Week 27,-,All Luas lines,Number,1084133.0
+TII03C01,Passenger Journeys,2025W27,2025 Week 27,1,Red line,Number,569992.0
+TII03C01,Passenger Journeys,2025W27,2025 Week 27,2,Green line,Number,514141.0
+TII03C01,Passenger Journeys,2025W28,2025 Week 28,-,All Luas lines,Number,1043223.0
+TII03C01,Passenger Journeys,2025W28,2025 Week 28,1,Red line,Number,548638.0
+TII03C01,Passenger Journeys,2025W28,2025 Week 28,2,Green line,Number,494585.0
+TII03C01,Passenger Journeys,2025W29,2025 Week 29,-,All Luas lines,Number,1028146.0
+TII03C01,Passenger Journeys,2025W29,2025 Week 29,1,Red line,Number,535853.0
+TII03C01,Passenger Journeys,2025W29,2025 Week 29,2,Green line,Number,492293.0
+TII03C01,Passenger Journeys,2025W30,2025 Week 30,-,All Luas lines,Number,1041183.0
+TII03C01,Passenger Journeys,2025W30,2025 Week 30,1,Red line,Number,550012.0
+TII03C01,Passenger Journeys,2025W30,2025 Week 30,2,Green line,Number,491171.0
+TII03C01,Passenger Journeys,2025W31,2025 Week 31,-,All Luas lines,Number,987583.0
+TII03C01,Passenger Journeys,2025W31,2025 Week 31,1,Red line,Number,519747.0
+TII03C01,Passenger Journeys,2025W31,2025 Week 31,2,Green line,Number,467836.0
+TII03C01,Passenger Journeys,2025W32,2025 Week 32,-,All Luas lines,Number,920507.0
+TII03C01,Passenger Journeys,2025W32,2025 Week 32,1,Red line,Number,495516.0
+TII03C01,Passenger Journeys,2025W32,2025 Week 32,2,Green line,Number,424991.0
+TII03C01,Passenger Journeys,2025W33,2025 Week 33,-,All Luas lines,Number,1011610.0
+TII03C01,Passenger Journeys,2025W33,2025 Week 33,1,Red line,Number,528418.0
+TII03C01,Passenger Journeys,2025W33,2025 Week 33,2,Green line,Number,483192.0
+TII03C01,Passenger Journeys,2025W34,2025 Week 34,-,All Luas lines,Number,992857.0
+TII03C01,Passenger Journeys,2025W34,2025 Week 34,1,Red line,Number,502555.0
+TII03C01,Passenger Journeys,2025W34,2025 Week 34,2,Green line,Number,490302.0
+TII03C01,Passenger Journeys,2025W35,2025 Week 35,-,All Luas lines,Number,922758.0
+TII03C01,Passenger Journeys,2025W35,2025 Week 35,1,Red line,Number,425756.0
+TII03C01,Passenger Journeys,2025W35,2025 Week 35,2,Green line,Number,497001.0
+TII03C01,Passenger Journeys,2025W36,2025 Week 36,-,All Luas lines,Number,925724.0
+TII03C01,Passenger Journeys,2025W36,2025 Week 36,1,Red line,Number,422181.0
+TII03C01,Passenger Journeys,2025W36,2025 Week 36,2,Green line,Number,503543.0
+TII03C01,Passenger Journeys,2025W37,2025 Week 37,-,All Luas lines,Number,968573.0
+TII03C01,Passenger Journeys,2025W37,2025 Week 37,1,Red line,Number,431535.0
+TII03C01,Passenger Journeys,2025W37,2025 Week 37,2,Green line,Number,537038.0
+TII03C01,Passenger Journeys,2025W38,2025 Week 38,-,All Luas lines,Number,1082179.0
+TII03C01,Passenger Journeys,2025W38,2025 Week 38,1,Red line,Number,483433.0
+TII03C01,Passenger Journeys,2025W38,2025 Week 38,2,Green line,Number,598746.0
+TII03C01,Passenger Journeys,2025W39,2025 Week 39,-,All Luas lines,Number,1096923.0
+TII03C01,Passenger Journeys,2025W39,2025 Week 39,1,Red line,Number,501556.0
+TII03C01,Passenger Journeys,2025W39,2025 Week 39,2,Green line,Number,595368.0
+TII03C01,Passenger Journeys,2025W40,2025 Week 40,-,All Luas lines,Number,1062662.0
+TII03C01,Passenger Journeys,2025W40,2025 Week 40,1,Red line,Number,475477.0
+TII03C01,Passenger Journeys,2025W40,2025 Week 40,2,Green line,Number,587186.0
+TII03C01,Passenger Journeys,2025W41,2025 Week 41,-,All Luas lines,Number,1120082.0
+TII03C01,Passenger Journeys,2025W41,2025 Week 41,1,Red line,Number,510506.0
+TII03C01,Passenger Journeys,2025W41,2025 Week 41,2,Green line,Number,609576.0
+TII03C01,Passenger Journeys,2025W42,2025 Week 42,-,All Luas lines,Number,1124866.0
+TII03C01,Passenger Journeys,2025W42,2025 Week 42,1,Red line,Number,511903.0
+TII03C01,Passenger Journeys,2025W42,2025 Week 42,2,Green line,Number,612963.0
+TII03C01,Passenger Journeys,2025W43,2025 Week 43,-,All Luas lines,Number,1137331.0
+TII03C01,Passenger Journeys,2025W43,2025 Week 43,1,Red line,Number,512516.0
+TII03C01,Passenger Journeys,2025W43,2025 Week 43,2,Green line,Number,624814.0
+TII03C01,Passenger Journeys,2025W44,2025 Week 44,-,All Luas lines,Number,963093.0
+TII03C01,Passenger Journeys,2025W44,2025 Week 44,1,Red line,Number,456430.0
+TII03C01,Passenger Journeys,2025W44,2025 Week 44,2,Green line,Number,506664.0
+TII03C01,Passenger Journeys,2025W45,2025 Week 45,-,All Luas lines,Number,1115484.0
+TII03C01,Passenger Journeys,2025W45,2025 Week 45,1,Red line,Number,510855.0
+TII03C01,Passenger Journeys,2025W45,2025 Week 45,2,Green line,Number,604629.0
+TII03C01,Passenger Journeys,2025W46,2025 Week 46,-,All Luas lines,Number,1076637.0
+TII03C01,Passenger Journeys,2025W46,2025 Week 46,1,Red line,Number,484074.0
+TII03C01,Passenger Journeys,2025W46,2025 Week 46,2,Green line,Number,592563.0
+TII03C01,Passenger Journeys,2025W47,2025 Week 47,-,All Luas lines,Number,1125474.0
+TII03C01,Passenger Journeys,2025W47,2025 Week 47,1,Red line,Number,507071.0
+TII03C01,Passenger Journeys,2025W47,2025 Week 47,2,Green line,Number,618402.0
+TII03C01,Passenger Journeys,2025W48,2025 Week 48,-,All Luas lines,Number,1208599.0
+TII03C01,Passenger Journeys,2025W48,2025 Week 48,1,Red line,Number,574395.0
+TII03C01,Passenger Journeys,2025W48,2025 Week 48,2,Green line,Number,634204.0
+TII03C01,Passenger Journeys,2025W49,2025 Week 49,-,All Luas lines,Number,1264616.0
+TII03C01,Passenger Journeys,2025W49,2025 Week 49,1,Red line,Number,633555.0
+TII03C01,Passenger Journeys,2025W49,2025 Week 49,2,Green line,Number,631061.0
+TII03C01,Passenger Journeys,2025W50,2025 Week 50,-,All Luas lines,Number,1120168.0
+TII03C01,Passenger Journeys,2025W50,2025 Week 50,1,Red line,Number,652166.0
+TII03C01,Passenger Journeys,2025W50,2025 Week 50,2,Green line,Number,468002.0
+TII03C01,Passenger Journeys,2025W51,2025 Week 51,-,All Luas lines,Number,1274310.0
+TII03C01,Passenger Journeys,2025W51,2025 Week 51,1,Red line,Number,640857.0
+TII03C01,Passenger Journeys,2025W51,2025 Week 51,2,Green line,Number,633453.0
+TII03C01,Passenger Journeys,2025W52,2025 Week 52,-,All Luas lines,Number,672463.0
+TII03C01,Passenger Journeys,2025W52,2025 Week 52,1,Red line,Number,329136.0
+TII03C01,Passenger Journeys,2025W52,2025 Week 52,2,Green line,Number,343327.0
+TII03C01,Passenger Journeys,2026W01,2026 Week 01,-,All Luas lines,Number,707972.0
+TII03C01,Passenger Journeys,2026W01,2026 Week 01,1,Red line,Number,381306.0
+TII03C01,Passenger Journeys,2026W01,2026 Week 01,2,Green line,Number,326666.0
+TII03C01,Passenger Journeys,2026W02,2026 Week 02,-,All Luas lines,Number,975131.0
+TII03C01,Passenger Journeys,2026W02,2026 Week 02,1,Red line,Number,492686.0
+TII03C01,Passenger Journeys,2026W02,2026 Week 02,2,Green line,Number,482445.0
+TII03C01,Passenger Journeys,2026W03,2026 Week 03,-,All Luas lines,Number,1066934.0
+TII03C01,Passenger Journeys,2026W03,2026 Week 03,1,Red line,Number,541206.0
+TII03C01,Passenger Journeys,2026W03,2026 Week 03,2,Green line,Number,525728.0
+TII03C01,Passenger Journeys,2026W04,2026 Week 04,-,All Luas lines,Number,1102456.0
+TII03C01,Passenger Journeys,2026W04,2026 Week 04,1,Red line,Number,558183.0
+TII03C01,Passenger Journeys,2026W04,2026 Week 04,2,Green line,Number,544274.0
+TII03C01,Passenger Journeys,2026W05,2026 Week 05,-,All Luas lines,Number,1163779.0
+TII03C01,Passenger Journeys,2026W05,2026 Week 05,1,Red line,Number,585417.0
+TII03C01,Passenger Journeys,2026W05,2026 Week 05,2,Green line,Number,578362.0
+TII03C01,Passenger Journeys,2026W06,2026 Week 06,-,All Luas lines,Number,1035359.0
+TII03C01,Passenger Journeys,2026W06,2026 Week 06,1,Red line,Number,531214.0
+TII03C01,Passenger Journeys,2026W06,2026 Week 06,2,Green line,Number,504145.0
+TII03C01,Passenger Journeys,2026W07,2026 Week 07,-,All Luas lines,Number,1200147.0
+TII03C01,Passenger Journeys,2026W07,2026 Week 07,1,Red line,Number,607472.0
+TII03C01,Passenger Journeys,2026W07,2026 Week 07,2,Green line,Number,592676.0
+TII03C01,Passenger Journeys,2026W08,2026 Week 08,-,All Luas lines,Number,1173787.0
+TII03C01,Passenger Journeys,2026W08,2026 Week 08,1,Red line,Number,609185.0
+TII03C01,Passenger Journeys,2026W08,2026 Week 08,2,Green line,Number,564602.0
+TII03C01,Passenger Journeys,2026W09,2026 Week 09,-,All Luas lines,Number,1188472.0
+TII03C01,Passenger Journeys,2026W09,2026 Week 09,1,Red line,Number,601294.0
+TII03C01,Passenger Journeys,2026W09,2026 Week 09,2,Green line,Number,587178.0
+TII03C01,Passenger Journeys,2026W10,2026 Week 10,-,All Luas lines,Number,1231005.0
+TII03C01,Passenger Journeys,2026W10,2026 Week 10,1,Red line,Number,644317.0
+TII03C01,Passenger Journeys,2026W10,2026 Week 10,2,Green line,Number,586688.0
+TII03C01,Passenger Journeys,2026W11,2026 Week 11,-,All Luas lines,Number,1191842.0
+TII03C01,Passenger Journeys,2026W11,2026 Week 11,1,Red line,Number,610840.0
+TII03C01,Passenger Journeys,2026W11,2026 Week 11,2,Green line,Number,581002.0
+TII03C01,Passenger Journeys,2026W12,2026 Week 12,-,All Luas lines,Number,1094890.0
+TII03C01,Passenger Journeys,2026W12,2026 Week 12,1,Red line,Number,567434.0
+TII03C01,Passenger Journeys,2026W12,2026 Week 12,2,Green line,Number,527457.0
+TII03C01,Passenger Journeys,2026W13,2026 Week 13,-,All Luas lines,Number,1285719.0
+TII03C01,Passenger Journeys,2026W13,2026 Week 13,1,Red line,Number,672324.0
+TII03C01,Passenger Journeys,2026W13,2026 Week 13,2,Green line,Number,613395.0
+TII03C01,Passenger Journeys,2026W14,2026 Week 14,-,All Luas lines,Number,1101261.0
+TII03C01,Passenger Journeys,2026W14,2026 Week 14,1,Red line,Number,579024.0
+TII03C01,Passenger Journeys,2026W14,2026 Week 14,2,Green line,Number,522237.0
+TII03C01,Passenger Journeys,2026W15,2026 Week 15,-,All Luas lines,Number,1075509.0
+TII03C01,Passenger Journeys,2026W15,2026 Week 15,1,Red line,Number,658755.0
+TII03C01,Passenger Journeys,2026W15,2026 Week 15,2,Green line,Number,416754.0
+TII03C01,Passenger Journeys,2026W16,2026 Week 16,-,All Luas lines,Number,1267387.0
+TII03C01,Passenger Journeys,2026W16,2026 Week 16,1,Red line,Number,676394.0
+TII03C01,Passenger Journeys,2026W16,2026 Week 16,2,Green line,Number,590992.0
+TII03C01,Passenger Journeys,2026W17,2026 Week 17,-,All Luas lines,Number,1270845.0
+TII03C01,Passenger Journeys,2026W17,2026 Week 17,1,Red line,Number,676613.0
+TII03C01,Passenger Journeys,2026W17,2026 Week 17,2,Green line,Number,594232.0
+TII03C01,Passenger Journeys,2026W18,2026 Week 18,-,All Luas lines,Number,1166272.0
+TII03C01,Passenger Journeys,2026W18,2026 Week 18,1,Red line,Number,581489.0
+TII03C01,Passenger Journeys,2026W18,2026 Week 18,2,Green line,Number,584783.0
+TII03C01,Passenger Journeys,2026W19,2026 Week 19,-,All Luas lines,Number,1083898.0
+TII03C01,Passenger Journeys,2026W19,2026 Week 19,1,Red line,Number,573831.0
+TII03C01,Passenger Journeys,2026W19,2026 Week 19,2,Green line,Number,510067.0
+TII03C01,Passenger Journeys,2026W20,2026 Week 20,-,All Luas lines,Number,1213828.0
+TII03C01,Passenger Journeys,2026W20,2026 Week 20,1,Red line,Number,648406.0
+TII03C01,Passenger Journeys,2026W20,2026 Week 20,2,Green line,Number,565422.0
+TII03C01,Passenger Journeys,2026W21,2026 Week 21,-,All Luas lines,Number,1222246.0
+TII03C01,Passenger Journeys,2026W21,2026 Week 21,1,Red line,Number,650329.0
+TII03C01,Passenger Journeys,2026W21,2026 Week 21,2,Green line,Number,571917.0
+TII03C01,Passenger Journeys,2026W22,2026 Week 22,-,All Luas lines,Number,1258421.0
+TII03C01,Passenger Journeys,2026W22,2026 Week 22,1,Red line,Number,672046.0
+TII03C01,Passenger Journeys,2026W22,2026 Week 22,2,Green line,Number,586375.0
+TII03C01,Passenger Journeys,2026W23,2026 Week 23,-,All Luas lines,Number,1073495.0
+TII03C01,Passenger Journeys,2026W23,2026 Week 23,1,Red line,Number,583793.0
+TII03C01,Passenger Journeys,2026W23,2026 Week 23,2,Green line,Number,489702.0
+TII03C01,Passenger Journeys,2026W24,2026 Week 24,-,All Luas lines,Number,1150333.0
+TII03C01,Passenger Journeys,2026W24,2026 Week 24,1,Red line,Number,611160.0
+TII03C01,Passenger Journeys,2026W24,2026 Week 24,2,Green line,Number,539173.0
+TII03C01,Passenger Journeys,2026W25,2026 Week 25,-,All Luas lines,Number,1176271.0
+TII03C01,Passenger Journeys,2026W25,2026 Week 25,1,Red line,Number,631215.0
+TII03C01,Passenger Journeys,2026W25,2026 Week 25,2,Green line,Number,545057.0
+TII03C01,Passenger Journeys,2026W26,2026 Week 26,-,All Luas lines,Number,1178832.0
+TII03C01,Passenger Journeys,2026W26,2026 Week 26,1,Red line,Number,632173.0
+TII03C01,Passenger Journeys,2026W26,2026 Week 26,2,Green line,Number,546659.0
+TII03C01,Passenger Journeys,2026W27,2026 Week 27,-,All Luas lines,Number,1192662.0
+TII03C01,Passenger Journeys,2026W27,2026 Week 27,1,Red line,Number,652513.0
+TII03C01,Passenger Journeys,2026W27,2026 Week 27,2,Green line,Number,540149.0
+TII03C01,Passenger Journeys,2026W28,2026 Week 28,-,All Luas lines,Number,1159660.0
+TII03C01,Passenger Journeys,2026W28,2026 Week 28,1,Red line,Number,628410.0
+TII03C01,Passenger Journeys,2026W28,2026 Week 28,2,Green line,Number,531250.0
+TII03C01,Passenger Journeys,2026W29,2026 Week 29,-,All Luas lines,Number,1132729.0
+TII03C01,Passenger Journeys,2026W29,2026 Week 29,1,Red line,Number,608022.0
+TII03C01,Passenger Journeys,2026W29,2026 Week 29,2,Green line,Number,524707.0
+TII03C01,Passenger Journeys,2026W30,2026 Week 30,-,All Luas lines,Number,1114051.0
+TII03C01,Passenger Journeys,2026W30,2026 Week 30,1,Red line,Number,603842.0
+TII03C01,Passenger Journeys,2026W30,2026 Week 30,2,Green line,Number,510209.0
+TII03C01,Passenger Journeys,2026W31,2026 Week 31,-,All Luas lines,Number,1075430.0
+TII03C01,Passenger Journeys,2026W31,2026 Week 31,1,Red line,Number,578984.0
+TII03C01,Passenger Journeys,2026W31,2026 Week 31,2,Green line,Number,496446.0
+TII03C01,Passenger Journeys,2026W32,2026 Week 32,-,All Luas lines,Number,1018393.0
+TII03C01,Passenger Journeys,2026W32,2026 Week 32,1,Red line,Number,568563.0
+TII03C01,Passenger Journeys,2026W32,2026 Week 32,2,Green line,Number,449830.0
+TII03C01,Passenger Journeys,2026W33,2026 Week 33,-,All Luas lines,Number,1093136.0
+TII03C01,Passenger Journeys,2026W33,2026 Week 33,1,Red line,Number,600377.0
+TII03C01,Passenger Journeys,2026W33,2026 Week 33,2,Green line,Number,492759.0
+TII03C01,Passenger Journeys,2026W34,2026 Week 34,-,All Luas lines,Number,1146248.0
+TII03C01,Passenger Journeys,2026W34,2026 Week 34,1,Red line,Number,625120.0
+TII03C01,Passenger Journeys,2026W34,2026 Week 34,2,Green line,Number,521128.0
+TII03C01,Passenger Journeys,2026W35,2026 Week 35,-,All Luas lines,Number,1152517.0
+TII03C01,Passenger Journeys,2026W35,2026 Week 35,1,Red line,Number,623147.0
+TII03C01,Passenger Journeys,2026W35,2026 Week 35,2,Green line,Number,529370.0
+TII03C01,Passenger Journeys,2026W36,2026 Week 36,-,All Luas lines,Number,1189225.0
+TII03C01,Passenger Journeys,2026W36,2026 Week 36,1,Red line,Number,634726.0
+TII03C01,Passenger Journeys,2026W36,2026 Week 36,2,Green line,Number,554499.0
+TII03C01,Passenger Journeys,2026W37,2026 Week 37,-,All Luas lines,Number,1202809.0
+TII03C01,Passenger Journeys,2026W37,2026 Week 37,1,Red line,Number,629556.0
+TII03C01,Passenger Journeys,2026W37,2026 Week 37,2,Green line,Number,573253.0
+TII03C01,Passenger Journeys,2026W38,2026 Week 38,-,All Luas lines,Number,1312465.0
+TII03C01,Passenger Journeys,2026W38,2026 Week 38,1,Red line,Number,675151.0
+TII03C01,Passenger Journeys,2026W38,2026 Week 38,2,Green line,Number,637314.0
+TII03C01,Passenger Journeys,2026W39,2026 Week 39,-,All Luas lines,Number,1300017.0
+TII03C01,Passenger Journeys,2026W39,2026 Week 39,1,Red line,Number,683584.0
+TII03C01,Passenger Journeys,2026W39,2026 Week 39,2,Green line,Number,616432.0
+TII03C01,Passenger Journeys,2026W40,2026 Week 40,-,All Luas lines,Number,1296289.0
+TII03C01,Passenger Journeys,2026W40,2026 Week 40,1,Red line,Number,665956.0
+TII03C01,Passenger Journeys,2026W40,2026 Week 40,2,Green line,Number,630333.0
+TII03C01,Passenger Journeys,2026W41,2026 Week 41,-,All Luas lines,Number,1327862.0
+TII03C01,Passenger Journeys,2026W41,2026 Week 41,1,Red line,Number,695230.0
+TII03C01,Passenger Journeys,2026W41,2026 Week 41,2,Green line,Number,632632.0
+TII03C01,Passenger Journeys,2026W42,2026 Week 42,-,All Luas lines,Number,1235746.0
+TII03C01,Passenger Journeys,2026W42,2026 Week 42,1,Red line,Number,608566.0
+TII03C01,Passenger Journeys,2026W42,2026 Week 42,2,Green line,Number,627180.0
+TII03C01,Passenger Journeys,2026W43,2026 Week 43,-,All Luas lines,Number,1323662.0
+TII03C01,Passenger Journeys,2026W43,2026 Week 43,1,Red line,Number,677940.0
+TII03C01,Passenger Journeys,2026W43,2026 Week 43,2,Green line,Number,645722.0
+TII03C01,Passenger Journeys,2026W44,2026 Week 44,-,All Luas lines,Number,1161487.0
+TII03C01,Passenger Journeys,2026W44,2026 Week 44,1,Red line,Number,624057.0
+TII03C01,Passenger Journeys,2026W44,2026 Week 44,2,Green line,Number,537429.0

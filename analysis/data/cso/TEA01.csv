@@ -1,0 +1,494 @@
+STATISTIC,STATISTIC Label,TLIST(A1),Year,C02172V02618,Taxation Class,UNIT,VALUE
+TEA01,Vehicles Licensed for the First Time,1997,1997,-,All Vehicles,Number,206856
+TEA01,Vehicles Licensed for the First Time,1997,1997,01,New Vehicles,Number,153086
+TEA01,Vehicles Licensed for the First Time,1997,1997,011,New Private Cars,Number,125818
+TEA01,Vehicles Licensed for the First Time,1997,1997,012,New Goods Vehicles,Number,18895
+TEA01,Vehicles Licensed for the First Time,1997,1997,013,New Tractors,Number,1848
+TEA01,Vehicles Licensed for the First Time,1997,1997,014,New Motor Cycles,Number,2717
+TEA01,Vehicles Licensed for the First Time,1997,1997,015,New Exempt Vehicles,Number,2042
+TEA01,Vehicles Licensed for the First Time,1997,1997,01601,New Public Service Vehicles,Number,1051
+TEA01,Vehicles Licensed for the First Time,1997,1997,016011,New Small Public Service Vehicles,Number,633
+TEA01,Vehicles Licensed for the First Time,1997,1997,016012,New Large Public Service Vehicles,Number,418
+TEA01,Vehicles Licensed for the First Time,1997,1997,01604,New Machines or Contrivances,Number,636
+TEA01,Vehicles Licensed for the First Time,1997,1997,01605,Other Classes New Other Vehicles,Number,79
+TEA01,Vehicles Licensed for the First Time,1997,1997,02,Secondhand Vehicles,Number,53770
+TEA01,Vehicles Licensed for the First Time,1997,1997,021,Secondhand Private Cars,Number,41554
+TEA01,Vehicles Licensed for the First Time,1997,1997,022,Secondhand Goods Vehicles,Number,4888
+TEA01,Vehicles Licensed for the First Time,1997,1997,023,Secondhand Tractors,Number,3065
+TEA01,Vehicles Licensed for the First Time,1997,1997,024,Secondhand Other Vehicles,Number,4263
+TEA01,Vehicles Licensed for the First Time,1998,1998,-,All Vehicles,Number,225160
+TEA01,Vehicles Licensed for the First Time,1998,1998,01,New Vehicles,Number,172524
+TEA01,Vehicles Licensed for the First Time,1998,1998,011,New Private Cars,Number,138538
+TEA01,Vehicles Licensed for the First Time,1998,1998,012,New Goods Vehicles,Number,23811
+TEA01,Vehicles Licensed for the First Time,1998,1998,013,New Tractors,Number,2318
+TEA01,Vehicles Licensed for the First Time,1998,1998,014,New Motor Cycles,Number,3117
+TEA01,Vehicles Licensed for the First Time,1998,1998,015,New Exempt Vehicles,Number,2481
+TEA01,Vehicles Licensed for the First Time,1998,1998,01601,New Public Service Vehicles,Number,1380
+TEA01,Vehicles Licensed for the First Time,1998,1998,016011,New Small Public Service Vehicles,Number,991
+TEA01,Vehicles Licensed for the First Time,1998,1998,016012,New Large Public Service Vehicles,Number,389
+TEA01,Vehicles Licensed for the First Time,1998,1998,01604,New Machines or Contrivances,Number,739
+TEA01,Vehicles Licensed for the First Time,1998,1998,01605,Other Classes New Other Vehicles,Number,140
+TEA01,Vehicles Licensed for the First Time,1998,1998,02,Secondhand Vehicles,Number,52636
+TEA01,Vehicles Licensed for the First Time,1998,1998,021,Secondhand Private Cars,Number,39565
+TEA01,Vehicles Licensed for the First Time,1998,1998,022,Secondhand Goods Vehicles,Number,5388
+TEA01,Vehicles Licensed for the First Time,1998,1998,023,Secondhand Tractors,Number,3040
+TEA01,Vehicles Licensed for the First Time,1998,1998,024,Secondhand Other Vehicles,Number,4643
+TEA01,Vehicles Licensed for the First Time,1999,1999,-,All Vehicles,Number,268619
+TEA01,Vehicles Licensed for the First Time,1999,1999,01,New Vehicles,Number,213600
+TEA01,Vehicles Licensed for the First Time,1999,1999,011,New Private Cars,Number,170322
+TEA01,Vehicles Licensed for the First Time,1999,1999,012,New Goods Vehicles,Number,30066
+TEA01,Vehicles Licensed for the First Time,1999,1999,013,New Tractors,Number,2762
+TEA01,Vehicles Licensed for the First Time,1999,1999,014,New Motor Cycles,Number,4955
+TEA01,Vehicles Licensed for the First Time,1999,1999,015,New Exempt Vehicles,Number,2664
+TEA01,Vehicles Licensed for the First Time,1999,1999,01601,New Public Service Vehicles,Number,1795
+TEA01,Vehicles Licensed for the First Time,1999,1999,016011,New Small Public Service Vehicles,Number,1109
+TEA01,Vehicles Licensed for the First Time,1999,1999,016012,New Large Public Service Vehicles,Number,686
+TEA01,Vehicles Licensed for the First Time,1999,1999,01604,New Machines or Contrivances,Number,709
+TEA01,Vehicles Licensed for the First Time,1999,1999,01605,Other Classes New Other Vehicles,Number,327
+TEA01,Vehicles Licensed for the First Time,1999,1999,02,Secondhand Vehicles,Number,55019
+TEA01,Vehicles Licensed for the First Time,1999,1999,021,Secondhand Private Cars,Number,36878
+TEA01,Vehicles Licensed for the First Time,1999,1999,022,Secondhand Goods Vehicles,Number,9285
+TEA01,Vehicles Licensed for the First Time,1999,1999,023,Secondhand Tractors,Number,3332
+TEA01,Vehicles Licensed for the First Time,1999,1999,024,Secondhand Other Vehicles,Number,5524
+TEA01,Vehicles Licensed for the First Time,2000,2000,-,All Vehicles,Number,314292
+TEA01,Vehicles Licensed for the First Time,2000,2000,01,New Vehicles,Number,274990
+TEA01,Vehicles Licensed for the First Time,2000,2000,011,New Private Cars,Number,225269
+TEA01,Vehicles Licensed for the First Time,2000,2000,012,New Goods Vehicles,Number,33606
+TEA01,Vehicles Licensed for the First Time,2000,2000,013,New Tractors,Number,2816
+TEA01,Vehicles Licensed for the First Time,2000,2000,014,New Motor Cycles,Number,6871
+TEA01,Vehicles Licensed for the First Time,2000,2000,015,New Exempt Vehicles,Number,3321
+TEA01,Vehicles Licensed for the First Time,2000,2000,01601,New Public Service Vehicles,Number,1774
+TEA01,Vehicles Licensed for the First Time,2000,2000,016011,New Small Public Service Vehicles,Number,873
+TEA01,Vehicles Licensed for the First Time,2000,2000,016012,New Large Public Service Vehicles,Number,901
+TEA01,Vehicles Licensed for the First Time,2000,2000,01604,New Machines or Contrivances,Number,1003
+TEA01,Vehicles Licensed for the First Time,2000,2000,01605,Other Classes New Other Vehicles,Number,330
+TEA01,Vehicles Licensed for the First Time,2000,2000,02,Secondhand Vehicles,Number,39302
+TEA01,Vehicles Licensed for the First Time,2000,2000,021,Secondhand Private Cars,Number,24003
+TEA01,Vehicles Licensed for the First Time,2000,2000,022,Secondhand Goods Vehicles,Number,6983
+TEA01,Vehicles Licensed for the First Time,2000,2000,023,Secondhand Tractors,Number,2786
+TEA01,Vehicles Licensed for the First Time,2000,2000,024,Secondhand Other Vehicles,Number,5530
+TEA01,Vehicles Licensed for the First Time,2001,2001,-,All Vehicles,Number,236859
+TEA01,Vehicles Licensed for the First Time,2001,2001,01,New Vehicles,Number,207441
+TEA01,Vehicles Licensed for the First Time,2001,2001,011,New Private Cars,Number,160908
+TEA01,Vehicles Licensed for the First Time,2001,2001,012,New Goods Vehicles,Number,30622
+TEA01,Vehicles Licensed for the First Time,2001,2001,013,New Tractors,Number,2681
+TEA01,Vehicles Licensed for the First Time,2001,2001,014,New Motor Cycles,Number,6919
+TEA01,Vehicles Licensed for the First Time,2001,2001,015,New Exempt Vehicles,Number,3709
+TEA01,Vehicles Licensed for the First Time,2001,2001,01601,New Public Service Vehicles,Number,1335
+TEA01,Vehicles Licensed for the First Time,2001,2001,016011,New Small Public Service Vehicles,Number,843
+TEA01,Vehicles Licensed for the First Time,2001,2001,016012,New Large Public Service Vehicles,Number,492
+TEA01,Vehicles Licensed for the First Time,2001,2001,01604,New Machines or Contrivances,Number,938
+TEA01,Vehicles Licensed for the First Time,2001,2001,01605,Other Classes New Other Vehicles,Number,329
+TEA01,Vehicles Licensed for the First Time,2001,2001,02,Secondhand Vehicles,Number,29418
+TEA01,Vehicles Licensed for the First Time,2001,2001,021,Secondhand Private Cars,Number,15237
+TEA01,Vehicles Licensed for the First Time,2001,2001,022,Secondhand Goods Vehicles,Number,5958
+TEA01,Vehicles Licensed for the First Time,2001,2001,023,Secondhand Tractors,Number,2447
+TEA01,Vehicles Licensed for the First Time,2001,2001,024,Secondhand Other Vehicles,Number,5776
+TEA01,Vehicles Licensed for the First Time,2002,2002,-,All Vehicles,Number,220847
+TEA01,Vehicles Licensed for the First Time,2002,2002,01,New Vehicles,Number,193743
+TEA01,Vehicles Licensed for the First Time,2002,2002,011,New Private Cars,Number,150485
+TEA01,Vehicles Licensed for the First Time,2002,2002,012,New Goods Vehicles,Number,28412
+TEA01,Vehicles Licensed for the First Time,2002,2002,013,New Tractors,Number,2868
+TEA01,Vehicles Licensed for the First Time,2002,2002,014,New Motor Cycles,Number,5596
+TEA01,Vehicles Licensed for the First Time,2002,2002,015,New Exempt Vehicles,Number,4114
+TEA01,Vehicles Licensed for the First Time,2002,2002,01601,New Public Service Vehicles,Number,1149
+TEA01,Vehicles Licensed for the First Time,2002,2002,016011,New Small Public Service Vehicles,Number,713
+TEA01,Vehicles Licensed for the First Time,2002,2002,016012,New Large Public Service Vehicles,Number,436
+TEA01,Vehicles Licensed for the First Time,2002,2002,01604,New Machines or Contrivances,Number,819
+TEA01,Vehicles Licensed for the First Time,2002,2002,01605,Other Classes New Other Vehicles,Number,300
+TEA01,Vehicles Licensed for the First Time,2002,2002,02,Secondhand Vehicles,Number,27104
+TEA01,Vehicles Licensed for the First Time,2002,2002,021,Secondhand Private Cars,Number,13352
+TEA01,Vehicles Licensed for the First Time,2002,2002,022,Secondhand Goods Vehicles,Number,5285
+TEA01,Vehicles Licensed for the First Time,2002,2002,023,Secondhand Tractors,Number,2436
+TEA01,Vehicles Licensed for the First Time,2002,2002,024,Secondhand Other Vehicles,Number,6031
+TEA01,Vehicles Licensed for the First Time,2003,2003,-,All Vehicles,Number,217616
+TEA01,Vehicles Licensed for the First Time,2003,2003,01,New Vehicles,Number,188109
+TEA01,Vehicles Licensed for the First Time,2003,2003,011,New Private Cars,Number,142992
+TEA01,Vehicles Licensed for the First Time,2003,2003,012,New Goods Vehicles,Number,30532
+TEA01,Vehicles Licensed for the First Time,2003,2003,013,New Tractors,Number,2970
+TEA01,Vehicles Licensed for the First Time,2003,2003,014,New Motor Cycles,Number,4993
+TEA01,Vehicles Licensed for the First Time,2003,2003,015,New Exempt Vehicles,Number,4022
+TEA01,Vehicles Licensed for the First Time,2003,2003,01601,New Public Service Vehicles,Number,1081
+TEA01,Vehicles Licensed for the First Time,2003,2003,016011,New Small Public Service Vehicles,Number,599
+TEA01,Vehicles Licensed for the First Time,2003,2003,016012,New Large Public Service Vehicles,Number,482
+TEA01,Vehicles Licensed for the First Time,2003,2003,01604,New Machines or Contrivances,Number,1123
+TEA01,Vehicles Licensed for the First Time,2003,2003,01605,Other Classes New Other Vehicles,Number,396
+TEA01,Vehicles Licensed for the First Time,2003,2003,02,Secondhand Vehicles,Number,29507
+TEA01,Vehicles Licensed for the First Time,2003,2003,021,Secondhand Private Cars,Number,13472
+TEA01,Vehicles Licensed for the First Time,2003,2003,022,Secondhand Goods Vehicles,Number,6294
+TEA01,Vehicles Licensed for the First Time,2003,2003,023,Secondhand Tractors,Number,3044
+TEA01,Vehicles Licensed for the First Time,2003,2003,024,Secondhand Other Vehicles,Number,6697
+TEA01,Vehicles Licensed for the First Time,2004,2004,-,All Vehicles,Number,234859
+TEA01,Vehicles Licensed for the First Time,2004,2004,01,New Vehicles,Number,195507
+TEA01,Vehicles Licensed for the First Time,2004,2004,011,New Private Cars,Number,149635
+TEA01,Vehicles Licensed for the First Time,2004,2004,012,New Goods Vehicles,Number,31165
+TEA01,Vehicles Licensed for the First Time,2004,2004,013,New Tractors,Number,2881
+TEA01,Vehicles Licensed for the First Time,2004,2004,014,New Motor Cycles,Number,3833
+TEA01,Vehicles Licensed for the First Time,2004,2004,015,New Exempt Vehicles,Number,5099
+TEA01,Vehicles Licensed for the First Time,2004,2004,01601,New Public Service Vehicles,Number,1181
+TEA01,Vehicles Licensed for the First Time,2004,2004,016011,New Small Public Service Vehicles,Number,652
+TEA01,Vehicles Licensed for the First Time,2004,2004,016012,New Large Public Service Vehicles,Number,529
+TEA01,Vehicles Licensed for the First Time,2004,2004,01604,New Machines or Contrivances,Number,1241
+TEA01,Vehicles Licensed for the First Time,2004,2004,01605,Other Classes New Other Vehicles,Number,472
+TEA01,Vehicles Licensed for the First Time,2004,2004,02,Secondhand Vehicles,Number,39352
+TEA01,Vehicles Licensed for the First Time,2004,2004,021,Secondhand Private Cars,Number,21391
+TEA01,Vehicles Licensed for the First Time,2004,2004,022,Secondhand Goods Vehicles,Number,7948
+TEA01,Vehicles Licensed for the First Time,2004,2004,023,Secondhand Tractors,Number,3021
+TEA01,Vehicles Licensed for the First Time,2004,2004,024,Secondhand Other Vehicles,Number,6992
+TEA01,Vehicles Licensed for the First Time,2005,2005,-,All Vehicles,Number,280584
+TEA01,Vehicles Licensed for the First Time,2005,2005,01,New Vehicles,Number,219284
+TEA01,Vehicles Licensed for the First Time,2005,2005,011,New Private Cars,Number,166270
+TEA01,Vehicles Licensed for the First Time,2005,2005,012,New Goods Vehicles,Number,38396
+TEA01,Vehicles Licensed for the First Time,2005,2005,013,New Tractors,Number,3168
+TEA01,Vehicles Licensed for the First Time,2005,2005,014,New Motor Cycles,Number,3240
+TEA01,Vehicles Licensed for the First Time,2005,2005,015,New Exempt Vehicles,Number,4851
+TEA01,Vehicles Licensed for the First Time,2005,2005,01601,New Public Service Vehicles,Number,1400
+TEA01,Vehicles Licensed for the First Time,2005,2005,016011,New Small Public Service Vehicles,Number,902
+TEA01,Vehicles Licensed for the First Time,2005,2005,016012,New Large Public Service Vehicles,Number,498
+TEA01,Vehicles Licensed for the First Time,2005,2005,01604,New Machines or Contrivances,Number,1359
+TEA01,Vehicles Licensed for the First Time,2005,2005,01605,Other Classes New Other Vehicles,Number,600
+TEA01,Vehicles Licensed for the First Time,2005,2005,02,Secondhand Vehicles,Number,61300
+TEA01,Vehicles Licensed for the First Time,2005,2005,021,Secondhand Private Cars,Number,38207
+TEA01,Vehicles Licensed for the First Time,2005,2005,022,Secondhand Goods Vehicles,Number,11590
+TEA01,Vehicles Licensed for the First Time,2005,2005,023,Secondhand Tractors,Number,3327
+TEA01,Vehicles Licensed for the First Time,2005,2005,024,Secondhand Other Vehicles,Number,8176
+TEA01,Vehicles Licensed for the First Time,2006,2006,-,All Vehicles,Number,316140
+TEA01,Vehicles Licensed for the First Time,2006,2006,01,New Vehicles,Number,233727
+TEA01,Vehicles Licensed for the First Time,2006,2006,011,New Private Cars,Number,173273
+TEA01,Vehicles Licensed for the First Time,2006,2006,012,New Goods Vehicles,Number,43619
+TEA01,Vehicles Licensed for the First Time,2006,2006,013,New Tractors,Number,3687
+TEA01,Vehicles Licensed for the First Time,2006,2006,014,New Motor Cycles,Number,3206
+TEA01,Vehicles Licensed for the First Time,2006,2006,015,New Exempt Vehicles,Number,6169
+TEA01,Vehicles Licensed for the First Time,2006,2006,01601,New Public Service Vehicles,Number,1732
+TEA01,Vehicles Licensed for the First Time,2006,2006,016011,New Small Public Service Vehicles,Number,1033
+TEA01,Vehicles Licensed for the First Time,2006,2006,016012,New Large Public Service Vehicles,Number,699
+TEA01,Vehicles Licensed for the First Time,2006,2006,01604,New Machines or Contrivances,Number,1327
+TEA01,Vehicles Licensed for the First Time,2006,2006,01605,Other Classes New Other Vehicles,Number,714
+TEA01,Vehicles Licensed for the First Time,2006,2006,02,Secondhand Vehicles,Number,82413
+TEA01,Vehicles Licensed for the First Time,2006,2006,021,Secondhand Private Cars,Number,54244
+TEA01,Vehicles Licensed for the First Time,2006,2006,022,Secondhand Goods Vehicles,Number,15228
+TEA01,Vehicles Licensed for the First Time,2006,2006,023,Secondhand Tractors,Number,3601
+TEA01,Vehicles Licensed for the First Time,2006,2006,024,Secondhand Other Vehicles,Number,9340
+TEA01,Vehicles Licensed for the First Time,2007,2007,-,All Vehicles,Number,333996
+TEA01,Vehicles Licensed for the First Time,2007,2007,01,New Vehicles,Number,246446
+TEA01,Vehicles Licensed for the First Time,2007,2007,011,New Private Cars,Number,180754
+TEA01,Vehicles Licensed for the First Time,2007,2007,012,New Goods Vehicles,Number,46043
+TEA01,Vehicles Licensed for the First Time,2007,2007,013,New Tractors,Number,4442
+TEA01,Vehicles Licensed for the First Time,2007,2007,014,New Motor Cycles,Number,3522
+TEA01,Vehicles Licensed for the First Time,2007,2007,015,New Exempt Vehicles,Number,7422
+TEA01,Vehicles Licensed for the First Time,2007,2007,01601,New Public Service Vehicles,Number,1956
+TEA01,Vehicles Licensed for the First Time,2007,2007,016011,New Small Public Service Vehicles,Number,1283
+TEA01,Vehicles Licensed for the First Time,2007,2007,016012,New Large Public Service Vehicles,Number,673
+TEA01,Vehicles Licensed for the First Time,2007,2007,01604,New Machines or Contrivances,Number,1445
+TEA01,Vehicles Licensed for the First Time,2007,2007,01605,Other Classes New Other Vehicles,Number,862
+TEA01,Vehicles Licensed for the First Time,2007,2007,02,Secondhand Vehicles,Number,87550
+TEA01,Vehicles Licensed for the First Time,2007,2007,021,Secondhand Private Cars,Number,58719
+TEA01,Vehicles Licensed for the First Time,2007,2007,022,Secondhand Goods Vehicles,Number,14785
+TEA01,Vehicles Licensed for the First Time,2007,2007,023,Secondhand Tractors,Number,3492
+TEA01,Vehicles Licensed for the First Time,2007,2007,024,Secondhand Other Vehicles,Number,10554
+TEA01,Vehicles Licensed for the First Time,2008,2008,-,All Vehicles,Number,282557
+TEA01,Vehicles Licensed for the First Time,2008,2008,01,New Vehicles,Number,194817
+TEA01,Vehicles Licensed for the First Time,2008,2008,011,New Private Cars,Number,146470
+TEA01,Vehicles Licensed for the First Time,2008,2008,012,New Goods Vehicles,Number,31459
+TEA01,Vehicles Licensed for the First Time,2008,2008,013,New Tractors,Number,4154
+TEA01,Vehicles Licensed for the First Time,2008,2008,014,New Motor Cycles,Number,3194
+TEA01,Vehicles Licensed for the First Time,2008,2008,015,New Exempt Vehicles,Number,6286
+TEA01,Vehicles Licensed for the First Time,2008,2008,01601,New Public Service Vehicles,Number,1614
+TEA01,Vehicles Licensed for the First Time,2008,2008,016011,New Small Public Service Vehicles,Number,893
+TEA01,Vehicles Licensed for the First Time,2008,2008,016012,New Large Public Service Vehicles,Number,721
+TEA01,Vehicles Licensed for the First Time,2008,2008,01604,New Machines or Contrivances,Number,906
+TEA01,Vehicles Licensed for the First Time,2008,2008,01605,Other Classes New Other Vehicles,Number,734
+TEA01,Vehicles Licensed for the First Time,2008,2008,02,Secondhand Vehicles,Number,87740
+TEA01,Vehicles Licensed for the First Time,2008,2008,021,Secondhand Private Cars,Number,60091
+TEA01,Vehicles Licensed for the First Time,2008,2008,022,Secondhand Goods Vehicles,Number,13133
+TEA01,Vehicles Licensed for the First Time,2008,2008,023,Secondhand Tractors,Number,3412
+TEA01,Vehicles Licensed for the First Time,2008,2008,024,Secondhand Other Vehicles,Number,11104
+TEA01,Vehicles Licensed for the First Time,2009,2009,-,All Vehicles,Number,149389
+TEA01,Vehicles Licensed for the First Time,2009,2009,01,New Vehicles,Number,73125
+TEA01,Vehicles Licensed for the First Time,2009,2009,011,New Private Cars,Number,54432
+TEA01,Vehicles Licensed for the First Time,2009,2009,012,New Goods Vehicles,Number,10051
+TEA01,Vehicles Licensed for the First Time,2009,2009,013,New Tractors,Number,1883
+TEA01,Vehicles Licensed for the First Time,2009,2009,014,New Motor Cycles,Number,1879
+TEA01,Vehicles Licensed for the First Time,2009,2009,015,New Exempt Vehicles,Number,3690
+TEA01,Vehicles Licensed for the First Time,2009,2009,01601,New Public Service Vehicles,Number,493
+TEA01,Vehicles Licensed for the First Time,2009,2009,016011,New Small Public Service Vehicles,Number,190
+TEA01,Vehicles Licensed for the First Time,2009,2009,016012,New Large Public Service Vehicles,Number,303
+TEA01,Vehicles Licensed for the First Time,2009,2009,01604,New Machines or Contrivances,Number,409
+TEA01,Vehicles Licensed for the First Time,2009,2009,01605,Other Classes New Other Vehicles,Number,288
+TEA01,Vehicles Licensed for the First Time,2009,2009,02,Secondhand Vehicles,Number,76264
+TEA01,Vehicles Licensed for the First Time,2009,2009,021,Secondhand Private Cars,Number,49464
+TEA01,Vehicles Licensed for the First Time,2009,2009,022,Secondhand Goods Vehicles,Number,13761
+TEA01,Vehicles Licensed for the First Time,2009,2009,023,Secondhand Tractors,Number,2845
+TEA01,Vehicles Licensed for the First Time,2009,2009,024,Secondhand Other Vehicles,Number,10194
+TEA01,Vehicles Licensed for the First Time,2010,2010,-,All Vehicles,Number,160418
+TEA01,Vehicles Licensed for the First Time,2010,2010,01,New Vehicles,Number,103076
+TEA01,Vehicles Licensed for the First Time,2010,2010,011,New Private Cars,Number,84907
+TEA01,Vehicles Licensed for the First Time,2010,2010,012,New Goods Vehicles,Number,10510
+TEA01,Vehicles Licensed for the First Time,2010,2010,013,New Tractors,Number,1359
+TEA01,Vehicles Licensed for the First Time,2010,2010,014,New Motor Cycles,Number,1321
+TEA01,Vehicles Licensed for the First Time,2010,2010,015,New Exempt Vehicles,Number,4207
+TEA01,Vehicles Licensed for the First Time,2010,2010,01601,New Public Service Vehicles,Number,306
+TEA01,Vehicles Licensed for the First Time,2010,2010,016011,New Small Public Service Vehicles,Number,193
+TEA01,Vehicles Licensed for the First Time,2010,2010,016012,New Large Public Service Vehicles,Number,113
+TEA01,Vehicles Licensed for the First Time,2010,2010,01604,New Machines or Contrivances,Number,222
+TEA01,Vehicles Licensed for the First Time,2010,2010,01605,Other Classes New Other Vehicles,Number,244
+TEA01,Vehicles Licensed for the First Time,2010,2010,02,Secondhand Vehicles,Number,57342
+TEA01,Vehicles Licensed for the First Time,2010,2010,021,Secondhand Private Cars,Number,39103
+TEA01,Vehicles Licensed for the First Time,2010,2010,022,Secondhand Goods Vehicles,Number,8207
+TEA01,Vehicles Licensed for the First Time,2010,2010,023,Secondhand Tractors,Number,2194
+TEA01,Vehicles Licensed for the First Time,2010,2010,024,Secondhand Other Vehicles,Number,7838
+TEA01,Vehicles Licensed for the First Time,2011,2011,-,All Vehicles,Number,160777
+TEA01,Vehicles Licensed for the First Time,2011,2011,01,New Vehicles,Number,105761
+TEA01,Vehicles Licensed for the First Time,2011,2011,011,New Private Cars,Number,86932
+TEA01,Vehicles Licensed for the First Time,2011,2011,012,New Goods Vehicles,Number,11188
+TEA01,Vehicles Licensed for the First Time,2011,2011,013,New Tractors,Number,1731
+TEA01,Vehicles Licensed for the First Time,2011,2011,014,New Motor Cycles,Number,1102
+TEA01,Vehicles Licensed for the First Time,2011,2011,015,New Exempt Vehicles,Number,4014
+TEA01,Vehicles Licensed for the First Time,2011,2011,01601,New Public Service Vehicles,Number,297
+TEA01,Vehicles Licensed for the First Time,2011,2011,016011,New Small Public Service Vehicles,Number,195
+TEA01,Vehicles Licensed for the First Time,2011,2011,016012,New Large Public Service Vehicles,Number,102
+TEA01,Vehicles Licensed for the First Time,2011,2011,01604,New Machines or Contrivances,Number,294
+TEA01,Vehicles Licensed for the First Time,2011,2011,01605,Other Classes New Other Vehicles,Number,203
+TEA01,Vehicles Licensed for the First Time,2011,2011,02,Secondhand Vehicles,Number,55016
+TEA01,Vehicles Licensed for the First Time,2011,2011,021,Secondhand Private Cars,Number,41149
+TEA01,Vehicles Licensed for the First Time,2011,2011,022,Secondhand Goods Vehicles,Number,5227
+TEA01,Vehicles Licensed for the First Time,2011,2011,023,Secondhand Tractors,Number,2537
+TEA01,Vehicles Licensed for the First Time,2011,2011,024,Secondhand Other Vehicles,Number,6103
+TEA01,Vehicles Licensed for the First Time,2012,2012,-,All Vehicles,Number,145033
+TEA01,Vehicles Licensed for the First Time,2012,2012,01,New Vehicles,Number,95093
+TEA01,Vehicles Licensed for the First Time,2012,2012,011,New Private Cars,Number,76256
+TEA01,Vehicles Licensed for the First Time,2012,2012,012,New Goods Vehicles,Number,10855
+TEA01,Vehicles Licensed for the First Time,2012,2012,013,New Tractors,Number,1996
+TEA01,Vehicles Licensed for the First Time,2012,2012,014,New Motor Cycles,Number,955
+TEA01,Vehicles Licensed for the First Time,2012,2012,015,New Exempt Vehicles,Number,3930
+TEA01,Vehicles Licensed for the First Time,2012,2012,01601,New Public Service Vehicles,Number,531
+TEA01,Vehicles Licensed for the First Time,2012,2012,016011,New Small Public Service Vehicles,Number,275
+TEA01,Vehicles Licensed for the First Time,2012,2012,016012,New Large Public Service Vehicles,Number,256
+TEA01,Vehicles Licensed for the First Time,2012,2012,01604,New Machines or Contrivances,Number,409
+TEA01,Vehicles Licensed for the First Time,2012,2012,01605,Other Classes New Other Vehicles,Number,161
+TEA01,Vehicles Licensed for the First Time,2012,2012,02,Secondhand Vehicles,Number,49940
+TEA01,Vehicles Licensed for the First Time,2012,2012,021,Secondhand Private Cars,Number,38469
+TEA01,Vehicles Licensed for the First Time,2012,2012,022,Secondhand Goods Vehicles,Number,4731
+TEA01,Vehicles Licensed for the First Time,2012,2012,023,Secondhand Tractors,Number,1781
+TEA01,Vehicles Licensed for the First Time,2012,2012,024,Secondhand Other Vehicles,Number,4959
+TEA01,Vehicles Licensed for the First Time,2013,2013,-,All Vehicles,Number,164043
+TEA01,Vehicles Licensed for the First Time,2013,2013,01,New Vehicles,Number,92887
+TEA01,Vehicles Licensed for the First Time,2013,2013,011,New Private Cars,Number,71348
+TEA01,Vehicles Licensed for the First Time,2013,2013,012,New Goods Vehicles,Number,11024
+TEA01,Vehicles Licensed for the First Time,2013,2013,013,New Tractors,Number,4403
+TEA01,Vehicles Licensed for the First Time,2013,2013,014,New Motor Cycles,Number,878
+TEA01,Vehicles Licensed for the First Time,2013,2013,015,New Exempt Vehicles,Number,3955
+TEA01,Vehicles Licensed for the First Time,2013,2013,01601,New Public Service Vehicles,Number,378
+TEA01,Vehicles Licensed for the First Time,2013,2013,016011,New Small Public Service Vehicles,Number,160
+TEA01,Vehicles Licensed for the First Time,2013,2013,016012,New Large Public Service Vehicles,Number,218
+TEA01,Vehicles Licensed for the First Time,2013,2013,01604,New Machines or Contrivances,Number,606
+TEA01,Vehicles Licensed for the First Time,2013,2013,01605,Other Classes New Other Vehicles,Number,295
+TEA01,Vehicles Licensed for the First Time,2013,2013,02,Secondhand Vehicles,Number,71156
+TEA01,Vehicles Licensed for the First Time,2013,2013,021,Secondhand Private Cars,Number,49762
+TEA01,Vehicles Licensed for the First Time,2013,2013,022,Secondhand Goods Vehicles,Number,7533
+TEA01,Vehicles Licensed for the First Time,2013,2013,023,Secondhand Tractors,Number,6598
+TEA01,Vehicles Licensed for the First Time,2013,2013,024,Secondhand Other Vehicles,Number,7263
+TEA01,Vehicles Licensed for the First Time,2014,2014,-,All Vehicles,Number,187920
+TEA01,Vehicles Licensed for the First Time,2014,2014,01,New Vehicles,Number,117652
+TEA01,Vehicles Licensed for the First Time,2014,2014,011,New Private Cars,Number,92361
+TEA01,Vehicles Licensed for the First Time,2014,2014,012,New Goods Vehicles,Number,16254
+TEA01,Vehicles Licensed for the First Time,2014,2014,013,New Tractors,Number,2186
+TEA01,Vehicles Licensed for the First Time,2014,2014,014,New Motor Cycles,Number,960
+TEA01,Vehicles Licensed for the First Time,2014,2014,015,New Exempt Vehicles,Number,4762
+TEA01,Vehicles Licensed for the First Time,2014,2014,01601,New Public Service Vehicles,Number,517
+TEA01,Vehicles Licensed for the First Time,2014,2014,016011,New Small Public Service Vehicles,Number,237
+TEA01,Vehicles Licensed for the First Time,2014,2014,016012,New Large Public Service Vehicles,Number,280
+TEA01,Vehicles Licensed for the First Time,2014,2014,01604,New Machines or Contrivances,Number,399
+TEA01,Vehicles Licensed for the First Time,2014,2014,01605,Other Classes New Other Vehicles,Number,213
+TEA01,Vehicles Licensed for the First Time,2014,2014,02,Secondhand Vehicles,Number,70268
+TEA01,Vehicles Licensed for the First Time,2014,2014,021,Secondhand Private Cars,Number,52863
+TEA01,Vehicles Licensed for the First Time,2014,2014,022,Secondhand Goods Vehicles,Number,9074
+TEA01,Vehicles Licensed for the First Time,2014,2014,023,Secondhand Tractors,Number,2357
+TEA01,Vehicles Licensed for the First Time,2014,2014,024,Secondhand Other Vehicles,Number,5974
+TEA01,Vehicles Licensed for the First Time,2015,2015,-,All Vehicles,Number,216523
+TEA01,Vehicles Licensed for the First Time,2015,2015,01,New Vehicles,Number,153850
+TEA01,Vehicles Licensed for the First Time,2015,2015,011,New Private Cars,Number,121110
+TEA01,Vehicles Licensed for the First Time,2015,2015,012,New Goods Vehicles,Number,22939
+TEA01,Vehicles Licensed for the First Time,2015,2015,013,New Tractors,Number,1986
+TEA01,Vehicles Licensed for the First Time,2015,2015,014,New Motor Cycles,Number,1244
+TEA01,Vehicles Licensed for the First Time,2015,2015,015,New Exempt Vehicles,Number,5234
+TEA01,Vehicles Licensed for the First Time,2015,2015,01601,New Public Service Vehicles,Number,761
+TEA01,Vehicles Licensed for the First Time,2015,2015,016011,New Small Public Service Vehicles,Number,343
+TEA01,Vehicles Licensed for the First Time,2015,2015,016012,New Large Public Service Vehicles,Number,418
+TEA01,Vehicles Licensed for the First Time,2015,2015,01604,New Machines or Contrivances,Number,409
+TEA01,Vehicles Licensed for the First Time,2015,2015,01605,Other Classes New Other Vehicles,Number,167
+TEA01,Vehicles Licensed for the First Time,2015,2015,02,Secondhand Vehicles,Number,62673
+TEA01,Vehicles Licensed for the First Time,2015,2015,021,Secondhand Private Cars,Number,47217
+TEA01,Vehicles Licensed for the First Time,2015,2015,022,Secondhand Goods Vehicles,Number,8352
+TEA01,Vehicles Licensed for the First Time,2015,2015,023,Secondhand Tractors,Number,1787
+TEA01,Vehicles Licensed for the First Time,2015,2015,024,Secondhand Other Vehicles,Number,5317
+TEA01,Vehicles Licensed for the First Time,2016,2016,-,All Vehicles,Number,270896
+TEA01,Vehicles Licensed for the First Time,2016,2016,01,New Vehicles,Number,181293
+TEA01,Vehicles Licensed for the First Time,2016,2016,011,New Private Cars,Number,141931
+TEA01,Vehicles Licensed for the First Time,2016,2016,012,New Goods Vehicles,Number,28051
+TEA01,Vehicles Licensed for the First Time,2016,2016,013,New Tractors,Number,1934
+TEA01,Vehicles Licensed for the First Time,2016,2016,014,New Motor Cycles,Number,1546
+TEA01,Vehicles Licensed for the First Time,2016,2016,015,New Exempt Vehicles,Number,6207
+TEA01,Vehicles Licensed for the First Time,2016,2016,01601,New Public Service Vehicles,Number,957
+TEA01,Vehicles Licensed for the First Time,2016,2016,016011,New Small Public Service Vehicles,Number,500
+TEA01,Vehicles Licensed for the First Time,2016,2016,016012,New Large Public Service Vehicles,Number,457
+TEA01,Vehicles Licensed for the First Time,2016,2016,01604,New Machines or Contrivances,Number,444
+TEA01,Vehicles Licensed for the First Time,2016,2016,01605,Other Classes New Other Vehicles,Number,223
+TEA01,Vehicles Licensed for the First Time,2016,2016,02,Secondhand Vehicles,Number,89603
+TEA01,Vehicles Licensed for the First Time,2016,2016,021,Secondhand Private Cars,Number,70138
+TEA01,Vehicles Licensed for the First Time,2016,2016,022,Secondhand Goods Vehicles,Number,10925
+TEA01,Vehicles Licensed for the First Time,2016,2016,023,Secondhand Tractors,Number,1908
+TEA01,Vehicles Licensed for the First Time,2016,2016,024,Secondhand Other Vehicles,Number,6632
+TEA01,Vehicles Licensed for the First Time,2017,2017,-,All Vehicles,Number,279858
+TEA01,Vehicles Licensed for the First Time,2017,2017,01,New Vehicles,Number,161840
+TEA01,Vehicles Licensed for the First Time,2017,2017,011,New Private Cars,Number,127045
+TEA01,Vehicles Licensed for the First Time,2017,2017,012,New Goods Vehicles,Number,24101
+TEA01,Vehicles Licensed for the First Time,2017,2017,013,New Tractors,Number,1810
+TEA01,Vehicles Licensed for the First Time,2017,2017,014,New Motor Cycles,Number,1431
+TEA01,Vehicles Licensed for the First Time,2017,2017,015,New Exempt Vehicles,Number,5854
+TEA01,Vehicles Licensed for the First Time,2017,2017,01601,New Public Service Vehicles,Number,942
+TEA01,Vehicles Licensed for the First Time,2017,2017,016011,New Small Public Service Vehicles,Number,505
+TEA01,Vehicles Licensed for the First Time,2017,2017,016012,New Large Public Service Vehicles,Number,437
+TEA01,Vehicles Licensed for the First Time,2017,2017,01604,New Machines or Contrivances,Number,424
+TEA01,Vehicles Licensed for the First Time,2017,2017,01605,Other Classes New Other Vehicles,Number,233
+TEA01,Vehicles Licensed for the First Time,2017,2017,02,Secondhand Vehicles,Number,118018
+TEA01,Vehicles Licensed for the First Time,2017,2017,021,Secondhand Private Cars,Number,92508
+TEA01,Vehicles Licensed for the First Time,2017,2017,022,Secondhand Goods Vehicles,Number,14168
+TEA01,Vehicles Licensed for the First Time,2017,2017,023,Secondhand Tractors,Number,2453
+TEA01,Vehicles Licensed for the First Time,2017,2017,024,Secondhand Other Vehicles,Number,8889
+TEA01,Vehicles Licensed for the First Time,2018,2018,-,All Vehicles,Number,283739
+TEA01,Vehicles Licensed for the First Time,2018,2018,01,New Vehicles,Number,157865
+TEA01,Vehicles Licensed for the First Time,2018,2018,011,New Private Cars,Number,121157
+TEA01,Vehicles Licensed for the First Time,2018,2018,012,New Goods Vehicles,Number,25459
+TEA01,Vehicles Licensed for the First Time,2018,2018,013,New Tractors,Number,2043
+TEA01,Vehicles Licensed for the First Time,2018,2018,014,New Motor Cycles,Number,1556
+TEA01,Vehicles Licensed for the First Time,2018,2018,015,New Exempt Vehicles,Number,5910
+TEA01,Vehicles Licensed for the First Time,2018,2018,01601,New Public Service Vehicles,Number,976
+TEA01,Vehicles Licensed for the First Time,2018,2018,016011,New Small Public Service Vehicles,Number,418
+TEA01,Vehicles Licensed for the First Time,2018,2018,016012,New Large Public Service Vehicles,Number,558
+TEA01,Vehicles Licensed for the First Time,2018,2018,01604,New Machines or Contrivances,Number,472
+TEA01,Vehicles Licensed for the First Time,2018,2018,01605,Other Classes New Other Vehicles,Number,292
+TEA01,Vehicles Licensed for the First Time,2018,2018,02,Secondhand Vehicles,Number,125874
+TEA01,Vehicles Licensed for the First Time,2018,2018,021,Secondhand Private Cars,Number,99456
+TEA01,Vehicles Licensed for the First Time,2018,2018,022,Secondhand Goods Vehicles,Number,14859
+TEA01,Vehicles Licensed for the First Time,2018,2018,023,Secondhand Tractors,Number,2198
+TEA01,Vehicles Licensed for the First Time,2018,2018,024,Secondhand Other Vehicles,Number,9361
+TEA01,Vehicles Licensed for the First Time,2019,2019,-,All Vehicles,Number,286944
+TEA01,Vehicles Licensed for the First Time,2019,2019,01,New Vehicles,Number,149748
+TEA01,Vehicles Licensed for the First Time,2019,2019,011,New Private Cars,Number,113305
+TEA01,Vehicles Licensed for the First Time,2019,2019,012,New Goods Vehicles,Number,24645
+TEA01,Vehicles Licensed for the First Time,2019,2019,013,New Tractors,Number,2137
+TEA01,Vehicles Licensed for the First Time,2019,2019,014,New Motor Cycles,Number,1848
+TEA01,Vehicles Licensed for the First Time,2019,2019,015,New Exempt Vehicles,Number,5976
+TEA01,Vehicles Licensed for the First Time,2019,2019,01601,New Public Service Vehicles,Number,944
+TEA01,Vehicles Licensed for the First Time,2019,2019,016011,New Small Public Service Vehicles,Number,435
+TEA01,Vehicles Licensed for the First Time,2019,2019,016012,New Large Public Service Vehicles,Number,509
+TEA01,Vehicles Licensed for the First Time,2019,2019,01604,New Machines or Contrivances,Number,547
+TEA01,Vehicles Licensed for the First Time,2019,2019,01605,Other Classes New Other Vehicles,Number,346
+TEA01,Vehicles Licensed for the First Time,2019,2019,02,Secondhand Vehicles,Number,137196
+TEA01,Vehicles Licensed for the First Time,2019,2019,021,Secondhand Private Cars,Number,108895
+TEA01,Vehicles Licensed for the First Time,2019,2019,022,Secondhand Goods Vehicles,Number,15152
+TEA01,Vehicles Licensed for the First Time,2019,2019,023,Secondhand Tractors,Number,2595
+TEA01,Vehicles Licensed for the First Time,2019,2019,024,Secondhand Other Vehicles,Number,10554
+TEA01,Vehicles Licensed for the First Time,2020,2020,-,All Vehicles,Number,217986
+TEA01,Vehicles Licensed for the First Time,2020,2020,01,New Vehicles,Number,116514
+TEA01,Vehicles Licensed for the First Time,2020,2020,011,New Private Cars,Number,84309
+TEA01,Vehicles Licensed for the First Time,2020,2020,012,New Goods Vehicles,Number,21495
+TEA01,Vehicles Licensed for the First Time,2020,2020,013,New Tractors,Number,2190
+TEA01,Vehicles Licensed for the First Time,2020,2020,014,New Motor Cycles,Number,1709
+TEA01,Vehicles Licensed for the First Time,2020,2020,015,New Exempt Vehicles,Number,5692
+TEA01,Vehicles Licensed for the First Time,2020,2020,01601,New Public Service Vehicles,Number,379
+TEA01,Vehicles Licensed for the First Time,2020,2020,016011,New Small Public Service Vehicles,Number,212
+TEA01,Vehicles Licensed for the First Time,2020,2020,016012,New Large Public Service Vehicles,Number,167
+TEA01,Vehicles Licensed for the First Time,2020,2020,01604,New Machines or Contrivances,Number,415
+TEA01,Vehicles Licensed for the First Time,2020,2020,01605,Other Classes New Other Vehicles,Number,325
+TEA01,Vehicles Licensed for the First Time,2020,2020,02,Secondhand Vehicles,Number,101472
+TEA01,Vehicles Licensed for the First Time,2020,2020,021,Secondhand Private Cars,Number,78541
+TEA01,Vehicles Licensed for the First Time,2020,2020,022,Secondhand Goods Vehicles,Number,11753
+TEA01,Vehicles Licensed for the First Time,2020,2020,023,Secondhand Tractors,Number,2648
+TEA01,Vehicles Licensed for the First Time,2020,2020,024,Secondhand Other Vehicles,Number,8530
+TEA01,Vehicles Licensed for the First Time,2021,2021,-,All Vehicles,Number,234337
+TEA01,Vehicles Licensed for the First Time,2021,2021,01,New Vehicles,Number,142376
+TEA01,Vehicles Licensed for the First Time,2021,2021,011,New Private Cars,Number,101853
+TEA01,Vehicles Licensed for the First Time,2021,2021,012,New Goods Vehicles,Number,28387
+TEA01,Vehicles Licensed for the First Time,2021,2021,013,New Tractors,Number,2491
+TEA01,Vehicles Licensed for the First Time,2021,2021,014,New Motor Cycles,Number,2335
+TEA01,Vehicles Licensed for the First Time,2021,2021,015,New Exempt Vehicles,Number,5604
+TEA01,Vehicles Licensed for the First Time,2021,2021,01601,New Public Service Vehicles,Number,630
+TEA01,Vehicles Licensed for the First Time,2021,2021,016011,New Small Public Service Vehicles,Number,156
+TEA01,Vehicles Licensed for the First Time,2021,2021,016012,New Large Public Service Vehicles,Number,474
+TEA01,Vehicles Licensed for the First Time,2021,2021,01604,New Machines or Contrivances,Number,570
+TEA01,Vehicles Licensed for the First Time,2021,2021,01605,Other Classes New Other Vehicles,Number,506
+TEA01,Vehicles Licensed for the First Time,2021,2021,02,Secondhand Vehicles,Number,91961
+TEA01,Vehicles Licensed for the First Time,2021,2021,021,Secondhand Private Cars,Number,68042
+TEA01,Vehicles Licensed for the First Time,2021,2021,022,Secondhand Goods Vehicles,Number,10631
+TEA01,Vehicles Licensed for the First Time,2021,2021,023,Secondhand Tractors,Number,3341
+TEA01,Vehicles Licensed for the First Time,2021,2021,024,Secondhand Other Vehicles,Number,9947
+TEA01,Vehicles Licensed for the First Time,2022,2022,-,All Vehicles,Number,202701
+TEA01,Vehicles Licensed for the First Time,2022,2022,01,New Vehicles,Number,137248
+TEA01,Vehicles Licensed for the First Time,2022,2022,011,New Private Cars,Number,101349
+TEA01,Vehicles Licensed for the First Time,2022,2022,012,New Goods Vehicles,Number,23655
+TEA01,Vehicles Licensed for the First Time,2022,2022,013,New Tractors,Number,2368
+TEA01,Vehicles Licensed for the First Time,2022,2022,014,New Motor Cycles,Number,2871
+TEA01,Vehicles Licensed for the First Time,2022,2022,015,New Exempt Vehicles,Number,5534
+TEA01,Vehicles Licensed for the First Time,2022,2022,01601,New Public Service Vehicles,Number,537
+TEA01,Vehicles Licensed for the First Time,2022,2022,016011,New Small Public Service Vehicles,Number,162
+TEA01,Vehicles Licensed for the First Time,2022,2022,016012,New Large Public Service Vehicles,Number,375
+TEA01,Vehicles Licensed for the First Time,2022,2022,01604,New Machines or Contrivances,Number,561
+TEA01,Vehicles Licensed for the First Time,2022,2022,01605,Other Classes New Other Vehicles,Number,373
+TEA01,Vehicles Licensed for the First Time,2022,2022,02,Secondhand Vehicles,Number,65453
+TEA01,Vehicles Licensed for the First Time,2022,2022,021,Secondhand Private Cars,Number,46567
+TEA01,Vehicles Licensed for the First Time,2022,2022,022,Secondhand Goods Vehicles,Number,8063
+TEA01,Vehicles Licensed for the First Time,2022,2022,023,Secondhand Tractors,Number,2381
+TEA01,Vehicles Licensed for the First Time,2022,2022,024,Secondhand Other Vehicles,Number,8442
+TEA01,Vehicles Licensed for the First Time,2023,2023,-,All Vehicles,Number,230613
+TEA01,Vehicles Licensed for the First Time,2023,2023,01,New Vehicles,Number,159778
+TEA01,Vehicles Licensed for the First Time,2023,2023,011,New Private Cars,Number,117424
+TEA01,Vehicles Licensed for the First Time,2023,2023,012,New Goods Vehicles,Number,29038
+TEA01,Vehicles Licensed for the First Time,2023,2023,013,New Tractors,Number,2310
+TEA01,Vehicles Licensed for the First Time,2023,2023,014,New Motor Cycles,Number,2932
+TEA01,Vehicles Licensed for the First Time,2023,2023,015,New Exempt Vehicles,Number,6225
+TEA01,Vehicles Licensed for the First Time,2023,2023,01601,New Public Service Vehicles,Number,760
+TEA01,Vehicles Licensed for the First Time,2023,2023,016011,New Small Public Service Vehicles,Number,366
+TEA01,Vehicles Licensed for the First Time,2023,2023,016012,New Large Public Service Vehicles,Number,394
+TEA01,Vehicles Licensed for the First Time,2023,2023,01604,New Machines or Contrivances,Number,645
+TEA01,Vehicles Licensed for the First Time,2023,2023,01605,Other Classes New Other Vehicles,Number,444
+TEA01,Vehicles Licensed for the First Time,2023,2023,02,Secondhand Vehicles,Number,70835
+TEA01,Vehicles Licensed for the First Time,2023,2023,021,Secondhand Private Cars,Number,50381
+TEA01,Vehicles Licensed for the First Time,2023,2023,022,Secondhand Goods Vehicles,Number,9443
+TEA01,Vehicles Licensed for the First Time,2023,2023,023,Secondhand Tractors,Number,2510
+TEA01,Vehicles Licensed for the First Time,2023,2023,024,Secondhand Other Vehicles,Number,8501
+TEA01,Vehicles Licensed for the First Time,2024,2024,-,All Vehicles,Number,245734
+TEA01,Vehicles Licensed for the First Time,2024,2024,01,New Vehicles,Number,161095
+TEA01,Vehicles Licensed for the First Time,2024,2024,011,New Private Cars,Number,116683
+TEA01,Vehicles Licensed for the First Time,2024,2024,012,New Goods Vehicles,Number,30802
+TEA01,Vehicles Licensed for the First Time,2024,2024,013,New Tractors,Number,2131
+TEA01,Vehicles Licensed for the First Time,2024,2024,014,New Motor Cycles,Number,2760
+TEA01,Vehicles Licensed for the First Time,2024,2024,015,New Exempt Vehicles,Number,6371
+TEA01,Vehicles Licensed for the First Time,2024,2024,01601,New Public Service Vehicles,Number,1241
+TEA01,Vehicles Licensed for the First Time,2024,2024,016011,New Small Public Service Vehicles,Number,502
+TEA01,Vehicles Licensed for the First Time,2024,2024,016012,New Large Public Service Vehicles,Number,739
+TEA01,Vehicles Licensed for the First Time,2024,2024,01604,New Machines or Contrivances,Number,654
+TEA01,Vehicles Licensed for the First Time,2024,2024,01605,Other Classes New Other Vehicles,Number,453
+TEA01,Vehicles Licensed for the First Time,2024,2024,02,Secondhand Vehicles,Number,84639
+TEA01,Vehicles Licensed for the First Time,2024,2024,021,Secondhand Private Cars,Number,61838
+TEA01,Vehicles Licensed for the First Time,2024,2024,022,Secondhand Goods Vehicles,Number,10978
+TEA01,Vehicles Licensed for the First Time,2024,2024,023,Secondhand Tractors,Number,2566
+TEA01,Vehicles Licensed for the First Time,2024,2024,024,Secondhand Other Vehicles,Number,9257
+TEA01,Vehicles Licensed for the First Time,2025,2025,-,All Vehicles,Number,264209
+TEA01,Vehicles Licensed for the First Time,2025,2025,01,New Vehicles,Number,167562
+TEA01,Vehicles Licensed for the First Time,2025,2025,011,New Private Cars,Number,120797
+TEA01,Vehicles Licensed for the First Time,2025,2025,012,New Goods Vehicles,Number,32223
+TEA01,Vehicles Licensed for the First Time,2025,2025,013,New Tractors,Number,2464
+TEA01,Vehicles Licensed for the First Time,2025,2025,014,New Motor Cycles,Number,2729
+TEA01,Vehicles Licensed for the First Time,2025,2025,015,New Exempt Vehicles,Number,6575
+TEA01,Vehicles Licensed for the First Time,2025,2025,01601,New Public Service Vehicles,Number,1568
+TEA01,Vehicles Licensed for the First Time,2025,2025,016011,New Small Public Service Vehicles,Number,775
+TEA01,Vehicles Licensed for the First Time,2025,2025,016012,New Large Public Service Vehicles,Number,793
+TEA01,Vehicles Licensed for the First Time,2025,2025,01604,New Machines or Contrivances,Number,757
+TEA01,Vehicles Licensed for the First Time,2025,2025,01605,Other Classes New Other Vehicles,Number,449
+TEA01,Vehicles Licensed for the First Time,2025,2025,02,Secondhand Vehicles,Number,96647
+TEA01,Vehicles Licensed for the First Time,2025,2025,021,Secondhand Private Cars,Number,71604
+TEA01,Vehicles Licensed for the First Time,2025,2025,022,Secondhand Goods Vehicles,Number,12463
+TEA01,Vehicles Licensed for the First Time,2025,2025,023,Secondhand Tractors,Number,2740
+TEA01,Vehicles Licensed for the First Time,2025,2025,024,Secondhand Other Vehicles,Number,9840

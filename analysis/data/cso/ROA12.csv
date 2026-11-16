@@ -1,0 +1,235 @@
+STATISTIC,STATISTIC Label,TLIST(A1),Year,C03116V03768,Road User Type,UNIT,VALUE
+ROA12,Persons Killed,2000,2000,-,All road users,Number,415.0
+ROA12,Persons Killed,2000,2000,01,Pedestrians,Number,85.0
+ROA12,Persons Killed,2000,2000,02,Pedal cyclists,Number,10.0
+ROA12,Persons Killed,2000,2000,03,Motor cyclists,Number,39.0
+ROA12,Persons Killed,2000,2000,04,All Car users,Number,260.0
+ROA12,Persons Killed,2000,2000,07,PSV users,Number,
+ROA12,Persons Killed,2000,2000,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2000,2000,09,Other road users,Number,21.0
+ROA12,Persons Killed,2000,2000,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2001,2001,-,All road users,Number,411.0
+ROA12,Persons Killed,2001,2001,01,Pedestrians,Number,89.0
+ROA12,Persons Killed,2001,2001,02,Pedal cyclists,Number,12.0
+ROA12,Persons Killed,2001,2001,03,Motor cyclists,Number,50.0
+ROA12,Persons Killed,2001,2001,04,All Car users,Number,230.0
+ROA12,Persons Killed,2001,2001,07,PSV users,Number,
+ROA12,Persons Killed,2001,2001,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2001,2001,09,Other road users,Number,30.0
+ROA12,Persons Killed,2001,2001,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2002,2002,-,All road users,Number,376.0
+ROA12,Persons Killed,2002,2002,01,Pedestrians,Number,86.0
+ROA12,Persons Killed,2002,2002,02,Pedal cyclists,Number,18.0
+ROA12,Persons Killed,2002,2002,03,Motor cyclists,Number,44.0
+ROA12,Persons Killed,2002,2002,04,All Car users,Number,200.0
+ROA12,Persons Killed,2002,2002,07,PSV users,Number,
+ROA12,Persons Killed,2002,2002,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2002,2002,09,Other road users,Number,28.0
+ROA12,Persons Killed,2002,2002,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2003,2003,-,All road users,Number,335.0
+ROA12,Persons Killed,2003,2003,01,Pedestrians,Number,64.0
+ROA12,Persons Killed,2003,2003,02,Pedal cyclists,Number,11.0
+ROA12,Persons Killed,2003,2003,03,Motor cyclists,Number,55.0
+ROA12,Persons Killed,2003,2003,04,All Car users,Number,172.0
+ROA12,Persons Killed,2003,2003,07,PSV users,Number,
+ROA12,Persons Killed,2003,2003,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2003,2003,09,Other road users,Number,33.0
+ROA12,Persons Killed,2003,2003,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2004,2004,-,All road users,Number,374.0
+ROA12,Persons Killed,2004,2004,01,Pedestrians,Number,70.0
+ROA12,Persons Killed,2004,2004,02,Pedal cyclists,Number,11.0
+ROA12,Persons Killed,2004,2004,03,Motor cyclists,Number,50.0
+ROA12,Persons Killed,2004,2004,04,All Car users,Number,208.0
+ROA12,Persons Killed,2004,2004,07,PSV users,Number,
+ROA12,Persons Killed,2004,2004,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2004,2004,09,Other road users,Number,35.0
+ROA12,Persons Killed,2004,2004,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2005,2005,-,All road users,Number,396.0
+ROA12,Persons Killed,2005,2005,01,Pedestrians,Number,74.0
+ROA12,Persons Killed,2005,2005,02,Pedal cyclists,Number,10.0
+ROA12,Persons Killed,2005,2005,03,Motor cyclists,Number,56.0
+ROA12,Persons Killed,2005,2005,04,All Car users,Number,222.0
+ROA12,Persons Killed,2005,2005,07,PSV users,Number,
+ROA12,Persons Killed,2005,2005,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2005,2005,09,Other road users,Number,34.0
+ROA12,Persons Killed,2005,2005,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2006,2006,-,All road users,Number,365.0
+ROA12,Persons Killed,2006,2006,01,Pedestrians,Number,73.0
+ROA12,Persons Killed,2006,2006,02,Pedal cyclists,Number,9.0
+ROA12,Persons Killed,2006,2006,03,Motor cyclists,Number,29.0
+ROA12,Persons Killed,2006,2006,04,All Car users,Number,226.0
+ROA12,Persons Killed,2006,2006,07,PSV users,Number,
+ROA12,Persons Killed,2006,2006,08,Goods vehicle users,Number,
+ROA12,Persons Killed,2006,2006,09,Other road users,Number,28.0
+ROA12,Persons Killed,2006,2006,10,Other or unknown road users,Number,
+ROA12,Persons Killed,2007,2007,-,All road users,Number,338.0
+ROA12,Persons Killed,2007,2007,01,Pedestrians,Number,81.0
+ROA12,Persons Killed,2007,2007,02,Pedal cyclists,Number,15.0
+ROA12,Persons Killed,2007,2007,03,Motor cyclists,Number,33.0
+ROA12,Persons Killed,2007,2007,04,All Car users,Number,171.0
+ROA12,Persons Killed,2007,2007,07,PSV users,Number,1.0
+ROA12,Persons Killed,2007,2007,08,Goods vehicle users,Number,32.0
+ROA12,Persons Killed,2007,2007,09,Other road users,Number,
+ROA12,Persons Killed,2007,2007,10,Other or unknown road users,Number,5.0
+ROA12,Persons Killed,2008,2008,-,All road users,Number,279.0
+ROA12,Persons Killed,2008,2008,01,Pedestrians,Number,49.0
+ROA12,Persons Killed,2008,2008,02,Pedal cyclists,Number,13.0
+ROA12,Persons Killed,2008,2008,03,Motor cyclists,Number,29.0
+ROA12,Persons Killed,2008,2008,04,All Car users,Number,160.0
+ROA12,Persons Killed,2008,2008,07,PSV users,Number,0.0
+ROA12,Persons Killed,2008,2008,08,Goods vehicle users,Number,20.0
+ROA12,Persons Killed,2008,2008,09,Other road users,Number,
+ROA12,Persons Killed,2008,2008,10,Other or unknown road users,Number,8.0
+ROA12,Persons Killed,2009,2009,-,All road users,Number,238.0
+ROA12,Persons Killed,2009,2009,01,Pedestrians,Number,40.0
+ROA12,Persons Killed,2009,2009,02,Pedal cyclists,Number,7.0
+ROA12,Persons Killed,2009,2009,03,Motor cyclists,Number,25.0
+ROA12,Persons Killed,2009,2009,04,All Car users,Number,146.0
+ROA12,Persons Killed,2009,2009,07,PSV users,Number,1.0
+ROA12,Persons Killed,2009,2009,08,Goods vehicle users,Number,17.0
+ROA12,Persons Killed,2009,2009,09,Other road users,Number,
+ROA12,Persons Killed,2009,2009,10,Other or unknown road users,Number,2.0
+ROA12,Persons Killed,2010,2010,-,All road users,Number,212.0
+ROA12,Persons Killed,2010,2010,01,Pedestrians,Number,44.0
+ROA12,Persons Killed,2010,2010,02,Pedal cyclists,Number,5.0
+ROA12,Persons Killed,2010,2010,03,Motor cyclists,Number,17.0
+ROA12,Persons Killed,2010,2010,04,All Car users,Number,130.0
+ROA12,Persons Killed,2010,2010,07,PSV users,Number,1.0
+ROA12,Persons Killed,2010,2010,08,Goods vehicle users,Number,10.0
+ROA12,Persons Killed,2010,2010,09,Other road users,Number,
+ROA12,Persons Killed,2010,2010,10,Other or unknown road users,Number,5.0
+ROA12,Persons Killed,2011,2011,-,All road users,Number,186.0
+ROA12,Persons Killed,2011,2011,01,Pedestrians,Number,47.0
+ROA12,Persons Killed,2011,2011,02,Pedal cyclists,Number,9.0
+ROA12,Persons Killed,2011,2011,03,Motor cyclists,Number,18.0
+ROA12,Persons Killed,2011,2011,04,All Car users,Number,95.0
+ROA12,Persons Killed,2011,2011,07,PSV users,Number,0.0
+ROA12,Persons Killed,2011,2011,08,Goods vehicle users,Number,17.0
+ROA12,Persons Killed,2011,2011,09,Other road users,Number,
+ROA12,Persons Killed,2011,2011,10,Other or unknown road users,Number,0.0
+ROA12,Persons Killed,2012,2012,-,All road users,Number,163.0
+ROA12,Persons Killed,2012,2012,01,Pedestrians,Number,29.0
+ROA12,Persons Killed,2012,2012,02,Pedal cyclists,Number,8.0
+ROA12,Persons Killed,2012,2012,03,Motor cyclists,Number,19.0
+ROA12,Persons Killed,2012,2012,04,All Car users,Number,90.0
+ROA12,Persons Killed,2012,2012,07,PSV users,Number,1.0
+ROA12,Persons Killed,2012,2012,08,Goods vehicle users,Number,12.0
+ROA12,Persons Killed,2012,2012,09,Other road users,Number,
+ROA12,Persons Killed,2012,2012,10,Other or unknown road users,Number,4.0
+ROA12,Persons Killed,2013,2013,-,All road users,Number,188.0
+ROA12,Persons Killed,2013,2013,01,Pedestrians,Number,31.0
+ROA12,Persons Killed,2013,2013,02,Pedal cyclists,Number,5.0
+ROA12,Persons Killed,2013,2013,03,Motor cyclists,Number,26.0
+ROA12,Persons Killed,2013,2013,04,All Car users,Number,107.0
+ROA12,Persons Killed,2013,2013,07,PSV users,Number,0.0
+ROA12,Persons Killed,2013,2013,08,Goods vehicle users,Number,14.0
+ROA12,Persons Killed,2013,2013,09,Other road users,Number,
+ROA12,Persons Killed,2013,2013,10,Other or unknown road users,Number,5.0
+ROA12,Persons Killed,2014,2014,-,All road users,Number,192.0
+ROA12,Persons Killed,2014,2014,01,Pedestrians,Number,41.0
+ROA12,Persons Killed,2014,2014,02,Pedal cyclists,Number,13.0
+ROA12,Persons Killed,2014,2014,03,Motor cyclists,Number,24.0
+ROA12,Persons Killed,2014,2014,04,All Car users,Number,103.0
+ROA12,Persons Killed,2014,2014,07,PSV users,Number,0.0
+ROA12,Persons Killed,2014,2014,08,Goods vehicle users,Number,8.0
+ROA12,Persons Killed,2014,2014,09,Other road users,Number,
+ROA12,Persons Killed,2014,2014,10,Other or unknown road users,Number,3.0
+ROA12,Persons Killed,2015,2015,-,All road users,Number,162.0
+ROA12,Persons Killed,2015,2015,01,Pedestrians,Number,31.0
+ROA12,Persons Killed,2015,2015,02,Pedal cyclists,Number,10.0
+ROA12,Persons Killed,2015,2015,03,Motor cyclists,Number,22.0
+ROA12,Persons Killed,2015,2015,04,All Car users,Number,89.0
+ROA12,Persons Killed,2015,2015,07,PSV users,Number,0.0
+ROA12,Persons Killed,2015,2015,08,Goods vehicle users,Number,6.0
+ROA12,Persons Killed,2015,2015,09,Other road users,Number,
+ROA12,Persons Killed,2015,2015,10,Other or unknown road users,Number,4.0
+ROA12,Persons Killed,2016,2016,-,All road users,Number,182.0
+ROA12,Persons Killed,2016,2016,01,Pedestrians,Number,35.0
+ROA12,Persons Killed,2016,2016,02,Pedal cyclists,Number,10.0
+ROA12,Persons Killed,2016,2016,03,Motor cyclists,Number,22.0
+ROA12,Persons Killed,2016,2016,04,All Car users,Number,105.0
+ROA12,Persons Killed,2016,2016,07,PSV users,Number,0.0
+ROA12,Persons Killed,2016,2016,08,Goods vehicle users,Number,8.0
+ROA12,Persons Killed,2016,2016,09,Other road users,Number,
+ROA12,Persons Killed,2016,2016,10,Other or unknown road users,Number,2.0
+ROA12,Persons Killed,2017,2017,-,All road users,Number,154.0
+ROA12,Persons Killed,2017,2017,01,Pedestrians,Number,31.0
+ROA12,Persons Killed,2017,2017,02,Pedal cyclists,Number,14.0
+ROA12,Persons Killed,2017,2017,03,Motor cyclists,Number,19.0
+ROA12,Persons Killed,2017,2017,04,All Car users,Number,78.0
+ROA12,Persons Killed,2017,2017,07,PSV users,Number,0.0
+ROA12,Persons Killed,2017,2017,08,Goods vehicle users,Number,9.0
+ROA12,Persons Killed,2017,2017,09,Other road users,Number,
+ROA12,Persons Killed,2017,2017,10,Other or unknown road users,Number,3.0
+ROA12,Persons Killed,2018,2018,-,All road users,Number,134.0
+ROA12,Persons Killed,2018,2018,01,Pedestrians,Number,39.0
+ROA12,Persons Killed,2018,2018,02,Pedal cyclists,Number,9.0
+ROA12,Persons Killed,2018,2018,03,Motor cyclists,Number,15.0
+ROA12,Persons Killed,2018,2018,04,All Car users,Number,59.0
+ROA12,Persons Killed,2018,2018,07,PSV users,Number,1.0
+ROA12,Persons Killed,2018,2018,08,Goods vehicle users,Number,7.0
+ROA12,Persons Killed,2018,2018,09,Other road users,Number,
+ROA12,Persons Killed,2018,2018,10,Other or unknown road users,Number,4.0
+ROA12,Persons Killed,2019,2019,-,All road users,Number,140.0
+ROA12,Persons Killed,2019,2019,01,Pedestrians,Number,27.0
+ROA12,Persons Killed,2019,2019,02,Pedal cyclists,Number,8.0
+ROA12,Persons Killed,2019,2019,03,Motor cyclists,Number,16.0
+ROA12,Persons Killed,2019,2019,04,All Car users,Number,81.0
+ROA12,Persons Killed,2019,2019,07,PSV users,Number,0.0
+ROA12,Persons Killed,2019,2019,08,Goods vehicle users,Number,6.0
+ROA12,Persons Killed,2019,2019,09,Other road users,Number,
+ROA12,Persons Killed,2019,2019,10,Other or unknown road users,Number,2.0
+ROA12,Persons Killed,2020,2020,-,All road users,Number,141.0
+ROA12,Persons Killed,2020,2020,01,Pedestrians,Number,32.0
+ROA12,Persons Killed,2020,2020,02,Pedal cyclists,Number,10.0
+ROA12,Persons Killed,2020,2020,03,Motor cyclists,Number,17.0
+ROA12,Persons Killed,2020,2020,04,All Car users,Number,66.0
+ROA12,Persons Killed,2020,2020,07,PSV users,Number,0.0
+ROA12,Persons Killed,2020,2020,08,Goods vehicle users,Number,14.0
+ROA12,Persons Killed,2020,2020,09,Other road users,Number,
+ROA12,Persons Killed,2020,2020,10,Other or unknown road users,Number,2.0
+ROA12,Persons Killed,2021,2021,-,All road users,Number,132.0
+ROA12,Persons Killed,2021,2021,01,Pedestrians,Number,19.0
+ROA12,Persons Killed,2021,2021,02,Pedal cyclists,Number,7.0
+ROA12,Persons Killed,2021,2021,03,Motor cyclists,Number,22.0
+ROA12,Persons Killed,2021,2021,04,All Car users,Number,77.0
+ROA12,Persons Killed,2021,2021,07,PSV users,Number,1.0
+ROA12,Persons Killed,2021,2021,08,Goods vehicle users,Number,5.0
+ROA12,Persons Killed,2021,2021,09,Other road users,Number,
+ROA12,Persons Killed,2021,2021,10,Other or unknown road users,Number,1.0
+ROA12,Persons Killed,2022,2022,-,All road users,Number,152.0
+ROA12,Persons Killed,2022,2022,01,Pedestrians,Number,42.0
+ROA12,Persons Killed,2022,2022,02,Pedal cyclists,Number,7.0
+ROA12,Persons Killed,2022,2022,03,Motor cyclists,Number,23.0
+ROA12,Persons Killed,2022,2022,04,All Car users,Number,71.0
+ROA12,Persons Killed,2022,2022,07,PSV users,Number,0.0
+ROA12,Persons Killed,2022,2022,08,Goods vehicle users,Number,5.0
+ROA12,Persons Killed,2022,2022,09,Other road users,Number,
+ROA12,Persons Killed,2022,2022,10,Other or unknown road users,Number,4.0
+ROA12,Persons Killed,2023,2023,-,All road users,Number,179.0
+ROA12,Persons Killed,2023,2023,01,Pedestrians,Number,43.0
+ROA12,Persons Killed,2023,2023,02,Pedal cyclists,Number,9.0
+ROA12,Persons Killed,2023,2023,03,Motor cyclists,Number,25.0
+ROA12,Persons Killed,2023,2023,04,All Car users,Number,85.0
+ROA12,Persons Killed,2023,2023,07,PSV users,Number,0.0
+ROA12,Persons Killed,2023,2023,08,Goods vehicle users,Number,10.0
+ROA12,Persons Killed,2023,2023,09,Other road users,Number,
+ROA12,Persons Killed,2023,2023,10,Other or unknown road users,Number,7.0
+ROA12,Persons Killed,2024,2024,-,All road users,Number,171.0
+ROA12,Persons Killed,2024,2024,01,Pedestrians,Number,33.0
+ROA12,Persons Killed,2024,2024,02,Pedal cyclists,Number,12.0
+ROA12,Persons Killed,2024,2024,03,Motor cyclists,Number,17.0
+ROA12,Persons Killed,2024,2024,04,All Car users,Number,95.0
+ROA12,Persons Killed,2024,2024,07,PSV users,Number,0.0
+ROA12,Persons Killed,2024,2024,08,Goods vehicle users,Number,5.0
+ROA12,Persons Killed,2024,2024,09,Other road users,Number,
+ROA12,Persons Killed,2024,2024,10,Other or unknown road users,Number,9.0
+ROA12,Persons Killed,2025,2025,-,All road users,Number,182.0
+ROA12,Persons Killed,2025,2025,01,Pedestrians,Number,41.0
+ROA12,Persons Killed,2025,2025,02,Pedal cyclists,Number,14.0
+ROA12,Persons Killed,2025,2025,03,Motor cyclists,Number,30.0
+ROA12,Persons Killed,2025,2025,04,All Car users,Number,76.0
+ROA12,Persons Killed,2025,2025,07,PSV users,Number,0.0
+ROA12,Persons Killed,2025,2025,08,Goods vehicle users,Number,7.0
+ROA12,Persons Killed,2025,2025,09,Other road users,Number,0.0
+ROA12,Persons Killed,2025,2025,10,Other or unknown road users,Number,14.0
