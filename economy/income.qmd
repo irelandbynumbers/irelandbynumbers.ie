@@ -13,3 +13,9 @@ Disposable income is the money households have to spend or save after income tax
 In 2025, 18.8% of people in Ireland were at risk of poverty or social exclusion, as Eurostat defines it, compared with 20.9% across the EU. Ireland's rate was close to the middle of the 27 EU countries.
 
 {{< chart economy-poverty-eu >}}
+
+## Ireland and Northern Ireland
+
+The CSO and NISRA publish household income for Ireland and Northern Ireland on the same basis, adjusted for the different price levels. In 2023, disposable household income per person was 13% higher in Ireland than in Northern Ireland.
+
+{{< chart economy-ni-income >}}

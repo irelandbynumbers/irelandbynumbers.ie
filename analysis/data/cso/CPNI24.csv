@@ -1,0 +1,29 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C04335V05114,Ireland and Northern Ireland,C02832V03406,General Health,UNIT,VALUE
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,-,General health - All,Number,5084879.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,01,General health - Very good,Number,2705924.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,02,General health - Good,Number,1508222.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,03,General health - Fair,Number,440736.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,04,General health - Bad,Number,72050.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,05,General health - Very Bad,Number,16725.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,06,Not stated,Number,341222.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,-,General health - All,Number,1903175.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,01,General health - Very good,Number,951126.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,02,General health - Good,Number,546033.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,03,General health - Fair,Number,259983.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,04,General health - Bad,Number,108962.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,05,General health - Very Bad,Number,37071.0
+CPNI24C01,Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,06,Not stated,Number,0.0
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,-,General health - All,%,100.0
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,01,General health - Very good,%,53.2
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,02,General health - Good,%,29.7
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,03,General health - Fair,%,8.7
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,04,General health - Bad,%,1.4
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,05,General health - Very Bad,%,0.3
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,IE0,Ireland,06,Not stated,%,6.7
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,-,General health - All,%,100.0
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,01,General health - Very good,%,50.0
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,02,General health - Good,%,28.7
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,03,General health - Fair,%,13.7
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,04,General health - Bad,%,5.7
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,05,General health - Very Bad,%,1.9
+CPNI24C02,Percentage of Population Usually Resident  and Present,2021/2022,2021/2022,N92000002,Northern Ireland,06,Not stated,%,0.0

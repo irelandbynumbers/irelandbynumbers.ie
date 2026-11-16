@@ -1,0 +1,43 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C02199V02655,Sex,C02076V03371,Age Group,UNIT,VALUE
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,335,16 - 24 years,Number,864.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,415,25 - 34 years,Number,3047.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,465,35 - 44 years,Number,3011.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,500,45 - 54 years,Number,2260.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,535,55 - 64 years,Number,1163.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,575,65 years and over,Number,196.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,-,All ages,Number,10541.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,335,16 - 24 years,Number,617.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,415,25 - 34 years,Number,1835.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,465,35 - 44 years,Number,1917.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,500,45 - 54 years,Number,1446.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,535,55 - 64 years,Number,804.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,575,65 years and over,Number,147.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,-,All ages,Number,6766.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,335,16 - 24 years,Number,247.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,415,25 - 34 years,Number,1212.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,465,35 - 44 years,Number,1094.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,500,45 - 54 years,Number,814.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,535,55 - 64 years,Number,359.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,575,65 years and over,Number,49.0
+CPNI46C01,Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,-,All ages,Number,3775.0
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,335,16 - 24 years,%,8.2
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,415,25 - 34 years,%,28.9
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,465,35 - 44 years,%,28.6
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,500,45 - 54 years,%,21.4
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,535,55 - 64 years,%,11.0
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,575,65 years and over,%,1.9
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,-,Both sexes,-,All ages,%,100.0
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,335,16 - 24 years,%,9.1
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,415,25 - 34 years,%,27.1
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,465,35 - 44 years,%,28.3
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,500,45 - 54 years,%,21.4
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,535,55 - 64 years,%,11.9
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,575,65 years and over,%,2.2
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,1,Male,-,All ages,%,100.0
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,335,16 - 24 years,%,6.5
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,415,25 - 34 years,%,32.1
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,465,35 - 44 years,%,29.0
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,500,45 - 54 years,%,21.6
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,535,55 - 64 years,%,9.5
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,575,65 years and over,%,1.3
+CPNI46C02,Percentage of Usual Residents aged 16 years and over commuting to Ireland for work,2021/2022,2021/2022,2,Female,-,All ages,%,100.0

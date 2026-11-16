@@ -16,3 +16,9 @@ Among people travelling to work in 2022, 64% drove and a further 4.5% were car p
 {{< chart transport-travel-to-work >}}
 
 Fianaise has more [figures on cycling in Dublin](https://fianaise.ie/cycling/).
+
+## Ireland and Northern Ireland
+
+Driving to work is more common in Northern Ireland. At the most recent censuses, 85% of people travelling to work in Northern Ireland went by car or van, compared with 76% in Ireland. Northern Ireland's census was held in March 2021, during Covid-19 restrictions.
+
+{{< chart transport-ni-travel-to-work >}}

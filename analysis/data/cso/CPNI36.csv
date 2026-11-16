@@ -1,0 +1,7 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C04335V05114,Ireland and Northern Ireland,C02199V02655,Sex,UNIT,VALUE
+CPNI36C01,ILO Unemployment Rate,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,%,4.6
+CPNI36C01,ILO Unemployment Rate,2021/2022,2021/2022,IE0,Ireland,1,Male,%,4.6
+CPNI36C01,ILO Unemployment Rate,2021/2022,2021/2022,IE0,Ireland,2,Female,%,4.6
+CPNI36C01,ILO Unemployment Rate,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,%,4.7
+CPNI36C01,ILO Unemployment Rate,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,%,5.4
+CPNI36C01,ILO Unemployment Rate,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,%,4.0

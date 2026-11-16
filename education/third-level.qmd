@@ -12,3 +12,9 @@ There were 283,950 students enrolled in third-level education in 2025-2026, abou
 In 2025, 69% of people aged 30 to 34 in Ireland had a third-level qualification, the highest share of any EU country, just ahead of Luxembourg at 68%. The average across the 27 EU countries was 46%.
 
 {{< chart education-third-level-attainment >}}
+
+## Ireland and Northern Ireland
+
+At the most recent censuses, 34% of people aged 16 and over in Ireland had a higher or professional qualification, such as a degree, compared with 32% in Northern Ireland. The two education systems differ, so the CSO and NISRA grouped qualifications into broad levels to compare them.
+
+{{< chart education-ni-qualifications >}}

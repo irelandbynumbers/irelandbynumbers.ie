@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, ni, nisra, style
 from ibn.chart import Chart, Source
 from ibn.facts import millions, pct_change
 
@@ -21,6 +21,7 @@ def build():
     marriages()
     marriage_ceremonies()
     eu_comparisons()
+    ni_comparisons()
 
 
 def population_total():
@@ -242,3 +243,61 @@ def eu_comparisons():
         notes=["The total fertility rate is the average number of children a woman would have if she had children at "
                "the rates seen at each age in that year."],
         value_format=".2f")
+
+
+def ni_comparisons():
+    df = cso.fetch("CPNI01")
+    d = df[df.Sex == "Both sexes"].pivot_table(index="Year", columns="Ireland and Northern Ireland", values="VALUE")
+    d = d.rename(columns={ni.IE: "ireland", ni.NI: "northern_ireland"}).reset_index().astype(int)
+    a, b = d.iloc[0], d.iloc[-1]
+    low = d.loc[d.ireland.idxmin()]
+    Chart(
+        id="population-ni", topic=TOPIC,
+        title="Population of Ireland and Northern Ireland",
+        subtitle=f"Number of people living in Ireland and in Northern Ireland, at each census, {a.Year} to {b.Year}.",
+        sources=[Source.cso("CPNI01", "Population, Ireland and Northern Ireland")],
+        notes=[ni.STATE_NOTE, "Years are those of the census in Ireland. Figures for Northern Ireland are from the "
+               "nearest census or estimate, as given in the joint CSO and NISRA table. Before 1921 the figures are for "
+               "the areas that later became the two jurisdictions."],
+        key_fact=f"In {a.Year}, {a.ireland / 1e6:.1f} million people lived in what is now Ireland and {a.northern_ireland / 1e6:.1f} "
+                 f"million in what is now Northern Ireland. At the most recent censuses the figures were "
+                 f"{b.ireland / 1e6:.2f} million and {b.northern_ireland / 1e6:.2f} million.",
+        data=d, figure=ni.lines(d, "Year", y_range=[0, d.ireland.max() * 1.1]),
+    ).write()
+
+    df = cso.fetch("CPNI03")
+    d = df[df.Sex == "Both sexes"].pivot_table(index="Year", columns="Ireland and Northern Ireland", values="VALUE")
+    d = d.rename(columns={ni.IE: "ireland", ni.NI: "northern_ireland"}).reset_index().astype(int)
+    a, b = d.iloc[0], d.iloc[-1]
+    Chart(
+        id="population-ni-median-age", topic=TOPIC,
+        title="Median age in Ireland and Northern Ireland",
+        subtitle=f"Median age of the population, in years, at each census, {a.Year} to {b.Year}.",
+        sources=[Source.cso("CPNI03", "Median age, Ireland and Northern Ireland")],
+        notes=[ni.STATE_NOTE, "Half the population is older than the median age, and half is younger.",
+               "Years are those of the census in Ireland, with the nearest figure for Northern Ireland."],
+        key_fact=f"The median age was {b.ireland} in Ireland and {b.northern_ireland} in Northern Ireland at the most "
+                 f"recent censuses, up from {a.ireland} and {a.northern_ireland} in {a.Year}.",
+        data=d, figure=ni.lines(d, "Year", y_range=[0, 45]),
+    ).write()
+
+    ie = cso.fetch("VSA104")
+    ie = ie[(ie["NUTS 3 Region"] == "Ireland") & (ie["Age Group"] == "All ages")
+            & (ie["Statistic Label"] == "Total period of fertility rate")].dropna(subset=["VALUE"])
+    ie = ie.set_index("Year").VALUE.rename("ireland")
+    n = nisra.fetch("TPFRYR").set_index("Year").VALUE.rename("northern_ireland")
+    d = ie.to_frame().join(n, how="inner").reset_index().round(2)
+    d["Year"] = d.Year.astype(int)
+    a, b = d.iloc[0], d.iloc[-1]
+    Chart(
+        id="population-ni-fertility", topic=TOPIC,
+        title="Fertility rates in Ireland and Northern Ireland",
+        subtitle=f"Total fertility rate, average number of children per woman, {a.Year:.0f} to {b.Year:.0f}.",
+        sources=[Source.cso("VSA104", "Fertility rates"), Source.nisra("TPFRYR", "Total period fertility rate")],
+        notes=[ni.STATE_NOTE, "The total fertility rate is the average number of children a woman would have if she had "
+               "children at the rates seen at each age in that year. The CSO and NISRA calculate it in the same way, "
+               "from registered births and population estimates."],
+        key_fact=f"In {b.Year:.0f}, the fertility rate was {b.ireland:.2f} in Ireland and {b.northern_ireland:.2f} in Northern "
+                 f"Ireland, down from {a.ireland:.2f} and {a.northern_ireland:.2f} in {a.Year:.0f}.",
+        data=d, figure=ni.lines(d, "Year", value_format=".2f", y_range=[0, 3]),
+    ).write()

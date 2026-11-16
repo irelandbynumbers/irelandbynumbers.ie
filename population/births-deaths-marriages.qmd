@@ -22,3 +22,9 @@ About 20,000 marriages are registered each year. The number fell by more than ha
 How couples marry has changed a great deal. In 2000, 80% of opposite-sex marriages were Catholic ceremonies. By 2025 that had fallen to 31%, about the same as the share of civil ceremonies, at 33%. The rest were ceremonies by other churches and by bodies such as the Humanist Association of Ireland.
 
 {{< chart population-marriage-ceremonies >}}
+
+## Ireland and Northern Ireland
+
+Fertility rates have followed a similar path in Ireland and Northern Ireland, falling from about 2.5 children per woman in 1985. In 2023 the rate was 1.52 in Ireland and 1.64 in Northern Ireland.
+
+{{< chart population-ni-fertility >}}

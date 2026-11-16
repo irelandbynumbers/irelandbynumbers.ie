@@ -3,7 +3,7 @@ the cars on Irish roads."""
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, ni, style
 from ibn.chart import Chart, Source
 
 TOPIC = "transport"
@@ -29,6 +29,7 @@ def build():
     new_car_fuel()
     electric_cars_eu()
     eu_comparisons()
+    ni_comparisons()
 
 
 # Road safety
@@ -452,3 +453,27 @@ def eu_comparisons():
                                  f"across the EU. Ireland's rate was {place}.",
         notes=["Counts people who died within 30 days of a road collision, the definition used across the EU."],
         higher_is="highest")
+
+
+def ni_comparisons():
+    df = cso.fetch("CPNI48")
+    keep = ["Car or van", "On foot", "Bus, minibus or coach", "Train, DART or LUAS", "Bicycle", "Motorcycle or scooter",
+            "Other, incl. lorry"]
+    names = {"Car or van": "Car or van", "On foot": "Walking", "Bus, minibus or coach": "Bus or coach",
+             "Train, DART or LUAS": "Train, DART or Luas", "Bicycle": "Cycling", "Motorcycle or scooter": "Motorcycle",
+             "Other, incl. lorry": "Other"}
+    d = ni.census_shares(df, "Means of Travel", keep, names)
+    r = d.set_index("category")
+    Chart(
+        id="transport-ni-travel-to-work", topic=TOPIC, height=440,
+        title="Travel to work in Ireland and Northern Ireland",
+        subtitle="Share of people aged 16 and over travelling to work, by main means of travel, census 2022 in Ireland "
+                 "and 2021 in Northern Ireland.",
+        sources=[Source.cso("CPNI48", "Means of travel to work, Ireland and Northern Ireland")],
+        notes=[ni.CENSUS_NOTE, ni.STATE_NOTE, "People working mainly at or from home, and people who did not answer, "
+               "are left out. Northern Ireland's census was held in March 2021, when many people were working from home "
+               "because of Covid-19 restrictions."],
+        key_fact=f"{r.loc['Car or van', 'ireland']:.0f}% of people travelling to work in Ireland went by car or van, compared "
+                 f"with {r.loc['Car or van', 'northern_ireland']:.0f}% in Northern Ireland.",
+        data=d, figure=ni.grouped_bars(d, "category"),
+    ).write()
