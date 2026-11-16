@@ -1,12 +1,14 @@
 """Economy and work charts: unemployment and national income."""
 import pandas as pd
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 from ibn.facts import higher_lower
 
 TOPIC = "economy"
+
+EU_GEO = eurostat.EU27 + [eurostat.EU]
 
 
 def build():
@@ -16,6 +18,7 @@ def build():
     income_map()
     work_from_home_map()
     car_to_work_map()
+    eu_comparisons()
 
 
 def unemployment():
@@ -197,3 +200,43 @@ def car_to_work_map():
                  f"the highest share of any county. The lowest was {lo.county}, at {lo.percent_by_car:.0f}%.",
         data=d[["county", "car", "travelling", "percent_by_car"]], figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("une_rt_a", geo=EU_GEO, age="Y15-74", sex="T", unit="PC_ACT")
+    eu.lines_chart(
+        "economy-unemployment-eu", TOPIC, "Unemployment in Ireland and the EU",
+        "Unemployment rate, people aged 15 to 74, % of the labour force, {first} to {last}.",
+        Source.eurostat("une_rt_a", "Unemployment by sex and age, annual data"), df,
+        lambda w: f"Ireland's unemployment rate was {w.ireland.iloc[-1]:.1f}% in {w.year.iloc[-1]}, compared with "
+                  f"{w.eu_average.iloc[-1]:.1f}% across the EU. Its highest since {w.year.iloc[0]} was {w.ireland.max():.1f}%, "
+                  f"in {w.loc[w.ireland.idxmax(), 'year']}.",
+        notes=["Measured the same way in every country, from each country's Labour Force Survey. Figures for Ireland "
+               "can differ slightly from the CSO's own monthly estimates."],
+        suffix="%", y_range=[0, None])
+    df = eurostat.fetch("prc_ppp_ind", name="prc_ppp_ind_aic", geo=EU_GEO,
+                        na_item=["VI_PPS_EU27_2020_HAB", "PLI_EU27_2020"], ppp_cat=["A01", "GDP"])
+    aic = df[(df.na_item == "VI_PPS_EU27_2020_HAB") & (df.ppp_cat == "A01")]
+    eu.rank_chart(
+        "economy-consumption-per-head-eu", TOPIC, "Living standards across the EU",
+        "Actual individual consumption per person, adjusted for price levels, EU average = 100, {year}.",
+        Source.eurostat("prc_ppp_ind", "Purchasing power adjusted GDP per capita and related indicators", "prc_ppp_ind_aic"),
+        aic, lambda y, ie, ev, place: f"In {y}, consumption per person in Ireland, adjusted for prices, was {ie:.0f}% of "
+                                      f"the EU average, {place}.",
+        notes=["Actual individual consumption is the value of the goods and services people use, whether they pay for "
+               "them themselves or the State provides them, such as health care and education. Eurostat suggests it as a "
+               "better guide to material living standards than GDP per person, which for Ireland is inflated by the "
+               "profits of multinational companies.",
+               "Figures are adjusted for differences in price levels between countries, using purchasing power standards."],
+        value_format=".0f")
+    df = eurostat.fetch("ilc_peps01n", geo=EU_GEO, age="TOTAL", sex="T", unit="PC")
+    eu.rank_chart(
+        "economy-poverty-eu", TOPIC, "Risk of poverty or social exclusion across the EU",
+        "Share of people at risk of poverty or social exclusion, EU countries, {year}.",
+        Source.eurostat("ilc_peps01n", "Persons at risk of poverty or social exclusion"), df,
+        lambda y, ie, ev, place: f"In {y}, {ie:.1f}% of people in Ireland were at risk of poverty or social exclusion, "
+                                 f"compared with {ev:.1f}% across the EU. Ireland's rate was {place}.",
+        notes=["People are counted if their household income is below 60% of the national median, if they cannot "
+               "afford a number of basic items or activities, or if they live in a household where adults work very "
+               "little. Each country's poverty line is relative to its own median income."],
+        suffix="%")

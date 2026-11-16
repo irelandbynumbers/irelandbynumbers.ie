@@ -1,12 +1,14 @@
 """Health charts: life expectancy, causes of death, access and the health service."""
 import pandas as pd
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 
 TOPIC = "health"
 EU = "EU 27 Countries (from 2020)"
+
+EU_GEO = eurostat.EU27 + [eurostat.EU]
 
 
 def build():
@@ -17,6 +19,7 @@ def build():
     emergency_department_times()
     outpatient_waits()
     spending()
+    eu_comparisons()
 
 
 def life_expectancy():
@@ -224,3 +227,18 @@ def spending():
                  f"({b.public / b.total * 100:.0f}%) was public. That was {b.percent_of_gni_star:.1f}% of GNI*.",
         data=d, figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("hlth_sha11_hf", geo=EU_GEO, icha11_hf="TOT_HF", unit="PPS_HAB")
+    eu.rank_chart(
+        "health-spending-eu", TOPIC, "Health spending across the EU",
+        "Current spending on health care per person, public and private, adjusted for price levels, EU countries, {year}.",
+        Source.eurostat("hlth_sha11_hf", "Health care expenditure by financing scheme"), df,
+        lambda y, ie, ev, place: f"In {y}, health spending per person in Ireland, adjusted for price levels, was "
+                                 f"{ie / ev * 100 - 100:.0f}% above the EU average, {place}." if ev else
+                                 f"In {y}, health spending per person in Ireland, adjusted for price levels, was {place}.",
+        notes=["Figures are in purchasing power standards (PPS), an artificial currency that adjusts for differences in "
+               "price levels between countries, so the amounts are not euro. Covers spending by the State, health "
+               "insurance and people themselves, but not investment in buildings and equipment."],
+        value_format=",.0f")

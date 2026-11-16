@@ -11,6 +11,10 @@ Women in Ireland are having fewer children than in the past. The fertility rate 
 
 {{< chart population-fertility >}}
 
+Fertility rates have fallen across Europe. Ireland's rate, at 1.47 in 2024, was the 4th highest of the 27 EU countries. Bulgaria had the highest, at 1.72, and Malta the lowest, at 1.01.
+
+{{< chart population-fertility-eu >}}
+
 About 20,000 marriages are registered each year. The number fell by more than half in 2020, when Covid-19 restrictions limited the number of guests at weddings, and recovered in 2022. Same-sex marriage became legal in 2015, and about 600 same-sex couples now marry each year.
 
 {{< chart population-marriages >}}

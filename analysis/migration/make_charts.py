@@ -1,7 +1,7 @@
 """Migration charts, from CSO population and migration estimates."""
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up
 
@@ -33,11 +33,14 @@ PHRASE = {
     "Rest of the world": "countries outside the EU, the UK, the US, Canada and Australia",
 }
 
+EU_GEO = eurostat.EU27 + [eurostat.EU]
+
 
 def build():
     flows()
     by_place()
     born_abroad_map()
+    eu_comparisons()
 
 
 def flows():
@@ -123,3 +126,18 @@ def born_abroad_map():
                  f"the highest share of any county, compared with {lo.percent_born_abroad:.0f}% in {lo.county}.",
         data=d, figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    raw = eurostat.fetch("migr_pop3ctb", geo=EU_GEO, c_birth=["FOR", "TOTAL"], age="TOTAL", sex="T", unit="NR")
+    w = raw.pivot_table(index=["geo", "geo_label", "time"], columns="c_birth", values="value").reset_index()
+    w["value"] = (w.FOR / w.TOTAL * 100).round(1)
+    eu.rank_chart(
+        "migration-born-abroad-eu", TOPIC, "People born abroad across the EU",
+        "People born outside the country they live in, % of the population, EU countries, {year}.",
+        Source.eurostat("migr_pop3ctb", "Population on 1 January by broad group of country of birth"), w,
+        lambda y, ie, ev, place: f"On 1 January {y}, {ie:.1f}% of people living in Ireland were born abroad, {place}"
+                                 + (f". The EU average was {ev:.1f}%." if ev is not None and ev == ev else "."),
+        notes=["Counts everyone born in another country, including people born in Northern Ireland or Britain, and "
+               "people who are now citizens of the country they live in."],
+        suffix="%")

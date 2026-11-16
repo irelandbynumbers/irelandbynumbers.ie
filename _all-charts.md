@@ -5,6 +5,7 @@
 - [Births, deaths and migration](/charts/population-change.html). People born, people who died, and net migration (people arriving minus people leaving) in the twelve months to April, 1987 to 2026. *Central Statistics Office (CSO).* [CSV](/charts/population-change.csv)
 - [County populations since 1841](/charts/population-county-map.html). Population of each county at each census from 1841 to 2022, as a percentage of its 1841 population. Use the slider to move through the census years. *Central Statistics Office (CSO).* [CSV](/charts/population-county-map.csv)
 - [Fertility rate](/charts/population-fertility.html). Average number of children a woman would have over her lifetime at each year's birth rates, 1969 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/population-fertility.csv)
+- [Fertility rates across the EU](/charts/population-fertility-eu.html). Total fertility rate, average number of children per woman, EU countries, 2024. *Eurostat.* [CSV](/charts/population-fertility-eu.csv)
 - [How couples marry](/charts/population-marriage-ceremonies.html). Percentage of opposite-sex marriages by type of ceremony, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/population-marriage-ceremonies.csv)
 - [Marriages](/charts/population-marriages.html). Number of marriages registered in Ireland each year, 2000 to 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/population-marriages.csv)
 - [Population of Ireland](/charts/population-total.html). Estimated number of people living in the State each April, 1950 to 2026. *Central Statistics Office (CSO).* [CSV](/charts/population-total.csv)
@@ -16,6 +17,7 @@
 - [People in emergency accommodation](/charts/housing-homelessness.html). Number of people in emergency accommodation for homeless people, by month, January 2019 to August 2026. *Department of Housing, Local Government and Heritage.* [CSV](/charts/housing-homelessness.csv)
 - [Emergency accommodation by region](/charts/housing-homelessness-regions.html). Number of people in emergency accommodation for homeless people, by region, August 2026. *Department of Housing, Local Government and Heritage.* [CSV](/charts/housing-homelessness-regions.csv)
 - [House prices](/charts/housing-prices.html). Residential Property Price Index, January 2005 to August 2026. 100 is the average price level in 2015. *Central Statistics Office (CSO).* [CSV](/charts/housing-prices.csv)
+- [House prices in Ireland and the EU](/charts/housing-prices-eu.html). House price index, 2015 = 100, 2005 to 2025. *Eurostat.* [CSV](/charts/housing-prices-eu.csv)
 - [Average house price by county](/charts/housing-prices-map.html). Average price paid for homes bought at market value by households, 2010 to 2025. Use the slider to move through the years. *Central Statistics Office (CSO).* [CSV](/charts/housing-prices-map.csv)
 - [Renting by county](/charts/housing-renting-map.html). Percentage of households renting their home, from a private landlord, a local authority or a housing body, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/housing-renting-map.csv)
 - [Average rent by county](/charts/housing-rents-map.html). Average monthly rent on new private tenancies registered with the Residential Tenancies Board, 2008 to 2025. Use the slider to move through the years. *Central Statistics Office (CSO).* [CSV](/charts/housing-rents-map.csv)
@@ -26,19 +28,25 @@
 - [Energy prices](/charts/cost-of-living-energy-prices.html). Consumer prices for electricity, gas, home heating oil and petrol, compared with all items, 2015 average = 100, January 2015 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/cost-of-living-energy-prices.csv)
 - [Food prices](/charts/cost-of-living-food-prices.html). Consumer prices for food, compared with all items, 2015 average = 100, January 2015 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/cost-of-living-food-prices.csv)
 - [Inflation](/charts/cost-of-living-inflation.html). Change in consumer prices compared with the same month a year earlier, November 1996 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/cost-of-living-inflation.csv)
+- [Inflation in Ireland and the EU](/charts/cost-of-living-inflation-eu.html). Annual change in consumer prices, measured the same way in every EU country, 1996 to 2025. *Eurostat.* [CSV](/charts/cost-of-living-inflation-eu.csv)
 - [Price changes by type of spending](/charts/cost-of-living-price-change-by-group.html). Change in consumer prices for each main group of goods and services, October 2021 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/cost-of-living-price-change-by-group.csv)
+- [Price levels across the EU](/charts/cost-of-living-price-levels-eu.html). Price level of the goods and services households use, EU average = 100, 2024. *Eurostat.* [CSV](/charts/cost-of-living-price-levels-eu.csv)
 
 ## [Economy and work](/economy/)
 
 - [Driving to work by county](/charts/economy-car-to-work-map.html). Percentage of people travelling to work who went by car, as a driver or passenger, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/economy-car-to-work-map.csv)
+- [Living standards across the EU](/charts/economy-consumption-per-head-eu.html). Actual individual consumption per person, adjusted for price levels, EU average = 100, 2024. *Eurostat.* [CSV](/charts/economy-consumption-per-head-eu.csv)
 - [Average weekly earnings](/charts/economy-earnings.html). Average weekly earnings of employees, in cash terms and adjusted for consumer prices (in 2026 Q2 prices), 2008 Q1 to 2026 Q2. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/economy-earnings.csv)
 - [GDP and modified gross national income](/charts/economy-gdp-gni.html). Gross domestic product (GDP) and modified gross national income (GNI*) in billions of euro at current prices, 1995 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/economy-gdp-gni.csv)
 - [Disposable income per person by county](/charts/economy-income-map.html). Average household disposable income per person in each county, in euro at current prices, 2000 to 2024. Use the slider to move through the years. *Central Statistics Office (CSO).* [CSV](/charts/economy-income-map.csv)
+- [Risk of poverty or social exclusion across the EU](/charts/economy-poverty-eu.html). Share of people at risk of poverty or social exclusion, EU countries, 2025. *Eurostat.* [CSV](/charts/economy-poverty-eu.csv)
 - [Unemployment rate](/charts/economy-unemployment.html). Percentage of people in the labour force who are unemployed, seasonally adjusted, January 1998 to October 2026. *Central Statistics Office (CSO).* [CSV](/charts/economy-unemployment.csv)
+- [Unemployment in Ireland and the EU](/charts/economy-unemployment-eu.html). Unemployment rate, people aged 15 to 74, % of the labour force, 2009 to 2025. *Eurostat.* [CSV](/charts/economy-unemployment-eu.csv)
 - [Working from home by county](/charts/economy-work-from-home-map.html). Percentage of people at work who said they worked from home for at least part of the week, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/economy-work-from-home-map.csv)
 
 ## [Education](/education/)
 
+- [Early school leavers across the EU](/charts/education-early-leavers-eu.html). Share of people aged 18 to 24 who left education early, EU countries, 2025. *Eurostat.* [CSV](/charts/education-early-leavers-eu.csv)
 - [Leaving Certificate candidates](/charts/education-leaving-cert-candidates.html). Number of people who sat the Leaving Certificate (secondary school), school years 1999-2000 to 2023-2024. *Central Statistics Office (CSO).* [CSV](/charts/education-leaving-cert-candidates.csv)
 - [Leaving Certificate subjects taken at higher level](/charts/education-leaving-cert-levels.html). Percentage of Leaving Certificate (secondary school) candidates in the ten largest subjects who took the higher-level paper rather than the ordinary-level paper, 2024. *Central Statistics Office (CSO).* [CSV](/charts/education-leaving-cert-levels.csv)
 - [Average class size in primary schools](/charts/education-primary-class-size.html). Average number of pupils in a mainstream class in primary schools, school years 2003-2004 to 2024-2025. *Central Statistics Office (CSO).* [CSV](/charts/education-primary-class-size.csv)
@@ -56,6 +64,7 @@
 
 ## [Migration](/migration/)
 
+- [People born abroad across the EU](/charts/migration-born-abroad-eu.html). People born outside the country they live in, % of the population, EU countries, 2025. *Eurostat.* [CSV](/charts/migration-born-abroad-eu.csv)
 - [People born abroad by county](/charts/migration-born-abroad-map.html). Percentage of people usually living in each county who were born outside Ireland, Census 2022. *Central Statistics Office (CSO).* [CSV](/charts/migration-born-abroad-map.csv)
 - [Where people came from and went to](/charts/migration-by-place.html). Estimated number of immigrants by the country or region they came from, and emigrants by where they went, in the twelve months to April 2026. *Central Statistics Office (CSO).* [CSV](/charts/migration-by-place.csv)
 - [People moving to and from Ireland](/charts/migration-flows.html). Estimated number of people who moved to Ireland (immigrants) and who left (emigrants) in the twelve months to April, 1987 to 2026. *Central Statistics Office (CSO).* [CSV](/charts/migration-flows.csv)
@@ -69,6 +78,7 @@
 - [Life expectancy in Ireland and the EU](/charts/health-life-expectancy.html). Life expectancy at birth in years, Ireland and the 27 EU countries, 2018 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-life-expectancy.csv)
 - [Outpatient waiting times](/charts/health-outpatient-waits.html). Percentage of people on the hospital outpatient waiting list who had been waiting less than 15 months, July 2021 to September 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-outpatient-waits.csv)
 - [Spending on health care](/charts/health-spending.html). Current spending on health care in Ireland, by the State and by households and insurers, € billion, 2000 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-spending.csv)
+- [Health spending across the EU](/charts/health-spending-eu.html). Current spending on health care per person, public and private, adjusted for price levels, EU countries, 2024. *Eurostat.* [CSV](/charts/health-spending-eu.csv)
 - [Patients waiting on trolleys](/charts/health-trolleys.html). Average number of admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, by month, January 2016 to December 2025. *Central Statistics Office (CSO).* [CSV](/charts/health-trolleys.csv)
 
 ## [Environment and climate](/environment/)
@@ -87,6 +97,7 @@
 
 - [Government surplus or deficit](/charts/public-finances-balance.html). General government surplus (above zero) or deficit (below zero), € billion, 1995 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-balance.csv)
 - [Government debt](/charts/public-finances-debt.html). Gross general government debt at the end of each year, € billion, 2000 to 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/public-finances-debt.csv)
+- [Government debt across the EU](/charts/public-finances-debt-eu.html). Gross general government debt, % of GDP, EU countries, 2025. *Eurostat.* [CSV](/charts/public-finances-debt-eu.csv)
 - [Where the State's money comes from](/charts/public-finances-revenue.html). General government revenue by source, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-revenue.csv)
 - [What the State spends money on](/charts/public-finances-spending.html). General government spending by type, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-spending.csv)
 - [The three biggest taxes](/charts/public-finances-tax-trends.html). Revenue from income tax, corporation tax and VAT, € billion, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-tax-trends.csv)
@@ -101,6 +112,7 @@
 - [Rail journeys each year](/charts/transport-rail-journeys.html). Passenger journeys on Iarnród Éireann trains, including the DART, million, 1981 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-rail-journeys.csv)
 - [Deaths on Irish roads](/charts/transport-road-deaths.html). Number of people killed in road collisions each year, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-road-deaths.csv)
 - [Road deaths by type of road user](/charts/transport-road-deaths-by-user.html). Number of people killed in road collisions, by how they were travelling, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-road-deaths-by-user.csv)
+- [Road deaths across the EU](/charts/transport-road-deaths-eu.html). People killed in road collisions per 100,000 people, EU countries, 2024. *Eurostat.* [CSV](/charts/transport-road-deaths-eu.csv)
 - [Road deaths by county](/charts/transport-road-deaths-map.html). Average number of people killed in road collisions each year per 100,000 people, by county, 2021 to 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-road-deaths-map.csv)
 - [People killed or seriously injured on the roads](/charts/transport-serious-injuries.html). Number of people killed or seriously injured in road collisions, for four types of road user, 2019 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-serious-injuries.csv)
 - [How pupils and students travel to school or college](/charts/transport-travel-to-school.html). Share of people aged 5 and over travelling to school or college, by main means of travel, census 2016 and 2022. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-travel-to-school.csv)

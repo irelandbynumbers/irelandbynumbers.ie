@@ -4,7 +4,7 @@ finance statistics, which follow the EU's ESA 2010 rules."""
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 
 TOPIC = "public-finances"
@@ -13,6 +13,8 @@ GG_NOTE = ("Figures are for general government, which covers central government,
            "Finance publishes each month, which cover central government only.")
 NOMINAL = "Figures are in current prices, not adjusted for inflation."
 
+EU_GEO = eurostat.EU27 + [eurostat.EU]
+
 
 def build():
     revenue()
@@ -20,6 +22,7 @@ def build():
     spending()
     balance()
     debt()
+    eu_comparisons()
 
 
 def _item(df, code):
@@ -188,3 +191,17 @@ def debt():
                  f"of GNI*. Relative to GNI*, it peaked in {peak.Year:.0f} at {peak.percent_of_gni_star:.0f}%.",
         data=d[["Year", "euro_million", "euro_billion", "gni_star_billion", "percent_of_gni_star"]], figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("gov_10dd_edpt1", geo=EU_GEO, na_item="GD", sector="S13", unit="PC_GDP")
+    eu.rank_chart(
+        "public-finances-debt-eu", TOPIC, "Government debt across the EU",
+        "Gross general government debt, % of GDP, EU countries, {year}.",
+        Source.eurostat("gov_10dd_edpt1", "Government deficit/surplus, debt and associated data"), df,
+        lambda y, ie, ev, place: f"Ireland's government debt was {ie:.0f}% of GDP in {y}, {place}. The EU average was "
+                                 f"{ev:.0f}%.",
+        notes=["GDP overstates the size of the Irish economy because of the profits of multinational companies, so "
+               "Ireland's debt looks smaller here than it is relative to the incomes of people in Ireland. Measured "
+               "against GNI*, Ireland's debt is much higher; see the chart of government debt above."],
+        value_format=".0f", suffix="%")

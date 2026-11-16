@@ -120,6 +120,30 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "population-fertility-eu",
+  "topic": "population",
+  "title": "Fertility rates across the EU",
+  "subtitle": "Total fertility rate, average number of children per woman, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/population-fertility-eu.html",
+  "csv": "/charts/population-fertility-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Fertility indicators (demo_find)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_find/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "demo_find",
+    "updated": "2026-11-13",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Ireland's fertility rate was 1.47 children per woman in 2024, the 4th highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-11-13",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "population-marriage-ceremonies",
   "topic": "population",
   "title": "How couples marry",
@@ -326,6 +350,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "housing-prices-eu",
+  "topic": "housing",
+  "title": "House prices in Ireland and the EU",
+  "subtitle": "House price index, 2015 = 100, 2005 to 2025.",
+  "kind": "chart",
+  "page": "/charts/housing-prices-eu.html",
+  "csv": "/charts/housing-prices-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "House price index, annual data (prc_hpi_a)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_a/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "prc_hpi_a",
+    "updated": "2026-10-01",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "House prices in Ireland in 2025 were 97% higher than in 2015, compared with 62% across the EU.",
+  "listed": true,
+  "updated": "2026-10-01",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "housing-prices-map",
   "topic": "housing",
   "title": "Average house price by county",
@@ -494,6 +542,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "cost-of-living-inflation-eu",
+  "topic": "cost-of-living",
+  "title": "Inflation in Ireland and the EU",
+  "subtitle": "Annual change in consumer prices, measured the same way in every EU country, 1996 to 2025.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-inflation-eu.html",
+  "csv": "/charts/cost-of-living-inflation-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "HICP, annual data (prc_hicp_aind)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_aind/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "prc_hicp_aind",
+    "updated": "2026-02-06",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Consumer prices in Ireland rose by 2.1% in 2025, compared with 2.5% across the EU.",
+  "listed": true,
+  "updated": "2026-02-06",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "cost-of-living-price-change-by-group",
   "topic": "cost-of-living",
   "title": "Price changes by type of spending",
@@ -518,6 +590,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "cost-of-living-price-levels-eu",
+  "topic": "cost-of-living",
+  "title": "Price levels across the EU",
+  "subtitle": "Price level of the goods and services households use, EU average = 100, 2024.",
+  "kind": "chart",
+  "page": "/charts/cost-of-living-price-levels-eu.html",
+  "csv": "/charts/cost-of-living-price-levels-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Purchasing power adjusted GDP per capita and related indicators (prc_ppp_ind)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "prc_ppp_ind_aic",
+    "updated": "2025-07-10",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2024, prices in Ireland were 41% above the EU average, the 3rd highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2025-07-10",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "economy-car-to-work-map",
   "topic": "economy",
   "title": "Driving to work by county",
@@ -540,6 +636,30 @@
   "listed": true,
   "updated": "2023-09-15",
   "checked": "2026-11-14"
+ },
+ {
+  "id": "economy-consumption-per-head-eu",
+  "topic": "economy",
+  "title": "Living standards across the EU",
+  "subtitle": "Actual individual consumption per person, adjusted for price levels, EU average = 100, 2024.",
+  "kind": "chart",
+  "page": "/charts/economy-consumption-per-head-eu.html",
+  "csv": "/charts/economy-consumption-per-head-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Purchasing power adjusted GDP per capita and related indicators (prc_ppp_ind)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "prc_ppp_ind_aic",
+    "updated": "2025-07-10",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2024, consumption per person in Ireland, adjusted for prices, was 99% of the EU average, the 10th highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2025-07-10",
+  "checked": "2026-11-16"
  },
  {
   "id": "economy-earnings",
@@ -623,6 +743,30 @@
   "checked": "2026-11-14"
  },
  {
+  "id": "economy-poverty-eu",
+  "topic": "economy",
+  "title": "Risk of poverty or social exclusion across the EU",
+  "subtitle": "Share of people at risk of poverty or social exclusion, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/economy-poverty-eu.html",
+  "csv": "/charts/economy-poverty-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Persons at risk of poverty or social exclusion (ilc_peps01n)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "ilc_peps01n",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 18.8% of people in Ireland were at risk of poverty or social exclusion, compared with 20.9% across the EU. Ireland's rate was the 14th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "economy-unemployment",
   "topic": "economy",
   "title": "Unemployment rate",
@@ -647,6 +791,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "economy-unemployment-eu",
+  "topic": "economy",
+  "title": "Unemployment in Ireland and the EU",
+  "subtitle": "Unemployment rate, people aged 15 to 74, % of the labour force, 2009 to 2025.",
+  "kind": "chart",
+  "page": "/charts/economy-unemployment-eu.html",
+  "csv": "/charts/economy-unemployment-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Unemployment by sex and age, annual data (une_rt_a)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/une_rt_a/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "une_rt_a",
+    "updated": "2026-11-06",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Ireland's unemployment rate was 4.7% in 2025, compared with 6.0% across the EU. Its highest since 2009 was 15.5%, in 2012.",
+  "listed": true,
+  "updated": "2026-11-06",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "economy-work-from-home-map",
   "topic": "economy",
   "title": "Working from home by county",
@@ -669,6 +837,30 @@
   "listed": true,
   "updated": "2023-09-15",
   "checked": "2026-11-14"
+ },
+ {
+  "id": "education-early-leavers-eu",
+  "topic": "education",
+  "title": "Early school leavers across the EU",
+  "subtitle": "Share of people aged 18 to 24 who left education early, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/education-early-leavers-eu.html",
+  "csv": "/charts/education-early-leavers-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Early leavers from education and training (edat_lfse_14)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_14/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "edat_lfse_14",
+    "updated": "2026-10-30",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 3.6% of people aged 18 to 24 in Ireland had left education early, compared with 9.1% across the EU. Ireland's share was the 3rd lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-30",
+  "checked": "2026-11-16"
  },
  {
   "id": "education-leaving-cert-candidates",
@@ -962,6 +1154,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "migration-born-abroad-eu",
+  "topic": "migration",
+  "title": "People born abroad across the EU",
+  "subtitle": "People born outside the country they live in, % of the population, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/migration-born-abroad-eu.html",
+  "csv": "/charts/migration-born-abroad-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Population on 1 January by broad group of country of birth (migr_pop3ctb)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/migr_pop3ctb/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "migr_pop3ctb",
+    "updated": "2026-11-15",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "On 1 January 2025, 23.3% of people living in Ireland were born abroad, the 4th highest of the 27 EU countries. The EU average was 14.6%.",
+  "listed": true,
+  "updated": "2026-11-15",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "migration-born-abroad-map",
   "topic": "migration",
   "title": "People born abroad by county",
@@ -1202,6 +1418,30 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "health-spending-eu",
+  "topic": "health",
+  "title": "Health spending across the EU",
+  "subtitle": "Current spending on health care per person, public and private, adjusted for price levels, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/health-spending-eu.html",
+  "csv": "/charts/health-spending-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Health care expenditure by financing scheme (hlth_sha11_hf)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_sha11_hf/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "hlth_sha11_hf",
+    "updated": "2026-11-04",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2024, health spending per person in Ireland, adjusted for price levels, was 17% above the EU average, the 7th highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-11-04",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "health-trolleys",
   "topic": "health",
   "title": "Patients waiting on trolleys",
@@ -1425,6 +1665,30 @@
   "listed": true,
   "updated": "2026-10-20",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "public-finances-debt-eu",
+  "topic": "public-finances",
+  "title": "Government debt across the EU",
+  "subtitle": "Gross general government debt, % of GDP, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/public-finances-debt-eu.html",
+  "csv": "/charts/public-finances-debt-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Government deficit/surplus, debt and associated data (gov_10dd_edpt1)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "gov_10dd_edpt1",
+    "updated": "2026-10-21",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Ireland's government debt was 35% of GDP in 2025, the 5th lowest of the 27 EU countries. The EU average was 82%.",
+  "listed": true,
+  "updated": "2026-10-21",
+  "checked": "2026-11-16"
  },
  {
   "id": "public-finances-revenue",
@@ -1697,6 +1961,30 @@
   "key_fact": "In 2025, 76 car drivers and passengers, 41 pedestrians, 30 motorcyclists and 14 cyclists were killed on Irish roads.",
   "listed": true,
   "updated": "2026-11-12",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-road-deaths-eu",
+  "topic": "transport",
+  "title": "Road deaths across the EU",
+  "subtitle": "People killed in road collisions per 100,000 people, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/transport-road-deaths-eu.html",
+  "csv": "/charts/transport-road-deaths-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Road traffic deaths, by type of roads (sdg_11_40)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/sdg_11_40/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "sdg_11_40",
+    "updated": "2026-10-27",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2024, Ireland had 3.2 road deaths per 100,000 people, compared with 4.4 across the EU. Ireland's rate was the 7th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-27",
   "checked": "2026-11-16"
  },
  {

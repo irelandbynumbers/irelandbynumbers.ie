@@ -6,3 +6,9 @@ description: "How many people are in work, and the unemployment rate."
 The unemployment rate peaked at 16.1% in late 2011 and has been below 5% for most of the period since 2022. Unemployment among people aged 15 to 24 has been higher than the overall rate throughout, and rises further in downturns.
 
 {{< chart economy-unemployment >}}
+
+## Ireland and the EU
+
+Ireland's unemployment rate has been below the EU average every year since 2015. In 2025 it was 4.7%, compared with 6.0% across the EU.
+
+{{< chart economy-unemployment-eu >}}

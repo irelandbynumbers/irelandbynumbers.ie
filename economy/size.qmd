@@ -6,3 +6,9 @@ description: "GDP and modified gross national income (GNI*), and why they differ
 Gross domestic product (GDP) is the usual measure of the size of an economy. In Ireland it is strongly affected by the activities of large multinational companies, so the CSO also publishes modified gross national income (GNI\*), which gives a better picture of the domestic economy. In 2025, GNI\* was €334 billion, a little over half of GDP.
 
 {{< chart economy-gdp-gni >}}
+
+## Ireland and the EU
+
+Because GDP is inflated by multinational companies, Eurostat suggests actual individual consumption per person as a better way to compare living standards between countries. It measures the goods and services people use, including health care and education provided by the State, adjusted for price levels. On this measure Ireland was at 99% of the EU average in 2024, 10th of the 27 EU countries.
+
+{{< chart economy-consumption-per-head-eu >}}

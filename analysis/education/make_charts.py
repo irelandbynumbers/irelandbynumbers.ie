@@ -2,7 +2,7 @@
 sizes, the Leaving Certificate and third-level education."""
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 
 TOPIC = "education"
@@ -16,6 +16,8 @@ def _years(fig, d):
     fig.update_xaxes(type="category", nticks=8, tickangle=0)
     return fig
 
+EU_GEO = eurostat.EU27 + [eurostat.EU]
+
 
 def build():
     pupils()
@@ -24,6 +26,7 @@ def build():
     leaving_cert_levels()
     third_level_students()
     third_level_attainment()
+    eu_comparisons()
 
 
 def pupils():
@@ -190,3 +193,17 @@ def third_level_attainment():
                  f"compared with an EU average of {y.eu_27:.0f}%.",
         data=d, figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("edat_lfse_14", geo=EU_GEO, sex="T", wstatus="POP", age="Y18-24", unit="PC")
+    eu.rank_chart(
+        "education-early-leavers-eu", TOPIC, "Early school leavers across the EU",
+        "Share of people aged 18 to 24 who left education early, EU countries, {year}.",
+        Source.eurostat("edat_lfse_14", "Early leavers from education and training"), df,
+        lambda y, ie, ev, place: f"In {y}, {ie:.1f}% of people aged 18 to 24 in Ireland had left education early, "
+                                 f"compared with {ev:.1f}% across the EU. Ireland's share was {place}.",
+        notes=["Early leavers are people aged 18 to 24 who finished at most lower secondary education, which in Ireland "
+               "means the Junior Cycle, and who are not in any education or training.",
+               "From the Labour Force Survey in each country. Figures for smaller countries are less precise."],
+        suffix="%")

@@ -3,7 +3,7 @@ the cars on Irish roads."""
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 
 TOPIC = "transport"
@@ -11,6 +11,8 @@ RSA_NOTE = ("Road Safety Authority statistics, published by the CSO. Recent figu
             "revised.")
 CENSUS_NOTE = ("The census asks how each person usually travels the longest part of their journey to work, school or "
                "college. People who work mainly at or from home, and people who did not answer, are left out.")
+
+EU_GEO = eurostat.EU27 + [eurostat.EU]
 
 
 def build():
@@ -26,6 +28,7 @@ def build():
     new_cars()
     new_car_fuel()
     electric_cars_eu()
+    eu_comparisons()
 
 
 # Road safety
@@ -437,3 +440,15 @@ def electric_cars_eu():
                  f"Electric cars made up {ie.electric_share_of_all_cars:.1f}% of all cars on Irish roads.",
         data=d.iloc[::-1].reset_index(drop=True), figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("sdg_11_40", geo=EU_GEO, unit="RT", tra_infr="TOTAL")
+    eu.rank_chart(
+        "transport-road-deaths-eu", TOPIC, "Road deaths across the EU",
+        "People killed in road collisions per 100,000 people, EU countries, {year}.",
+        Source.eurostat("sdg_11_40", "Road traffic deaths, by type of roads"), df,
+        lambda y, ie, ev, place: f"In {y}, Ireland had {ie:.1f} road deaths per 100,000 people, compared with {ev:.1f} "
+                                 f"across the EU. Ireland's rate was {place}.",
+        notes=["Counts people who died within 30 days of a road collision, the definition used across the EU."],
+        higher_is="highest")

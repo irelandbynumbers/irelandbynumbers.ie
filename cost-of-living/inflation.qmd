@@ -6,3 +6,13 @@ description: "How fast consumer prices are rising, month by month."
 Inflation measures how fast prices are rising on average. Prices fell between early 2009 and mid-2010. In the year to October 2022 they rose by 9.3%, the highest annual rate in this series, which starts in 1996.
 
 {{< chart cost-of-living-inflation >}}
+
+## Ireland and the EU
+
+Measured the same way across the EU, prices in Ireland rose by 2.1% in 2025, compared with 2.5% across the EU. Ireland's inflation rate has been below the EU average in each of the last four years.
+
+{{< chart cost-of-living-inflation-eu >}}
+
+Prices in Ireland are among the highest in the EU. In 2024, the goods and services households use cost 41% more in Ireland than the EU average. Only Luxembourg and Denmark had higher prices.
+
+{{< chart cost-of-living-price-levels-eu >}}

@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn.facts import higher_lower, lower_first
 
@@ -31,6 +31,8 @@ SHORT = {
     "Education services": "Education",
 }
 
+EU_GEO = eurostat.EU27 + [eurostat.EU]
+
 
 def build():
     inflation()
@@ -38,6 +40,7 @@ def build():
     energy_prices()
     food_prices()
     average_prices()
+    eu_comparisons()
 
 
 def inflation():
@@ -227,3 +230,27 @@ def average_prices():
         data=d.iloc[::-1][["item", "cso_item", "then", "now", "percent_change"]].rename(columns={"then": f"price_{start:%Y_%m}", "now": f"price_{end:%Y_%m}"}),
         figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("prc_hicp_aind", geo=EU_GEO, unit="RCH_A_AVG", coicop="CP00")
+    eu.lines_chart(
+        "cost-of-living-inflation-eu", TOPIC, "Inflation in Ireland and the EU",
+        "Annual change in consumer prices, measured the same way in every EU country, {first} to {last}.",
+        Source.eurostat("prc_hicp_aind", "HICP, annual data"), df,
+        lambda w: f"Consumer prices in Ireland rose by {w.ireland.iloc[-1]:.1f}% in {w.year.iloc[-1]}, compared with "
+                  f"{w.eu_average.iloc[-1]:.1f}% across the EU.",
+        notes=["Uses the Harmonised Index of Consumer Prices (HICP), which every EU country calculates in the same way. "
+               "It differs from the CSO's Consumer Price Index mainly by leaving out mortgage interest."],
+        suffix="%")
+    df = eurostat.fetch("prc_ppp_ind", name="prc_ppp_ind_aic", geo=EU_GEO,
+                        na_item=["VI_PPS_EU27_2020_HAB", "PLI_EU27_2020"], ppp_cat=["A01", "GDP"])
+    pli = df[(df.na_item == "PLI_EU27_2020") & (df.ppp_cat == "A01")]
+    eu.rank_chart(
+        "cost-of-living-price-levels-eu", TOPIC, "Price levels across the EU",
+        "Price level of the goods and services households use, EU average = 100, {year}.",
+        Source.eurostat("prc_ppp_ind", "Purchasing power adjusted GDP per capita and related indicators", "prc_ppp_ind_aic"),
+        pli, lambda y, ie, ev, place: f"In {y}, prices in Ireland were {ie - 100:.0f}% above the EU average, {place}.",
+        notes=["Compares the price of the same basket of goods and services in each country, covering what households "
+               "buy and the services, such as health and education, provided to them by the State."],
+        value_format=".0f")

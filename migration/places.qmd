@@ -13,3 +13,7 @@ The CSO groups immigrants by the country or region they came from, and emigrants
 At the 2022 census, 20% of people living in Ireland were born outside the country. The share was highest in Dublin, at 25%, followed by Monaghan and Donegal. It was lowest in Kilkenny, Offaly and Tipperary, at about 14%.
 
 {{< chart migration-born-abroad-map >}}
+
+Compared with other EU countries, Ireland has a high share of people born abroad. On 1 January 2025, 23.3% of people living in Ireland were born in another country, the 4th highest share in the EU, after Luxembourg, Malta and Cyprus. The EU average was 14.6%. Eurostat's figure is for 2025, three years after the census.
+
+{{< chart migration-born-abroad-eu >}}

@@ -2,11 +2,13 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn.facts import millions, pct_change
 
 TOPIC = "population"
+
+EU_GEO = eurostat.EU27 + [eurostat.EU]
 
 
 def build():
@@ -18,6 +20,7 @@ def build():
     fertility()
     marriages()
     marriage_ceremonies()
+    eu_comparisons()
 
 
 def population_total():
@@ -227,3 +230,15 @@ def marriage_ceremonies():
                  f"{a.roman_catholic:.0f}% in {a.Year:.0f}. {b.civil:.0f}% were civil ceremonies.",
         data=out, figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("demo_find", geo=EU_GEO, indic_de="TOTFERRT")
+    eu.rank_chart(
+        "population-fertility-eu", TOPIC, "Fertility rates across the EU",
+        "Total fertility rate, average number of children per woman, EU countries, {year}.",
+        Source.eurostat("demo_find", "Fertility indicators"), df,
+        lambda y, ie, ev, place: f"Ireland's fertility rate was {ie:.2f} children per woman in {y}, {place}.",
+        notes=["The total fertility rate is the average number of children a woman would have if she had children at "
+               "the rates seen at each age in that year."],
+        value_format=".2f")
