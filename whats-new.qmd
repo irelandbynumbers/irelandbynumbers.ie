@@ -7,6 +7,8 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Changes to the site
 
+**16 November 2026.** Twelve new charts comparing Ireland with the other EU countries, on unemployment, living standards, poverty, inflation, price levels, house prices, government debt, road deaths, fertility, people born abroad, health spending and early school leaving.
+
 **16 November 2026.** A new [Transport](transport/index.qmd) topic, covering [road safety](transport/road-safety.qmd), [walking, cycling and other ways to travel](transport/travel.qmd), [public transport](transport/public-transport.qmd) and [cars](transport/cars.qmd).
 
 **16 November 2026.** A new [Public finances](public-finances/index.qmd) topic, covering tax and revenue, government spending, and the surplus, deficit and debt. New pages on [crime by type of offence](crime/types.qmd), [crime by Garda division](crime/divisions.qmd), [the health service](health/health-service.qmd), [energy and food prices](cost-of-living/energy-and-food.qmd), [births, deaths and marriages](population/births-deaths-marriages.qmd) and [homelessness](housing/homelessness.qmd).

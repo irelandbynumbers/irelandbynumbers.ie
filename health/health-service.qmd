@@ -18,3 +18,7 @@ An outpatient appointment is a first appointment with a hospital consultant. In 
 Spending on health care has grown more than five-fold since 2000, to €36.3 billion in 2024. These figures are not adjusted for inflation. The State paid for 78% of it, and households and health insurers paid the rest.
 
 {{< chart health-spending >}}
+
+Adjusted for price levels, Ireland spent 17% more on health care per person than the EU average in 2024, the 7th highest of the 27 EU countries. Germany spent the most.
+
+{{< chart health-spending-eu >}}

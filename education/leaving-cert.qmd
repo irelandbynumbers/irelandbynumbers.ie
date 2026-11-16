@@ -14,3 +14,9 @@ Most subjects can be taken at higher level or ordinary level, and Irish and Math
 {{< chart education-leaving-cert-levels >}}
 
 Grade results are published each year by the [State Examinations Commission](https://www.examinations.ie/statistics/). The Central Statistics Office's own tables of Leaving Certificate grades stop in 2016, so they are not shown here.
+
+## Early school leavers
+
+Ireland has one of the lowest rates of early school leaving in the EU. In 2025, 3.6% of people aged 18 to 24 had left education after the Junior Cycle or earlier and were not in education or training, compared with 9.1% across the EU.
+
+{{< chart education-early-leavers-eu >}}

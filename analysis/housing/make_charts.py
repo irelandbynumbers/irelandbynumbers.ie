@@ -2,11 +2,13 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, figures, homelessness, style
+from ibn import cso, eu, eurostat, figures, homelessness, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 
 TOPIC = "housing"
+
+EU_GEO = eurostat.EU27 + [eurostat.EU]
 
 
 def build():
@@ -18,6 +20,7 @@ def build():
     renting_map()
     homelessness_trend()
     homelessness_regions()
+    eu_comparisons()
 
 
 def completions():
@@ -275,3 +278,16 @@ def homelessness_regions():
         key_fact=f"In {when}, {dub.percent:.0f}% of people in emergency accommodation were in Dublin, {dub.total:,} people.",
         data=d.iloc[::-1].reset_index(drop=True)[["region", "adults", "dependants", "total", "percent"]], figure=fig,
     ).write()
+
+
+def eu_comparisons():
+    df = eurostat.fetch("prc_hpi_a", geo=EU_GEO, purchase="TOTAL", unit="I15_A_AVG")
+    eu.lines_chart(
+        "housing-prices-eu", TOPIC, "House prices in Ireland and the EU",
+        "House price index, 2015 = 100, {first} to {last}.",
+        Source.eurostat("prc_hpi_a", "House price index, annual data"), df,
+        lambda w: f"House prices in Ireland in {w.year.iloc[-1]} were {w.ireland.iloc[-1] - 100:.0f}% higher than in 2015, "
+                  f"compared with {w.eu_average.iloc[-1] - 100:.0f}% across the EU.",
+        notes=["Covers new and existing homes bought by households. The index shows how prices have changed since "
+               "2015 in each country, not how expensive homes are compared with other countries."],
+        value_format=".0f", y_range=[0, None])

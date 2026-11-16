@@ -7,3 +7,9 @@ image: ../images/social/economy-income-map.png
 Disposable income is the money households have to spend or save after income tax and social contributions, including social welfare payments. In 2024, disposable income per person was highest in Dublin, at €33,889, and lowest in Longford, at €23,725. The figures are not adjusted for differences between counties in the cost of living, such as housing costs.
 
 {{< chart economy-income-map >}}
+
+## Poverty and social exclusion
+
+In 2025, 18.8% of people in Ireland were at risk of poverty or social exclusion, as Eurostat defines it, compared with 20.9% across the EU. Ireland's rate was close to the middle of the 27 EU countries.
+
+{{< chart economy-poverty-eu >}}

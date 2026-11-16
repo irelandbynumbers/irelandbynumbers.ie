@@ -7,6 +7,10 @@ description: "How many people are killed or seriously injured on the roads, and 
 
 {{< chart transport-road-deaths >}}
 
+Ireland's roads are among the safer ones in the EU. In 2024 there were 3.2 road deaths per 100,000 people in Ireland, compared with 4.4 across the EU.
+
+{{< chart transport-road-deaths-eu >}}
+
 Most of the fall since 2000 has been among people in cars. 260 car drivers and passengers were killed in 2000, compared with 76 in 2025. Deaths among pedestrians, cyclists and motorcyclists have fallen less, and all three were higher in 2025 than in 2021. 41 pedestrians, 30 motorcyclists and 14 cyclists were killed in 2025.
 
 {{< chart transport-road-deaths-by-user >}}
