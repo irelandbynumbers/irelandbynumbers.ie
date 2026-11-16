@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, figures, style
+from ibn import cso, figures, homelessness, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 
@@ -16,6 +16,8 @@ def build():
     prices_map()
     completions_map()
     renting_map()
+    homelessness_trend()
+    homelessness_regions()
 
 
 def completions():
@@ -204,4 +206,72 @@ def renting_map():
                  f"share of any county, compared with {lo.percent_rented:.0f}% in {lo.county}.",
         data=d[["county", "households", "owned", "rented", "private_rented", "percent_owned", "percent_rented", "percent_private_rented"]],
         figure=fig,
+    ).write()
+
+
+HOMELESS_SOURCE = Source("Department of Housing, Local Government and Heritage", "Monthly homelessness reports",
+                         homelessness.PAGE, licence="CC BY-SA 4.0",
+                         licence_url="https://creativecommons.org/licenses/by-sa/4.0/")
+HOMELESS_NOTES = [
+    "Counts people staying in emergency accommodation funded and overseen by local authorities, during one week "
+    "near the end of each month. It does not include people sleeping rough, people staying with friends or family, "
+    "people in domestic violence refuges, or people seeking international protection in State-provided accommodation.",
+    "Dependants are people who depend on an adult in a family staying in emergency accommodation. Almost all are children.",
+    "The Department of Housing publishes these figures under a CC BY-SA 4.0 licence, so this chart and its data may "
+    "be reused under the same licence.",
+]
+
+
+def homelessness_trend():
+    df = homelessness.fetch()
+    d = df.groupby("month")[["Total Adults", "Number of Dependants in Families"]].sum().reset_index()
+    d.columns = ["month", "adults", "dependants"]
+    d["total"] = d.adults + d.dependants
+    d[["adults", "dependants", "total"]] = d[["adults", "dependants", "total"]].astype(int)
+    fig = figures.lines(d, "month", {"total": "All people", "adults": "Adults", "dependants": "Dependants"},
+                        colours=[style.BLUE, style.INK_3, style.ORANGE], hover_x="%B %Y",
+                        y_range=[0, d.total.max() * 1.1])
+    when = lambda m: pd.to_datetime(m).strftime("%B %Y")
+    a, b = d.iloc[0], d.iloc[-1]
+    Chart(
+        id="housing-homelessness", topic=TOPIC,
+        title="People in emergency accommodation",
+        subtitle=f"Number of people in emergency accommodation for homeless people, by month, {when(a.month)} to {when(b.month)}.",
+        sources=[HOMELESS_SOURCE],
+        notes=HOMELESS_NOTES,
+        key_fact=f"{b.total:,} people were in emergency accommodation in {when(b.month)}, including {b.dependants:,} "
+                 f"dependants, almost all of them children. That was up from {a.total:,} in {when(a.month)}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def homelessness_regions():
+    df = homelessness.fetch()
+    last = df.month.max()
+    d = df[df.month == last][["Region", "Total Adults", "Number of Dependants in Families"]].copy()
+    d.columns = ["region", "adults", "dependants"]
+    d["total"] = d.adults + d.dependants
+    d[["adults", "dependants", "total"]] = d[["adults", "dependants", "total"]].astype(int)
+    d["percent"] = (d.total / d.total.sum() * 100).round(1)
+    d = d.sort_values("total").reset_index(drop=True)
+    fig = go.Figure(go.Bar(y=d.region, x=d.total, orientation="h", marker=dict(color=style.BLUE, cornerradius=4),
+                           text=[f"{v:,}" for v in d.total], textposition="outside", cliponaxis=False,
+                           textfont=dict(color=style.INK, size=12),
+                           hovertemplate="<b>%{y}</b>: %{x:,} people<extra></extra>"))
+    fig.update_layout(style.base_layout(margin=dict(l=8, r=64, t=8, b=32), bargap=0.3,
+                                        xaxis=style.value_axis(tickformat="~s"),
+                                        yaxis=style.axis(automargin=True, tickfont=dict(color=style.INK_2, size=12))))
+    when = pd.to_datetime(last).strftime("%B %Y")
+    dub = d[d.region == "Dublin"].iloc[0]
+    Chart(
+        id="housing-homelessness-regions", topic=TOPIC, height=440,
+        title="Emergency accommodation by region",
+        subtitle=f"Number of people in emergency accommodation for homeless people, by region, {when}.",
+        sources=[HOMELESS_SOURCE],
+        notes=HOMELESS_NOTES[:2] + [
+            "The regions are those used for regional homelessness action plans, each covering several local "
+            "authorities. The Department of Housing's reports list the local authorities in each region.",
+            HOMELESS_NOTES[2]],
+        key_fact=f"In {when}, {dub.percent:.0f}% of people in emergency accommodation were in Dublin, {dub.total:,} people.",
+        data=d.iloc[::-1].reset_index(drop=True)[["region", "adults", "dependants", "total", "percent"]], figure=fig,
     ).write()

@@ -17,3 +17,7 @@
   path: owning-renting.qmd
   image: ../images/charts/housing-renting-map.png
   description: "How many households own their home and how many rent, in each county."
+- title: "Homelessness"
+  path: homelessness.qmd
+  image: ../images/charts/housing-homelessness.png
+  description: "How many people are in emergency accommodation for homeless people, and where."
