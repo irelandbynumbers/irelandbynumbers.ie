@@ -162,12 +162,24 @@ def irish_language():
     return svg("".join(b), "Two speech bubbles saying Dia duit")
 
 
+def public_finances():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a stack of coins and a banknote
+    for i in range(6):
+        b.append(f'<ellipse cx="200" cy="{318 - i * 26}" rx="80" ry="22" fill="{GOLD}" stroke="#fff" stroke-width="3"/>')
+    b.append(f'<rect x="320" y="150" width="200" height="110" rx="10" fill="{AQUA}" transform="rotate(-8 420 205)"/>'
+             f'<circle cx="420" cy="205" r="30" fill="#fff" opacity=".85" transform="rotate(-8 420 205)"/>'
+             f'<text x="420" y="217" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="700" '
+             f'fill="{AQUA}" transform="rotate(-8 420 205)">€</text>')
+    return svg("".join(b), "A stack of coins and a euro banknote")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

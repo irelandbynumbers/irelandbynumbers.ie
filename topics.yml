@@ -41,3 +41,7 @@
   path: irish-language/index.qmd
   image: images/topic-irish-language.svg
   description: How many people speak Irish, how often, and in the Gaeltacht.
+- title: Public finances
+  path: public-finances/index.qmd
+  image: images/topic-public-finances.svg
+  description: Where the State's money comes from, what it is spent on, and how much it owes.

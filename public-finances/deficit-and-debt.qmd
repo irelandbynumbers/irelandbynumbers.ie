@@ -1,0 +1,14 @@
+---
+title: "Surplus, deficit and debt"
+description: "Whether the State spends more or less than it raises, and how much it owes."
+---
+
+When the State spends more than it raises in a year, it has a deficit and borrows to cover the difference. When it raises more than it spends, it has a surplus.
+
+The State ran large deficits after the 2008 financial crisis. The largest, €53.8 billion in 2010, included the cost of supporting the banks. The budget returned to surplus in 2018, went back into deficit during the Covid-19 pandemic in 2020 and 2021, and has been in surplus each year since 2022.
+
+{{< chart public-finances-balance >}}
+
+Government debt rose from €47 billion at the end of 2007 to over €200 billion by 2012, and has stayed at about that level since. Because the economy has grown, the debt is now much smaller relative to national income. It was 63% of GNI* at the end of 2025, down from a peak of 164% in 2012.
+
+{{< chart public-finances-debt >}}

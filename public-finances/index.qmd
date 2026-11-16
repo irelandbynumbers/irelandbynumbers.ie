@@ -1,0 +1,23 @@
+---
+title: "Public finances"
+description: "Where the State's money comes from, what it is spent on, and how much it owes."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish public-finances >}}
+
+These pages show where the State's money comes from, what it is spent on, whether it spends more or less than it raises, and how much it owes. The figures are for general government, which includes central government, local authorities and other public bodies.
+
+{{< key-facts public-finances-revenue public-finances-spending public-finances-balance public-finances-debt >}}
+
+:::{#pages}
+:::

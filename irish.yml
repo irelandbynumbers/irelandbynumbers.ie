@@ -21,6 +21,9 @@ topics:
   crime:
     title: "Coireacht"
     summary: "Coireacht a taifeadadh de réir cineáil, ó ghoid agus coireacht a bhaineann le gluaisteáin go hionsaí."
+  public-finances:
+    title: "Airgeadas poiblí"
+    summary: "Cá as a dtagann airgead an Stáit, cad air a gcaitear é, agus cé mhéad atá dlite ag an Stát."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."
