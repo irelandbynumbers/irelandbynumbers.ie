@@ -1,0 +1,223 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02196V02652,State,UNIT,VALUE
+VSA03C1,Births Registered,1989,1989,-,State,Number,52018.0
+VSA03C1,Births Registered,1990,1990,-,State,Number,53044.0
+VSA03C1,Births Registered,1991,1991,-,State,Number,52718.0
+VSA03C1,Births Registered,1992,1992,-,State,Number,51089.0
+VSA03C1,Births Registered,1993,1993,-,State,Number,49304.0
+VSA03C1,Births Registered,1994,1994,-,State,Number,48255.0
+VSA03C1,Births Registered,1995,1995,-,State,Number,48787.0
+VSA03C1,Births Registered,1996,1996,-,State,Number,50655.0
+VSA03C1,Births Registered,1997,1997,-,State,Number,52775.0
+VSA03C1,Births Registered,1998,1998,-,State,Number,53969.0
+VSA03C1,Births Registered,1999,1999,-,State,Number,53924.0
+VSA03C1,Births Registered,2000,2000,-,State,Number,54789.0
+VSA03C1,Births Registered,2001,2001,-,State,Number,57854.0
+VSA03C1,Births Registered,2002,2002,-,State,Number,60503.0
+VSA03C1,Births Registered,2003,2003,-,State,Number,61529.0
+VSA03C1,Births Registered,2004,2004,-,State,Number,61972.0
+VSA03C1,Births Registered,2005,2005,-,State,Number,61372.0
+VSA03C1,Births Registered,2006,2006,-,State,Number,65425.0
+VSA03C1,Births Registered,2007,2007,-,State,Number,71389.0
+VSA03C1,Births Registered,2008,2008,-,State,Number,75173.0
+VSA03C1,Births Registered,2009,2009,-,State,Number,75554.0
+VSA03C1,Births Registered,2010,2010,-,State,Number,75174.0
+VSA03C1,Births Registered,2011,2011,-,State,Number,74033.0
+VSA03C1,Births Registered,2012,2012,-,State,Number,71674.0
+VSA03C1,Births Registered,2013,2013,-,State,Number,68954.0
+VSA03C1,Births Registered,2014,2014,-,State,Number,67295.0
+VSA03C1,Births Registered,2015,2015,-,State,Number,65536.0
+VSA03C1,Births Registered,2016,2016,-,State,Number,63841.0
+VSA03C1,Births Registered,2017,2017,-,State,Number,61824.0
+VSA03C1,Births Registered,2018,2018,-,State,Number,61022.0
+VSA03C1,Births Registered,2019,2019,-,State,Number,59294.0
+VSA03C1,Births Registered,2020,2020,-,State,Number,55959.0
+VSA03C1,Births Registered,2021,2021,-,State,Number,60575.0
+VSA03C1,Births Registered,2022,2022,-,State,Number,54483.0
+VSA03C1,Births Registered,2023,2023,-,State,Number,54526.0
+VSA03C1,Births Registered,2024,2024,-,State,Number,53189.0
+VSA03C1,Births Registered,2025,2025,-,State,Number,54125.0
+VSA03C2,Births Outside Marriage Registered,1989,1989,-,State,Number,6671.0
+VSA03C2,Births Outside Marriage Registered,1990,1990,-,State,Number,7767.0
+VSA03C2,Births Outside Marriage Registered,1991,1991,-,State,Number,8912.0
+VSA03C2,Births Outside Marriage Registered,1992,1992,-,State,Number,9211.0
+VSA03C2,Births Outside Marriage Registered,1993,1993,-,State,Number,9826.0
+VSA03C2,Births Outside Marriage Registered,1994,1994,-,State,Number,10049.0
+VSA03C2,Births Outside Marriage Registered,1995,1995,-,State,Number,10862.0
+VSA03C2,Births Outside Marriage Registered,1996,1996,-,State,Number,12797.0
+VSA03C2,Births Outside Marriage Registered,1997,1997,-,State,Number,14149.0
+VSA03C2,Births Outside Marriage Registered,1998,1998,-,State,Number,15492.0
+VSA03C2,Births Outside Marriage Registered,1999,1999,-,State,Number,16790.0
+VSA03C2,Births Outside Marriage Registered,2000,2000,-,State,Number,17266.0
+VSA03C2,Births Outside Marriage Registered,2001,2001,-,State,Number,18114.0
+VSA03C2,Births Outside Marriage Registered,2002,2002,-,State,Number,18879.0
+VSA03C2,Births Outside Marriage Registered,2003,2003,-,State,Number,19210.0
+VSA03C2,Births Outside Marriage Registered,2004,2004,-,State,Number,19798.0
+VSA03C2,Births Outside Marriage Registered,2005,2005,-,State,Number,19501.0
+VSA03C2,Births Outside Marriage Registered,2006,2006,-,State,Number,21397.0
+VSA03C2,Births Outside Marriage Registered,2007,2007,-,State,Number,23640.0
+VSA03C2,Births Outside Marriage Registered,2008,2008,-,State,Number,25145.0
+VSA03C2,Births Outside Marriage Registered,2009,2009,-,State,Number,25252.0
+VSA03C2,Births Outside Marriage Registered,2010,2010,-,State,Number,25372.0
+VSA03C2,Births Outside Marriage Registered,2011,2011,-,State,Number,25091.0
+VSA03C2,Births Outside Marriage Registered,2012,2012,-,State,Number,25179.0
+VSA03C2,Births Outside Marriage Registered,2013,2013,-,State,Number,24353.0
+VSA03C2,Births Outside Marriage Registered,2014,2014,-,State,Number,24389.0
+VSA03C2,Births Outside Marriage Registered,2015,2015,-,State,Number,23942.0
+VSA03C2,Births Outside Marriage Registered,2016,2016,-,State,Number,23386.0
+VSA03C2,Births Outside Marriage Registered,2017,2017,-,State,Number,23236.0
+VSA03C2,Births Outside Marriage Registered,2018,2018,-,State,Number,23102.0
+VSA03C2,Births Outside Marriage Registered,2019,2019,-,State,Number,22643.0
+VSA03C2,Births Outside Marriage Registered,2020,2020,-,State,Number,21478.0
+VSA03C2,Births Outside Marriage Registered,2021,2021,-,State,Number,25314.0
+VSA03C2,Births Outside Marriage Registered,2022,2022,-,State,Number,23382.0
+VSA03C2,Births Outside Marriage Registered,2023,2023,-,State,Number,22126.0
+VSA03C2,Births Outside Marriage Registered,2024,2024,-,State,Number,21549.0
+VSA03C2,Births Outside Marriage Registered,2025,2025,-,State,Number,21232.0
+VSA03C3,Deaths Registered,1989,1989,-,State,Number,32111.0
+VSA03C3,Deaths Registered,1990,1990,-,State,Number,31370.0
+VSA03C3,Deaths Registered,1991,1991,-,State,Number,31305.0
+VSA03C3,Deaths Registered,1992,1992,-,State,Number,30931.0
+VSA03C3,Deaths Registered,1993,1993,-,State,Number,32148.0
+VSA03C3,Deaths Registered,1994,1994,-,State,Number,30948.0
+VSA03C3,Deaths Registered,1995,1995,-,State,Number,32259.0
+VSA03C3,Deaths Registered,1996,1996,-,State,Number,31723.0
+VSA03C3,Deaths Registered,1997,1997,-,State,Number,31581.0
+VSA03C3,Deaths Registered,1998,1998,-,State,Number,31563.0
+VSA03C3,Deaths Registered,1999,1999,-,State,Number,32608.0
+VSA03C3,Deaths Registered,2000,2000,-,State,Number,31391.0
+VSA03C3,Deaths Registered,2001,2001,-,State,Number,30212.0
+VSA03C3,Deaths Registered,2002,2002,-,State,Number,29683.0
+VSA03C3,Deaths Registered,2003,2003,-,State,Number,29074.0
+VSA03C3,Deaths Registered,2004,2004,-,State,Number,28665.0
+VSA03C3,Deaths Registered,2005,2005,-,State,Number,28260.0
+VSA03C3,Deaths Registered,2006,2006,-,State,Number,28488.0
+VSA03C3,Deaths Registered,2007,2007,-,State,Number,28117.0
+VSA03C3,Deaths Registered,2008,2008,-,State,Number,28274.0
+VSA03C3,Deaths Registered,2009,2009,-,State,Number,28380.0
+VSA03C3,Deaths Registered,2010,2010,-,State,Number,27961.0
+VSA03C3,Deaths Registered,2011,2011,-,State,Number,28456.0
+VSA03C3,Deaths Registered,2012,2012,-,State,Number,29186.0
+VSA03C3,Deaths Registered,2013,2013,-,State,Number,29504.0
+VSA03C3,Deaths Registered,2014,2014,-,State,Number,29252.0
+VSA03C3,Deaths Registered,2015,2015,-,State,Number,30127.0
+VSA03C3,Deaths Registered,2016,2016,-,State,Number,30667.0
+VSA03C3,Deaths Registered,2017,2017,-,State,Number,30418.0
+VSA03C3,Deaths Registered,2018,2018,-,State,Number,31140.0
+VSA03C3,Deaths Registered,2019,2019,-,State,Number,31184.0
+VSA03C3,Deaths Registered,2020,2020,-,State,Number,31765.0
+VSA03C3,Deaths Registered,2021,2021,-,State,Number,34844.0
+VSA03C3,Deaths Registered,2022,2022,-,State,Number,35804.0
+VSA03C3,Deaths Registered,2023,2023,-,State,Number,35649.0
+VSA03C3,Deaths Registered,2024,2024,-,State,Number,35676.0
+VSA03C3,Deaths Registered,2025,2025,-,State,Number,35587.0
+VSA03C4,"Birth Rate Registered per 1,000 Population",1989,1989,-,State,Number,14.8
+VSA03C4,"Birth Rate Registered per 1,000 Population",1990,1990,-,State,Number,15.1
+VSA03C4,"Birth Rate Registered per 1,000 Population",1991,1991,-,State,Number,15.0
+VSA03C4,"Birth Rate Registered per 1,000 Population",1992,1992,-,State,Number,14.4
+VSA03C4,"Birth Rate Registered per 1,000 Population",1993,1993,-,State,Number,13.8
+VSA03C4,"Birth Rate Registered per 1,000 Population",1994,1994,-,State,Number,13.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",1995,1995,-,State,Number,13.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",1996,1996,-,State,Number,14.0
+VSA03C4,"Birth Rate Registered per 1,000 Population",1997,1997,-,State,Number,14.4
+VSA03C4,"Birth Rate Registered per 1,000 Population",1998,1998,-,State,Number,14.6
+VSA03C4,"Birth Rate Registered per 1,000 Population",1999,1999,-,State,Number,14.4
+VSA03C4,"Birth Rate Registered per 1,000 Population",2000,2000,-,State,Number,14.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2001,2001,-,State,Number,15.0
+VSA03C4,"Birth Rate Registered per 1,000 Population",2002,2002,-,State,Number,15.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2003,2003,-,State,Number,15.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2004,2004,-,State,Number,15.3
+VSA03C4,"Birth Rate Registered per 1,000 Population",2005,2005,-,State,Number,14.9
+VSA03C4,"Birth Rate Registered per 1,000 Population",2006,2006,-,State,Number,15.4
+VSA03C4,"Birth Rate Registered per 1,000 Population",2007,2007,-,State,Number,16.3
+VSA03C4,"Birth Rate Registered per 1,000 Population",2008,2008,-,State,Number,16.8
+VSA03C4,"Birth Rate Registered per 1,000 Population",2009,2009,-,State,Number,16.7
+VSA03C4,"Birth Rate Registered per 1,000 Population",2010,2010,-,State,Number,16.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2011,2011,-,State,Number,16.2
+VSA03C4,"Birth Rate Registered per 1,000 Population",2012,2012,-,State,Number,15.6
+VSA03C4,"Birth Rate Registered per 1,000 Population",2013,2013,-,State,Number,14.9
+VSA03C4,"Birth Rate Registered per 1,000 Population",2014,2014,-,State,Number,14.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2015,2015,-,State,Number,14.0
+VSA03C4,"Birth Rate Registered per 1,000 Population",2016,2016,-,State,Number,13.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2017,2017,-,State,Number,12.9
+VSA03C4,"Birth Rate Registered per 1,000 Population",2018,2018,-,State,Number,12.6
+VSA03C4,"Birth Rate Registered per 1,000 Population",2019,2019,-,State,Number,12.0
+VSA03C4,"Birth Rate Registered per 1,000 Population",2020,2020,-,State,Number,11.2
+VSA03C4,"Birth Rate Registered per 1,000 Population",2021,2021,-,State,Number,11.9
+VSA03C4,"Birth Rate Registered per 1,000 Population",2022,2022,-,State,Number,10.5
+VSA03C4,"Birth Rate Registered per 1,000 Population",2023,2023,-,State,Number,10.3
+VSA03C4,"Birth Rate Registered per 1,000 Population",2024,2024,-,State,Number,9.9
+VSA03C4,"Birth Rate Registered per 1,000 Population",2025,2025,-,State,Number,9.9
+VSA03C5,"Death Rate Registered per 1,000 Population",1989,1989,-,State,Number,9.1
+VSA03C5,"Death Rate Registered per 1,000 Population",1990,1990,-,State,Number,9.0
+VSA03C5,"Death Rate Registered per 1,000 Population",1991,1991,-,State,Number,8.9
+VSA03C5,"Death Rate Registered per 1,000 Population",1992,1992,-,State,Number,8.7
+VSA03C5,"Death Rate Registered per 1,000 Population",1993,1993,-,State,Number,9.0
+VSA03C5,"Death Rate Registered per 1,000 Population",1994,1994,-,State,Number,8.6
+VSA03C5,"Death Rate Registered per 1,000 Population",1995,1995,-,State,Number,9.0
+VSA03C5,"Death Rate Registered per 1,000 Population",1996,1996,-,State,Number,8.7
+VSA03C5,"Death Rate Registered per 1,000 Population",1997,1997,-,State,Number,8.6
+VSA03C5,"Death Rate Registered per 1,000 Population",1998,1998,-,State,Number,8.5
+VSA03C5,"Death Rate Registered per 1,000 Population",1999,1999,-,State,Number,8.7
+VSA03C5,"Death Rate Registered per 1,000 Population",2000,2000,-,State,Number,8.3
+VSA03C5,"Death Rate Registered per 1,000 Population",2001,2001,-,State,Number,7.9
+VSA03C5,"Death Rate Registered per 1,000 Population",2002,2002,-,State,Number,7.6
+VSA03C5,"Death Rate Registered per 1,000 Population",2003,2003,-,State,Number,7.3
+VSA03C5,"Death Rate Registered per 1,000 Population",2004,2004,-,State,Number,7.1
+VSA03C5,"Death Rate Registered per 1,000 Population",2005,2005,-,State,Number,6.8
+VSA03C5,"Death Rate Registered per 1,000 Population",2006,2006,-,State,Number,6.7
+VSA03C5,"Death Rate Registered per 1,000 Population",2007,2007,-,State,Number,6.5
+VSA03C5,"Death Rate Registered per 1,000 Population",2008,2008,-,State,Number,6.3
+VSA03C5,"Death Rate Registered per 1,000 Population",2009,2009,-,State,Number,6.26
+VSA03C5,"Death Rate Registered per 1,000 Population",2010,2010,-,State,Number,6.14
+VSA03C5,"Death Rate Registered per 1,000 Population",2011,2011,-,State,Number,6.22
+VSA03C5,"Death Rate Registered per 1,000 Population",2012,2012,-,State,Number,6.36
+VSA03C5,"Death Rate Registered per 1,000 Population",2013,2013,-,State,Number,6.42
+VSA03C5,"Death Rate Registered per 1,000 Population",2014,2014,-,State,Number,6.3
+VSA03C5,"Death Rate Registered per 1,000 Population",2015,2015,-,State,Number,6.4
+VSA03C5,"Death Rate Registered per 1,000 Population",2016,2016,-,State,Number,6.5
+VSA03C5,"Death Rate Registered per 1,000 Population",2017,2017,-,State,Number,6.3
+VSA03C5,"Death Rate Registered per 1,000 Population",2018,2018,-,State,Number,6.4
+VSA03C5,"Death Rate Registered per 1,000 Population",2019,2019,-,State,Number,6.3
+VSA03C5,"Death Rate Registered per 1,000 Population",2020,2020,-,State,Number,6.4
+VSA03C5,"Death Rate Registered per 1,000 Population",2021,2021,-,State,Number,6.9
+VSA03C5,"Death Rate Registered per 1,000 Population",2022,2022,-,State,Number,6.9
+VSA03C5,"Death Rate Registered per 1,000 Population",2023,2023,-,State,Number,6.7
+VSA03C5,"Death Rate Registered per 1,000 Population",2024,2024,-,State,Number,6.6
+VSA03C5,"Death Rate Registered per 1,000 Population",2025,2025,-,State,Number,6.5
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1989,1989,-,State,%,12.8
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1990,1990,-,State,%,14.6
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1991,1991,-,State,%,16.9
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1992,1992,-,State,%,18.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1993,1993,-,State,%,20.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1994,1994,-,State,%,21.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1995,1995,-,State,%,22.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1996,1996,-,State,%,25.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1997,1997,-,State,%,27.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1998,1998,-,State,%,29.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,1999,1999,-,State,%,31.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2000,2000,-,State,%,32.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2001,2001,-,State,%,31.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2002,2002,-,State,%,31.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2003,2003,-,State,%,31.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2004,2004,-,State,%,32.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2005,2005,-,State,%,32.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2006,2006,-,State,%,33.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2007,2007,-,State,%,33.0
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2008,2008,-,State,%,33.4
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2009,2009,-,State,%,33.4
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2010,2010,-,State,%,33.8
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2011,2011,-,State,%,33.9
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2012,2012,-,State,%,35.1
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2013,2013,-,State,%,35.3
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2014,2014,-,State,%,36.2
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2015,2015,-,State,%,36.5
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2016,2016,-,State,%,36.6
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2017,2017,-,State,%,37.6
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2018,2018,-,State,%,37.9
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2019,2019,-,State,%,38.2
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2020,2020,-,State,%,38.4
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2021,2021,-,State,%,41.8
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2022,2022,-,State,%,42.9
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2023,2023,-,State,%,40.6
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2024,2024,-,State,%,40.5
+VSA03C6,Births Outside Marriage Registered as a Percentage of Total Births Registered,2025,2025,-,State,%,39.2

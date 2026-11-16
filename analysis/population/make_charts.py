@@ -1,4 +1,5 @@
 """Population charts, from CSO population estimates and the census."""
+import pandas as pd
 import plotly.graph_objects as go
 
 from ibn import cso, figures, style
@@ -13,6 +14,10 @@ def build():
     population_change()
     county_map()
     age_shares()
+    births_deaths()
+    fertility()
+    marriages()
+    marriage_ceremonies()
 
 
 def population_total():
@@ -111,5 +116,114 @@ def age_shares():
         subtitle=f"Percentage of the population aged under 15 and aged 65 and over, {out.Year.min()} to {out.Year.max()}.",
         sources=[Source.cso("PEA01", "Population Estimates (Persons in April)")],
         notes=["Calculated from the CSO's estimates of the population by age in April of each year."],
+        data=out, figure=fig,
+    ).write()
+
+
+REGISTERED = ("Births, deaths and marriages are counted in the year they are registered, which is usually soon after "
+              "they happen. Figures for the latest year are provisional and can be revised.")
+
+
+def births_deaths():
+    df = cso.fetch("VSA03")
+    d = df.pivot_table(index="Year", columns="Statistic Label", values="VALUE").reset_index()
+    d = d.rename(columns={"Births Registered": "births", "Deaths Registered": "deaths"})[["Year", "births", "deaths"]]
+    d = d.dropna().astype(int)
+    d["natural_increase"] = d.births - d.deaths
+    fig = figures.lines(d, "Year", {"births": "Births", "deaths": "Deaths"}, colours=[style.BLUE, style.INK_3],
+                        y_range=[0, d.births.max() * 1.1])
+    peak = d.loc[d.births.idxmax()]
+    b = d.iloc[-1]
+    Chart(
+        id="population-births-deaths", topic=TOPIC,
+        title="Births and deaths",
+        subtitle=f"Number of births and deaths registered in Ireland each year, {d.Year.min()} to {b.Year}.",
+        sources=[Source.cso("VSA03", "Total Births and Deaths Registered Numbers and Rates")],
+        notes=[REGISTERED,
+               "The gap between the two lines is the natural increase, the number of births minus the number of deaths. "
+               "It is given in the data file. Population change also depends on migration."],
+        key_fact=f"{b.births:,} births and {b.deaths:,} deaths were registered in {b.Year}. Births peaked at "
+                 f"{peak.births:,} in {peak.Year}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def fertility():
+    df = cso.fetch("VSA104")
+    d = df[(df["NUTS 3 Region"] == "Ireland") & (df["Age Group"] == "All ages")
+           & (df["Statistic Label"] == "Total period of fertility rate")].dropna(subset=["VALUE"])
+    d = d[["Year", "VALUE"]].rename(columns={"VALUE": "fertility_rate"})
+    d["Year"] = d.Year.astype(int)
+    fig = figures.lines(d, "Year", {"fertility_rate": "Fertility rate"}, value_format=".2f", y_range=[0, 4.2])
+    fig.add_hline(y=2.1, line=dict(color=style.INK_3, width=1, dash="dot"),
+                  annotation=dict(text="Replacement level, 2.1", font=dict(color=style.INK_3, size=11)),
+                  annotation_position="top right")
+    a, b = d.iloc[0], d.iloc[-1]
+    below = d[d.fertility_rate >= 2.1].Year.max()
+    Chart(
+        id="population-fertility", topic=TOPIC,
+        title="Fertility rate",
+        subtitle=f"Average number of children a woman would have over her lifetime at each year's birth rates, "
+                 f"{a.Year:.0f} to {b.Year:.0f}.",
+        sources=[Source.cso("VSA104", "Fertility Rates")],
+        notes=["The total fertility rate adds up the birth rates of women at each age in a year. It is the number of "
+               "children a woman would have on average if those rates stayed the same throughout her life.",
+               "A rate of about 2.1 is known as replacement level, the rate at which a population would replace itself "
+               "from one generation to the next without migration."],
+        key_fact=f"Ireland's fertility rate was {b.fertility_rate:.2f} in {b.Year:.0f}, down from {a.fertility_rate:.2f} in "
+                 f"{a.Year:.0f}. It was last at or above replacement level, 2.1, in {below:.0f}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def marriages():
+    opposite = cso.fetch("VSA46")
+    opposite = opposite[(opposite["Day of Occurence"] == "All days") & (opposite["Month of Occurrence"] == "All months")]
+    same = cso.fetch("VSB12")
+    same = same[(same["Day of Occurence"] == "All days") & (same["Month of Occurrence"] == "All months")]
+    d = pd.concat([opposite.set_index("Year").VALUE.rename("opposite_sex"), same.set_index("Year").VALUE.rename("same_sex")],
+                  axis=1).fillna(0).astype(int).reset_index()
+    d["total"] = d.opposite_sex + d.same_sex
+    fig = figures.lines(d, "Year", {"total": "Marriages"}, y_range=[0, d.total.max() * 1.1])
+    low = d.loc[d.total.idxmin()]
+    b = d.iloc[-1]
+    Chart(
+        id="population-marriages", topic=TOPIC,
+        title="Marriages",
+        subtitle=f"Number of marriages registered in Ireland each year, {d.Year.min()} to {b.Year}.",
+        sources=[Source.cso("VSA46", "Opposite-Sex Marriages Registered"), Source.cso("VSB12", "Same-Sex Marriages Registered")],
+        notes=[REGISTERED,
+               "Same-sex marriage became legal in Ireland in November 2015. The data file gives opposite-sex and "
+               "same-sex marriages separately."],
+        key_fact=f"{b.total:,} marriages were registered in {b.Year}, including {b.same_sex:,} same-sex marriages. The "
+                 f"lowest number was {low.total:,}, in {low.Year}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def marriage_ceremonies():
+    df = cso.fetch("VSA44")
+    d = df[df["Province County and City"] == "State"].pivot_table(index="Year", columns="Form of Ceremony", values="VALUE").fillna(0)
+    total = d["All ceremonies"]
+    out = pd.DataFrame({
+        "Year": d.index.astype(int),
+        "roman_catholic": (d["Roman Catholic"] / total * 100).round(1).values,
+        "civil": (d["Civil marriages"] / total * 100).round(1).values,
+        "other": ((total - d["Roman Catholic"] - d["Civil marriages"]) / total * 100).round(1).values,
+    })
+    fig = figures.lines(out, "Year", {"roman_catholic": "Catholic", "civil": "Civil", "other": "Other ceremonies"},
+                        value_format=".0f", suffix="%", y_range=[0, 100], colours=[style.BLUE, style.ORANGE, style.AQUA])
+    a, b = out.iloc[0], out.iloc[-1]
+    Chart(
+        id="population-marriage-ceremonies", topic=TOPIC,
+        title="How couples marry",
+        subtitle=f"Percentage of opposite-sex marriages by type of ceremony, {a.Year:.0f} to {b.Year:.0f}.",
+        sources=[Source.cso("VSA44", "Opposite-Sex Marriages Registered")],
+        notes=[REGISTERED,
+               "Other ceremonies include those by other churches and religions, and by bodies such as the Humanist "
+               "Association of Ireland and the Spiritualist Union of Ireland, which the CSO has counted separately "
+               "since 2014. The CSO publishes this breakdown for opposite-sex marriages only."],
+        key_fact=f"In {b.Year:.0f}, {b.roman_catholic:.0f}% of opposite-sex marriages were Catholic ceremonies, down from "
+                 f"{a.roman_catholic:.0f}% in {a.Year:.0f}. {b.civil:.0f}% were civil ceremonies.",
         data=out, figure=fig,
     ).write()
