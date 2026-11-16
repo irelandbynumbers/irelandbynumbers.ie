@@ -12,3 +12,7 @@
   path: age.qmd
   image: ../images/charts/population-ageing.png
   description: "How the age profile of the population is changing, and how many people are over 65."
+- title: "Births, deaths and marriages"
+  path: births-deaths-marriages.qmd
+  image: ../images/charts/population-marriage-ceremonies.png
+  description: "How many babies are born, how many people die and marry each year, and how couples marry."

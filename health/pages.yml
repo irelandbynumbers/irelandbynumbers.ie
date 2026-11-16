@@ -1,4 +1,8 @@
 # Subtopic pages, shown as tiles on this topic's page.
+- title: "The health service"
+  path: health-service.qmd
+  image: ../images/charts/health-trolleys.png
+  description: "Trolleys, time spent in emergency departments, outpatient waiting times and spending on health care."
 - title: "Life expectancy"
   path: life-expectancy.qmd
   image: ../images/charts/health-life-expectancy.png

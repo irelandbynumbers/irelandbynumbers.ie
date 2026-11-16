@@ -1,0 +1,20 @@
+---
+title: "Births, deaths and marriages"
+description: "How many babies are born, how many people die and marry each year, and how couples marry."
+---
+
+About 54,000 births and 36,000 deaths are registered in Ireland each year. Births peaked at 75,554 in 2009 and have fallen since, while the number of deaths has risen since the late 2000s as the population has grown and aged. There are still many more births than deaths, so the population would keep growing even without migration.
+
+{{< chart population-births-deaths >}}
+
+Women in Ireland are having fewer children than in the past. The fertility rate was 1.47 in 2024, down from 3.85 in 1969 and below the level of about 2.1 needed for each generation to replace itself without migration.
+
+{{< chart population-fertility >}}
+
+About 20,000 marriages are registered each year. The number fell by more than half in 2020, when Covid-19 restrictions limited the number of guests at weddings, and recovered in 2022. Same-sex marriage became legal in 2015, and about 600 same-sex couples now marry each year.
+
+{{< chart population-marriages >}}
+
+How couples marry has changed a great deal. In 2000, 80% of opposite-sex marriages were Catholic ceremonies. By 2025 that had fallen to 31%, about the same as the share of civil ceremonies, at 33%. The rest were ceremonies by other churches and by bodies such as the Humanist Association of Ireland.
+
+{{< chart population-marriage-ceremonies >}}

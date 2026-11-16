@@ -1,0 +1,13 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Tax and revenue"
+  path: revenue.qmd
+  image: ../images/charts/public-finances-revenue.png
+  description: "Where the State's money comes from, and how the biggest taxes have grown."
+- title: "Government spending"
+  path: spending.qmd
+  image: ../images/charts/public-finances-spending.png
+  description: "What the State spends its money on."
+- title: "Surplus, deficit and debt"
+  path: deficit-and-debt.qmd
+  image: ../images/charts/public-finances-balance.png
+  description: "Whether the State spends more or less than it raises, and how much it owes."

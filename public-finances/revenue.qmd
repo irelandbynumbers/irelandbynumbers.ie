@@ -1,0 +1,12 @@
+---
+title: "Tax and revenue"
+description: "Where the State's money comes from, and how the biggest taxes have grown."
+---
+
+The State raised €145 billion in 2025. Income tax, including the Universal Social Charge, was the largest single source, at €36.9 billion. Corporation tax, paid on company profits, came next at €32.9 billion. Together they made up almost half of all revenue.
+
+{{< chart public-finances-revenue >}}
+
+Corporation tax has grown faster than any other tax, from €3.9 billion in 2000 to €32.9 billion in 2025. A large share is paid by a small number of multinational companies, which makes it less predictable than taxes on income or spending.
+
+{{< chart public-finances-tax-trends >}}

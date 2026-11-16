@@ -1,0 +1,10 @@
+---
+title: "Government spending"
+description: "What the State spends its money on."
+---
+
+The State spent €134 billion in 2025. A third of this went on social welfare and other benefits, such as pensions, jobseeker payments and child benefit. Just over a quarter went on the pay of public servants, such as nurses, teachers and Gardaí.
+
+{{< chart public-finances-spending >}}
+
+Interest on government debt cost €2.9 billion in 2025, about 2% of all spending.

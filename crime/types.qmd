@@ -1,0 +1,14 @@
+---
+title: "Crime by type of offence"
+description: "Which crimes are recorded most often, and how each has changed since 2003."
+---
+
+Theft is by far the most common type of crime recorded by the Gardaí, with 73,564 incidents in 2025. Road and traffic offences, dangerous or negligent acts such as drink driving, and public order offences come next.
+
+{{< chart crime-by-offence >}}
+
+Recorded burglaries fell from a peak of 28,473 in 2012 to 8,466 in 2025, a drop of more than two thirds. Recorded assaults, threats and harassment have moved the other way, rising from 13,537 in 2003 to 25,342 in 2025. Recorded thefts and burglaries fell sharply in 2020 and 2021, when Covid-19 restrictions kept people at home and closed many shops.
+
+{{< chart crime-trends >}}
+
+The figures count crimes reported to or found by the Gardaí, so they can change with reporting and recording practice as well as with the level of crime. The Central Statistics Office publishes them as statistics under reservation, because the quality of the underlying Garda data does not yet fully meet its standards for official statistics.

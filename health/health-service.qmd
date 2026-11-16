@@ -1,0 +1,20 @@
+---
+title: "The health service"
+description: "Trolleys, time spent in emergency departments, outpatient waiting times and spending on health care."
+---
+
+Trolley numbers are usually highest in January and February. On an average morning in 2025, 265 patients who had been admitted to hospital were still waiting on trolleys in emergency departments for a bed. Numbers fell sharply in 2020, during the Covid-19 pandemic, and reached their highest in 2022 and 2023.
+
+{{< chart health-trolleys >}}
+
+Half of patients who attended an emergency department in 2025 left within about five hours, either to go home or to a ward. One in twenty spent more than 20 hours there.
+
+{{< chart health-ed-times >}}
+
+An outpatient appointment is a first appointment with a hospital consultant. In September 2024, 88% of people on the outpatient waiting list had been waiting less than 15 months, up from 65% in July 2021. That means about one in eight had been waiting longer.
+
+{{< chart health-outpatient-waits >}}
+
+Spending on health care has grown more than five-fold since 2000, to €36.3 billion in 2024. These figures are not adjusted for inflation. The State paid for 78% of it, and households and health insurers paid the rest.
+
+{{< chart health-spending >}}

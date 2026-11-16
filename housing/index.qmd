@@ -15,9 +15,9 @@ listing:
 
 {{< irish housing >}}
 
-These pages show how many new homes are completed each year, how house prices and rents have moved, and how they vary across the country.
+These pages show how many new homes are completed each year, how house prices and rents have moved, how they vary across the country, and how many people are in emergency accommodation for homeless people.
 
-{{< key-facts housing-completions housing-prices housing-rents-map housing-prices-map housing-renting-map >}}
+{{< key-facts housing-completions housing-prices housing-rents-map housing-homelessness housing-prices-map housing-renting-map >}}
 
 :::{#pages}
 :::

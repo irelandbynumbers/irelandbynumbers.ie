@@ -1,0 +1,16 @@
+---
+title: "Crime by Garda division"
+description: "Rates of burglary and assault in each part of the country."
+---
+
+An Garda Síochána is organised into divisions, most of which cover one or two counties. The maps show how often burglaries and assaults were recorded in each division in 2025, relative to the number of people living there. The six divisions in Dublin are shown together as the Dublin Metropolitan Region, and the three Cork divisions are shown together.
+
+Recorded burglary rates were highest in Dublin and Wicklow, at 2.6 per 1,000 people, and lowest in Mayo, at 0.5.
+
+{{< chart crime-burglary-map >}}
+
+Recorded assaults, threats and harassment were most common relative to population in Westmeath, at 7.1 per 1,000 people, and least common in Meath, at 2.8.
+
+{{< chart crime-assaults-map >}}
+
+Rates are worked out using the population at the 2022 census. A division with a large town or many visitors can record more crime relative to the number of people who live there.

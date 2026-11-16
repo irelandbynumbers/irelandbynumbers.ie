@@ -1,0 +1,16 @@
+---
+title: "Energy and food prices"
+description: "How the price of electricity, gas, heating oil, petrol and food has changed, and what everyday items cost."
+---
+
+Energy prices rose sharply in 2022, after Russia's invasion of Ukraine pushed up the cost of gas across Europe. Electricity and gas prices for households more than doubled compared with 2015, and peaked between late 2022 and mid-2023. They eased in 2024 and 2025 but have risen again in 2026. In October 2026 electricity was 91% dearer than in 2015, gas 116% dearer and home heating oil 159% dearer, after a sharp rise in heating oil prices during 2026. Prices overall rose by 31% over the same period.
+
+{{< chart cost-of-living-energy-prices >}}
+
+Food prices fell slightly between 2015 and 2021, then rose by 29% between January 2021 and October 2026. Food now costs 18% more than in 2015.
+
+{{< chart cost-of-living-food-prices >}}
+
+The Central Statistics Office also tracks the average price of everyday items around the country. Over the five years to October 2026, the average price of 2 litres of full fat milk rose from €1.69 to €2.39. A pint of stout in a bar rose from €4.95 to €6.33.
+
+{{< chart cost-of-living-average-prices >}}

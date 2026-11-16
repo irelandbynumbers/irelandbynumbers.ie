@@ -1,0 +1,14 @@
+---
+title: "Homelessness"
+description: "How many people are in emergency accommodation for homeless people, and where."
+---
+
+The Department of Housing counts the number of people staying in emergency accommodation for homeless people each month. In August 2026 there were 17,885 people in emergency accommodation, including 5,830 dependants, almost all of them children. It fell during 2020 and 2021 and has risen every year since, to almost 80% more than in January 2019.
+
+{{< chart housing-homelessness >}}
+
+Seven in ten people in emergency accommodation are in Dublin.
+
+{{< chart housing-homelessness-regions >}}
+
+These figures do not include everyone without a home. People sleeping rough, staying with friends or family, in domestic violence refuges, or seeking international protection in State-provided accommodation are not counted.
