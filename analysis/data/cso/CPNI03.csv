@@ -1,0 +1,67 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02199V02655,Sex,C04335V05114,Ireland and Northern Ireland,UNIT,VALUE
+CPNI03C01,Median Age,1971,1971,-,Both sexes,IE0,Ireland,Number,27
+CPNI03C01,Median Age,1971,1971,-,Both sexes,N92000002,Northern Ireland,Number,28
+CPNI03C01,Median Age,1971,1971,1,Male,IE0,Ireland,Number,26
+CPNI03C01,Median Age,1971,1971,1,Male,N92000002,Northern Ireland,Number,27
+CPNI03C01,Median Age,1971,1971,2,Female,IE0,Ireland,Number,27
+CPNI03C01,Median Age,1971,1971,2,Female,N92000002,Northern Ireland,Number,30
+CPNI03C01,Median Age,1979,1979,-,Both sexes,IE0,Ireland,Number,26
+CPNI03C01,Median Age,1979,1979,-,Both sexes,N92000002,Northern Ireland,Number,29
+CPNI03C01,Median Age,1979,1979,1,Male,IE0,Ireland,Number,25
+CPNI03C01,Median Age,1979,1979,1,Male,N92000002,Northern Ireland,Number,27
+CPNI03C01,Median Age,1979,1979,2,Female,IE0,Ireland,Number,27
+CPNI03C01,Median Age,1979,1979,2,Female,N92000002,Northern Ireland,Number,31
+CPNI03C01,Median Age,1981,1981,-,Both sexes,IE0,Ireland,Number,26
+CPNI03C01,Median Age,1981,1981,-,Both sexes,N92000002,Northern Ireland,Number,29
+CPNI03C01,Median Age,1981,1981,1,Male,IE0,Ireland,Number,25
+CPNI03C01,Median Age,1981,1981,1,Male,N92000002,Northern Ireland,Number,27
+CPNI03C01,Median Age,1981,1981,2,Female,IE0,Ireland,Number,27
+CPNI03C01,Median Age,1981,1981,2,Female,N92000002,Northern Ireland,Number,31
+CPNI03C01,Median Age,1986,1986,-,Both sexes,IE0,Ireland,Number,27
+CPNI03C01,Median Age,1986,1986,-,Both sexes,N92000002,Northern Ireland,Number,30
+CPNI03C01,Median Age,1986,1986,1,Male,IE0,Ireland,Number,26
+CPNI03C01,Median Age,1986,1986,1,Male,N92000002,Northern Ireland,Number,28
+CPNI03C01,Median Age,1986,1986,2,Female,IE0,Ireland,Number,28
+CPNI03C01,Median Age,1986,1986,2,Female,N92000002,Northern Ireland,Number,32
+CPNI03C01,Median Age,1991,1991,-,Both sexes,IE0,Ireland,Number,29
+CPNI03C01,Median Age,1991,1991,-,Both sexes,N92000002,Northern Ireland,Number,31
+CPNI03C01,Median Age,1991,1991,1,Male,IE0,Ireland,Number,28
+CPNI03C01,Median Age,1991,1991,1,Male,N92000002,Northern Ireland,Number,30
+CPNI03C01,Median Age,1991,1991,2,Female,IE0,Ireland,Number,30
+CPNI03C01,Median Age,1991,1991,2,Female,N92000002,Northern Ireland,Number,33
+CPNI03C01,Median Age,1996,1996,-,Both sexes,IE0,Ireland,Number,31
+CPNI03C01,Median Age,1996,1996,-,Both sexes,N92000002,Northern Ireland,Number,33
+CPNI03C01,Median Age,1996,1996,1,Male,IE0,Ireland,Number,30
+CPNI03C01,Median Age,1996,1996,1,Male,N92000002,Northern Ireland,Number,31
+CPNI03C01,Median Age,1996,1996,2,Female,IE0,Ireland,Number,32
+CPNI03C01,Median Age,1996,1996,2,Female,N92000002,Northern Ireland,Number,34
+CPNI03C01,Median Age,2002,2002,-,Both sexes,IE0,Ireland,Number,32
+CPNI03C01,Median Age,2002,2002,-,Both sexes,N92000002,Northern Ireland,Number,35
+CPNI03C01,Median Age,2002,2002,1,Male,IE0,Ireland,Number,31
+CPNI03C01,Median Age,2002,2002,1,Male,N92000002,Northern Ireland,Number,34
+CPNI03C01,Median Age,2002,2002,2,Female,IE0,Ireland,Number,32
+CPNI03C01,Median Age,2002,2002,2,Female,N92000002,Northern Ireland,Number,36
+CPNI03C01,Median Age,2006,2006,-,Both sexes,IE0,Ireland,Number,33
+CPNI03C01,Median Age,2006,2006,-,Both sexes,N92000002,Northern Ireland,Number,36
+CPNI03C01,Median Age,2006,2006,1,Male,IE0,Ireland,Number,33
+CPNI03C01,Median Age,2006,2006,1,Male,N92000002,Northern Ireland,Number,35
+CPNI03C01,Median Age,2006,2006,2,Female,IE0,Ireland,Number,34
+CPNI03C01,Median Age,2006,2006,2,Female,N92000002,Northern Ireland,Number,37
+CPNI03C01,Median Age,2011,2011,-,Both sexes,IE0,Ireland,Number,34
+CPNI03C01,Median Age,2011,2011,-,Both sexes,N92000002,Northern Ireland,Number,37
+CPNI03C01,Median Age,2011,2011,1,Male,IE0,Ireland,Number,33
+CPNI03C01,Median Age,2011,2011,1,Male,N92000002,Northern Ireland,Number,36
+CPNI03C01,Median Age,2011,2011,2,Female,IE0,Ireland,Number,34
+CPNI03C01,Median Age,2011,2011,2,Female,N92000002,Northern Ireland,Number,38
+CPNI03C01,Median Age,2016,2016,-,Both sexes,IE0,Ireland,Number,36
+CPNI03C01,Median Age,2016,2016,-,Both sexes,N92000002,Northern Ireland,Number,38
+CPNI03C01,Median Age,2016,2016,1,Male,IE0,Ireland,Number,35
+CPNI03C01,Median Age,2016,2016,1,Male,N92000002,Northern Ireland,Number,37
+CPNI03C01,Median Age,2016,2016,2,Female,IE0,Ireland,Number,36
+CPNI03C01,Median Age,2016,2016,2,Female,N92000002,Northern Ireland,Number,39
+CPNI03C01,Median Age,2022,2022,-,Both sexes,IE0,Ireland,Number,38
+CPNI03C01,Median Age,2022,2022,-,Both sexes,N92000002,Northern Ireland,Number,40
+CPNI03C01,Median Age,2022,2022,1,Male,IE0,Ireland,Number,38
+CPNI03C01,Median Age,2022,2022,1,Male,N92000002,Northern Ireland,Number,39
+CPNI03C01,Median Age,2022,2022,2,Female,IE0,Ireland,Number,39
+CPNI03C01,Median Age,2022,2022,2,Female,N92000002,Northern Ireland,Number,41

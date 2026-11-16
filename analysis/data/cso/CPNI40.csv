@@ -1,0 +1,43 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C02199V02655,Sex,C02076V03371,Age Group,UNIT,VALUE
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,335,16 - 24 years,Number,541.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,415,25 - 34 years,Number,1319.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,465,35 - 44 years,Number,2023.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,500,45 - 54 years,Number,2312.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,535,55 - 64 years,Number,1378.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,575,65 years and over,Number,204.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,-,All ages,Number,7777.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,335,16 - 24 years,Number,283.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,415,25 - 34 years,Number,662.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,465,35 - 44 years,Number,1056.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,500,45 - 54 years,Number,1261.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,535,55 - 64 years,Number,749.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,575,65 years and over,Number,125.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,-,All ages,Number,4136.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,335,16 - 24 years,Number,258.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,415,25 - 34 years,Number,657.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,465,35 - 44 years,Number,967.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,500,45 - 54 years,Number,1051.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,535,55 - 64 years,Number,629.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,575,65 years and over,Number,79.0
+CPNI40C01,Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,-,All ages,Number,3641.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,335,16 - 24 years,%,7.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,415,25 - 34 years,%,17.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,465,35 - 44 years,%,26.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,500,45 - 54 years,%,29.7
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,535,55 - 64 years,%,17.7
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,575,65 years and over,%,2.6
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,-,Both sexes,-,All ages,%,100.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,335,16 - 24 years,%,6.8
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,415,25 - 34 years,%,16.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,465,35 - 44 years,%,25.5
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,500,45 - 54 years,%,30.5
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,535,55 - 64 years,%,18.1
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,575,65 years and over,%,3.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,1,Male,-,All ages,%,100.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,335,16 - 24 years,%,7.1
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,415,25 - 34 years,%,18.0
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,465,35 - 44 years,%,26.6
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,500,45 - 54 years,%,28.9
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,535,55 - 64 years,%,17.3
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,575,65 years and over,%,2.2
+CPNI40C02,Percentage of Usual residents aged 16 years and over commuting to Northern Ireland for work,2021/2022,2021/2022,2,Female,-,All ages,%,100.0

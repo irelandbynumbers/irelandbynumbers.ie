@@ -2,7 +2,7 @@
 sizes, the Leaving Certificate and third-level education."""
 import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, ni, style
 from ibn.chart import Chart, Source
 
 TOPIC = "education"
@@ -27,6 +27,7 @@ def build():
     third_level_students()
     third_level_attainment()
     eu_comparisons()
+    ni_comparisons()
 
 
 def pupils():
@@ -207,3 +208,29 @@ def eu_comparisons():
                "means the Junior Cycle, and who are not in any education or training.",
                "From the Labour Force Survey in each country. Figures for smaller countries are less precise."],
         suffix="%")
+
+
+def ni_comparisons():
+    df = cso.fetch("CPNI51")
+    df = df[df.Sex == "Both sexes"]
+    keep = ["Basic qualification", "Intermediate and advanced qualification", "Higher and professional qualification",
+            "Other qualification"]
+    names = {"Basic qualification": "Basic or none", "Intermediate and advanced qualification": "Intermediate or advanced",
+             "Higher and professional qualification": "Higher or professional", "Other qualification": "Other"}
+    d = ni.census_shares(df, "Level of Education", keep, names)
+    r = d.set_index("category")
+    Chart(
+        id="education-ni-qualifications", topic=TOPIC, height=360,
+        title="Qualifications in Ireland and Northern Ireland",
+        subtitle="Share of people aged 16 and over by highest level of qualification, census 2022 in Ireland and 2021 "
+                 "in Northern Ireland.",
+        sources=[Source.cso("CPNI51", "Level of education, Ireland and Northern Ireland")],
+        notes=[ni.CENSUS_NOTE, ni.STATE_NOTE, "The two education systems differ, so the CSO and NISRA grouped "
+               "qualifications into broad levels. Higher or professional covers degrees and similar qualifications. "
+               "People who did not state a qualification are left out. The figures are not adjusted for differences in the "
+               "age of the two populations."],
+        key_fact=f"{r.loc['Higher or professional', 'ireland']:.0f}% of people aged 16 and over in Ireland had a higher or "
+                 f"professional qualification, compared with {r.loc['Higher or professional', 'northern_ireland']:.0f}% in "
+                 f"Northern Ireland.",
+        data=d, figure=ni.grouped_bars(d, "category"),
+    ).write()

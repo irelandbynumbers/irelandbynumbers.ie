@@ -1,7 +1,7 @@
 """Health charts: life expectancy, causes of death, access and the health service."""
 import pandas as pd
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, ni, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 
@@ -20,6 +20,7 @@ def build():
     outpatient_waits()
     spending()
     eu_comparisons()
+    ni_comparisons()
 
 
 def life_expectancy():
@@ -242,3 +243,23 @@ def eu_comparisons():
                "price levels between countries, so the amounts are not euro. Covers spending by the State, health "
                "insurance and people themselves, but not investment in buildings and equipment."],
         value_format=",.0f")
+
+
+def ni_comparisons():
+    df = cso.fetch("CPNI24")
+    keep = ["General health - Very good", "General health - Good", "General health - Fair", "General health - Bad",
+            "General health - Very Bad"]
+    d = ni.census_shares(df, "General Health", keep, {k: k.split(" - ")[1].capitalize() for k in keep})
+    r = d.set_index("category")
+    good = r.loc[["Very good", "Good"]].sum()
+    Chart(
+        id="health-ni-general-health", topic=TOPIC, height=400,
+        title="General health in Ireland and Northern Ireland",
+        subtitle="How people rated their own general health, census 2022 in Ireland and 2021 in Northern Ireland.",
+        sources=[Source.cso("CPNI24", "General health, Ireland and Northern Ireland")],
+        notes=[ni.CENSUS_NOTE, ni.STATE_NOTE, "People who did not answer are left out. The figures are not adjusted for "
+               "differences in the age of the two populations."],
+        key_fact=f"{good.ireland:.0f}% of people in Ireland rated their health as good or very good, compared with "
+                 f"{good.northern_ireland:.0f}% in Northern Ireland.",
+        data=d, figure=ni.grouped_bars(d, "category"),
+    ).write()

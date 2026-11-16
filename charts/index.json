@@ -201,6 +201,87 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "population-ni",
+  "topic": "population",
+  "title": "Population of Ireland and Northern Ireland",
+  "subtitle": "Number of people living in Ireland and in Northern Ireland, at each census, 1841 to 2022.",
+  "kind": "chart",
+  "page": "/charts/population-ni.html",
+  "csv": "/charts/population-ni.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population, Ireland and Northern Ireland (CPNI01)",
+    "url": "https://data.cso.ie/table/CPNI01",
+    "licence": "CC BY 4.0",
+    "code": "CPNI01",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 1841, 6.5 million people lived in what is now Ireland and 1.6 million in what is now Northern Ireland. At the most recent censuses the figures were 5.15 million and 1.91 million.",
+  "listed": true,
+  "updated": "2025-07-03",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "population-ni-fertility",
+  "topic": "population",
+  "title": "Fertility rates in Ireland and Northern Ireland",
+  "subtitle": "Total fertility rate, average number of children per woman, 1985 to 2023.",
+  "kind": "chart",
+  "page": "/charts/population-ni-fertility.html",
+  "csv": "/charts/population-ni-fertility.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Fertility rates (VSA104)",
+    "url": "https://data.cso.ie/table/VSA104",
+    "licence": "CC BY 4.0",
+    "code": "VSA104",
+    "updated": "2026-10-30",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Northern Ireland Statistics and Research Agency (NISRA)",
+    "title": "Total period fertility rate (TPFRYR)",
+    "url": "https://data.nisra.gov.uk/table/TPFRYR",
+    "licence": "Open Government Licence v3.0",
+    "code": "TPFRYR",
+    "updated": "2026-04-01",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2023, the fertility rate was 1.52 in Ireland and 1.64 in Northern Ireland, down from 2.50 and 2.45 in 1985.",
+  "listed": true,
+  "updated": "2026-10-30",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "population-ni-median-age",
+  "topic": "population",
+  "title": "Median age in Ireland and Northern Ireland",
+  "subtitle": "Median age of the population, in years, at each census, 1971 to 2022.",
+  "kind": "chart",
+  "page": "/charts/population-ni-median-age.html",
+  "csv": "/charts/population-ni-median-age.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Median age, Ireland and Northern Ireland (CPNI03)",
+    "url": "https://data.cso.ie/table/CPNI03",
+    "licence": "CC BY 4.0",
+    "code": "CPNI03",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "The median age was 38 in Ireland and 40 in Northern Ireland at the most recent censuses, up from 27 and 28 in 1971.",
+  "listed": true,
+  "updated": "2025-07-03",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "population-total",
   "topic": "population",
   "title": "Population of Ireland",
@@ -324,6 +405,30 @@
   "listed": true,
   "updated": "",
   "checked": ""
+ },
+ {
+  "id": "housing-ni-tenure",
+  "topic": "housing",
+  "title": "Owning and renting in Ireland and Northern Ireland",
+  "subtitle": "Share of households by whether they own or rent their home, census 2022 in Ireland and 2021 in Northern Ireland.",
+  "kind": "chart",
+  "page": "/charts/housing-ni-tenure.html",
+  "csv": "/charts/housing-ni-tenure.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Nature of occupancy, Ireland and Northern Ireland (CPNI34)",
+    "url": "https://data.cso.ie/table/CPNI34",
+    "licence": "CC BY 4.0",
+    "code": "CPNI34",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "69% of households in Ireland owned their home, compared with 65% in Northern Ireland.",
+  "listed": true,
+  "updated": "2025-07-03",
+  "checked": "2026-11-16"
  },
  {
   "id": "housing-prices",
@@ -743,6 +848,63 @@
   "checked": "2026-11-14"
  },
  {
+  "id": "economy-ni-cross-border-commuters",
+  "topic": "economy",
+  "title": "Cross-border commuters",
+  "subtitle": "People aged 16 and over who live on one side of the border and work on the other, census 2022 in Ireland and 2021 in Northern Ireland.",
+  "kind": "chart",
+  "page": "/charts/economy-ni-cross-border-commuters.html",
+  "csv": "/charts/economy-ni-cross-border-commuters.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Commuters from Ireland to Northern Ireland (CPNI40)",
+    "url": "https://data.cso.ie/table/CPNI40",
+    "licence": "CC BY 4.0",
+    "code": "CPNI40",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Commuters from Northern Ireland to Ireland (CPNI46)",
+    "url": "https://data.cso.ie/table/CPNI46",
+    "licence": "CC BY 4.0",
+    "code": "CPNI46",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "21,279 people living in Northern Ireland worked in Ireland, and 15,752 living in Ireland worked in Northern Ireland, at the most recent censuses.",
+  "listed": true,
+  "updated": "2025-07-03",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "economy-ni-income",
+  "topic": "economy",
+  "title": "Household income in Ireland and Northern Ireland",
+  "subtitle": "Gross disposable household income per person, adjusted for price levels, 2011 to 2023.",
+  "kind": "chart",
+  "page": "/charts/economy-ni-income.html",
+  "csv": "/charts/economy-ni-income.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Gross disposable household income in purchasing power standards, Ireland and Northern Ireland (INIJEPA01)",
+    "url": "https://data.cso.ie/table/INIJEPA01",
+    "licence": "CC BY 4.0",
+    "code": "INIJEPA01",
+    "updated": "2026-06-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2023, disposable household income per person, adjusted for prices, was 13% higher in Ireland than in Northern Ireland.",
+  "listed": true,
+  "updated": "2026-06-03",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "economy-poverty-eu",
   "topic": "economy",
   "title": "Risk of poverty or social exclusion across the EU",
@@ -909,6 +1071,30 @@
   "listed": true,
   "updated": "2025-10-14",
   "checked": "2026-11-14"
+ },
+ {
+  "id": "education-ni-qualifications",
+  "topic": "education",
+  "title": "Qualifications in Ireland and Northern Ireland",
+  "subtitle": "Share of people aged 16 and over by highest level of qualification, census 2022 in Ireland and 2021 in Northern Ireland.",
+  "kind": "chart",
+  "page": "/charts/education-ni-qualifications.html",
+  "csv": "/charts/education-ni-qualifications.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Level of education, Ireland and Northern Ireland (CPNI51)",
+    "url": "https://data.cso.ie/table/CPNI51",
+    "licence": "CC BY 4.0",
+    "code": "CPNI51",
+    "updated": "2025-07-02",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "34% of people aged 16 and over in Ireland had a higher or professional qualification, compared with 32% in Northern Ireland.",
+  "listed": true,
+  "updated": "2025-07-02",
+  "checked": "2026-11-16"
  },
  {
   "id": "education-primary-class-size",
@@ -1250,6 +1436,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "migration-ni-place-of-birth",
+  "topic": "migration",
+  "title": "Place of birth in Ireland and Northern Ireland",
+  "subtitle": "Share of usual residents by place of birth, census 2022 in Ireland and 2021 in Northern Ireland.",
+  "kind": "chart",
+  "page": "/charts/migration-ni-place-of-birth.html",
+  "csv": "/charts/migration-ni-place-of-birth.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Place of birth, Ireland and Northern Ireland (CPNI17)",
+    "url": "https://data.cso.ie/table/CPNI17",
+    "licence": "CC BY 4.0",
+    "code": "CPNI17",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "20% of people living in Ireland were born outside the State, and 14% of people living in Northern Ireland were born outside Northern Ireland.",
+  "listed": true,
+  "updated": "2025-07-03",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "health-death-rates",
   "topic": "health",
   "title": "Deaths from heart disease, cancer and tuberculosis",
@@ -1368,6 +1578,30 @@
   "listed": true,
   "updated": "2026-10-20",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "health-ni-general-health",
+  "topic": "health",
+  "title": "General health in Ireland and Northern Ireland",
+  "subtitle": "How people rated their own general health, census 2022 in Ireland and 2021 in Northern Ireland.",
+  "kind": "chart",
+  "page": "/charts/health-ni-general-health.html",
+  "csv": "/charts/health-ni-general-health.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General health, Ireland and Northern Ireland (CPNI24)",
+    "url": "https://data.cso.ie/table/CPNI24",
+    "licence": "CC BY 4.0",
+    "code": "CPNI24",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "89% of people in Ireland rated their health as good or very good, compared with 79% in Northern Ireland.",
+  "listed": true,
+  "updated": "2025-07-03",
+  "checked": "2026-11-16"
  },
  {
   "id": "health-outpatient-waits",
@@ -1856,6 +2090,30 @@
   "key_fact": "120,797 new cars were licensed in 2025, along with 71,604 imported used cars. New car sales peaked in 2000, at 225,269.",
   "listed": true,
   "updated": "2026-01-13",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-ni-travel-to-work",
+  "topic": "transport",
+  "title": "Travel to work in Ireland and Northern Ireland",
+  "subtitle": "Share of people aged 16 and over travelling to work, by main means of travel, census 2022 in Ireland and 2021 in Northern Ireland.",
+  "kind": "chart",
+  "page": "/charts/transport-ni-travel-to-work.html",
+  "csv": "/charts/transport-ni-travel-to-work.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Means of travel to work, Ireland and Northern Ireland (CPNI48)",
+    "url": "https://data.cso.ie/table/CPNI48",
+    "licence": "CC BY 4.0",
+    "code": "CPNI48",
+    "updated": "2025-07-03",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "76% of people travelling to work in Ireland went by car or van, compared with 85% in Northern Ireland.",
+  "listed": true,
+  "updated": "2025-07-03",
   "checked": "2026-11-16"
  },
  {

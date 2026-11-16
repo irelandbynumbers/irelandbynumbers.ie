@@ -1,0 +1,41 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C04335V05114,Ireland and Northern Ireland,C02734V03302,Means of Travel,UNIT,VALUE
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,02,Bicycle,Number,34395.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,03,"Bus, minibus or coach",Number,202553.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,18,Car or van,Number,544128.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,05,Motorcycle or scooter,Number,669.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,01,On foot,Number,250344.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,04,"Train, DART or LUAS",Number,24175.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,101,Mainly at home,Number,5882.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,12,"Other, incl. lorry",Number,1053.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,98,Not stated,Number,95373.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,-,All means of travel,Number,1158572.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,02,Bicycle,Number,2023.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,03,"Bus, minibus or coach",Number,94874.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,18,Car or van,Number,199505.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,05,Motorcycle or scooter,Number,132.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,01,On foot,Number,82404.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,04,"Train, DART or LUAS",Number,5996.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,101,Mainly at home,Number,14802.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,12,"Other, incl. lorry",Number,2080.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,98,Not stated,Number,0.0
+CPNI49C01,Usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,-,All means of travel,Number,401816.0
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,02,Bicycle,%,3.0
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,03,"Bus, minibus or coach",%,17.5
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,18,Car or van,%,47.0
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,05,Motorcycle or scooter,%,0.1
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,01,On foot,%,21.6
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,04,"Train, DART or LUAS",%,2.1
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,101,Mainly at home,%,0.5
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,12,"Other, incl. lorry",%,0.1
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,98,Not stated,%,8.2
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,IE0,Ireland,-,All means of travel,%,100.0
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,02,Bicycle,%,0.5
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,03,"Bus, minibus or coach",%,23.6
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,18,Car or van,%,49.7
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,05,Motorcycle or scooter,%,0.0
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,01,On foot,%,20.5
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,04,"Train, DART or LUAS",%,1.5
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,101,Mainly at home,%,3.7
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,12,"Other, incl. lorry",%,0.5
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,98,Not stated,%,0.0
+CPNI49C02,Percentage of usual residents of primary school age and over in full-time education,2021/2022,2021/2022,N92000002,Northern Ireland,-,All means of travel,%,100.0

@@ -1,7 +1,7 @@
 """Migration charts, from CSO population and migration estimates."""
 import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, ni, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up
 
@@ -41,6 +41,7 @@ def build():
     by_place()
     born_abroad_map()
     eu_comparisons()
+    ni_comparisons()
 
 
 def flows():
@@ -141,3 +142,25 @@ def eu_comparisons():
         notes=["Counts everyone born in another country, including people born in Northern Ireland or Britain, and "
                "people who are now citizens of the country they live in."],
         suffix="%")
+
+
+def ni_comparisons():
+    df = cso.fetch("CPNI17")
+    keep = ["Ireland", "Northern Ireland", "England and Wales", "Scotland", "Rest of Europe(1)",
+            "Asia (1) & Middle East (1)", "Africa(1)", "Rest of the World (1)"]
+    names = {"Ireland": "Ireland (the State)", "Rest of Europe(1)": "Rest of Europe", "Asia (1) & Middle East (1)":
+             "Asia and the Middle East", "Africa(1)": "Africa", "Rest of the World (1)": "Rest of the world"}
+    d = ni.census_shares(df, "Place of Birth", keep, names)
+    r = d.set_index("category")
+    born_elsewhere_ie = 100 - r.loc["Ireland (the State)", "ireland"]
+    born_elsewhere_ni = 100 - r.loc["Northern Ireland", "northern_ireland"]
+    Chart(
+        id="migration-ni-place-of-birth", topic=TOPIC, height=480,
+        title="Place of birth in Ireland and Northern Ireland",
+        subtitle="Share of usual residents by place of birth, census 2022 in Ireland and 2021 in Northern Ireland.",
+        sources=[Source.cso("CPNI17", "Place of birth, Ireland and Northern Ireland")],
+        notes=[ni.CENSUS_NOTE, ni.STATE_NOTE, "People whose place of birth was not stated are left out."],
+        key_fact=f"{born_elsewhere_ie:.0f}% of people living in Ireland were born outside the State, and "
+                 f"{born_elsewhere_ni:.0f}% of people living in Northern Ireland were born outside Northern Ireland.",
+        data=d, figure=ni.grouped_bars(d, "category"),
+    ).write()

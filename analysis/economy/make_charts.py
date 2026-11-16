@@ -1,7 +1,8 @@
 """Economy and work charts: unemployment and national income."""
 import pandas as pd
+import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, ni, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 from ibn.facts import higher_lower
@@ -19,6 +20,7 @@ def build():
     work_from_home_map()
     car_to_work_map()
     eu_comparisons()
+    ni_comparisons()
 
 
 def unemployment():
@@ -240,3 +242,57 @@ def eu_comparisons():
                "afford a number of basic items or activities, or if they live in a household where adults work very "
                "little. Each country's poverty line is relative to its own median income."],
         suffix="%")
+
+
+def ni_comparisons():
+    df = cso.fetch("INIJEPA01")
+    area = "County and Local Government District (LGD)"
+    d = df[(df["Statistic Label"] == "Gross Disposable Household Income per Person") & df[area].isin([ni.IE, ni.NI])]
+    d = d.pivot_table(index="Year", columns=area, values="VALUE").rename(columns={ni.IE: "ireland", ni.NI: "northern_ireland"})
+    d = d.reset_index().round(0)
+    d["Year"] = d.Year.astype(int)
+    a, b = d.iloc[0], d.iloc[-1]
+    gap = (b.ireland / b.northern_ireland - 1) * 100
+    Chart(
+        id="economy-ni-income", topic=TOPIC,
+        title="Household income in Ireland and Northern Ireland",
+        subtitle=f"Gross disposable household income per person, adjusted for price levels, {a.Year:.0f} to {b.Year:.0f}.",
+        sources=[Source.cso("INIJEPA01", "Gross disposable household income in purchasing power standards, Ireland and "
+                                          "Northern Ireland")],
+        notes=[ni.STATE_NOTE, "Disposable income is what households have to spend or save after taxes, including "
+               "social welfare payments. It is shown in purchasing power standards (PPS), which adjust for the "
+               "different price levels in the two jurisdictions, so the amounts are not euro or sterling.",
+               "From a joint CSO and NISRA publication that measures the two in the same way."],
+        key_fact=f"In {b.Year:.0f}, disposable household income per person, adjusted for prices, was {gap:.0f}% higher in "
+                 f"Ireland than in Northern Ireland.",
+        data=d, figure=ni.lines(d, "Year", value_format=",.0f", y_range=[0, d.ireland.max() * 1.1]),
+    ).write()
+
+    to_ni = cso.fetch("CPNI40")
+    to_ie = cso.fetch("CPNI46")
+    rows = []
+    for name, t in [("Living in Ireland, working in Northern Ireland", to_ni), ("Living in Northern Ireland, working in Ireland", to_ie)]:
+        t = t[t.Sex == "Both sexes"]
+        for _, r in t.iterrows():
+            rows.append(dict(direction=name, age_group=r["Age Group"], people=int(r.VALUE)))
+    d = pd.DataFrame(rows)
+    tot = d.groupby("direction", sort=False).people.sum().reset_index()
+    fig = go.Figure(go.Bar(y=tot.direction, x=tot.people, orientation="h", marker=dict(color=[ni.COLOURS[ni.IE], ni.COLOURS[ni.NI]],
+                    cornerradius=4), text=[f"{v:,}" for v in tot.people], textposition="outside", cliponaxis=False,
+                    textfont=dict(color=style.INK, size=13), hovertemplate="<b>%{y}</b>: %{x:,}<extra></extra>"))
+    fig.update_layout(style.base_layout(margin=dict(l=8, r=72, t=8, b=32), bargap=0.4, xaxis=style.value_axis(),
+                                        yaxis=style.axis(automargin=True, tickfont=dict(color=style.INK_2, size=12))))
+    t = tot.set_index("direction").people
+    Chart(
+        id="economy-ni-cross-border-commuters", topic=TOPIC, height=260,
+        title="Cross-border commuters",
+        subtitle="People aged 16 and over who live on one side of the border and work on the other, census 2022 in "
+                 "Ireland and 2021 in Northern Ireland.",
+        sources=[Source.cso("CPNI40", "Commuters from Ireland to Northern Ireland"),
+                 Source.cso("CPNI46", "Commuters from Northern Ireland to Ireland")],
+        notes=[ni.CENSUS_NOTE, "Commuters living in Ireland are counted in Ireland's census, and commuters living in "
+               "Northern Ireland in Northern Ireland's. The data file breaks each down by age."],
+        key_fact=f"{t.iloc[1]:,} people living in Northern Ireland worked in Ireland, and {t.iloc[0]:,} living in Ireland "
+                 f"worked in Northern Ireland, at the most recent censuses.",
+        data=d, figure=fig,
+    ).write()

@@ -1,0 +1,33 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C04335V05114,Ireland and Northern Ireland,C04149V04916,Place of Birth,UNIT,VALUE
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,IE,Ireland,Number,4067442.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,GB-NIR,Northern Ireland,Number,61750.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,GB-ENWA,England and Wales,Number,210434.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,GB-SCT,Scotland,Number,16869.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,ROFE1,Rest of Europe(1),Number,386516.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,AS1ME1,Asia (1) & Middle East (1),Number,157355.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,ROW1,Rest of the World (1),Number,111183.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,AFR1,Africa(1),Number,73330.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,IE,Ireland,Number,40357.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,GB-NIR,Northern Ireland,Number,1646276.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,GB-ENWA,England and Wales,Number,75734.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,GB-SCT,Scotland,Number,16522.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,ROFE1,Rest of Europe(1),Number,71140.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,AS1ME1,Asia (1) & Middle East (1),Number,29244.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,ROW1,Rest of the World (1),Number,13142.0
+CPNI17C01,Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,AFR1,Africa(1),Number,10760.0
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,IE,Ireland,%,80.0
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,GB-NIR,Northern Ireland,%,1.2
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,GB-ENWA,England and Wales,%,4.1
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,GB-SCT,Scotland,%,0.3
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,ROFE1,Rest of Europe(1),%,7.6
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,AS1ME1,Asia (1) & Middle East (1),%,3.1
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,ROW1,Rest of the World (1),%,2.2
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,IE0,Ireland,AFR1,Africa(1),%,1.4
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,IE,Ireland,%,2.1
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,GB-NIR,Northern Ireland,%,86.5
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,GB-ENWA,England and Wales,%,4.0
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,GB-SCT,Scotland,%,0.9
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,ROFE1,Rest of Europe(1),%,3.7
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,AS1ME1,Asia (1) & Middle East (1),%,1.5
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,ROW1,Rest of the World (1),%,0.7
+CPNI17C02,Percentage of Population Usually Resident,2021/2022,2021/2022,N92000002,Northern Ireland,AFR1,Africa(1),%,0.6

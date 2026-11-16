@@ -1,0 +1,73 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C04335V05114,Ireland and Northern Ireland,C02199V02655,Sex,C04454V05237,Level of Education,UNIT,VALUE
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,10,Basic qualification,Number,973527.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,35,Intermediate and advanced qualification,Number,1500796.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,40,Higher and professional qualification,Number,1277957.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,99,Qualification not stated,Number,258990.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,50,Other qualification,Number,0.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,-,All levels of qualifications,Number,4011270.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,10,Basic qualification,Number,523338.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,35,Intermediate and advanced qualification,Number,740896.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,40,Higher and professional qualification,Number,568889.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,99,Qualification not stated,Number,133622.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,50,Other qualification,Number,0.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,-,All levels of qualifications,Number,1966745.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,10,Basic qualification,Number,450189.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,35,Intermediate and advanced qualification,Number,759900.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,40,Higher and professional qualification,Number,709068.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,99,Qualification not stated,Number,125368.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,50,Other qualification,Number,0.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,-,All levels of qualifications,Number,2044525.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,10,Basic qualification,Number,450003.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,35,Intermediate and advanced qualification,Number,448170.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,40,Higher and professional qualification,Number,486331.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,99,Qualification not stated,Number,0.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,50,Other qualification,Number,130238.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,-,All levels of qualifications,Number,1514742.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,10,Basic qualification,Number,217060.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,35,Intermediate and advanced qualification,Number,209645.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,40,Higher and professional qualification,Number,214499.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,99,Qualification not stated,Number,0.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,50,Other qualification,Number,95935.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,-,All levels of qualifications,Number,737139.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,10,Basic qualification,Number,232943.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,35,Intermediate and advanced qualification,Number,238525.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,40,Higher and professional qualification,Number,271832.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,99,Qualification not stated,Number,0.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,50,Other qualification,Number,34303.0
+CPNI51C01,Usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,-,All levels of qualifications,Number,777603.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,10,Basic qualification,%,24.3
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,35,Intermediate and advanced qualification,%,37.4
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,40,Higher and professional qualification,%,31.9
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,99,Qualification not stated,%,6.5
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,50,Other qualification,%,0.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,-,Both sexes,-,All levels of qualifications,%,100.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,10,Basic qualification,%,26.6
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,35,Intermediate and advanced qualification,%,37.7
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,40,Higher and professional qualification,%,28.9
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,99,Qualification not stated,%,6.8
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,50,Other qualification,%,0.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,1,Male,-,All levels of qualifications,%,100.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,10,Basic qualification,%,22.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,35,Intermediate and advanced qualification,%,37.2
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,40,Higher and professional qualification,%,34.7
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,99,Qualification not stated,%,6.1
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,50,Other qualification,%,0.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,IE0,Ireland,2,Female,-,All levels of qualifications,%,100.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,10,Basic qualification,%,29.7
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,35,Intermediate and advanced qualification,%,29.6
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,40,Higher and professional qualification,%,32.1
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,99,Qualification not stated,%,0.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,50,Other qualification,%,8.6
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,-,Both sexes,-,All levels of qualifications,%,100.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,10,Basic qualification,%,29.4
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,35,Intermediate and advanced qualification,%,28.4
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,40,Higher and professional qualification,%,29.1
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,99,Qualification not stated,%,0.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,50,Other qualification,%,13.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,1,Male,-,All levels of qualifications,%,100.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,10,Basic qualification,%,30.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,35,Intermediate and advanced qualification,%,30.7
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,40,Higher and professional qualification,%,35.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,99,Qualification not stated,%,0.0
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,50,Other qualification,%,4.4
+CPNI51C02,Percentage of usual residents aged 16 years and over,2021/2022,2021/2022,N92000002,Northern Ireland,2,Female,-,All levels of qualifications,%,100.0

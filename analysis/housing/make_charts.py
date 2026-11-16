@@ -2,7 +2,7 @@
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, homelessness, style
+from ibn import cso, eu, eurostat, figures, homelessness, ni, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 
@@ -21,6 +21,7 @@ def build():
     homelessness_trend()
     homelessness_regions()
     eu_comparisons()
+    ni_comparisons()
 
 
 def completions():
@@ -291,3 +292,30 @@ def eu_comparisons():
         notes=["Covers new and existing homes bought by households. The index shows how prices have changed since "
                "2015 in each country, not how expensive homes are compared with other countries."],
         value_format=".0f", y_range=[0, None])
+
+
+def ni_comparisons():
+    df = cso.fetch("CPNI34")
+    keep = ["Owner occupied without loan or mortgage", "Owner occupied with loan or mortgage",
+            "Rented from private landlord", "Rented from a local authority", "Rented from a voluntary body",
+            "Occupied free of rent"]
+    names = {"Owner occupied without loan or mortgage": "Owned outright", "Owner occupied with loan or mortgage":
+             "Owned with a mortgage", "Rented from private landlord": "Rented privately",
+             "Rented from a local authority": "Rented from a council", "Rented from a voluntary body":
+             "Rented from a housing association", "Occupied free of rent": "Rent free"}
+    d = ni.census_shares(df, "Nature of Occupancy", keep, names)
+    r = d.set_index("category")
+    own = r.loc[["Owned outright", "Owned with a mortgage"]].sum()
+    Chart(
+        id="housing-ni-tenure", topic=TOPIC, height=440,
+        title="Owning and renting in Ireland and Northern Ireland",
+        subtitle="Share of households by whether they own or rent their home, census 2022 in Ireland and 2021 in "
+                 "Northern Ireland.",
+        sources=[Source.cso("CPNI34", "Nature of occupancy, Ireland and Northern Ireland")],
+        notes=[ni.CENSUS_NOTE, ni.STATE_NOTE, "The categories are those of the joint CSO and NISRA table. Social "
+               "housing is run differently in the two jurisdictions, so the council and housing association figures "
+               "are not exactly comparable. Households that did not answer are left out."],
+        key_fact=f"{own.ireland:.0f}% of households in Ireland owned their home, compared with {own.northern_ireland:.0f}% "
+                 f"in Northern Ireland.",
+        data=d, figure=ni.grouped_bars(d, "category"),
+    ).write()

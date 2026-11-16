@@ -1,0 +1,157 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02199V02655,Sex,C04335V05114,Ireland and Northern Ireland,UNIT,VALUE
+CPNI01C01,Population,1841,1841,-,Both sexes,IE0,Ireland,Number,6528799
+CPNI01C01,Population,1841,1841,-,Both sexes,N92000002,Northern Ireland,Number,1646325
+CPNI01C01,Population,1841,1841,1,Male,IE0,Ireland,Number,3222485
+CPNI01C01,Population,1841,1841,1,Male,N92000002,Northern Ireland,Number,797091
+CPNI01C01,Population,1841,1841,2,Female,IE0,Ireland,Number,3306314
+CPNI01C01,Population,1841,1841,2,Female,N92000002,Northern Ireland,Number,849234
+CPNI01C01,Population,1851,1851,-,Both sexes,IE0,Ireland,Number,5111557
+CPNI01C01,Population,1851,1851,-,Both sexes,N92000002,Northern Ireland,Number,1440835
+CPNI01C01,Population,1851,1851,1,Male,IE0,Ireland,Number,2494478
+CPNI01C01,Population,1851,1851,1,Male,N92000002,Northern Ireland,Number,696160
+CPNI01C01,Population,1851,1851,2,Female,IE0,Ireland,Number,2617079
+CPNI01C01,Population,1851,1851,2,Female,N92000002,Northern Ireland,Number,744675
+CPNI01C01,Population,1861,1861,-,Both sexes,IE0,Ireland,Number,4402111
+CPNI01C01,Population,1861,1861,-,Both sexes,N92000002,Northern Ireland,Number,1396183
+CPNI01C01,Population,1861,1861,1,Male,IE0,Ireland,Number,2169042
+CPNI01C01,Population,1861,1861,1,Male,N92000002,Northern Ireland,Number,667669
+CPNI01C01,Population,1861,1861,2,Female,IE0,Ireland,Number,2233069
+CPNI01C01,Population,1861,1861,2,Female,N92000002,Northern Ireland,Number,728514
+CPNI01C01,Population,1871,1871,-,Both sexes,IE0,Ireland,Number,4053187
+CPNI01C01,Population,1871,1871,-,Both sexes,N92000002,Northern Ireland,Number,1359190
+CPNI01C01,Population,1871,1871,1,Male,IE0,Ireland,Number,1992468
+CPNI01C01,Population,1871,1871,1,Male,N92000002,Northern Ireland,Number,647285
+CPNI01C01,Population,1871,1871,2,Female,IE0,Ireland,Number,2060719
+CPNI01C01,Population,1871,1871,2,Female,N92000002,Northern Ireland,Number,711905
+CPNI01C01,Population,1881,1881,-,Both sexes,IE0,Ireland,Number,3870020
+CPNI01C01,Population,1881,1881,-,Both sexes,N92000002,Northern Ireland,Number,1304816
+CPNI01C01,Population,1881,1881,1,Male,IE0,Ireland,Number,1912438
+CPNI01C01,Population,1881,1881,1,Male,N92000002,Northern Ireland,Number,620839
+CPNI01C01,Population,1881,1881,2,Female,IE0,Ireland,Number,1957582
+CPNI01C01,Population,1881,1881,2,Female,N92000002,Northern Ireland,Number,683977
+CPNI01C01,Population,1891,1891,-,Both sexes,IE0,Ireland,Number,3468694
+CPNI01C01,Population,1891,1891,-,Both sexes,N92000002,Northern Ireland,Number,1236056
+CPNI01C01,Population,1891,1891,1,Male,IE0,Ireland,Number,1728601
+CPNI01C01,Population,1891,1891,1,Male,N92000002,Northern Ireland,Number,590352
+CPNI01C01,Population,1891,1891,2,Female,IE0,Ireland,Number,1740093
+CPNI01C01,Population,1891,1891,2,Female,N92000002,Northern Ireland,Number,645704
+CPNI01C01,Population,1901,1901,-,Both sexes,IE0,Ireland,Number,3221823
+CPNI01C01,Population,1901,1901,-,Both sexes,N92000002,Northern Ireland,Number,1237000
+CPNI01C01,Population,1901,1901,1,Male,IE0,Ireland,Number,1610085
+CPNI01C01,Population,1901,1901,1,Male,N92000002,Northern Ireland,Number,590000
+CPNI01C01,Population,1901,1901,2,Female,IE0,Ireland,Number,1611738
+CPNI01C01,Population,1901,1901,2,Female,N92000002,Northern Ireland,Number,647000
+CPNI01C01,Population,1911,1911,-,Both sexes,IE0,Ireland,Number,3139688
+CPNI01C01,Population,1911,1911,-,Both sexes,N92000002,Northern Ireland,Number,1251000
+CPNI01C01,Population,1911,1911,1,Male,IE0,Ireland,Number,1589509
+CPNI01C01,Population,1911,1911,1,Male,N92000002,Northern Ireland,Number,603000
+CPNI01C01,Population,1911,1911,2,Female,IE0,Ireland,Number,1550179
+CPNI01C01,Population,1911,1911,2,Female,N92000002,Northern Ireland,Number,648000
+CPNI01C01,Population,1926,1926,-,Both sexes,IE0,Ireland,Number,2971992
+CPNI01C01,Population,1926,1926,-,Both sexes,N92000002,Northern Ireland,Number,1254000
+CPNI01C01,Population,1926,1926,1,Male,IE0,Ireland,Number,1506889
+CPNI01C01,Population,1926,1926,1,Male,N92000002,Northern Ireland,Number,607000
+CPNI01C01,Population,1926,1926,2,Female,IE0,Ireland,Number,1465103
+CPNI01C01,Population,1926,1926,2,Female,N92000002,Northern Ireland,Number,647000
+CPNI01C01,Population,1936,1936,-,Both sexes,IE0,Ireland,Number,2968420
+CPNI01C01,Population,1936,1936,-,Both sexes,N92000002,Northern Ireland,Number,1276000
+CPNI01C01,Population,1936,1936,1,Male,IE0,Ireland,Number,1520454
+CPNI01C01,Population,1936,1936,1,Male,N92000002,Northern Ireland,Number,621000
+CPNI01C01,Population,1936,1936,2,Female,IE0,Ireland,Number,1447966
+CPNI01C01,Population,1936,1936,2,Female,N92000002,Northern Ireland,Number,655000
+CPNI01C01,Population,1946,1946,-,Both sexes,IE0,Ireland,Number,2955107
+CPNI01C01,Population,1946,1946,-,Both sexes,N92000002,Northern Ireland,Number,1333000
+CPNI01C01,Population,1946,1946,1,Male,IE0,Ireland,Number,1494877
+CPNI01C01,Population,1946,1946,1,Male,N92000002,Northern Ireland,Number,647000
+CPNI01C01,Population,1946,1946,2,Female,IE0,Ireland,Number,1460230
+CPNI01C01,Population,1946,1946,2,Female,N92000002,Northern Ireland,Number,686000
+CPNI01C01,Population,1951,1951,-,Both sexes,IE0,Ireland,Number,2960593
+CPNI01C01,Population,1951,1951,-,Both sexes,N92000002,Northern Ireland,Number,1372600
+CPNI01C01,Population,1951,1951,1,Male,IE0,Ireland,Number,1506597
+CPNI01C01,Population,1951,1951,1,Male,N92000002,Northern Ireland,Number,667800
+CPNI01C01,Population,1951,1951,2,Female,IE0,Ireland,Number,1453996
+CPNI01C01,Population,1951,1951,2,Female,N92000002,Northern Ireland,Number,704800
+CPNI01C01,Population,1956,1956,-,Both sexes,IE0,Ireland,Number,2898264
+CPNI01C01,Population,1956,1956,-,Both sexes,N92000002,Northern Ireland,Number,1397000
+CPNI01C01,Population,1956,1956,1,Male,IE0,Ireland,Number,1462928
+CPNI01C01,Population,1956,1956,1,Male,N92000002,Northern Ireland,Number,681000
+CPNI01C01,Population,1956,1956,2,Female,IE0,Ireland,Number,1435336
+CPNI01C01,Population,1956,1956,2,Female,N92000002,Northern Ireland,Number,716000
+CPNI01C01,Population,1961,1961,-,Both sexes,IE0,Ireland,Number,2818341
+CPNI01C01,Population,1961,1961,-,Both sexes,N92000002,Northern Ireland,Number,1427400
+CPNI01C01,Population,1961,1961,1,Male,IE0,Ireland,Number,1416549
+CPNI01C01,Population,1961,1961,1,Male,N92000002,Northern Ireland,Number,695700
+CPNI01C01,Population,1961,1961,2,Female,IE0,Ireland,Number,1401792
+CPNI01C01,Population,1961,1961,2,Female,N92000002,Northern Ireland,Number,731700
+CPNI01C01,Population,1966,1966,-,Both sexes,IE0,Ireland,Number,2884002
+CPNI01C01,Population,1966,1966,-,Both sexes,N92000002,Northern Ireland,Number,1478000
+CPNI01C01,Population,1966,1966,1,Male,IE0,Ireland,Number,1449032
+CPNI01C01,Population,1966,1966,1,Male,N92000002,Northern Ireland,Number,720100
+CPNI01C01,Population,1966,1966,2,Female,IE0,Ireland,Number,1434970
+CPNI01C01,Population,1966,1966,2,Female,N92000002,Northern Ireland,Number,757900
+CPNI01C01,Population,1971,1971,-,Both sexes,IE0,Ireland,Number,2978248
+CPNI01C01,Population,1971,1971,-,Both sexes,N92000002,Northern Ireland,Number,1540413
+CPNI01C01,Population,1971,1971,1,Male,IE0,Ireland,Number,1495760
+CPNI01C01,Population,1971,1971,1,Male,N92000002,Northern Ireland,Number,754613
+CPNI01C01,Population,1971,1971,2,Female,IE0,Ireland,Number,1482488
+CPNI01C01,Population,1971,1971,2,Female,N92000002,Northern Ireland,Number,785800
+CPNI01C01,Population,1979,1979,-,Both sexes,IE0,Ireland,Number,3368217
+CPNI01C01,Population,1979,1979,-,Both sexes,N92000002,Northern Ireland,Number,1528253
+CPNI01C01,Population,1979,1979,1,Male,IE0,Ireland,Number,1693272
+CPNI01C01,Population,1979,1979,1,Male,N92000002,Northern Ireland,Number,755165
+CPNI01C01,Population,1979,1979,2,Female,IE0,Ireland,Number,1674945
+CPNI01C01,Population,1979,1979,2,Female,N92000002,Northern Ireland,Number,773088
+CPNI01C01,Population,1981,1981,-,Both sexes,IE0,Ireland,Number,3443405
+CPNI01C01,Population,1981,1981,-,Both sexes,N92000002,Northern Ireland,Number,1542964
+CPNI01C01,Population,1981,1981,1,Male,IE0,Ireland,Number,1729354
+CPNI01C01,Population,1981,1981,1,Male,N92000002,Northern Ireland,Number,756625
+CPNI01C01,Population,1981,1981,2,Female,IE0,Ireland,Number,1714051
+CPNI01C01,Population,1981,1981,2,Female,N92000002,Northern Ireland,Number,786339
+CPNI01C01,Population,1986,1986,-,Both sexes,IE0,Ireland,Number,3540643
+CPNI01C01,Population,1986,1986,-,Both sexes,N92000002,Northern Ireland,Number,1573501
+CPNI01C01,Population,1986,1986,1,Male,IE0,Ireland,Number,1769690
+CPNI01C01,Population,1986,1986,1,Male,N92000002,Northern Ireland,Number,768383
+CPNI01C01,Population,1986,1986,2,Female,IE0,Ireland,Number,1770953
+CPNI01C01,Population,1986,1986,2,Female,N92000002,Northern Ireland,Number,805118
+CPNI01C01,Population,1991,1991,-,Both sexes,IE0,Ireland,Number,3525719
+CPNI01C01,Population,1991,1991,-,Both sexes,N92000002,Northern Ireland,Number,1607295
+CPNI01C01,Population,1991,1991,1,Male,IE0,Ireland,Number,1753418
+CPNI01C01,Population,1991,1991,1,Male,N92000002,Northern Ireland,Number,783150
+CPNI01C01,Population,1991,1991,2,Female,IE0,Ireland,Number,1772301
+CPNI01C01,Population,1991,1991,2,Female,N92000002,Northern Ireland,Number,824145
+CPNI01C01,Population,1996,1996,-,Both sexes,IE0,Ireland,Number,3626087
+CPNI01C01,Population,1996,1996,-,Both sexes,N92000002,Northern Ireland,Number,1661751
+CPNI01C01,Population,1996,1996,1,Male,IE0,Ireland,Number,1800232
+CPNI01C01,Population,1996,1996,1,Male,N92000002,Northern Ireland,Number,810347
+CPNI01C01,Population,1996,1996,2,Female,IE0,Ireland,Number,1825855
+CPNI01C01,Population,1996,1996,2,Female,N92000002,Northern Ireland,Number,851404
+CPNI01C01,Population,2002,2002,-,Both sexes,IE0,Ireland,Number,3917203
+CPNI01C01,Population,2002,2002,-,Both sexes,N92000002,Northern Ireland,Number,1697534
+CPNI01C01,Population,2002,2002,1,Male,IE0,Ireland,Number,1946164
+CPNI01C01,Population,2002,2002,1,Male,N92000002,Northern Ireland,Number,828986
+CPNI01C01,Population,2002,2002,2,Female,IE0,Ireland,Number,1971039
+CPNI01C01,Population,2002,2002,2,Female,N92000002,Northern Ireland,Number,868548
+CPNI01C01,Population,2006,2006,-,Both sexes,IE0,Ireland,Number,4239848
+CPNI01C01,Population,2006,2006,-,Both sexes,N92000002,Northern Ireland,Number,1743113
+CPNI01C01,Population,2006,2006,1,Male,IE0,Ireland,Number,2121171
+CPNI01C01,Population,2006,2006,1,Male,N92000002,Northern Ireland,Number,853110
+CPNI01C01,Population,2006,2006,2,Female,IE0,Ireland,Number,2118677
+CPNI01C01,Population,2006,2006,2,Female,N92000002,Northern Ireland,Number,890003
+CPNI01C01,Population,2011,2011,-,Both sexes,IE0,Ireland,Number,4588252
+CPNI01C01,Population,2011,2011,-,Both sexes,N92000002,Northern Ireland,Number,1814318
+CPNI01C01,Population,2011,2011,1,Male,IE0,Ireland,Number,2272699
+CPNI01C01,Population,2011,2011,1,Male,N92000002,Northern Ireland,Number,889322
+CPNI01C01,Population,2011,2011,2,Female,IE0,Ireland,Number,2315553
+CPNI01C01,Population,2011,2011,2,Female,N92000002,Northern Ireland,Number,924996
+CPNI01C01,Population,2016,2016,-,Both sexes,IE0,Ireland,Number,4761865
+CPNI01C01,Population,2016,2016,-,Both sexes,N92000002,Northern Ireland,Number,1866042
+CPNI01C01,Population,2016,2016,1,Male,IE0,Ireland,Number,2354428
+CPNI01C01,Population,2016,2016,1,Male,N92000002,Northern Ireland,Number,916374
+CPNI01C01,Population,2016,2016,2,Female,IE0,Ireland,Number,2407437
+CPNI01C01,Population,2016,2016,2,Female,N92000002,Northern Ireland,Number,949668
+CPNI01C01,Population,2022,2022,-,Both sexes,IE0,Ireland,Number,5149139
+CPNI01C01,Population,2022,2022,-,Both sexes,N92000002,Northern Ireland,Number,1910543
+CPNI01C01,Population,2022,2022,1,Male,IE0,Ireland,Number,2544549
+CPNI01C01,Population,2022,2022,1,Male,N92000002,Northern Ireland,Number,939947
+CPNI01C01,Population,2022,2022,2,Female,IE0,Ireland,Number,2604590
+CPNI01C01,Population,2022,2022,2,Female,N92000002,Northern Ireland,Number,970596

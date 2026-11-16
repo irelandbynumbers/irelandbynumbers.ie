@@ -6,3 +6,9 @@ description: "How the age profile of the population is changing, and how many pe
 The share of the population aged 65 and over has risen from about 11% in 1950 to 16% in 2026, while the share of children under 15 has fallen from about 29% to 18%.
 
 {{< chart population-ageing >}}
+
+## Ireland and Northern Ireland
+
+The populations of both Ireland and Northern Ireland have been getting older. The median age was 38 in Ireland and 40 in Northern Ireland at the most recent censuses, up from 27 and 28 in 1971.
+
+{{< chart population-ni-median-age >}}

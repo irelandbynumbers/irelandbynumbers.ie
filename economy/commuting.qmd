@@ -13,3 +13,9 @@ Among people who travelled to work, 69% went by car. Driving was least common in
 {{< chart economy-car-to-work-map >}}
 
 The [Transport](../transport/index.qmd) pages show how people travel to work and school across Ireland, how this changed between 2016 and 2022, and how many journeys are made by bus, rail and Luas.
+
+## Commuting across the border
+
+At the most recent censuses, 21,279 people living in Northern Ireland worked in Ireland, and 15,752 people living in Ireland worked in Northern Ireland.
+
+{{< chart economy-ni-cross-border-commuters >}}

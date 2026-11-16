@@ -1,0 +1,33 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C04335V05114,Ireland and Northern Ireland,C02699V03267,Nature of Occupancy,UNIT,VALUE
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,08,Occupied free of rent,Number,32396.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,01,Owner occupied with loan or mortgage,Number,531608.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,02,Owner occupied without loan or mortgage,Number,681634.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,04,Rented from a local authority,Number,153546.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,05A,Rented from private landlord,Number,331016.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,05,Rented from a voluntary body,Number,29890.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,09,Not stated,Number,81062.0
+CPNI34C01,Private Households,2021/2022,2021/2022,IE0,Ireland,-,All types of occupancy,Number,1841152.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,08,Occupied free of rent,Number,17419.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,01,Owner occupied with loan or mortgage,Number,234425.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,02,Owner occupied without loan or mortgage,Number,267069.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,04,Rented from a local authority,Number,82945.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,05A,Rented from private landlord,Number,132436.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,05,Rented from a voluntary body,Number,34517.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,09,Not stated,Number,0.0
+CPNI34C01,Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,-,All types of occupancy,Number,768811.0
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,08,Occupied free of rent,%,1.759550542
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,01,Owner occupied with loan or mortgage,%,28.87366171
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,02,Owner occupied without loan or mortgage,%,37.022147
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,04,Rented from a local authority,%,8.339669946
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,05A,Rented from private landlord,%,17.97874374
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,05,Rented from a voluntary body,%,1.623440107
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,09,Not stated,%,4.402786951
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,IE0,Ireland,-,All types of occupancy,%,100.0
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,08,Occupied free of rent,%,2.265706396
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,01,Owner occupied with loan or mortgage,%,30.49188942
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,02,Owner occupied without loan or mortgage,%,34.73792649
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,04,Rented from a local authority,%,10.78873741
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,05A,Rented from private landlord,%,17.22608027
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,05,Rented from a voluntary body,%,4.489660007
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,09,Not stated,%,0.0
+CPNI34C02,Precentage of Private Households,2021/2022,2021/2022,N92000002,Northern Ireland,-,All types of occupancy,%,100.0
