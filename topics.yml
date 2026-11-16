@@ -49,3 +49,7 @@
   path: transport/index.qmd
   image: images/topic-transport.svg
   description: Road safety, how people travel, public transport use, and the cars on Irish roads.
+- title: Artificial intelligence
+  path: ai/index.qmd
+  image: images/topic-ai.svg
+  description: How businesses and people use AI, and how much electricity data centres use.

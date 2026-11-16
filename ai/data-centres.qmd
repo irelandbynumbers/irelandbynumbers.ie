@@ -1,0 +1,14 @@
+---
+title: "Data centres"
+description: "How much of Ireland's electricity data centres use."
+---
+
+Data centres are buildings full of computer servers that store and process data for online services, including cloud computing and AI. They use a growing share of Ireland's electricity. In 2025 data centres used 23% of all metered electricity in Ireland, up from 5% in 2015.
+
+{{< chart ai-data-centre-electricity >}}
+
+Data centres used 7.7 terawatt hours (TWh) of electricity in 2025, 6.2 times as much as in 2015. Over the same period, electricity use by all other customers, including homes and other businesses, rose by 8%.
+
+{{< chart ai-data-centre-electricity-amount >}}
+
+Not all of the electricity used by data centres is for AI, and the CSO does not publish a breakdown by use. The CSO also does not publish where data centres are located.

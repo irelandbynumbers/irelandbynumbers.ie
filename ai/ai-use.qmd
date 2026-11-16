@@ -1,0 +1,28 @@
+---
+title: "Using AI"
+description: "How many businesses and people use AI, compared with the rest of the EU."
+---
+
+## Businesses
+
+One in five businesses with 10 or more staff used some form of AI in 2025, up from 8% in 2023. Large businesses were much more likely to use it than small ones.
+
+{{< chart ai-business-use >}}
+
+Ireland's share of businesses using AI was about the same as the EU average in 2025. Eurostat's figure for Ireland, 19.6%, differs slightly from the CSO's own figure of 20%.
+
+{{< chart ai-business-use-eu >}}
+
+## People
+
+Generative AI tools, such as chatbots, create text, images or computer code from a prompt. In 2025, 45% of people aged 16 to 74 in Ireland had used one in the previous three months, compared with 33% across the EU. Ireland had the 5th highest share of the 27 EU countries.
+
+{{< chart ai-generative-ai-eu >}}
+
+Younger people are much more likely to use generative AI. In 2025, 66% of people aged 16 to 24 in Ireland had used it in the previous three months, compared with 11% of those aged 65 to 74.
+
+{{< chart ai-generative-ai-by-age >}}
+
+Most adults know what AI means. In 2025, 56% said they understood the term well enough to explain it to others, and a further 42% said they had a general idea of what it means. Fewer than 2% were not familiar with it.
+
+{{< chart ai-familiarity >}}

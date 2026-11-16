@@ -190,12 +190,24 @@ def transport():
     return svg("".join(b), "A bus and a bicycle on a road")
 
 
+def ai():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a row of server racks with status lights
+    for i, x in enumerate([110, 250, 390]):
+        b.append(f'<rect x="{x}" y="90" width="110" height="240" rx="8" fill="{BLUE if i != 1 else DARK}"/>')
+        for j in range(5):
+            y = 112 + j * 42
+            b.append(f'<rect x="{x + 12}" y="{y}" width="86" height="28" rx="4" fill="#fff" opacity=".18"/>'
+                     f'<circle cx="{x + 86}" cy="{y + 14}" r="5" fill="{AQUA if (i + j) % 3 else GOLD}"/>')
+    return svg("".join(b), "A row of server racks in a data centre")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

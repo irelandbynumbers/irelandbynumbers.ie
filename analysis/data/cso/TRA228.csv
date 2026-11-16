@@ -1,0 +1,13 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C04647V05432,Familiarity with AI,C02028V02456,Employment status,UNIT,VALUE
+TRA228C01,Percentage of people,2025,2025,10,Understand it well and could explain it to others,15,Employed,%,66.5
+TRA228C01,Percentage of people,2025,2025,10,Understand it well and could explain it to others,20,"Unemployed, in training or other",%,57.7
+TRA228C01,Percentage of people,2025,2025,10,Understand it well and could explain it to others,55,Retired,%,26.5
+TRA228C01,Percentage of people,2025,2025,20,"General idea of what it means, but struggle to explain it",15,Employed,%,32.6
+TRA228C01,Percentage of people,2025,2025,20,"General idea of what it means, but struggle to explain it",20,"Unemployed, in training or other",%,40.6
+TRA228C01,Percentage of people,2025,2025,20,"General idea of what it means, but struggle to explain it",55,Retired,%,68.6
+TRA228C01,Percentage of people,2025,2025,30,Not familiar with the term,15,Employed,%,0.9
+TRA228C01,Percentage of people,2025,2025,30,Not familiar with the term,20,"Unemployed, in training or other",%,1.2
+TRA228C01,Percentage of people,2025,2025,30,Not familiar with the term,55,Retired,%,4.6
+TRA228C01,Percentage of people,2025,2025,40,Prefer not to answer,15,Employed,%,0.1
+TRA228C01,Percentage of people,2025,2025,40,Prefer not to answer,20,"Unemployed, in training or other",%,0.4
+TRA228C01,Percentage of people,2025,2025,40,Prefer not to answer,55,Retired,%,0.3

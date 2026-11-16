@@ -47,6 +47,8 @@ website:
             text: Public finances
           - href: transport/index.qmd
             text: Transport
+          - href: ai/index.qmd
+            text: Artificial intelligence
       - href: counties/index.qmd
         text: Counties
       - href: charts.qmd

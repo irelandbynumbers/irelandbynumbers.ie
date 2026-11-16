@@ -1,0 +1,23 @@
+---
+title: "Artificial intelligence"
+description: "How businesses and people use AI, and how much electricity data centres use."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish ai >}}
+
+These pages show how many businesses and people in Ireland use artificial intelligence (AI), how that compares with the rest of the EU, and how much electricity is used by the data centres that run AI and other online services.
+
+{{< key-facts ai-data-centre-electricity ai-business-use ai-generative-ai-eu ai-familiarity >}}
+
+:::{#pages}
+:::

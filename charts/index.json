@@ -2369,6 +2369,183 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "ai-business-use",
+  "topic": "ai",
+  "title": "Businesses using AI",
+  "subtitle": "Share of businesses with 10 or more staff that use at least one AI technology, by size, 2023 to 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-business-use.html",
+  "csv": "/charts/ai-business-use.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Enterprise use of Artificial Intelligence (ICA237)",
+    "url": "https://data.cso.ie/table/ICA237",
+    "licence": "CC BY 4.0",
+    "code": "ICA237",
+    "updated": "2026-02-06",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "20% of businesses with 10 or more staff used AI in 2025, up from 8% in 2023. Large businesses were the most likely to use it, at 58%.",
+  "listed": true,
+  "updated": "2026-02-06",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "ai-business-use-eu",
+  "topic": "ai",
+  "title": "Businesses using AI across the EU",
+  "subtitle": "Share of businesses with 10 or more staff that use at least one AI technology, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-business-use-eu.html",
+  "csv": "/charts/ai-business-use-eu.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Enterprise use of Artificial Intelligence and Cloud Computing (BIIESA20)",
+    "url": "https://data.cso.ie/table/BIIESA20",
+    "licence": "CC BY 4.0",
+    "code": "BIIESA20",
+    "updated": "2026-03-24",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 19.6% of businesses in Ireland with 10 or more staff used AI, compared with 20.0% across the EU.",
+  "listed": true,
+  "updated": "2026-03-24",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "ai-data-centre-electricity",
+  "topic": "ai",
+  "title": "Electricity used by data centres",
+  "subtitle": "Data centres' share of all metered electricity used in Ireland, 2015 to 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-data-centre-electricity.html",
+  "csv": "/charts/ai-data-centre-electricity.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Data Centres Metered Electricity Consumption (MEC02)",
+    "url": "https://data.cso.ie/table/MEC02",
+    "licence": "CC BY 4.0",
+    "code": "MEC02",
+    "updated": "2026-07-07",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Data centres used 23% of all metered electricity in Ireland in 2025, up from 5% in 2015.",
+  "listed": true,
+  "updated": "2026-07-07",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "ai-data-centre-electricity-amount",
+  "topic": "ai",
+  "title": "Electricity used by data centres and other customers",
+  "subtitle": "Metered electricity consumption, terawatt hours (TWh), 2015 to 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-data-centre-electricity-amount.html",
+  "csv": "/charts/ai-data-centre-electricity-amount.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Data Centres Metered Electricity Consumption (MEC02)",
+    "url": "https://data.cso.ie/table/MEC02",
+    "licence": "CC BY 4.0",
+    "code": "MEC02",
+    "updated": "2026-07-07",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "Data centres used 7.7 TWh of electricity in 2025, 6.2 times as much as in 2015. Use by all other customers rose by 8% over the same period.",
+  "listed": true,
+  "updated": "2026-07-07",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "ai-familiarity",
+  "topic": "ai",
+  "title": "How familiar people are with the term AI",
+  "subtitle": "Share of adults by how well they understand the term artificial intelligence (AI), 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-familiarity.html",
+  "csv": "/charts/ai-familiarity.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Respondents familiarity with the term artificial intelligence (AI) (TRA226)",
+    "url": "https://data.cso.ie/table/TRA226",
+    "licence": "CC BY 4.0",
+    "code": "TRA226",
+    "updated": "2026-06-29",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Respondents familiarity with the term artificial intelligence (AI), by age (TRA227)",
+    "url": "https://data.cso.ie/table/TRA227",
+    "licence": "CC BY 4.0",
+    "code": "TRA227",
+    "updated": "2026-06-29",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 56% of adults said they understood the term AI well enough to explain it to others. The share ranged from 82% of people aged 18 to 29 to 38% of those aged 50 and over.",
+  "listed": true,
+  "updated": "2026-06-29",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "ai-generative-ai-by-age",
+  "topic": "ai",
+  "title": "Use of generative AI by age",
+  "subtitle": "Share of people who used generative AI tools in the previous three months, by age, Ireland and the EU, 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-generative-ai-by-age.html",
+  "csv": "/charts/ai-generative-ai-by-age.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Individuals - use of generative AI tools (isoc_ai_iaiu)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_ai_iaiu/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "isoc_ai_iaiu_ie_age",
+    "updated": "2026-06-05",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 66% of people aged 16 to 24 in Ireland had used generative AI tools in the previous three months, compared with 11% of those aged 65 to 74.",
+  "listed": true,
+  "updated": "2026-06-05",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "ai-generative-ai-eu",
+  "topic": "ai",
+  "title": "Use of generative AI across the EU",
+  "subtitle": "Share of people aged 16 to 74 who used generative AI tools in the previous three months, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/ai-generative-ai-eu.html",
+  "csv": "/charts/ai-generative-ai-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Individuals - use of generative AI tools (isoc_ai_iaiu)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_ai_iaiu/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "isoc_ai_iaiu",
+    "updated": "2026-06-05",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 45% of people aged 16 to 74 in Ireland had used generative AI tools in the previous three months, compared with 33% across the EU. Ireland's share was the 5th highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-06-05",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",
