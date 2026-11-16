@@ -1499,6 +1499,330 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "transport-electric-cars-eu",
+  "topic": "transport",
+  "title": "Electric cars in Ireland and the EU",
+  "subtitle": "Fully electric cars as a share of new passenger cars registered, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/transport-electric-cars-eu.html",
+  "csv": "/charts/transport-electric-cars-eu.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Electric Passenger Vehicles, Ireland and EU (TEA30)",
+    "url": "https://data.cso.ie/table/TEA30",
+    "licence": "CC BY 4.0",
+    "code": "TEA30",
+    "updated": "2026-07-28",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2024, 14.2% of new cars registered in Ireland were fully electric, compared with 13.5% across the EU. Ireland had the 11th highest share of the 27 countries. Electric cars made up 3.1% of all cars on Irish roads.",
+  "listed": true,
+  "updated": "2026-07-28",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-journeys-by-mode",
+  "topic": "transport",
+  "title": "How people make their journeys",
+  "subtitle": "Share of all journeys by main mode of travel, 2024.",
+  "kind": "chart",
+  "page": "/charts/transport-journeys-by-mode.html",
+  "csv": "/charts/transport-journeys-by-mode.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "National Travel Survey, distribution of journeys by mode of travel (NTA10)",
+    "url": "https://data.cso.ie/table/NTA10",
+    "licence": "CC BY 4.0",
+    "code": "NTA10",
+    "updated": "2026-07-16",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2024, 74% of journeys were made by car, 14% on foot, 4% by bus and 2% by bike.",
+  "listed": true,
+  "updated": "2026-07-16",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-new-car-fuel",
+  "topic": "transport",
+  "title": "New cars by fuel type",
+  "subtitle": "Share of new private cars licensed for the first time, by fuel, 2015 to 2025.",
+  "kind": "chart",
+  "page": "/charts/transport-new-car-fuel.html",
+  "csv": "/charts/transport-new-car-fuel.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "New Vehicles Licensed for the First Time by Fuel Type (TEA17)",
+    "url": "https://data.cso.ie/table/TEA17",
+    "licence": "CC BY 4.0",
+    "code": "TEA17",
+    "updated": "2026-01-13",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 19% of new cars were fully electric and a further 15% were plug-in hybrids, up from 0.4% and 0.1% in 2015.",
+  "listed": true,
+  "updated": "2026-01-13",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-new-cars",
+  "topic": "transport",
+  "title": "New and imported used cars",
+  "subtitle": "Number of private cars licensed in Ireland for the first time, 1997 to 2025.",
+  "kind": "chart",
+  "page": "/charts/transport-new-cars.html",
+  "csv": "/charts/transport-new-cars.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Vehicles Licensed for the First Time (TEA01)",
+    "url": "https://data.cso.ie/table/TEA01",
+    "licence": "CC BY 4.0",
+    "code": "TEA01",
+    "updated": "2026-01-13",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "120,797 new cars were licensed in 2025, along with 71,604 imported used cars. New car sales peaked in 2000, at 225,269.",
+  "listed": true,
+  "updated": "2026-01-13",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-public-transport",
+  "topic": "transport",
+  "title": "Public transport journeys each week",
+  "subtitle": "Passenger journeys per week by bus, rail and Luas, million, average of the last four weeks, 2019 to 2026.",
+  "kind": "chart",
+  "page": "/charts/transport-public-transport.html",
+  "csv": "/charts/transport-public-transport.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Weekly Public Transport Passenger Journeys (THA25)",
+    "url": "https://data.cso.ie/table/THA25",
+    "licence": "CC BY 4.0",
+    "code": "THA25",
+    "updated": "2026-11-11",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Weekly Luas Passenger Numbers (TII03)",
+    "url": "https://data.cso.ie/table/TII03",
+    "licence": "CC BY 4.0",
+    "code": "TII03",
+    "updated": "2026-11-11",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In the four weeks to 27 September 2026, Dublin city buses carried an average of 3.9 million passenger journeys a week, rail 1.2 million and Luas 1.2 million.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-rail-journeys",
+  "topic": "transport",
+  "title": "Rail journeys each year",
+  "subtitle": "Passenger journeys on Iarnród Éireann trains, including the DART, million, 1981 to 2025.",
+  "kind": "chart",
+  "page": "/charts/transport-rail-journeys.html",
+  "csv": "/charts/transport-rail-journeys.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Passenger Journeys by Rail (TCA01)",
+    "url": "https://data.cso.ie/table/TCA01",
+    "licence": "CC BY 4.0",
+    "code": "TCA01",
+    "updated": "2026-06-24",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "There were 55.0 million rail journeys in 2025, the highest number in figures going back to 1981.",
+  "listed": true,
+  "updated": "2026-06-24",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-road-deaths",
+  "topic": "transport",
+  "title": "Deaths on Irish roads",
+  "subtitle": "Number of people killed in road collisions each year, 2000 to 2025.",
+  "kind": "chart",
+  "page": "/charts/transport-road-deaths.html",
+  "csv": "/charts/transport-road-deaths.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Persons Killed in Road Traffic Collisions (ROA12)",
+    "url": "https://data.cso.ie/table/ROA12",
+    "licence": "CC BY 4.0",
+    "code": "ROA12",
+    "updated": "2026-11-12",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "182 people were killed on Irish roads in 2025, compared with 415 in 2000. The lowest number was 132, in 2021.",
+  "listed": true,
+  "updated": "2026-11-12",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-road-deaths-by-user",
+  "topic": "transport",
+  "title": "Road deaths by type of road user",
+  "subtitle": "Number of people killed in road collisions, by how they were travelling, 2000 to 2025.",
+  "kind": "chart",
+  "page": "/charts/transport-road-deaths-by-user.html",
+  "csv": "/charts/transport-road-deaths-by-user.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Persons Killed in Road Traffic Collisions (ROA12)",
+    "url": "https://data.cso.ie/table/ROA12",
+    "licence": "CC BY 4.0",
+    "code": "ROA12",
+    "updated": "2026-11-12",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 76 car drivers and passengers, 41 pedestrians, 30 motorcyclists and 14 cyclists were killed on Irish roads.",
+  "listed": true,
+  "updated": "2026-11-12",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-road-deaths-map",
+  "topic": "transport",
+  "title": "Road deaths by county",
+  "subtitle": "Average number of people killed in road collisions each year per 100,000 people, by county, 2021 to 2025.",
+  "kind": "map",
+  "page": "/charts/transport-road-deaths-map.html",
+  "csv": "/charts/transport-road-deaths-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Persons Killed and Injured in Road Traffic Collisions by County (ROA15)",
+    "url": "https://data.cso.ie/table/ROA15",
+    "licence": "CC BY 4.0",
+    "code": "ROA15",
+    "updated": "2026-11-12",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Population, population by county (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "From 2021 to 2025, road deaths were highest relative to population in Monaghan, at 7.7 a year per 100,000 people, and lowest in Dublin, at 1.2.",
+  "listed": true,
+  "updated": "2026-11-12",
+  "checked": "2026-11-13"
+ },
+ {
+  "id": "transport-serious-injuries",
+  "topic": "transport",
+  "title": "People killed or seriously injured on the roads",
+  "subtitle": "Number of people killed or seriously injured in road collisions, for four types of road user, 2019 to 2025.",
+  "kind": "chart",
+  "page": "/charts/transport-serious-injuries.html",
+  "csv": "/charts/transport-serious-injuries.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Road Traffic Fatalities and Serious Injuries (ROA40)",
+    "url": "https://data.cso.ie/table/ROA40",
+    "licence": "CC BY 4.0",
+    "code": "ROA40",
+    "updated": "2026-11-13",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "In 2025, 279 cyclists and 388 pedestrians were killed or seriously injured on Irish roads.",
+  "listed": true,
+  "updated": "2026-11-13",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-travel-to-school",
+  "topic": "transport",
+  "title": "How pupils and students travel to school or college",
+  "subtitle": "Share of people aged 5 and over travelling to school or college, by main means of travel, census 2016 and 2022.",
+  "kind": "chart",
+  "page": "/charts/transport-travel-to-school.html",
+  "csv": "/charts/transport-travel-to-school.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2016 Small Area Population Statistics, means of travel (SAP2016T11T1PROV)",
+    "url": "https://data.cso.ie/table/SAP2016T11T1PROV",
+    "licence": "CC BY 4.0",
+    "code": "SAP2016T11T1PROV",
+    "updated": "2021-11-09",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, means of travel (SAP2022T11T1PROV)",
+    "url": "https://data.cso.ie/table/SAP2022T11T1PROV",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T11T1PROV",
+    "updated": "2023-09-15",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "At the 2022 census, 55% of pupils and students went to school or college by car, 23% walked and 3.0% cycled.",
+  "listed": true,
+  "updated": "2023-09-15",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "transport-travel-to-work",
+  "topic": "transport",
+  "title": "How people travel to work",
+  "subtitle": "Share of people travelling to work, by main means of travel, census 2016 and 2022.",
+  "kind": "chart",
+  "page": "/charts/transport-travel-to-work.html",
+  "csv": "/charts/transport-travel-to-work.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2016 Small Area Population Statistics, means of travel (SAP2016T11T1PROV)",
+    "url": "https://data.cso.ie/table/SAP2016T11T1PROV",
+    "licence": "CC BY 4.0",
+    "code": "SAP2016T11T1PROV",
+    "updated": "2021-11-09",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, means of travel (SAP2022T11T1PROV)",
+    "url": "https://data.cso.ie/table/SAP2022T11T1PROV",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T11T1PROV",
+    "updated": "2023-09-15",
+    "checked": "2026-11-16"
+   }
+  ],
+  "key_fact": "At the 2022 census, 64% of people travelling to work drove, 10% walked and 3% cycled.",
+  "listed": true,
+  "updated": "2023-09-15",
+  "checked": "2026-11-16"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",

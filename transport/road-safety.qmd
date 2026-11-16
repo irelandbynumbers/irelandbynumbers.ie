@@ -1,0 +1,20 @@
+---
+title: "Road safety"
+description: "How many people are killed or seriously injured on the roads, and where."
+---
+
+182 people were killed on Irish roads in 2025. That is less than half the number in 2000, when 415 people died, but more than in 2021, when deaths fell to 132, the lowest since at least 2000. The figures for recent years are provisional and may be revised.
+
+{{< chart transport-road-deaths >}}
+
+Most of the fall since 2000 has been among people in cars. 260 car drivers and passengers were killed in 2000, compared with 76 in 2025. Deaths among pedestrians, cyclists and motorcyclists have fallen less, and all three were higher in 2025 than in 2021. 41 pedestrians, 30 motorcyclists and 14 cyclists were killed in 2025.
+
+{{< chart transport-road-deaths-by-user >}}
+
+For every death on the roads, many more people are seriously injured. In 2025, 388 pedestrians and 279 cyclists were killed or seriously injured.
+
+{{< chart transport-serious-injuries >}}
+
+Relative to population, road deaths are highest in rural counties and lowest in Dublin. From 2021 to 2025, Monaghan had an average of 7.7 deaths a year per 100,000 people, and Mayo 7.1. Dublin had 1.2.
+
+{{< chart transport-road-deaths-map >}}

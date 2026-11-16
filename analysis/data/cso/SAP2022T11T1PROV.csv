@@ -1,0 +1,181 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C03853V04603,Provinces,C03767V04516,Means of Travel,UNIT,VALUE
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,F,On Foot,Number,17266
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,BI,Bicycle,Number,3653
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,BU,"Bus, minibus or coach",Number,5529
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,TDL,"Train, DART or LUAS",Number,969
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,M,Motorcycle or scooter,Number,450
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,CD,Car Driver,Number,150784
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,CP,Car passenger,Number,9434
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,V,Van,Number,21331
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,OTH,Other (incl. lorry),Number,1961
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,WMFH,Work mainly at or from home,Number,27009
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,NS,Not stated,Number,16911
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,T,Total,Number,255297
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,F,On Foot,Number,106698
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,BI,Bicycle,Number,48717
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,BU,"Bus, minibus or coach",Number,96476
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,TDL,"Train, DART or LUAS",Number,57619
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,M,Motorcycle or scooter,Number,6429
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,CD,Car Driver,Number,623499
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,CP,Car passenger,Number,43719
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,V,Van,Number,68166
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,OTH,Other (incl. lorry),Number,5501
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,WMFH,Work mainly at or from home,Number,153459
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,NS,Not stated,Number,97841
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,T,Total,Number,1308124
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,F,On Foot,Number,46594
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,BI,Bicycle,Number,7625
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,BU,"Bus, minibus or coach",Number,15363
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,TDL,"Train, DART or LUAS",Number,2172
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,M,Motorcycle or scooter,Number,1482
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,CD,Car Driver,Number,347927
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,CP,Car passenger,Number,24929
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,V,Van,Number,41894
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,OTH,Other (incl. lorry),Number,3901
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,WMFH,Work mainly at or from home,Number,66551
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,NS,Not stated,Number,41691
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,T,Total,Number,600129
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),F,On Foot,Number,7553
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),BI,Bicycle,Number,676
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),BU,"Bus, minibus or coach",Number,1727
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),TDL,"Train, DART or LUAS",Number,125
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),M,Motorcycle or scooter,Number,120
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),CD,Car Driver,Number,77271
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),CP,Car passenger,Number,6584
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),V,Van,Number,14874
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),OTH,Other (incl. lorry),Number,1381
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),WMFH,Work mainly at or from home,Number,12448
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),NS,Not stated,Number,7429
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),T,Total,Number,130188
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,F,On Foot,Number,178111
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,BI,Bicycle,Number,60671
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,BU,"Bus, minibus or coach",Number,119095
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,TDL,"Train, DART or LUAS",Number,60885
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,M,Motorcycle or scooter,Number,8481
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,CD,Car Driver,Number,1199481
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,CP,Car passenger,Number,84666
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,V,Van,Number,146265
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,OTH,Other (incl. lorry),Number,12744
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,WMFH,Work mainly at or from home,Number,259467
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,NS,Not stated,Number,163872
+SAP2022T11T1C01,Population aged 5 years and over by means of travel to work,2022,2022,IE0,Ireland,T,Total,Number,2293738
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,F,On Foot,Number,21559
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,BI,Bicycle,Number,2434
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,BU,"Bus, minibus or coach",Number,25192
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,TDL,"Train, DART or LUAS",Number,875
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,M,Motorcycle or scooter,Number,48
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,CD,Car Driver,Number,7518
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,CP,Car passenger,Number,82511
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,V,Van,Number,531
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,OTH,Other (incl. lorry),Number,141
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,WMFH,Work mainly at or from home,Number,936
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,NS,Not stated,Number,10098
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,T,Total,Number,151843
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,F,On Foot,Number,187743
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,BI,Bicycle,Number,29819
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,BU,"Bus, minibus or coach",Number,110860
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,TDL,"Train, DART or LUAS",Number,21724
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,M,Motorcycle or scooter,Number,440
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,CD,Car Driver,Number,23671
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,CP,Car passenger,Number,292062
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,V,Van,Number,952
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,OTH,Other (incl. lorry),Number,787
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,WMFH,Work mainly at or from home,Number,4071
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,NS,Not stated,Number,62555
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,T,Total,Number,734684
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,F,On Foot,Number,60209
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,BI,Bicycle,Number,3973
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,BU,"Bus, minibus or coach",Number,49309
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,TDL,"Train, DART or LUAS",Number,1669
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,M,Motorcycle or scooter,Number,167
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,CD,Car Driver,Number,20143
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,CP,Car passenger,Number,187351
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,V,Van,Number,755
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,OTH,Other (incl. lorry),Number,326
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,WMFH,Work mainly at or from home,Number,1939
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,NS,Not stated,Number,24738
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,T,Total,Number,350579
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),F,On Foot,Number,8669
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),BI,Bicycle,Number,315
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),BU,"Bus, minibus or coach",Number,19467
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),TDL,"Train, DART or LUAS",Number,163
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),M,Motorcycle or scooter,Number,14
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),CD,Car Driver,Number,3606
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),CP,Car passenger,Number,44454
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),V,Van,Number,320
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),OTH,Other (incl. lorry),Number,94
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),WMFH,Work mainly at or from home,Number,313
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),NS,Not stated,Number,5149
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),T,Total,Number,82564
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,F,On Foot,Number,278180
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,BI,Bicycle,Number,36541
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,BU,"Bus, minibus or coach",Number,204828
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,TDL,"Train, DART or LUAS",Number,24431
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,M,Motorcycle or scooter,Number,669
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,CD,Car Driver,Number,54938
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,CP,Car passenger,Number,606378
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,V,Van,Number,2558
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,OTH,Other (incl. lorry),Number,1348
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,WMFH,Work mainly at or from home,Number,7259
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,NS,Not stated,Number,102540
+SAP2022T11T1C02,Population aged 5 years and over by means of travel to school or college,2022,2022,IE0,Ireland,T,Total,Number,1319670
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,F,On Foot,Number,38825
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,BI,Bicycle,Number,6087
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,BU,"Bus, minibus or coach",Number,30721
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,TDL,"Train, DART or LUAS",Number,1844
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,M,Motorcycle or scooter,Number,498
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,CD,Car Driver,Number,158302
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,CP,Car passenger,Number,91945
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,V,Van,Number,21862
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,OTH,Other (incl. lorry),Number,2102
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,WMFH,Work mainly at or from home,Number,27945
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,NS,Not stated,Number,27009
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,d1070df4-924a-4f2d-b35b-d165b6a5a264,Connacht,T,Total,Number,407140
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,F,On Foot,Number,294441
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,BI,Bicycle,Number,78536
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,BU,"Bus, minibus or coach",Number,207336
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,TDL,"Train, DART or LUAS",Number,79343
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,M,Motorcycle or scooter,Number,6869
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,CD,Car Driver,Number,647170
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,CP,Car passenger,Number,335781
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,V,Van,Number,69118
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,OTH,Other (incl. lorry),Number,6288
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,WMFH,Work mainly at or from home,Number,157530
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,NS,Not stated,Number,160396
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,567d5f84-9a09-4d9b-b943-0b5be07a15da,Leinster,T,Total,Number,2042808
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,F,On Foot,Number,106803
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,BI,Bicycle,Number,11598
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,BU,"Bus, minibus or coach",Number,64672
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,TDL,"Train, DART or LUAS",Number,3841
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,M,Motorcycle or scooter,Number,1649
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,CD,Car Driver,Number,368070
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,CP,Car passenger,Number,212280
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,V,Van,Number,42649
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,OTH,Other (incl. lorry),Number,4227
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,WMFH,Work mainly at or from home,Number,68490
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,NS,Not stated,Number,66429
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,32947409-6cfa-4731-bcd1-1cf12e8193f8,Munster,T,Total,Number,950708
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),F,On Foot,Number,16222
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),BI,Bicycle,Number,991
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),BU,"Bus, minibus or coach",Number,21194
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),TDL,"Train, DART or LUAS",Number,288
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),M,Motorcycle or scooter,Number,134
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),CD,Car Driver,Number,80877
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),CP,Car passenger,Number,51038
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),V,Van,Number,15194
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),OTH,Other (incl. lorry),Number,1475
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),WMFH,Work mainly at or from home,Number,12761
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),NS,Not stated,Number,12578
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,0b3f0251-a1d9-47cc-ab6d-295962b93cd0,Ulster (part of),T,Total,Number,212752
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,F,On Foot,Number,456291
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,BI,Bicycle,Number,97212
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,BU,"Bus, minibus or coach",Number,323923
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,TDL,"Train, DART or LUAS",Number,85316
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,M,Motorcycle or scooter,Number,9150
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,CD,Car Driver,Number,1254419
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,CP,Car passenger,Number,691044
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,V,Van,Number,148823
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,OTH,Other (incl. lorry),Number,14092
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,WMFH,Work mainly at or from home,Number,266726
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,NS,Not stated,Number,266412
+SAP2022T11T1C03,"Population aged 5 years and over by means of travel to work, school or college (total)",2022,2022,IE0,Ireland,T,Total,Number,3613408

@@ -45,6 +45,8 @@ website:
             text: Irish language
           - href: public-finances/index.qmd
             text: Public finances
+          - href: transport/index.qmd
+            text: Transport
       - href: counties/index.qmd
         text: Counties
       - href: charts.qmd

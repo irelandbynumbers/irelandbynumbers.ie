@@ -45,3 +45,7 @@
   path: public-finances/index.qmd
   image: images/topic-public-finances.svg
   description: Where the State's money comes from, what it is spent on, and how much it owes.
+- title: Transport
+  path: transport/index.qmd
+  image: images/topic-transport.svg
+  description: Road safety, how people travel, public transport use, and the cars on Irish roads.

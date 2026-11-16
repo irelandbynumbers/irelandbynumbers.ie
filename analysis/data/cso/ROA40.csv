@@ -1,0 +1,85 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03116V03768,Road User Type,UNIT,VALUE
+ROA40C01,Fatalities,2019,2019,1,Pedestrians,Number,27.0
+ROA40C01,Fatalities,2019,2019,2,Pedal cyclists,Number,
+ROA40C01,Fatalities,2019,2019,3,Motor cyclists,Number,16.0
+ROA40C01,Fatalities,2019,2019,11,Drivers,Number,74.0
+ROA40C01,Fatalities,2020,2020,1,Pedestrians,Number,32.0
+ROA40C01,Fatalities,2020,2020,2,Pedal cyclists,Number,10.0
+ROA40C01,Fatalities,2020,2020,3,Motor cyclists,Number,17.0
+ROA40C01,Fatalities,2020,2020,11,Drivers,Number,57.0
+ROA40C01,Fatalities,2021,2021,1,Pedestrians,Number,19.0
+ROA40C01,Fatalities,2021,2021,2,Pedal cyclists,Number,7.0
+ROA40C01,Fatalities,2021,2021,3,Motor cyclists,Number,22.0
+ROA40C01,Fatalities,2021,2021,11,Drivers,Number,66.0
+ROA40C01,Fatalities,2022,2022,1,Pedestrians,Number,503.0
+ROA40C01,Fatalities,2022,2022,2,Pedal cyclists,Number,7.0
+ROA40C01,Fatalities,2022,2022,3,Motor cyclists,Number,23.0
+ROA40C01,Fatalities,2022,2022,11,Drivers,Number,57.0
+ROA40C01,Fatalities,2023,2023,1,Pedestrians,Number,44.0
+ROA40C01,Fatalities,2023,2023,2,Pedal cyclists,Number,9.0
+ROA40C01,Fatalities,2023,2023,3,Motor cyclists,Number,25.0
+ROA40C01,Fatalities,2023,2023,11,Drivers,Number,65.0
+ROA40C01,Fatalities,2024,2024,1,Pedestrians,Number,33.0
+ROA40C01,Fatalities,2024,2024,2,Pedal cyclists,Number,12.0
+ROA40C01,Fatalities,2024,2024,3,Motor cyclists,Number,17.0
+ROA40C01,Fatalities,2024,2024,11,Drivers,Number,72.0
+ROA40C01,Fatalities,2025,2025,1,Pedestrians,Number,41.0
+ROA40C01,Fatalities,2025,2025,2,Pedal cyclists,Number,14.0
+ROA40C01,Fatalities,2025,2025,3,Motor cyclists,Number,30.0
+ROA40C01,Fatalities,2025,2025,11,Drivers,Number,
+ROA40C02,Serious injuries,2019,2019,1,Pedestrians,Number,301.0
+ROA40C02,Serious injuries,2019,2019,2,Pedal cyclists,Number,
+ROA40C02,Serious injuries,2019,2019,3,Motor cyclists,Number,226.0
+ROA40C02,Serious injuries,2019,2019,11,Drivers,Number,461.0
+ROA40C02,Serious injuries,2020,2020,1,Pedestrians,Number,226.0
+ROA40C02,Serious injuries,2020,2020,2,Pedal cyclists,Number,268.0
+ROA40C02,Serious injuries,2020,2020,3,Motor cyclists,Number,147.0
+ROA40C02,Serious injuries,2020,2020,11,Drivers,Number,389.0
+ROA40C02,Serious injuries,2021,2021,1,Pedestrians,Number,218.0
+ROA40C02,Serious injuries,2021,2021,2,Pedal cyclists,Number,314.0
+ROA40C02,Serious injuries,2021,2021,3,Motor cyclists,Number,186.0
+ROA40C02,Serious injuries,2021,2021,11,Drivers,Number,503.0
+ROA40C02,Serious injuries,2022,2022,1,Pedestrians,Number,372.0
+ROA40C02,Serious injuries,2022,2022,2,Pedal cyclists,Number,276.0
+ROA40C02,Serious injuries,2022,2022,3,Motor cyclists,Number,198.0
+ROA40C02,Serious injuries,2022,2022,11,Drivers,Number,563.0
+ROA40C02,Serious injuries,2023,2023,1,Pedestrians,Number,309.0
+ROA40C02,Serious injuries,2023,2023,2,Pedal cyclists,Number,256.0
+ROA40C02,Serious injuries,2023,2023,3,Motor cyclists,Number,187.0
+ROA40C02,Serious injuries,2023,2023,11,Drivers,Number,494.0
+ROA40C02,Serious injuries,2024,2024,1,Pedestrians,Number,328.0
+ROA40C02,Serious injuries,2024,2024,2,Pedal cyclists,Number,213.0
+ROA40C02,Serious injuries,2024,2024,3,Motor cyclists,Number,188.0
+ROA40C02,Serious injuries,2024,2024,11,Drivers,Number,515.0
+ROA40C02,Serious injuries,2025,2025,1,Pedestrians,Number,348.0
+ROA40C02,Serious injuries,2025,2025,2,Pedal cyclists,Number,265.0
+ROA40C02,Serious injuries,2025,2025,3,Motor cyclists,Number,195.0
+ROA40C02,Serious injuries,2025,2025,11,Drivers,Number,
+ROA40C03,All fatalities and serious injuries,2019,2019,1,Pedestrians,Number,328.0
+ROA40C03,All fatalities and serious injuries,2019,2019,2,Pedal cyclists,Number,
+ROA40C03,All fatalities and serious injuries,2019,2019,3,Motor cyclists,Number,242.0
+ROA40C03,All fatalities and serious injuries,2019,2019,11,Drivers,Number,535.0
+ROA40C03,All fatalities and serious injuries,2020,2020,1,Pedestrians,Number,258.0
+ROA40C03,All fatalities and serious injuries,2020,2020,2,Pedal cyclists,Number,278.0
+ROA40C03,All fatalities and serious injuries,2020,2020,3,Motor cyclists,Number,164.0
+ROA40C03,All fatalities and serious injuries,2020,2020,11,Drivers,Number,446.0
+ROA40C03,All fatalities and serious injuries,2021,2021,1,Pedestrians,Number,237.0
+ROA40C03,All fatalities and serious injuries,2021,2021,2,Pedal cyclists,Number,321.0
+ROA40C03,All fatalities and serious injuries,2021,2021,3,Motor cyclists,Number,208.0
+ROA40C03,All fatalities and serious injuries,2021,2021,11,Drivers,Number,529.0
+ROA40C03,All fatalities and serious injuries,2022,2022,1,Pedestrians,Number,414.0
+ROA40C03,All fatalities and serious injuries,2022,2022,2,Pedal cyclists,Number,283.0
+ROA40C03,All fatalities and serious injuries,2022,2022,3,Motor cyclists,Number,221.0
+ROA40C03,All fatalities and serious injuries,2022,2022,11,Drivers,Number,620.0
+ROA40C03,All fatalities and serious injuries,2023,2023,1,Pedestrians,Number,353.0
+ROA40C03,All fatalities and serious injuries,2023,2023,2,Pedal cyclists,Number,265.0
+ROA40C03,All fatalities and serious injuries,2023,2023,3,Motor cyclists,Number,212.0
+ROA40C03,All fatalities and serious injuries,2023,2023,11,Drivers,Number,559.0
+ROA40C03,All fatalities and serious injuries,2024,2024,1,Pedestrians,Number,361.0
+ROA40C03,All fatalities and serious injuries,2024,2024,2,Pedal cyclists,Number,225.0
+ROA40C03,All fatalities and serious injuries,2024,2024,3,Motor cyclists,Number,205.0
+ROA40C03,All fatalities and serious injuries,2024,2024,11,Drivers,Number,587.0
+ROA40C03,All fatalities and serious injuries,2025,2025,1,Pedestrians,Number,388.0
+ROA40C03,All fatalities and serious injuries,2025,2025,2,Pedal cyclists,Number,279.0
+ROA40C03,All fatalities and serious injuries,2025,2025,3,Motor cyclists,Number,225.0
+ROA40C03,All fatalities and serious injuries,2025,2025,11,Drivers,Number,

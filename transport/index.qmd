@@ -1,0 +1,23 @@
+---
+title: "Transport"
+description: "Road safety, how people travel, public transport use, and the cars on Irish roads."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish transport >}}
+
+These pages show how many people are killed or seriously injured on Irish roads, how people travel to work, school and elsewhere, how many journeys are made by bus, rail and Luas, and which cars people are buying. The figures come from the Central Statistics Office, which also publishes data from the Road Safety Authority, the National Transport Authority and Transport Infrastructure Ireland.
+
+{{< key-facts transport-road-deaths transport-journeys-by-mode transport-public-transport transport-new-car-fuel >}}
+
+:::{#pages}
+:::

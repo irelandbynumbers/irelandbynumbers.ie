@@ -1,0 +1,1629 @@
+STATISTIC,Statistic Label,TLIST(W1),Week,C03935V04687,Mode of Transport,UNIT,VALUE
+THA25C01,Passenger Journeys,2019W01,2019 Week 01,10,Dublin Metro Bus,Number,1987891.0
+THA25C01,Passenger Journeys,2019W01,2019 Week 01,20,"Bus, excluding Dublin Metro",Number,497598.0
+THA25C01,Passenger Journeys,2019W01,2019 Week 01,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W01,2019 Week 01,40,"All public transport, excluding LUAS",Number,2485489.0
+THA25C01,Passenger Journeys,2019W02,2019 Week 02,10,Dublin Metro Bus,Number,2709579.0
+THA25C01,Passenger Journeys,2019W02,2019 Week 02,20,"Bus, excluding Dublin Metro",Number,633764.0
+THA25C01,Passenger Journeys,2019W02,2019 Week 02,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W02,2019 Week 02,40,"All public transport, excluding LUAS",Number,3343343.0
+THA25C01,Passenger Journeys,2019W03,2019 Week 03,10,Dublin Metro Bus,Number,2784678.0
+THA25C01,Passenger Journeys,2019W03,2019 Week 03,20,"Bus, excluding Dublin Metro",Number,678097.0
+THA25C01,Passenger Journeys,2019W03,2019 Week 03,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W03,2019 Week 03,40,"All public transport, excluding LUAS",Number,3462775.0
+THA25C01,Passenger Journeys,2019W04,2019 Week 04,10,Dublin Metro Bus,Number,2858346.0
+THA25C01,Passenger Journeys,2019W04,2019 Week 04,20,"Bus, excluding Dublin Metro",Number,676140.0
+THA25C01,Passenger Journeys,2019W04,2019 Week 04,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W04,2019 Week 04,40,"All public transport, excluding LUAS",Number,3534486.0
+THA25C01,Passenger Journeys,2019W05,2019 Week 05,10,Dublin Metro Bus,Number,2924821.0
+THA25C01,Passenger Journeys,2019W05,2019 Week 05,20,"Bus, excluding Dublin Metro",Number,672440.0
+THA25C01,Passenger Journeys,2019W05,2019 Week 05,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W05,2019 Week 05,40,"All public transport, excluding LUAS",Number,3597261.0
+THA25C01,Passenger Journeys,2019W06,2019 Week 06,10,Dublin Metro Bus,Number,2979960.0
+THA25C01,Passenger Journeys,2019W06,2019 Week 06,20,"Bus, excluding Dublin Metro",Number,696573.0
+THA25C01,Passenger Journeys,2019W06,2019 Week 06,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W06,2019 Week 06,40,"All public transport, excluding LUAS",Number,3676533.0
+THA25C01,Passenger Journeys,2019W07,2019 Week 07,10,Dublin Metro Bus,Number,3053710.0
+THA25C01,Passenger Journeys,2019W07,2019 Week 07,20,"Bus, excluding Dublin Metro",Number,736594.0
+THA25C01,Passenger Journeys,2019W07,2019 Week 07,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W07,2019 Week 07,40,"All public transport, excluding LUAS",Number,3790304.0
+THA25C01,Passenger Journeys,2019W08,2019 Week 08,10,Dublin Metro Bus,Number,2927041.0
+THA25C01,Passenger Journeys,2019W08,2019 Week 08,20,"Bus, excluding Dublin Metro",Number,677931.0
+THA25C01,Passenger Journeys,2019W08,2019 Week 08,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W08,2019 Week 08,40,"All public transport, excluding LUAS",Number,3604972.0
+THA25C01,Passenger Journeys,2019W09,2019 Week 09,10,Dublin Metro Bus,Number,2989171.0
+THA25C01,Passenger Journeys,2019W09,2019 Week 09,20,"Bus, excluding Dublin Metro",Number,706297.0
+THA25C01,Passenger Journeys,2019W09,2019 Week 09,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W09,2019 Week 09,40,"All public transport, excluding LUAS",Number,3695468.0
+THA25C01,Passenger Journeys,2019W10,2019 Week 10,10,Dublin Metro Bus,Number,3065148.0
+THA25C01,Passenger Journeys,2019W10,2019 Week 10,20,"Bus, excluding Dublin Metro",Number,718505.0
+THA25C01,Passenger Journeys,2019W10,2019 Week 10,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W10,2019 Week 10,40,"All public transport, excluding LUAS",Number,3783653.0
+THA25C01,Passenger Journeys,2019W11,2019 Week 11,10,Dublin Metro Bus,Number,2998440.0
+THA25C01,Passenger Journeys,2019W11,2019 Week 11,20,"Bus, excluding Dublin Metro",Number,731042.0
+THA25C01,Passenger Journeys,2019W11,2019 Week 11,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W11,2019 Week 11,40,"All public transport, excluding LUAS",Number,3729482.0
+THA25C01,Passenger Journeys,2019W12,2019 Week 12,10,Dublin Metro Bus,Number,2742468.0
+THA25C01,Passenger Journeys,2019W12,2019 Week 12,20,"Bus, excluding Dublin Metro",Number,665202.0
+THA25C01,Passenger Journeys,2019W12,2019 Week 12,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W12,2019 Week 12,40,"All public transport, excluding LUAS",Number,3407670.0
+THA25C01,Passenger Journeys,2019W13,2019 Week 13,10,Dublin Metro Bus,Number,3136873.0
+THA25C01,Passenger Journeys,2019W13,2019 Week 13,20,"Bus, excluding Dublin Metro",Number,749734.0
+THA25C01,Passenger Journeys,2019W13,2019 Week 13,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W13,2019 Week 13,40,"All public transport, excluding LUAS",Number,3886607.0
+THA25C01,Passenger Journeys,2019W14,2019 Week 14,10,Dublin Metro Bus,Number,3087216.0
+THA25C01,Passenger Journeys,2019W14,2019 Week 14,20,"Bus, excluding Dublin Metro",Number,725196.0
+THA25C01,Passenger Journeys,2019W14,2019 Week 14,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W14,2019 Week 14,40,"All public transport, excluding LUAS",Number,3812412.0
+THA25C01,Passenger Journeys,2019W15,2019 Week 15,10,Dublin Metro Bus,Number,3101074.0
+THA25C01,Passenger Journeys,2019W15,2019 Week 15,20,"Bus, excluding Dublin Metro",Number,717874.0
+THA25C01,Passenger Journeys,2019W15,2019 Week 15,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W15,2019 Week 15,40,"All public transport, excluding LUAS",Number,3818948.0
+THA25C01,Passenger Journeys,2019W16,2019 Week 16,10,Dublin Metro Bus,Number,2723661.0
+THA25C01,Passenger Journeys,2019W16,2019 Week 16,20,"Bus, excluding Dublin Metro",Number,636735.0
+THA25C01,Passenger Journeys,2019W16,2019 Week 16,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W16,2019 Week 16,40,"All public transport, excluding LUAS",Number,3360396.0
+THA25C01,Passenger Journeys,2019W17,2019 Week 17,10,Dublin Metro Bus,Number,2535513.0
+THA25C01,Passenger Journeys,2019W17,2019 Week 17,20,"Bus, excluding Dublin Metro",Number,601236.0
+THA25C01,Passenger Journeys,2019W17,2019 Week 17,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W17,2019 Week 17,40,"All public transport, excluding LUAS",Number,3136749.0
+THA25C01,Passenger Journeys,2019W18,2019 Week 18,10,Dublin Metro Bus,Number,2990676.0
+THA25C01,Passenger Journeys,2019W18,2019 Week 18,20,"Bus, excluding Dublin Metro",Number,727961.0
+THA25C01,Passenger Journeys,2019W18,2019 Week 18,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W18,2019 Week 18,40,"All public transport, excluding LUAS",Number,3718637.0
+THA25C01,Passenger Journeys,2019W19,2019 Week 19,10,Dublin Metro Bus,Number,2719955.0
+THA25C01,Passenger Journeys,2019W19,2019 Week 19,20,"Bus, excluding Dublin Metro",Number,650874.0
+THA25C01,Passenger Journeys,2019W19,2019 Week 19,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W19,2019 Week 19,40,"All public transport, excluding LUAS",Number,3370829.0
+THA25C01,Passenger Journeys,2019W20,2019 Week 20,10,Dublin Metro Bus,Number,2960967.0
+THA25C01,Passenger Journeys,2019W20,2019 Week 20,20,"Bus, excluding Dublin Metro",Number,691221.0
+THA25C01,Passenger Journeys,2019W20,2019 Week 20,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W20,2019 Week 20,40,"All public transport, excluding LUAS",Number,3652188.0
+THA25C01,Passenger Journeys,2019W21,2019 Week 21,10,Dublin Metro Bus,Number,2938021.0
+THA25C01,Passenger Journeys,2019W21,2019 Week 21,20,"Bus, excluding Dublin Metro",Number,701342.0
+THA25C01,Passenger Journeys,2019W21,2019 Week 21,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W21,2019 Week 21,40,"All public transport, excluding LUAS",Number,3639363.0
+THA25C01,Passenger Journeys,2019W22,2019 Week 22,10,Dublin Metro Bus,Number,2900323.0
+THA25C01,Passenger Journeys,2019W22,2019 Week 22,20,"Bus, excluding Dublin Metro",Number,681399.0
+THA25C01,Passenger Journeys,2019W22,2019 Week 22,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W22,2019 Week 22,40,"All public transport, excluding LUAS",Number,3581722.0
+THA25C01,Passenger Journeys,2019W23,2019 Week 23,10,Dublin Metro Bus,Number,2591616.0
+THA25C01,Passenger Journeys,2019W23,2019 Week 23,20,"Bus, excluding Dublin Metro",Number,617748.0
+THA25C01,Passenger Journeys,2019W23,2019 Week 23,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W23,2019 Week 23,40,"All public transport, excluding LUAS",Number,3209364.0
+THA25C01,Passenger Journeys,2019W24,2019 Week 24,10,Dublin Metro Bus,Number,2844409.0
+THA25C01,Passenger Journeys,2019W24,2019 Week 24,20,"Bus, excluding Dublin Metro",Number,669882.0
+THA25C01,Passenger Journeys,2019W24,2019 Week 24,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W24,2019 Week 24,40,"All public transport, excluding LUAS",Number,3514291.0
+THA25C01,Passenger Journeys,2019W25,2019 Week 25,10,Dublin Metro Bus,Number,2826773.0
+THA25C01,Passenger Journeys,2019W25,2019 Week 25,20,"Bus, excluding Dublin Metro",Number,680777.0
+THA25C01,Passenger Journeys,2019W25,2019 Week 25,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W25,2019 Week 25,40,"All public transport, excluding LUAS",Number,3507550.0
+THA25C01,Passenger Journeys,2019W26,2019 Week 26,10,Dublin Metro Bus,Number,2840156.0
+THA25C01,Passenger Journeys,2019W26,2019 Week 26,20,"Bus, excluding Dublin Metro",Number,686867.0
+THA25C01,Passenger Journeys,2019W26,2019 Week 26,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W26,2019 Week 26,40,"All public transport, excluding LUAS",Number,3527023.0
+THA25C01,Passenger Journeys,2019W27,2019 Week 27,10,Dublin Metro Bus,Number,2953254.0
+THA25C01,Passenger Journeys,2019W27,2019 Week 27,20,"Bus, excluding Dublin Metro",Number,705163.0
+THA25C01,Passenger Journeys,2019W27,2019 Week 27,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W27,2019 Week 27,40,"All public transport, excluding LUAS",Number,3658417.0
+THA25C01,Passenger Journeys,2019W28,2019 Week 28,10,Dublin Metro Bus,Number,2954091.0
+THA25C01,Passenger Journeys,2019W28,2019 Week 28,20,"Bus, excluding Dublin Metro",Number,713037.0
+THA25C01,Passenger Journeys,2019W28,2019 Week 28,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W28,2019 Week 28,40,"All public transport, excluding LUAS",Number,3667128.0
+THA25C01,Passenger Journeys,2019W29,2019 Week 29,10,Dublin Metro Bus,Number,2895372.0
+THA25C01,Passenger Journeys,2019W29,2019 Week 29,20,"Bus, excluding Dublin Metro",Number,701340.0
+THA25C01,Passenger Journeys,2019W29,2019 Week 29,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W29,2019 Week 29,40,"All public transport, excluding LUAS",Number,3596712.0
+THA25C01,Passenger Journeys,2019W30,2019 Week 30,10,Dublin Metro Bus,Number,2939485.0
+THA25C01,Passenger Journeys,2019W30,2019 Week 30,20,"Bus, excluding Dublin Metro",Number,713657.0
+THA25C01,Passenger Journeys,2019W30,2019 Week 30,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W30,2019 Week 30,40,"All public transport, excluding LUAS",Number,3653142.0
+THA25C01,Passenger Journeys,2019W31,2019 Week 31,10,Dublin Metro Bus,Number,2725260.0
+THA25C01,Passenger Journeys,2019W31,2019 Week 31,20,"Bus, excluding Dublin Metro",Number,680616.0
+THA25C01,Passenger Journeys,2019W31,2019 Week 31,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W31,2019 Week 31,40,"All public transport, excluding LUAS",Number,3405876.0
+THA25C01,Passenger Journeys,2019W32,2019 Week 32,10,Dublin Metro Bus,Number,2547806.0
+THA25C01,Passenger Journeys,2019W32,2019 Week 32,20,"Bus, excluding Dublin Metro",Number,616761.0
+THA25C01,Passenger Journeys,2019W32,2019 Week 32,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W32,2019 Week 32,40,"All public transport, excluding LUAS",Number,3164567.0
+THA25C01,Passenger Journeys,2019W33,2019 Week 33,10,Dublin Metro Bus,Number,2724875.0
+THA25C01,Passenger Journeys,2019W33,2019 Week 33,20,"Bus, excluding Dublin Metro",Number,697890.0
+THA25C01,Passenger Journeys,2019W33,2019 Week 33,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W33,2019 Week 33,40,"All public transport, excluding LUAS",Number,3422765.0
+THA25C01,Passenger Journeys,2019W34,2019 Week 34,10,Dublin Metro Bus,Number,2793023.0
+THA25C01,Passenger Journeys,2019W34,2019 Week 34,20,"Bus, excluding Dublin Metro",Number,689702.0
+THA25C01,Passenger Journeys,2019W34,2019 Week 34,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W34,2019 Week 34,40,"All public transport, excluding LUAS",Number,3482725.0
+THA25C01,Passenger Journeys,2019W35,2019 Week 35,10,Dublin Metro Bus,Number,2872215.0
+THA25C01,Passenger Journeys,2019W35,2019 Week 35,20,"Bus, excluding Dublin Metro",Number,695388.0
+THA25C01,Passenger Journeys,2019W35,2019 Week 35,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W35,2019 Week 35,40,"All public transport, excluding LUAS",Number,3567603.0
+THA25C01,Passenger Journeys,2019W36,2019 Week 36,10,Dublin Metro Bus,Number,2999569.0
+THA25C01,Passenger Journeys,2019W36,2019 Week 36,20,"Bus, excluding Dublin Metro",Number,744038.0
+THA25C01,Passenger Journeys,2019W36,2019 Week 36,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W36,2019 Week 36,40,"All public transport, excluding LUAS",Number,3743607.0
+THA25C01,Passenger Journeys,2019W37,2019 Week 37,10,Dublin Metro Bus,Number,3109763.0
+THA25C01,Passenger Journeys,2019W37,2019 Week 37,20,"Bus, excluding Dublin Metro",Number,820112.0
+THA25C01,Passenger Journeys,2019W37,2019 Week 37,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W37,2019 Week 37,40,"All public transport, excluding LUAS",Number,3929875.0
+THA25C01,Passenger Journeys,2019W38,2019 Week 38,10,Dublin Metro Bus,Number,3182473.0
+THA25C01,Passenger Journeys,2019W38,2019 Week 38,20,"Bus, excluding Dublin Metro",Number,828356.0
+THA25C01,Passenger Journeys,2019W38,2019 Week 38,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W38,2019 Week 38,40,"All public transport, excluding LUAS",Number,4010829.0
+THA25C01,Passenger Journeys,2019W39,2019 Week 39,10,Dublin Metro Bus,Number,3204042.0
+THA25C01,Passenger Journeys,2019W39,2019 Week 39,20,"Bus, excluding Dublin Metro",Number,814190.0
+THA25C01,Passenger Journeys,2019W39,2019 Week 39,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W39,2019 Week 39,40,"All public transport, excluding LUAS",Number,4018232.0
+THA25C01,Passenger Journeys,2019W40,2019 Week 40,10,Dublin Metro Bus,Number,3139165.0
+THA25C01,Passenger Journeys,2019W40,2019 Week 40,20,"Bus, excluding Dublin Metro",Number,776594.0
+THA25C01,Passenger Journeys,2019W40,2019 Week 40,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W40,2019 Week 40,40,"All public transport, excluding LUAS",Number,3915759.0
+THA25C01,Passenger Journeys,2019W41,2019 Week 41,10,Dublin Metro Bus,Number,3243670.0
+THA25C01,Passenger Journeys,2019W41,2019 Week 41,20,"Bus, excluding Dublin Metro",Number,824314.0
+THA25C01,Passenger Journeys,2019W41,2019 Week 41,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W41,2019 Week 41,40,"All public transport, excluding LUAS",Number,4067984.0
+THA25C01,Passenger Journeys,2019W42,2019 Week 42,10,Dublin Metro Bus,Number,3238993.0
+THA25C01,Passenger Journeys,2019W42,2019 Week 42,20,"Bus, excluding Dublin Metro",Number,805498.0
+THA25C01,Passenger Journeys,2019W42,2019 Week 42,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W42,2019 Week 42,40,"All public transport, excluding LUAS",Number,4044491.0
+THA25C01,Passenger Journeys,2019W43,2019 Week 43,10,Dublin Metro Bus,Number,3170924.0
+THA25C01,Passenger Journeys,2019W43,2019 Week 43,20,"Bus, excluding Dublin Metro",Number,824331.0
+THA25C01,Passenger Journeys,2019W43,2019 Week 43,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W43,2019 Week 43,40,"All public transport, excluding LUAS",Number,3995255.0
+THA25C01,Passenger Journeys,2019W44,2019 Week 44,10,Dublin Metro Bus,Number,2708101.0
+THA25C01,Passenger Journeys,2019W44,2019 Week 44,20,"Bus, excluding Dublin Metro",Number,655906.0
+THA25C01,Passenger Journeys,2019W44,2019 Week 44,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W44,2019 Week 44,40,"All public transport, excluding LUAS",Number,3364007.0
+THA25C01,Passenger Journeys,2019W45,2019 Week 45,10,Dublin Metro Bus,Number,3130443.0
+THA25C01,Passenger Journeys,2019W45,2019 Week 45,20,"Bus, excluding Dublin Metro",Number,775922.0
+THA25C01,Passenger Journeys,2019W45,2019 Week 45,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W45,2019 Week 45,40,"All public transport, excluding LUAS",Number,3906365.0
+THA25C01,Passenger Journeys,2019W46,2019 Week 46,10,Dublin Metro Bus,Number,3206894.0
+THA25C01,Passenger Journeys,2019W46,2019 Week 46,20,"Bus, excluding Dublin Metro",Number,783830.0
+THA25C01,Passenger Journeys,2019W46,2019 Week 46,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W46,2019 Week 46,40,"All public transport, excluding LUAS",Number,3990724.0
+THA25C01,Passenger Journeys,2019W47,2019 Week 47,10,Dublin Metro Bus,Number,3192052.0
+THA25C01,Passenger Journeys,2019W47,2019 Week 47,20,"Bus, excluding Dublin Metro",Number,772760.0
+THA25C01,Passenger Journeys,2019W47,2019 Week 47,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W47,2019 Week 47,40,"All public transport, excluding LUAS",Number,3964812.0
+THA25C01,Passenger Journeys,2019W48,2019 Week 48,10,Dublin Metro Bus,Number,3251721.0
+THA25C01,Passenger Journeys,2019W48,2019 Week 48,20,"Bus, excluding Dublin Metro",Number,794233.0
+THA25C01,Passenger Journeys,2019W48,2019 Week 48,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W48,2019 Week 48,40,"All public transport, excluding LUAS",Number,4045954.0
+THA25C01,Passenger Journeys,2019W49,2019 Week 49,10,Dublin Metro Bus,Number,3215990.0
+THA25C01,Passenger Journeys,2019W49,2019 Week 49,20,"Bus, excluding Dublin Metro",Number,773085.0
+THA25C01,Passenger Journeys,2019W49,2019 Week 49,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W49,2019 Week 49,40,"All public transport, excluding LUAS",Number,3989075.0
+THA25C01,Passenger Journeys,2019W50,2019 Week 50,10,Dublin Metro Bus,Number,3271738.0
+THA25C01,Passenger Journeys,2019W50,2019 Week 50,20,"Bus, excluding Dublin Metro",Number,768340.0
+THA25C01,Passenger Journeys,2019W50,2019 Week 50,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W50,2019 Week 50,40,"All public transport, excluding LUAS",Number,4040078.0
+THA25C01,Passenger Journeys,2019W51,2019 Week 51,10,Dublin Metro Bus,Number,3166707.0
+THA25C01,Passenger Journeys,2019W51,2019 Week 51,20,"Bus, excluding Dublin Metro",Number,900418.0
+THA25C01,Passenger Journeys,2019W51,2019 Week 51,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W51,2019 Week 51,40,"All public transport, excluding LUAS",Number,4067125.0
+THA25C01,Passenger Journeys,2019W52,2019 Week 52,10,Dublin Metro Bus,Number,1599369.0
+THA25C01,Passenger Journeys,2019W52,2019 Week 52,20,"Bus, excluding Dublin Metro",Number,397160.0
+THA25C01,Passenger Journeys,2019W52,2019 Week 52,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W52,2019 Week 52,40,"All public transport, excluding LUAS",Number,1996529.0
+THA25C01,Passenger Journeys,2019W53,2019 Week 53,10,Dublin Metro Bus,Number,
+THA25C01,Passenger Journeys,2019W53,2019 Week 53,20,"Bus, excluding Dublin Metro",Number,
+THA25C01,Passenger Journeys,2019W53,2019 Week 53,30,Rail,Number,
+THA25C01,Passenger Journeys,2019W53,2019 Week 53,40,"All public transport, excluding LUAS",Number,
+THA25C01,Passenger Journeys,2020W01,2020 Week 01,10,Dublin Metro Bus,Number,1970550.0
+THA25C01,Passenger Journeys,2020W01,2020 Week 01,20,"Bus, excluding Dublin Metro",Number,523817.0
+THA25C01,Passenger Journeys,2020W01,2020 Week 01,30,Rail,Number,697954.0
+THA25C01,Passenger Journeys,2020W01,2020 Week 01,40,"All public transport, excluding LUAS",Number,3192321.0
+THA25C01,Passenger Journeys,2020W02,2020 Week 02,10,Dublin Metro Bus,Number,2830713.0
+THA25C01,Passenger Journeys,2020W02,2020 Week 02,20,"Bus, excluding Dublin Metro",Number,652672.0
+THA25C01,Passenger Journeys,2020W02,2020 Week 02,30,Rail,Number,899175.0
+THA25C01,Passenger Journeys,2020W02,2020 Week 02,40,"All public transport, excluding LUAS",Number,4382560.0
+THA25C01,Passenger Journeys,2020W03,2020 Week 03,10,Dublin Metro Bus,Number,2907797.0
+THA25C01,Passenger Journeys,2020W03,2020 Week 03,20,"Bus, excluding Dublin Metro",Number,693102.0
+THA25C01,Passenger Journeys,2020W03,2020 Week 03,30,Rail,Number,925257.0
+THA25C01,Passenger Journeys,2020W03,2020 Week 03,40,"All public transport, excluding LUAS",Number,4526156.0
+THA25C01,Passenger Journeys,2020W04,2020 Week 04,10,Dublin Metro Bus,Number,3076009.0
+THA25C01,Passenger Journeys,2020W04,2020 Week 04,20,"Bus, excluding Dublin Metro",Number,747531.0
+THA25C01,Passenger Journeys,2020W04,2020 Week 04,30,Rail,Number,959703.0
+THA25C01,Passenger Journeys,2020W04,2020 Week 04,40,"All public transport, excluding LUAS",Number,4783243.0
+THA25C01,Passenger Journeys,2020W05,2020 Week 05,10,Dublin Metro Bus,Number,3152056.0
+THA25C01,Passenger Journeys,2020W05,2020 Week 05,20,"Bus, excluding Dublin Metro",Number,755189.0
+THA25C01,Passenger Journeys,2020W05,2020 Week 05,30,Rail,Number,1019494.0
+THA25C01,Passenger Journeys,2020W05,2020 Week 05,40,"All public transport, excluding LUAS",Number,4926739.0
+THA25C01,Passenger Journeys,2020W06,2020 Week 06,10,Dublin Metro Bus,Number,3104689.0
+THA25C01,Passenger Journeys,2020W06,2020 Week 06,20,"Bus, excluding Dublin Metro",Number,748401.0
+THA25C01,Passenger Journeys,2020W06,2020 Week 06,30,Rail,Number,1041672.0
+THA25C01,Passenger Journeys,2020W06,2020 Week 06,40,"All public transport, excluding LUAS",Number,4894762.0
+THA25C01,Passenger Journeys,2020W07,2020 Week 07,10,Dublin Metro Bus,Number,3097986.0
+THA25C01,Passenger Journeys,2020W07,2020 Week 07,20,"Bus, excluding Dublin Metro",Number,729974.0
+THA25C01,Passenger Journeys,2020W07,2020 Week 07,30,Rail,Number,908680.0
+THA25C01,Passenger Journeys,2020W07,2020 Week 07,40,"All public transport, excluding LUAS",Number,4736640.0
+THA25C01,Passenger Journeys,2020W08,2020 Week 08,10,Dublin Metro Bus,Number,3046425.0
+THA25C01,Passenger Journeys,2020W08,2020 Week 08,20,"Bus, excluding Dublin Metro",Number,728267.0
+THA25C01,Passenger Journeys,2020W08,2020 Week 08,30,Rail,Number,954421.0
+THA25C01,Passenger Journeys,2020W08,2020 Week 08,40,"All public transport, excluding LUAS",Number,4729113.0
+THA25C01,Passenger Journeys,2020W09,2020 Week 09,10,Dublin Metro Bus,Number,3145979.0
+THA25C01,Passenger Journeys,2020W09,2020 Week 09,20,"Bus, excluding Dublin Metro",Number,738222.0
+THA25C01,Passenger Journeys,2020W09,2020 Week 09,30,Rail,Number,946324.0
+THA25C01,Passenger Journeys,2020W09,2020 Week 09,40,"All public transport, excluding LUAS",Number,4830525.0
+THA25C01,Passenger Journeys,2020W10,2020 Week 10,10,Dublin Metro Bus,Number,3103704.0
+THA25C01,Passenger Journeys,2020W10,2020 Week 10,20,"Bus, excluding Dublin Metro",Number,755581.0
+THA25C01,Passenger Journeys,2020W10,2020 Week 10,30,Rail,Number,851347.0
+THA25C01,Passenger Journeys,2020W10,2020 Week 10,40,"All public transport, excluding LUAS",Number,4710632.0
+THA25C01,Passenger Journeys,2020W11,2020 Week 11,10,Dublin Metro Bus,Number,2451496.0
+THA25C01,Passenger Journeys,2020W11,2020 Week 11,20,"Bus, excluding Dublin Metro",Number,585892.0
+THA25C01,Passenger Journeys,2020W11,2020 Week 11,30,Rail,Number,907046.0
+THA25C01,Passenger Journeys,2020W11,2020 Week 11,40,"All public transport, excluding LUAS",Number,3944434.0
+THA25C01,Passenger Journeys,2020W12,2020 Week 12,10,Dublin Metro Bus,Number,828756.0
+THA25C01,Passenger Journeys,2020W12,2020 Week 12,20,"Bus, excluding Dublin Metro",Number,189509.0
+THA25C01,Passenger Journeys,2020W12,2020 Week 12,30,Rail,Number,627170.0
+THA25C01,Passenger Journeys,2020W12,2020 Week 12,40,"All public transport, excluding LUAS",Number,1645435.0
+THA25C01,Passenger Journeys,2020W13,2020 Week 13,10,Dublin Metro Bus,Number,593463.0
+THA25C01,Passenger Journeys,2020W13,2020 Week 13,20,"Bus, excluding Dublin Metro",Number,143429.0
+THA25C01,Passenger Journeys,2020W13,2020 Week 13,30,Rail,Number,77149.0
+THA25C01,Passenger Journeys,2020W13,2020 Week 13,40,"All public transport, excluding LUAS",Number,814041.0
+THA25C01,Passenger Journeys,2020W14,2020 Week 14,10,Dublin Metro Bus,Number,365560.0
+THA25C01,Passenger Journeys,2020W14,2020 Week 14,20,"Bus, excluding Dublin Metro",Number,85598.0
+THA25C01,Passenger Journeys,2020W14,2020 Week 14,30,Rail,Number,26302.0
+THA25C01,Passenger Journeys,2020W14,2020 Week 14,40,"All public transport, excluding LUAS",Number,477460.0
+THA25C01,Passenger Journeys,2020W15,2020 Week 15,10,Dublin Metro Bus,Number,374262.0
+THA25C01,Passenger Journeys,2020W15,2020 Week 15,20,"Bus, excluding Dublin Metro",Number,91529.0
+THA25C01,Passenger Journeys,2020W15,2020 Week 15,30,Rail,Number,23231.0
+THA25C01,Passenger Journeys,2020W15,2020 Week 15,40,"All public transport, excluding LUAS",Number,489022.0
+THA25C01,Passenger Journeys,2020W16,2020 Week 16,10,Dublin Metro Bus,Number,361266.0
+THA25C01,Passenger Journeys,2020W16,2020 Week 16,20,"Bus, excluding Dublin Metro",Number,85871.0
+THA25C01,Passenger Journeys,2020W16,2020 Week 16,30,Rail,Number,28071.0
+THA25C01,Passenger Journeys,2020W16,2020 Week 16,40,"All public transport, excluding LUAS",Number,475208.0
+THA25C01,Passenger Journeys,2020W17,2020 Week 17,10,Dublin Metro Bus,Number,408826.0
+THA25C01,Passenger Journeys,2020W17,2020 Week 17,20,"Bus, excluding Dublin Metro",Number,100755.0
+THA25C01,Passenger Journeys,2020W17,2020 Week 17,30,Rail,Number,32787.0
+THA25C01,Passenger Journeys,2020W17,2020 Week 17,40,"All public transport, excluding LUAS",Number,542368.0
+THA25C01,Passenger Journeys,2020W18,2020 Week 18,10,Dublin Metro Bus,Number,433369.0
+THA25C01,Passenger Journeys,2020W18,2020 Week 18,20,"Bus, excluding Dublin Metro",Number,106193.0
+THA25C01,Passenger Journeys,2020W18,2020 Week 18,30,Rail,Number,35354.0
+THA25C01,Passenger Journeys,2020W18,2020 Week 18,40,"All public transport, excluding LUAS",Number,574916.0
+THA25C01,Passenger Journeys,2020W19,2020 Week 19,10,Dublin Metro Bus,Number,449887.0
+THA25C01,Passenger Journeys,2020W19,2020 Week 19,20,"Bus, excluding Dublin Metro",Number,110131.0
+THA25C01,Passenger Journeys,2020W19,2020 Week 19,30,Rail,Number,38142.0
+THA25C01,Passenger Journeys,2020W19,2020 Week 19,40,"All public transport, excluding LUAS",Number,598160.0
+THA25C01,Passenger Journeys,2020W20,2020 Week 20,10,Dublin Metro Bus,Number,504279.0
+THA25C01,Passenger Journeys,2020W20,2020 Week 20,20,"Bus, excluding Dublin Metro",Number,122686.0
+THA25C01,Passenger Journeys,2020W20,2020 Week 20,30,Rail,Number,44431.0
+THA25C01,Passenger Journeys,2020W20,2020 Week 20,40,"All public transport, excluding LUAS",Number,671396.0
+THA25C01,Passenger Journeys,2020W21,2020 Week 21,10,Dublin Metro Bus,Number,631921.0
+THA25C01,Passenger Journeys,2020W21,2020 Week 21,20,"Bus, excluding Dublin Metro",Number,149607.0
+THA25C01,Passenger Journeys,2020W21,2020 Week 21,30,Rail,Number,69766.0
+THA25C01,Passenger Journeys,2020W21,2020 Week 21,40,"All public transport, excluding LUAS",Number,851294.0
+THA25C01,Passenger Journeys,2020W22,2020 Week 22,10,Dublin Metro Bus,Number,740034.0
+THA25C01,Passenger Journeys,2020W22,2020 Week 22,20,"Bus, excluding Dublin Metro",Number,171072.0
+THA25C01,Passenger Journeys,2020W22,2020 Week 22,30,Rail,Number,98967.0
+THA25C01,Passenger Journeys,2020W22,2020 Week 22,40,"All public transport, excluding LUAS",Number,1010073.0
+THA25C01,Passenger Journeys,2020W23,2020 Week 23,10,Dublin Metro Bus,Number,717292.0
+THA25C01,Passenger Journeys,2020W23,2020 Week 23,20,"Bus, excluding Dublin Metro",Number,169871.0
+THA25C01,Passenger Journeys,2020W23,2020 Week 23,30,Rail,Number,101021.0
+THA25C01,Passenger Journeys,2020W23,2020 Week 23,40,"All public transport, excluding LUAS",Number,988184.0
+THA25C01,Passenger Journeys,2020W24,2020 Week 24,10,Dublin Metro Bus,Number,885658.0
+THA25C01,Passenger Journeys,2020W24,2020 Week 24,20,"Bus, excluding Dublin Metro",Number,219384.0
+THA25C01,Passenger Journeys,2020W24,2020 Week 24,30,Rail,Number,138791.0
+THA25C01,Passenger Journeys,2020W24,2020 Week 24,40,"All public transport, excluding LUAS",Number,1243833.0
+THA25C01,Passenger Journeys,2020W25,2020 Week 25,10,Dublin Metro Bus,Number,1004952.0
+THA25C01,Passenger Journeys,2020W25,2020 Week 25,20,"Bus, excluding Dublin Metro",Number,250295.0
+THA25C01,Passenger Journeys,2020W25,2020 Week 25,30,Rail,Number,170670.0
+THA25C01,Passenger Journeys,2020W25,2020 Week 25,40,"All public transport, excluding LUAS",Number,1425917.0
+THA25C01,Passenger Journeys,2020W26,2020 Week 26,10,Dublin Metro Bus,Number,1050419.0
+THA25C01,Passenger Journeys,2020W26,2020 Week 26,20,"Bus, excluding Dublin Metro",Number,259592.0
+THA25C01,Passenger Journeys,2020W26,2020 Week 26,30,Rail,Number,199508.0
+THA25C01,Passenger Journeys,2020W26,2020 Week 26,40,"All public transport, excluding LUAS",Number,1509519.0
+THA25C01,Passenger Journeys,2020W27,2020 Week 27,10,Dublin Metro Bus,Number,1215359.0
+THA25C01,Passenger Journeys,2020W27,2020 Week 27,20,"Bus, excluding Dublin Metro",Number,305350.0
+THA25C01,Passenger Journeys,2020W27,2020 Week 27,30,Rail,Number,261970.0
+THA25C01,Passenger Journeys,2020W27,2020 Week 27,40,"All public transport, excluding LUAS",Number,1782679.0
+THA25C01,Passenger Journeys,2020W28,2020 Week 28,10,Dublin Metro Bus,Number,1301584.0
+THA25C01,Passenger Journeys,2020W28,2020 Week 28,20,"Bus, excluding Dublin Metro",Number,338931.0
+THA25C01,Passenger Journeys,2020W28,2020 Week 28,30,Rail,Number,261970.0
+THA25C01,Passenger Journeys,2020W28,2020 Week 28,40,"All public transport, excluding LUAS",Number,1902485.0
+THA25C01,Passenger Journeys,2020W29,2020 Week 29,10,Dublin Metro Bus,Number,1317821.0
+THA25C01,Passenger Journeys,2020W29,2020 Week 29,20,"Bus, excluding Dublin Metro",Number,347104.0
+THA25C01,Passenger Journeys,2020W29,2020 Week 29,30,Rail,Number,278033.0
+THA25C01,Passenger Journeys,2020W29,2020 Week 29,40,"All public transport, excluding LUAS",Number,1942958.0
+THA25C01,Passenger Journeys,2020W30,2020 Week 30,10,Dublin Metro Bus,Number,1345580.0
+THA25C01,Passenger Journeys,2020W30,2020 Week 30,20,"Bus, excluding Dublin Metro",Number,358836.0
+THA25C01,Passenger Journeys,2020W30,2020 Week 30,30,Rail,Number,286232.0
+THA25C01,Passenger Journeys,2020W30,2020 Week 30,40,"All public transport, excluding LUAS",Number,1990648.0
+THA25C01,Passenger Journeys,2020W31,2020 Week 31,10,Dublin Metro Bus,Number,1390530.0
+THA25C01,Passenger Journeys,2020W31,2020 Week 31,20,"Bus, excluding Dublin Metro",Number,369536.0
+THA25C01,Passenger Journeys,2020W31,2020 Week 31,30,Rail,Number,305731.0
+THA25C01,Passenger Journeys,2020W31,2020 Week 31,40,"All public transport, excluding LUAS",Number,2065797.0
+THA25C01,Passenger Journeys,2020W32,2020 Week 32,10,Dublin Metro Bus,Number,1340117.0
+THA25C01,Passenger Journeys,2020W32,2020 Week 32,20,"Bus, excluding Dublin Metro",Number,357425.0
+THA25C01,Passenger Journeys,2020W32,2020 Week 32,30,Rail,Number,323489.0
+THA25C01,Passenger Journeys,2020W32,2020 Week 32,40,"All public transport, excluding LUAS",Number,2021031.0
+THA25C01,Passenger Journeys,2020W33,2020 Week 33,10,Dublin Metro Bus,Number,1404722.0
+THA25C01,Passenger Journeys,2020W33,2020 Week 33,20,"Bus, excluding Dublin Metro",Number,382286.0
+THA25C01,Passenger Journeys,2020W33,2020 Week 33,30,Rail,Number,295557.0
+THA25C01,Passenger Journeys,2020W33,2020 Week 33,40,"All public transport, excluding LUAS",Number,2082565.0
+THA25C01,Passenger Journeys,2020W34,2020 Week 34,10,Dublin Metro Bus,Number,1369602.0
+THA25C01,Passenger Journeys,2020W34,2020 Week 34,20,"Bus, excluding Dublin Metro",Number,354355.0
+THA25C01,Passenger Journeys,2020W34,2020 Week 34,30,Rail,Number,258999.0
+THA25C01,Passenger Journeys,2020W34,2020 Week 34,40,"All public transport, excluding LUAS",Number,1982956.0
+THA25C01,Passenger Journeys,2020W35,2020 Week 35,10,Dublin Metro Bus,Number,1448462.0
+THA25C01,Passenger Journeys,2020W35,2020 Week 35,20,"Bus, excluding Dublin Metro",Number,390235.0
+THA25C01,Passenger Journeys,2020W35,2020 Week 35,30,Rail,Number,285663.0
+THA25C01,Passenger Journeys,2020W35,2020 Week 35,40,"All public transport, excluding LUAS",Number,2124360.0
+THA25C01,Passenger Journeys,2020W36,2020 Week 36,10,Dublin Metro Bus,Number,1580362.0
+THA25C01,Passenger Journeys,2020W36,2020 Week 36,20,"Bus, excluding Dublin Metro",Number,418714.0
+THA25C01,Passenger Journeys,2020W36,2020 Week 36,30,Rail,Number,332558.0
+THA25C01,Passenger Journeys,2020W36,2020 Week 36,40,"All public transport, excluding LUAS",Number,2331634.0
+THA25C01,Passenger Journeys,2020W37,2020 Week 37,10,Dublin Metro Bus,Number,1642110.0
+THA25C01,Passenger Journeys,2020W37,2020 Week 37,20,"Bus, excluding Dublin Metro",Number,427899.0
+THA25C01,Passenger Journeys,2020W37,2020 Week 37,30,Rail,Number,346681.0
+THA25C01,Passenger Journeys,2020W37,2020 Week 37,40,"All public transport, excluding LUAS",Number,2416690.0
+THA25C01,Passenger Journeys,2020W38,2020 Week 38,10,Dublin Metro Bus,Number,1578521.0
+THA25C01,Passenger Journeys,2020W38,2020 Week 38,20,"Bus, excluding Dublin Metro",Number,432729.0
+THA25C01,Passenger Journeys,2020W38,2020 Week 38,30,Rail,Number,323907.0
+THA25C01,Passenger Journeys,2020W38,2020 Week 38,40,"All public transport, excluding LUAS",Number,2335157.0
+THA25C01,Passenger Journeys,2020W39,2020 Week 39,10,Dublin Metro Bus,Number,1517678.0
+THA25C01,Passenger Journeys,2020W39,2020 Week 39,20,"Bus, excluding Dublin Metro",Number,438357.0
+THA25C01,Passenger Journeys,2020W39,2020 Week 39,30,Rail,Number,289803.0
+THA25C01,Passenger Journeys,2020W39,2020 Week 39,40,"All public transport, excluding LUAS",Number,2245838.0
+THA25C01,Passenger Journeys,2020W40,2020 Week 40,10,Dublin Metro Bus,Number,1489761.0
+THA25C01,Passenger Journeys,2020W40,2020 Week 40,20,"Bus, excluding Dublin Metro",Number,435417.0
+THA25C01,Passenger Journeys,2020W40,2020 Week 40,30,Rail,Number,284420.0
+THA25C01,Passenger Journeys,2020W40,2020 Week 40,40,"All public transport, excluding LUAS",Number,2209598.0
+THA25C01,Passenger Journeys,2020W41,2020 Week 41,10,Dublin Metro Bus,Number,1554561.0
+THA25C01,Passenger Journeys,2020W41,2020 Week 41,20,"Bus, excluding Dublin Metro",Number,405986.0
+THA25C01,Passenger Journeys,2020W41,2020 Week 41,30,Rail,Number,275531.0
+THA25C01,Passenger Journeys,2020W41,2020 Week 41,40,"All public transport, excluding LUAS",Number,2236078.0
+THA25C01,Passenger Journeys,2020W42,2020 Week 42,10,Dublin Metro Bus,Number,1535839.0
+THA25C01,Passenger Journeys,2020W42,2020 Week 42,20,"Bus, excluding Dublin Metro",Number,382078.0
+THA25C01,Passenger Journeys,2020W42,2020 Week 42,30,Rail,Number,263936.0
+THA25C01,Passenger Journeys,2020W42,2020 Week 42,40,"All public transport, excluding LUAS",Number,2181853.0
+THA25C01,Passenger Journeys,2020W43,2020 Week 43,10,Dublin Metro Bus,Number,1297841.0
+THA25C01,Passenger Journeys,2020W43,2020 Week 43,20,"Bus, excluding Dublin Metro",Number,319938.0
+THA25C01,Passenger Journeys,2020W43,2020 Week 43,30,Rail,Number,197097.0
+THA25C01,Passenger Journeys,2020W43,2020 Week 43,40,"All public transport, excluding LUAS",Number,1814876.0
+THA25C01,Passenger Journeys,2020W44,2020 Week 44,10,Dublin Metro Bus,Number,868428.0
+THA25C01,Passenger Journeys,2020W44,2020 Week 44,20,"Bus, excluding Dublin Metro",Number,204748.0
+THA25C01,Passenger Journeys,2020W44,2020 Week 44,30,Rail,Number,118406.0
+THA25C01,Passenger Journeys,2020W44,2020 Week 44,40,"All public transport, excluding LUAS",Number,1191582.0
+THA25C01,Passenger Journeys,2020W45,2020 Week 45,10,Dublin Metro Bus,Number,1163897.0
+THA25C01,Passenger Journeys,2020W45,2020 Week 45,20,"Bus, excluding Dublin Metro",Number,289411.0
+THA25C01,Passenger Journeys,2020W45,2020 Week 45,30,Rail,Number,181839.0
+THA25C01,Passenger Journeys,2020W45,2020 Week 45,40,"All public transport, excluding LUAS",Number,1635147.0
+THA25C01,Passenger Journeys,2020W46,2020 Week 46,10,Dublin Metro Bus,Number,1169742.0
+THA25C01,Passenger Journeys,2020W46,2020 Week 46,20,"Bus, excluding Dublin Metro",Number,291201.0
+THA25C01,Passenger Journeys,2020W46,2020 Week 46,30,Rail,Number,176067.0
+THA25C01,Passenger Journeys,2020W46,2020 Week 46,40,"All public transport, excluding LUAS",Number,1637010.0
+THA25C01,Passenger Journeys,2020W47,2020 Week 47,10,Dublin Metro Bus,Number,1207986.0
+THA25C01,Passenger Journeys,2020W47,2020 Week 47,20,"Bus, excluding Dublin Metro",Number,302115.0
+THA25C01,Passenger Journeys,2020W47,2020 Week 47,30,Rail,Number,197427.0
+THA25C01,Passenger Journeys,2020W47,2020 Week 47,40,"All public transport, excluding LUAS",Number,1707528.0
+THA25C01,Passenger Journeys,2020W48,2020 Week 48,10,Dublin Metro Bus,Number,1241445.0
+THA25C01,Passenger Journeys,2020W48,2020 Week 48,20,"Bus, excluding Dublin Metro",Number,307535.0
+THA25C01,Passenger Journeys,2020W48,2020 Week 48,30,Rail,Number,194005.0
+THA25C01,Passenger Journeys,2020W48,2020 Week 48,40,"All public transport, excluding LUAS",Number,1742985.0
+THA25C01,Passenger Journeys,2020W49,2020 Week 49,10,Dublin Metro Bus,Number,1586454.0
+THA25C01,Passenger Journeys,2020W49,2020 Week 49,20,"Bus, excluding Dublin Metro",Number,407988.0
+THA25C01,Passenger Journeys,2020W49,2020 Week 49,30,Rail,Number,295306.0
+THA25C01,Passenger Journeys,2020W49,2020 Week 49,40,"All public transport, excluding LUAS",Number,2289748.0
+THA25C01,Passenger Journeys,2020W50,2020 Week 50,10,Dublin Metro Bus,Number,1682988.0
+THA25C01,Passenger Journeys,2020W50,2020 Week 50,20,"Bus, excluding Dublin Metro",Number,436740.0
+THA25C01,Passenger Journeys,2020W50,2020 Week 50,30,Rail,Number,315393.0
+THA25C01,Passenger Journeys,2020W50,2020 Week 50,40,"All public transport, excluding LUAS",Number,2435121.0
+THA25C01,Passenger Journeys,2020W51,2020 Week 51,10,Dublin Metro Bus,Number,1745336.0
+THA25C01,Passenger Journeys,2020W51,2020 Week 51,20,"Bus, excluding Dublin Metro",Number,444680.0
+THA25C01,Passenger Journeys,2020W51,2020 Week 51,30,Rail,Number,322484.0
+THA25C01,Passenger Journeys,2020W51,2020 Week 51,40,"All public transport, excluding LUAS",Number,2512500.0
+THA25C01,Passenger Journeys,2020W52,2020 Week 52,10,Dublin Metro Bus,Number,1076018.0
+THA25C01,Passenger Journeys,2020W52,2020 Week 52,20,"Bus, excluding Dublin Metro",Number,272410.0
+THA25C01,Passenger Journeys,2020W52,2020 Week 52,30,Rail,Number,184982.0
+THA25C01,Passenger Journeys,2020W52,2020 Week 52,40,"All public transport, excluding LUAS",Number,1533410.0
+THA25C01,Passenger Journeys,2020W53,2020 Week 53,10,Dublin Metro Bus,Number,707458.0
+THA25C01,Passenger Journeys,2020W53,2020 Week 53,20,"Bus, excluding Dublin Metro",Number,170366.0
+THA25C01,Passenger Journeys,2020W53,2020 Week 53,30,Rail,Number,101951.0
+THA25C01,Passenger Journeys,2020W53,2020 Week 53,40,"All public transport, excluding LUAS",Number,979775.0
+THA25C01,Passenger Journeys,2021W01,2021 Week 01,10,Dublin Metro Bus,Number,747912.0
+THA25C01,Passenger Journeys,2021W01,2021 Week 01,20,"Bus, excluding Dublin Metro",Number,184151.0
+THA25C01,Passenger Journeys,2021W01,2021 Week 01,30,Rail,Number,107227.0
+THA25C01,Passenger Journeys,2021W01,2021 Week 01,40,"All public transport, excluding LUAS",Number,1039290.0
+THA25C01,Passenger Journeys,2021W02,2021 Week 02,10,Dublin Metro Bus,Number,735000.0
+THA25C01,Passenger Journeys,2021W02,2021 Week 02,20,"Bus, excluding Dublin Metro",Number,184333.0
+THA25C01,Passenger Journeys,2021W02,2021 Week 02,30,Rail,Number,90529.0
+THA25C01,Passenger Journeys,2021W02,2021 Week 02,40,"All public transport, excluding LUAS",Number,1009862.0
+THA25C01,Passenger Journeys,2021W03,2021 Week 03,10,Dublin Metro Bus,Number,731273.0
+THA25C01,Passenger Journeys,2021W03,2021 Week 03,20,"Bus, excluding Dublin Metro",Number,184441.0
+THA25C01,Passenger Journeys,2021W03,2021 Week 03,30,Rail,Number,93456.0
+THA25C01,Passenger Journeys,2021W03,2021 Week 03,40,"All public transport, excluding LUAS",Number,1009170.0
+THA25C01,Passenger Journeys,2021W04,2021 Week 04,10,Dublin Metro Bus,Number,742813.0
+THA25C01,Passenger Journeys,2021W04,2021 Week 04,20,"Bus, excluding Dublin Metro",Number,189266.0
+THA25C01,Passenger Journeys,2021W04,2021 Week 04,30,Rail,Number,93322.0
+THA25C01,Passenger Journeys,2021W04,2021 Week 04,40,"All public transport, excluding LUAS",Number,1025401.0
+THA25C01,Passenger Journeys,2021W05,2021 Week 05,10,Dublin Metro Bus,Number,791189.0
+THA25C01,Passenger Journeys,2021W05,2021 Week 05,20,"Bus, excluding Dublin Metro",Number,201849.0
+THA25C01,Passenger Journeys,2021W05,2021 Week 05,30,Rail,Number,105426.0
+THA25C01,Passenger Journeys,2021W05,2021 Week 05,40,"All public transport, excluding LUAS",Number,1098464.0
+THA25C01,Passenger Journeys,2021W06,2021 Week 06,10,Dublin Metro Bus,Number,775491.0
+THA25C01,Passenger Journeys,2021W06,2021 Week 06,20,"Bus, excluding Dublin Metro",Number,198989.0
+THA25C01,Passenger Journeys,2021W06,2021 Week 06,30,Rail,Number,96338.0
+THA25C01,Passenger Journeys,2021W06,2021 Week 06,40,"All public transport, excluding LUAS",Number,1070818.0
+THA25C01,Passenger Journeys,2021W07,2021 Week 07,10,Dublin Metro Bus,Number,849801.0
+THA25C01,Passenger Journeys,2021W07,2021 Week 07,20,"Bus, excluding Dublin Metro",Number,210651.0
+THA25C01,Passenger Journeys,2021W07,2021 Week 07,30,Rail,Number,114588.0
+THA25C01,Passenger Journeys,2021W07,2021 Week 07,40,"All public transport, excluding LUAS",Number,1175040.0
+THA25C01,Passenger Journeys,2021W08,2021 Week 08,10,Dublin Metro Bus,Number,884911.0
+THA25C01,Passenger Journeys,2021W08,2021 Week 08,20,"Bus, excluding Dublin Metro",Number,218084.0
+THA25C01,Passenger Journeys,2021W08,2021 Week 08,30,Rail,Number,127685.0
+THA25C01,Passenger Journeys,2021W08,2021 Week 08,40,"All public transport, excluding LUAS",Number,1230680.0
+THA25C01,Passenger Journeys,2021W09,2021 Week 09,10,Dublin Metro Bus,Number,947256.0
+THA25C01,Passenger Journeys,2021W09,2021 Week 09,20,"Bus, excluding Dublin Metro",Number,240137.0
+THA25C01,Passenger Journeys,2021W09,2021 Week 09,30,Rail,Number,142782.0
+THA25C01,Passenger Journeys,2021W09,2021 Week 09,40,"All public transport, excluding LUAS",Number,1330175.0
+THA25C01,Passenger Journeys,2021W10,2021 Week 10,10,Dublin Metro Bus,Number,945236.0
+THA25C01,Passenger Journeys,2021W10,2021 Week 10,20,"Bus, excluding Dublin Metro",Number,239123.0
+THA25C01,Passenger Journeys,2021W10,2021 Week 10,30,Rail,Number,134132.0
+THA25C01,Passenger Journeys,2021W10,2021 Week 10,40,"All public transport, excluding LUAS",Number,1318491.0
+THA25C01,Passenger Journeys,2021W11,2021 Week 11,10,Dublin Metro Bus,Number,963568.0
+THA25C01,Passenger Journeys,2021W11,2021 Week 11,20,"Bus, excluding Dublin Metro",Number,246289.0
+THA25C01,Passenger Journeys,2021W11,2021 Week 11,30,Rail,Number,144852.0
+THA25C01,Passenger Journeys,2021W11,2021 Week 11,40,"All public transport, excluding LUAS",Number,1354709.0
+THA25C01,Passenger Journeys,2021W12,2021 Week 12,10,Dublin Metro Bus,Number,1015358.0
+THA25C01,Passenger Journeys,2021W12,2021 Week 12,20,"Bus, excluding Dublin Metro",Number,260235.0
+THA25C01,Passenger Journeys,2021W12,2021 Week 12,30,Rail,Number,149153.0
+THA25C01,Passenger Journeys,2021W12,2021 Week 12,40,"All public transport, excluding LUAS",Number,1424746.0
+THA25C01,Passenger Journeys,2021W13,2021 Week 13,10,Dublin Metro Bus,Number,1007971.0
+THA25C01,Passenger Journeys,2021W13,2021 Week 13,20,"Bus, excluding Dublin Metro",Number,259578.0
+THA25C01,Passenger Journeys,2021W13,2021 Week 13,30,Rail,Number,172949.0
+THA25C01,Passenger Journeys,2021W13,2021 Week 13,40,"All public transport, excluding LUAS",Number,1440498.0
+THA25C01,Passenger Journeys,2021W14,2021 Week 14,10,Dublin Metro Bus,Number,911592.0
+THA25C01,Passenger Journeys,2021W14,2021 Week 14,20,"Bus, excluding Dublin Metro",Number,239121.0
+THA25C01,Passenger Journeys,2021W14,2021 Week 14,30,Rail,Number,144048.0
+THA25C01,Passenger Journeys,2021W14,2021 Week 14,40,"All public transport, excluding LUAS",Number,1294761.0
+THA25C01,Passenger Journeys,2021W15,2021 Week 15,10,Dublin Metro Bus,Number,1173468.0
+THA25C01,Passenger Journeys,2021W15,2021 Week 15,20,"Bus, excluding Dublin Metro",Number,310154.0
+THA25C01,Passenger Journeys,2021W15,2021 Week 15,30,Rail,Number,225466.0
+THA25C01,Passenger Journeys,2021W15,2021 Week 15,40,"All public transport, excluding LUAS",Number,1709088.0
+THA25C01,Passenger Journeys,2021W16,2021 Week 16,10,Dublin Metro Bus,Number,1227564.0
+THA25C01,Passenger Journeys,2021W16,2021 Week 16,20,"Bus, excluding Dublin Metro",Number,326905.0
+THA25C01,Passenger Journeys,2021W16,2021 Week 16,30,Rail,Number,264009.0
+THA25C01,Passenger Journeys,2021W16,2021 Week 16,40,"All public transport, excluding LUAS",Number,1818478.0
+THA25C01,Passenger Journeys,2021W17,2021 Week 17,10,Dublin Metro Bus,Number,1218011.0
+THA25C01,Passenger Journeys,2021W17,2021 Week 17,20,"Bus, excluding Dublin Metro",Number,322352.0
+THA25C01,Passenger Journeys,2021W17,2021 Week 17,30,Rail,Number,225261.0
+THA25C01,Passenger Journeys,2021W17,2021 Week 17,40,"All public transport, excluding LUAS",Number,1765624.0
+THA25C01,Passenger Journeys,2021W18,2021 Week 18,10,Dublin Metro Bus,Number,1096020.0
+THA25C01,Passenger Journeys,2021W18,2021 Week 18,20,"Bus, excluding Dublin Metro",Number,287627.0
+THA25C01,Passenger Journeys,2021W18,2021 Week 18,30,Rail,Number,216234.0
+THA25C01,Passenger Journeys,2021W18,2021 Week 18,40,"All public transport, excluding LUAS",Number,1599881.0
+THA25C01,Passenger Journeys,2021W19,2021 Week 19,10,Dublin Metro Bus,Number,1355893.0
+THA25C01,Passenger Journeys,2021W19,2021 Week 19,20,"Bus, excluding Dublin Metro",Number,358853.0
+THA25C01,Passenger Journeys,2021W19,2021 Week 19,30,Rail,Number,269055.0
+THA25C01,Passenger Journeys,2021W19,2021 Week 19,40,"All public transport, excluding LUAS",Number,1983801.0
+THA25C01,Passenger Journeys,2021W20,2021 Week 20,10,Dublin Metro Bus,Number,1471313.0
+THA25C01,Passenger Journeys,2021W20,2021 Week 20,20,"Bus, excluding Dublin Metro",Number,391144.0
+THA25C01,Passenger Journeys,2021W20,2021 Week 20,30,Rail,Number,274137.0
+THA25C01,Passenger Journeys,2021W20,2021 Week 20,40,"All public transport, excluding LUAS",Number,2136594.0
+THA25C01,Passenger Journeys,2021W21,2021 Week 21,10,Dublin Metro Bus,Number,1562407.0
+THA25C01,Passenger Journeys,2021W21,2021 Week 21,20,"Bus, excluding Dublin Metro",Number,418633.0
+THA25C01,Passenger Journeys,2021W21,2021 Week 21,30,Rail,Number,366784.0
+THA25C01,Passenger Journeys,2021W21,2021 Week 21,40,"All public transport, excluding LUAS",Number,2347824.0
+THA25C01,Passenger Journeys,2021W22,2021 Week 22,10,Dublin Metro Bus,Number,1547915.0
+THA25C01,Passenger Journeys,2021W22,2021 Week 22,20,"Bus, excluding Dublin Metro",Number,418168.0
+THA25C01,Passenger Journeys,2021W22,2021 Week 22,30,Rail,Number,393257.0
+THA25C01,Passenger Journeys,2021W22,2021 Week 22,40,"All public transport, excluding LUAS",Number,2359340.0
+THA25C01,Passenger Journeys,2021W23,2021 Week 23,10,Dublin Metro Bus,Number,1527611.0
+THA25C01,Passenger Journeys,2021W23,2021 Week 23,20,"Bus, excluding Dublin Metro",Number,411324.0
+THA25C01,Passenger Journeys,2021W23,2021 Week 23,30,Rail,Number,377568.0
+THA25C01,Passenger Journeys,2021W23,2021 Week 23,40,"All public transport, excluding LUAS",Number,2316503.0
+THA25C01,Passenger Journeys,2021W24,2021 Week 24,10,Dublin Metro Bus,Number,1623456.0
+THA25C01,Passenger Journeys,2021W24,2021 Week 24,20,"Bus, excluding Dublin Metro",Number,446540.0
+THA25C01,Passenger Journeys,2021W24,2021 Week 24,30,Rail,Number,371228.0
+THA25C01,Passenger Journeys,2021W24,2021 Week 24,40,"All public transport, excluding LUAS",Number,2441224.0
+THA25C01,Passenger Journeys,2021W25,2021 Week 25,10,Dublin Metro Bus,Number,1603926.0
+THA25C01,Passenger Journeys,2021W25,2021 Week 25,20,"Bus, excluding Dublin Metro",Number,450941.0
+THA25C01,Passenger Journeys,2021W25,2021 Week 25,30,Rail,Number,368609.0
+THA25C01,Passenger Journeys,2021W25,2021 Week 25,40,"All public transport, excluding LUAS",Number,2423476.0
+THA25C01,Passenger Journeys,2021W26,2021 Week 26,10,Dublin Metro Bus,Number,1586039.0
+THA25C01,Passenger Journeys,2021W26,2021 Week 26,20,"Bus, excluding Dublin Metro",Number,447514.0
+THA25C01,Passenger Journeys,2021W26,2021 Week 26,30,Rail,Number,399131.0
+THA25C01,Passenger Journeys,2021W26,2021 Week 26,40,"All public transport, excluding LUAS",Number,2432684.0
+THA25C01,Passenger Journeys,2021W27,2021 Week 27,10,Dublin Metro Bus,Number,1558866.0
+THA25C01,Passenger Journeys,2021W27,2021 Week 27,20,"Bus, excluding Dublin Metro",Number,441652.0
+THA25C01,Passenger Journeys,2021W27,2021 Week 27,30,Rail,Number,359807.0
+THA25C01,Passenger Journeys,2021W27,2021 Week 27,40,"All public transport, excluding LUAS",Number,2360325.0
+THA25C01,Passenger Journeys,2021W28,2021 Week 28,10,Dublin Metro Bus,Number,1623323.0
+THA25C01,Passenger Journeys,2021W28,2021 Week 28,20,"Bus, excluding Dublin Metro",Number,466323.0
+THA25C01,Passenger Journeys,2021W28,2021 Week 28,30,Rail,Number,455660.0
+THA25C01,Passenger Journeys,2021W28,2021 Week 28,40,"All public transport, excluding LUAS",Number,2545306.0
+THA25C01,Passenger Journeys,2021W29,2021 Week 29,10,Dublin Metro Bus,Number,1629341.0
+THA25C01,Passenger Journeys,2021W29,2021 Week 29,20,"Bus, excluding Dublin Metro",Number,465320.0
+THA25C01,Passenger Journeys,2021W29,2021 Week 29,30,Rail,Number,466402.0
+THA25C01,Passenger Journeys,2021W29,2021 Week 29,40,"All public transport, excluding LUAS",Number,2561063.0
+THA25C01,Passenger Journeys,2021W30,2021 Week 30,10,Dublin Metro Bus,Number,1595175.0
+THA25C01,Passenger Journeys,2021W30,2021 Week 30,20,"Bus, excluding Dublin Metro",Number,449602.0
+THA25C01,Passenger Journeys,2021W30,2021 Week 30,30,Rail,Number,387647.0
+THA25C01,Passenger Journeys,2021W30,2021 Week 30,40,"All public transport, excluding LUAS",Number,2432424.0
+THA25C01,Passenger Journeys,2021W31,2021 Week 31,10,Dublin Metro Bus,Number,1509235.0
+THA25C01,Passenger Journeys,2021W31,2021 Week 31,20,"Bus, excluding Dublin Metro",Number,410910.0
+THA25C01,Passenger Journeys,2021W31,2021 Week 31,30,Rail,Number,386299.0
+THA25C01,Passenger Journeys,2021W31,2021 Week 31,40,"All public transport, excluding LUAS",Number,2306444.0
+THA25C01,Passenger Journeys,2021W32,2021 Week 32,10,Dublin Metro Bus,Number,1636634.0
+THA25C01,Passenger Journeys,2021W32,2021 Week 32,20,"Bus, excluding Dublin Metro",Number,457401.0
+THA25C01,Passenger Journeys,2021W32,2021 Week 32,30,Rail,Number,402833.0
+THA25C01,Passenger Journeys,2021W32,2021 Week 32,40,"All public transport, excluding LUAS",Number,2496868.0
+THA25C01,Passenger Journeys,2021W33,2021 Week 33,10,Dublin Metro Bus,Number,1655260.0
+THA25C01,Passenger Journeys,2021W33,2021 Week 33,20,"Bus, excluding Dublin Metro",Number,459631.0
+THA25C01,Passenger Journeys,2021W33,2021 Week 33,30,Rail,Number,396685.0
+THA25C01,Passenger Journeys,2021W33,2021 Week 33,40,"All public transport, excluding LUAS",Number,2511576.0
+THA25C01,Passenger Journeys,2021W34,2021 Week 34,10,Dublin Metro Bus,Number,1766188.0
+THA25C01,Passenger Journeys,2021W34,2021 Week 34,20,"Bus, excluding Dublin Metro",Number,505692.0
+THA25C01,Passenger Journeys,2021W34,2021 Week 34,30,Rail,Number,475258.0
+THA25C01,Passenger Journeys,2021W34,2021 Week 34,40,"All public transport, excluding LUAS",Number,2747138.0
+THA25C01,Passenger Journeys,2021W35,2021 Week 35,10,Dublin Metro Bus,Number,1849382.0
+THA25C01,Passenger Journeys,2021W35,2021 Week 35,20,"Bus, excluding Dublin Metro",Number,507106.0
+THA25C01,Passenger Journeys,2021W35,2021 Week 35,30,Rail,Number,445064.0
+THA25C01,Passenger Journeys,2021W35,2021 Week 35,40,"All public transport, excluding LUAS",Number,2801552.0
+THA25C01,Passenger Journeys,2021W36,2021 Week 36,10,Dublin Metro Bus,Number,1919743.0
+THA25C01,Passenger Journeys,2021W36,2021 Week 36,20,"Bus, excluding Dublin Metro",Number,527134.0
+THA25C01,Passenger Journeys,2021W36,2021 Week 36,30,Rail,Number,454290.0
+THA25C01,Passenger Journeys,2021W36,2021 Week 36,40,"All public transport, excluding LUAS",Number,2901167.0
+THA25C01,Passenger Journeys,2021W37,2021 Week 37,10,Dublin Metro Bus,Number,1996559.0
+THA25C01,Passenger Journeys,2021W37,2021 Week 37,20,"Bus, excluding Dublin Metro",Number,544763.0
+THA25C01,Passenger Journeys,2021W37,2021 Week 37,30,Rail,Number,430036.0
+THA25C01,Passenger Journeys,2021W37,2021 Week 37,40,"All public transport, excluding LUAS",Number,2971358.0
+THA25C01,Passenger Journeys,2021W38,2021 Week 38,10,Dublin Metro Bus,Number,2133682.0
+THA25C01,Passenger Journeys,2021W38,2021 Week 38,20,"Bus, excluding Dublin Metro",Number,578850.0
+THA25C01,Passenger Journeys,2021W38,2021 Week 38,30,Rail,Number,481469.0
+THA25C01,Passenger Journeys,2021W38,2021 Week 38,40,"All public transport, excluding LUAS",Number,3194001.0
+THA25C01,Passenger Journeys,2021W39,2021 Week 39,10,Dublin Metro Bus,Number,2200701.0
+THA25C01,Passenger Journeys,2021W39,2021 Week 39,20,"Bus, excluding Dublin Metro",Number,604775.0
+THA25C01,Passenger Journeys,2021W39,2021 Week 39,30,Rail,Number,516121.0
+THA25C01,Passenger Journeys,2021W39,2021 Week 39,40,"All public transport, excluding LUAS",Number,3321597.0
+THA25C01,Passenger Journeys,2021W40,2021 Week 40,10,Dublin Metro Bus,Number,2247599.0
+THA25C01,Passenger Journeys,2021W40,2021 Week 40,20,"Bus, excluding Dublin Metro",Number,601080.0
+THA25C01,Passenger Journeys,2021W40,2021 Week 40,30,Rail,Number,523639.0
+THA25C01,Passenger Journeys,2021W40,2021 Week 40,40,"All public transport, excluding LUAS",Number,3372318.0
+THA25C01,Passenger Journeys,2021W41,2021 Week 41,10,Dublin Metro Bus,Number,2247417.0
+THA25C01,Passenger Journeys,2021W41,2021 Week 41,20,"Bus, excluding Dublin Metro",Number,613892.0
+THA25C01,Passenger Journeys,2021W41,2021 Week 41,30,Rail,Number,524870.0
+THA25C01,Passenger Journeys,2021W41,2021 Week 41,40,"All public transport, excluding LUAS",Number,3386179.0
+THA25C01,Passenger Journeys,2021W42,2021 Week 42,10,Dublin Metro Bus,Number,2260213.0
+THA25C01,Passenger Journeys,2021W42,2021 Week 42,20,"Bus, excluding Dublin Metro",Number,609960.0
+THA25C01,Passenger Journeys,2021W42,2021 Week 42,30,Rail,Number,462006.0
+THA25C01,Passenger Journeys,2021W42,2021 Week 42,40,"All public transport, excluding LUAS",Number,3332179.0
+THA25C01,Passenger Journeys,2021W43,2021 Week 43,10,Dublin Metro Bus,Number,1815542.0
+THA25C01,Passenger Journeys,2021W43,2021 Week 43,20,"Bus, excluding Dublin Metro",Number,501525.0
+THA25C01,Passenger Journeys,2021W43,2021 Week 43,30,Rail,Number,440154.0
+THA25C01,Passenger Journeys,2021W43,2021 Week 43,40,"All public transport, excluding LUAS",Number,2757221.0
+THA25C01,Passenger Journeys,2021W44,2021 Week 44,10,Dublin Metro Bus,Number,2239515.0
+THA25C01,Passenger Journeys,2021W44,2021 Week 44,20,"Bus, excluding Dublin Metro",Number,588321.0
+THA25C01,Passenger Journeys,2021W44,2021 Week 44,30,Rail,Number,569327.0
+THA25C01,Passenger Journeys,2021W44,2021 Week 44,40,"All public transport, excluding LUAS",Number,3397163.0
+THA25C01,Passenger Journeys,2021W45,2021 Week 45,10,Dublin Metro Bus,Number,2258734.0
+THA25C01,Passenger Journeys,2021W45,2021 Week 45,20,"Bus, excluding Dublin Metro",Number,592538.0
+THA25C01,Passenger Journeys,2021W45,2021 Week 45,30,Rail,Number,570080.0
+THA25C01,Passenger Journeys,2021W45,2021 Week 45,40,"All public transport, excluding LUAS",Number,3421352.0
+THA25C01,Passenger Journeys,2021W46,2021 Week 46,10,Dublin Metro Bus,Number,2218390.0
+THA25C01,Passenger Journeys,2021W46,2021 Week 46,20,"Bus, excluding Dublin Metro",Number,598813.0
+THA25C01,Passenger Journeys,2021W46,2021 Week 46,30,Rail,Number,509671.0
+THA25C01,Passenger Journeys,2021W46,2021 Week 46,40,"All public transport, excluding LUAS",Number,3326874.0
+THA25C01,Passenger Journeys,2021W47,2021 Week 47,10,Dublin Metro Bus,Number,2159300.0
+THA25C01,Passenger Journeys,2021W47,2021 Week 47,20,"Bus, excluding Dublin Metro",Number,573025.0
+THA25C01,Passenger Journeys,2021W47,2021 Week 47,30,Rail,Number,465963.0
+THA25C01,Passenger Journeys,2021W47,2021 Week 47,40,"All public transport, excluding LUAS",Number,3198288.0
+THA25C01,Passenger Journeys,2021W48,2021 Week 48,10,Dublin Metro Bus,Number,2126792.0
+THA25C01,Passenger Journeys,2021W48,2021 Week 48,20,"Bus, excluding Dublin Metro",Number,545762.0
+THA25C01,Passenger Journeys,2021W48,2021 Week 48,30,Rail,Number,465590.0
+THA25C01,Passenger Journeys,2021W48,2021 Week 48,40,"All public transport, excluding LUAS",Number,3138144.0
+THA25C01,Passenger Journeys,2021W49,2021 Week 49,10,Dublin Metro Bus,Number,1910575.0
+THA25C01,Passenger Journeys,2021W49,2021 Week 49,20,"Bus, excluding Dublin Metro",Number,478897.0
+THA25C01,Passenger Journeys,2021W49,2021 Week 49,30,Rail,Number,417041.0
+THA25C01,Passenger Journeys,2021W49,2021 Week 49,40,"All public transport, excluding LUAS",Number,2806513.0
+THA25C01,Passenger Journeys,2021W50,2021 Week 50,10,Dublin Metro Bus,Number,2173422.0
+THA25C01,Passenger Journeys,2021W50,2021 Week 50,20,"Bus, excluding Dublin Metro",Number,586228.0
+THA25C01,Passenger Journeys,2021W50,2021 Week 50,30,Rail,Number,477149.0
+THA25C01,Passenger Journeys,2021W50,2021 Week 50,40,"All public transport, excluding LUAS",Number,3236799.0
+THA25C01,Passenger Journeys,2021W51,2021 Week 51,10,Dublin Metro Bus,Number,1496396.0
+THA25C01,Passenger Journeys,2021W51,2021 Week 51,20,"Bus, excluding Dublin Metro",Number,396284.0
+THA25C01,Passenger Journeys,2021W51,2021 Week 51,30,Rail,Number,278965.0
+THA25C01,Passenger Journeys,2021W51,2021 Week 51,40,"All public transport, excluding LUAS",Number,2171645.0
+THA25C01,Passenger Journeys,2021W52,2021 Week 52,10,Dublin Metro Bus,Number,1099282.0
+THA25C01,Passenger Journeys,2021W52,2021 Week 52,20,"Bus, excluding Dublin Metro",Number,289588.0
+THA25C01,Passenger Journeys,2021W52,2021 Week 52,30,Rail,Number,243709.0
+THA25C01,Passenger Journeys,2021W52,2021 Week 52,40,"All public transport, excluding LUAS",Number,1632579.0
+THA25C01,Passenger Journeys,2021W53,2021 Week 53,10,Dublin Metro Bus,Number,
+THA25C01,Passenger Journeys,2021W53,2021 Week 53,20,"Bus, excluding Dublin Metro",Number,
+THA25C01,Passenger Journeys,2021W53,2021 Week 53,30,Rail,Number,
+THA25C01,Passenger Journeys,2021W53,2021 Week 53,40,"All public transport, excluding LUAS",Number,
+THA25C01,Passenger Journeys,2022W01,2022 Week 01,10,Dublin Metro Bus,Number,1406243.0
+THA25C01,Passenger Journeys,2022W01,2022 Week 01,20,"Bus, excluding Dublin Metro",Number,365503.0
+THA25C01,Passenger Journeys,2022W01,2022 Week 01,30,Rail,Number,288051.0
+THA25C01,Passenger Journeys,2022W01,2022 Week 01,40,"All public transport, excluding LUAS",Number,2059797.0
+THA25C01,Passenger Journeys,2022W02,2022 Week 02,10,Dublin Metro Bus,Number,1779235.0
+THA25C01,Passenger Journeys,2022W02,2022 Week 02,20,"Bus, excluding Dublin Metro",Number,475432.0
+THA25C01,Passenger Journeys,2022W02,2022 Week 02,30,Rail,Number,357666.0
+THA25C01,Passenger Journeys,2022W02,2022 Week 02,40,"All public transport, excluding LUAS",Number,2612333.0
+THA25C01,Passenger Journeys,2022W03,2022 Week 03,10,Dublin Metro Bus,Number,1966074.0
+THA25C01,Passenger Journeys,2022W03,2022 Week 03,20,"Bus, excluding Dublin Metro",Number,519750.0
+THA25C01,Passenger Journeys,2022W03,2022 Week 03,30,Rail,Number,399947.0
+THA25C01,Passenger Journeys,2022W03,2022 Week 03,40,"All public transport, excluding LUAS",Number,2885771.0
+THA25C01,Passenger Journeys,2022W04,2022 Week 04,10,Dublin Metro Bus,Number,2109953.0
+THA25C01,Passenger Journeys,2022W04,2022 Week 04,20,"Bus, excluding Dublin Metro",Number,550396.0
+THA25C01,Passenger Journeys,2022W04,2022 Week 04,30,Rail,Number,453379.0
+THA25C01,Passenger Journeys,2022W04,2022 Week 04,40,"All public transport, excluding LUAS",Number,3113728.0
+THA25C01,Passenger Journeys,2022W05,2022 Week 05,10,Dublin Metro Bus,Number,2180251.0
+THA25C01,Passenger Journeys,2022W05,2022 Week 05,20,"Bus, excluding Dublin Metro",Number,562335.0
+THA25C01,Passenger Journeys,2022W05,2022 Week 05,30,Rail,Number,524640.0
+THA25C01,Passenger Journeys,2022W05,2022 Week 05,40,"All public transport, excluding LUAS",Number,3267226.0
+THA25C01,Passenger Journeys,2022W06,2022 Week 06,10,Dublin Metro Bus,Number,2222594.0
+THA25C01,Passenger Journeys,2022W06,2022 Week 06,20,"Bus, excluding Dublin Metro",Number,582446.0
+THA25C01,Passenger Journeys,2022W06,2022 Week 06,30,Rail,Number,477140.0
+THA25C01,Passenger Journeys,2022W06,2022 Week 06,40,"All public transport, excluding LUAS",Number,3282180.0
+THA25C01,Passenger Journeys,2022W07,2022 Week 07,10,Dublin Metro Bus,Number,2145226.0
+THA25C01,Passenger Journeys,2022W07,2022 Week 07,20,"Bus, excluding Dublin Metro",Number,527018.0
+THA25C01,Passenger Journeys,2022W07,2022 Week 07,30,Rail,Number,471325.0
+THA25C01,Passenger Journeys,2022W07,2022 Week 07,40,"All public transport, excluding LUAS",Number,3143569.0
+THA25C01,Passenger Journeys,2022W08,2022 Week 08,10,Dublin Metro Bus,Number,2104859.0
+THA25C01,Passenger Journeys,2022W08,2022 Week 08,20,"Bus, excluding Dublin Metro",Number,543279.0
+THA25C01,Passenger Journeys,2022W08,2022 Week 08,30,Rail,Number,533442.0
+THA25C01,Passenger Journeys,2022W08,2022 Week 08,40,"All public transport, excluding LUAS",Number,3181580.0
+THA25C01,Passenger Journeys,2022W09,2022 Week 09,10,Dublin Metro Bus,Number,2393755.0
+THA25C01,Passenger Journeys,2022W09,2022 Week 09,20,"Bus, excluding Dublin Metro",Number,612819.0
+THA25C01,Passenger Journeys,2022W09,2022 Week 09,30,Rail,Number,589825.0
+THA25C01,Passenger Journeys,2022W09,2022 Week 09,40,"All public transport, excluding LUAS",Number,3596399.0
+THA25C01,Passenger Journeys,2022W10,2022 Week 10,10,Dublin Metro Bus,Number,2300757.0
+THA25C01,Passenger Journeys,2022W10,2022 Week 10,20,"Bus, excluding Dublin Metro",Number,572414.0
+THA25C01,Passenger Journeys,2022W10,2022 Week 10,30,Rail,Number,507442.0
+THA25C01,Passenger Journeys,2022W10,2022 Week 10,40,"All public transport, excluding LUAS",Number,3380613.0
+THA25C01,Passenger Journeys,2022W11,2022 Week 11,10,Dublin Metro Bus,Number,2121172.0
+THA25C01,Passenger Journeys,2022W11,2022 Week 11,20,"Bus, excluding Dublin Metro",Number,540807.0
+THA25C01,Passenger Journeys,2022W11,2022 Week 11,30,Rail,Number,580364.0
+THA25C01,Passenger Journeys,2022W11,2022 Week 11,40,"All public transport, excluding LUAS",Number,3242343.0
+THA25C01,Passenger Journeys,2022W12,2022 Week 12,10,Dublin Metro Bus,Number,2432024.0
+THA25C01,Passenger Journeys,2022W12,2022 Week 12,20,"Bus, excluding Dublin Metro",Number,608648.0
+THA25C01,Passenger Journeys,2022W12,2022 Week 12,30,Rail,Number,598637.0
+THA25C01,Passenger Journeys,2022W12,2022 Week 12,40,"All public transport, excluding LUAS",Number,3639309.0
+THA25C01,Passenger Journeys,2022W13,2022 Week 13,10,Dublin Metro Bus,Number,2371286.0
+THA25C01,Passenger Journeys,2022W13,2022 Week 13,20,"Bus, excluding Dublin Metro",Number,591604.0
+THA25C01,Passenger Journeys,2022W13,2022 Week 13,30,Rail,Number,602411.0
+THA25C01,Passenger Journeys,2022W13,2022 Week 13,40,"All public transport, excluding LUAS",Number,3565301.0
+THA25C01,Passenger Journeys,2022W14,2022 Week 14,10,Dublin Metro Bus,Number,2450481.0
+THA25C01,Passenger Journeys,2022W14,2022 Week 14,20,"Bus, excluding Dublin Metro",Number,616574.0
+THA25C01,Passenger Journeys,2022W14,2022 Week 14,30,Rail,Number,581420.0
+THA25C01,Passenger Journeys,2022W14,2022 Week 14,40,"All public transport, excluding LUAS",Number,3648475.0
+THA25C01,Passenger Journeys,2022W15,2022 Week 15,10,Dublin Metro Bus,Number,2266854.0
+THA25C01,Passenger Journeys,2022W15,2022 Week 15,20,"Bus, excluding Dublin Metro",Number,556672.0
+THA25C01,Passenger Journeys,2022W15,2022 Week 15,30,Rail,Number,557169.0
+THA25C01,Passenger Journeys,2022W15,2022 Week 15,40,"All public transport, excluding LUAS",Number,3380695.0
+THA25C01,Passenger Journeys,2022W16,2022 Week 16,10,Dublin Metro Bus,Number,2229079.0
+THA25C01,Passenger Journeys,2022W16,2022 Week 16,20,"Bus, excluding Dublin Metro",Number,570284.0
+THA25C01,Passenger Journeys,2022W16,2022 Week 16,30,Rail,Number,590864.0
+THA25C01,Passenger Journeys,2022W16,2022 Week 16,40,"All public transport, excluding LUAS",Number,3390227.0
+THA25C01,Passenger Journeys,2022W17,2022 Week 17,10,Dublin Metro Bus,Number,2471590.0
+THA25C01,Passenger Journeys,2022W17,2022 Week 17,20,"Bus, excluding Dublin Metro",Number,666915.0
+THA25C01,Passenger Journeys,2022W17,2022 Week 17,30,Rail,Number,599078.0
+THA25C01,Passenger Journeys,2022W17,2022 Week 17,40,"All public transport, excluding LUAS",Number,3737583.0
+THA25C01,Passenger Journeys,2022W18,2022 Week 18,10,Dublin Metro Bus,Number,2335362.0
+THA25C01,Passenger Journeys,2022W18,2022 Week 18,20,"Bus, excluding Dublin Metro",Number,645649.0
+THA25C01,Passenger Journeys,2022W18,2022 Week 18,30,Rail,Number,633863.0
+THA25C01,Passenger Journeys,2022W18,2022 Week 18,40,"All public transport, excluding LUAS",Number,3614874.0
+THA25C01,Passenger Journeys,2022W19,2022 Week 19,10,Dublin Metro Bus,Number,2267822.0
+THA25C01,Passenger Journeys,2022W19,2022 Week 19,20,"Bus, excluding Dublin Metro",Number,681036.0
+THA25C01,Passenger Journeys,2022W19,2022 Week 19,30,Rail,Number,672546.0
+THA25C01,Passenger Journeys,2022W19,2022 Week 19,40,"All public transport, excluding LUAS",Number,3621404.0
+THA25C01,Passenger Journeys,2022W20,2022 Week 20,10,Dublin Metro Bus,Number,2454491.0
+THA25C01,Passenger Journeys,2022W20,2022 Week 20,20,"Bus, excluding Dublin Metro",Number,668361.0
+THA25C01,Passenger Journeys,2022W20,2022 Week 20,30,Rail,Number,650548.0
+THA25C01,Passenger Journeys,2022W20,2022 Week 20,40,"All public transport, excluding LUAS",Number,3773400.0
+THA25C01,Passenger Journeys,2022W21,2022 Week 21,10,Dublin Metro Bus,Number,2449292.0
+THA25C01,Passenger Journeys,2022W21,2022 Week 21,20,"Bus, excluding Dublin Metro",Number,671051.0
+THA25C01,Passenger Journeys,2022W21,2022 Week 21,30,Rail,Number,663418.0
+THA25C01,Passenger Journeys,2022W21,2022 Week 21,40,"All public transport, excluding LUAS",Number,3783761.0
+THA25C01,Passenger Journeys,2022W22,2022 Week 22,10,Dublin Metro Bus,Number,2461534.0
+THA25C01,Passenger Journeys,2022W22,2022 Week 22,20,"Bus, excluding Dublin Metro",Number,675775.0
+THA25C01,Passenger Journeys,2022W22,2022 Week 22,30,Rail,Number,700921.0
+THA25C01,Passenger Journeys,2022W22,2022 Week 22,40,"All public transport, excluding LUAS",Number,3838230.0
+THA25C01,Passenger Journeys,2022W23,2022 Week 23,10,Dublin Metro Bus,Number,2417295.0
+THA25C01,Passenger Journeys,2022W23,2022 Week 23,20,"Bus, excluding Dublin Metro",Number,628508.0
+THA25C01,Passenger Journeys,2022W23,2022 Week 23,30,Rail,Number,646250.0
+THA25C01,Passenger Journeys,2022W23,2022 Week 23,40,"All public transport, excluding LUAS",Number,3692053.0
+THA25C01,Passenger Journeys,2022W24,2022 Week 24,10,Dublin Metro Bus,Number,2297192.0
+THA25C01,Passenger Journeys,2022W24,2022 Week 24,20,"Bus, excluding Dublin Metro",Number,689753.0
+THA25C01,Passenger Journeys,2022W24,2022 Week 24,30,Rail,Number,718874.0
+THA25C01,Passenger Journeys,2022W24,2022 Week 24,40,"All public transport, excluding LUAS",Number,3705819.0
+THA25C01,Passenger Journeys,2022W25,2022 Week 25,10,Dublin Metro Bus,Number,2458431.0
+THA25C01,Passenger Journeys,2022W25,2022 Week 25,20,"Bus, excluding Dublin Metro",Number,672758.0
+THA25C01,Passenger Journeys,2022W25,2022 Week 25,30,Rail,Number,777823.0
+THA25C01,Passenger Journeys,2022W25,2022 Week 25,40,"All public transport, excluding LUAS",Number,3909012.0
+THA25C01,Passenger Journeys,2022W26,2022 Week 26,10,Dublin Metro Bus,Number,2456029.0
+THA25C01,Passenger Journeys,2022W26,2022 Week 26,20,"Bus, excluding Dublin Metro",Number,641014.0
+THA25C01,Passenger Journeys,2022W26,2022 Week 26,30,Rail,Number,723963.0
+THA25C01,Passenger Journeys,2022W26,2022 Week 26,40,"All public transport, excluding LUAS",Number,3821006.0
+THA25C01,Passenger Journeys,2022W27,2022 Week 27,10,Dublin Metro Bus,Number,2455447.0
+THA25C01,Passenger Journeys,2022W27,2022 Week 27,20,"Bus, excluding Dublin Metro",Number,688352.0
+THA25C01,Passenger Journeys,2022W27,2022 Week 27,30,Rail,Number,768799.0
+THA25C01,Passenger Journeys,2022W27,2022 Week 27,40,"All public transport, excluding LUAS",Number,3912598.0
+THA25C01,Passenger Journeys,2022W28,2022 Week 28,10,Dublin Metro Bus,Number,2463379.0
+THA25C01,Passenger Journeys,2022W28,2022 Week 28,20,"Bus, excluding Dublin Metro",Number,693305.0
+THA25C01,Passenger Journeys,2022W28,2022 Week 28,30,Rail,Number,788475.0
+THA25C01,Passenger Journeys,2022W28,2022 Week 28,40,"All public transport, excluding LUAS",Number,3945159.0
+THA25C01,Passenger Journeys,2022W29,2022 Week 29,10,Dublin Metro Bus,Number,2437677.0
+THA25C01,Passenger Journeys,2022W29,2022 Week 29,20,"Bus, excluding Dublin Metro",Number,668149.0
+THA25C01,Passenger Journeys,2022W29,2022 Week 29,30,Rail,Number,780426.0
+THA25C01,Passenger Journeys,2022W29,2022 Week 29,40,"All public transport, excluding LUAS",Number,3886252.0
+THA25C01,Passenger Journeys,2022W30,2022 Week 30,10,Dublin Metro Bus,Number,2428637.0
+THA25C01,Passenger Journeys,2022W30,2022 Week 30,20,"Bus, excluding Dublin Metro",Number,654034.0
+THA25C01,Passenger Journeys,2022W30,2022 Week 30,30,Rail,Number,694529.0
+THA25C01,Passenger Journeys,2022W30,2022 Week 30,40,"All public transport, excluding LUAS",Number,3777200.0
+THA25C01,Passenger Journeys,2022W31,2022 Week 31,10,Dublin Metro Bus,Number,2391497.0
+THA25C01,Passenger Journeys,2022W31,2022 Week 31,20,"Bus, excluding Dublin Metro",Number,599663.0
+THA25C01,Passenger Journeys,2022W31,2022 Week 31,30,Rail,Number,695776.0
+THA25C01,Passenger Journeys,2022W31,2022 Week 31,40,"All public transport, excluding LUAS",Number,3686936.0
+THA25C01,Passenger Journeys,2022W32,2022 Week 32,10,Dublin Metro Bus,Number,2569142.0
+THA25C01,Passenger Journeys,2022W32,2022 Week 32,20,"Bus, excluding Dublin Metro",Number,700075.0
+THA25C01,Passenger Journeys,2022W32,2022 Week 32,30,Rail,Number,776829.0
+THA25C01,Passenger Journeys,2022W32,2022 Week 32,40,"All public transport, excluding LUAS",Number,4046046.0
+THA25C01,Passenger Journeys,2022W33,2022 Week 33,10,Dublin Metro Bus,Number,2555241.0
+THA25C01,Passenger Journeys,2022W33,2022 Week 33,20,"Bus, excluding Dublin Metro",Number,687677.0
+THA25C01,Passenger Journeys,2022W33,2022 Week 33,30,Rail,Number,708368.0
+THA25C01,Passenger Journeys,2022W33,2022 Week 33,40,"All public transport, excluding LUAS",Number,3951286.0
+THA25C01,Passenger Journeys,2022W34,2022 Week 34,10,Dublin Metro Bus,Number,2614443.0
+THA25C01,Passenger Journeys,2022W34,2022 Week 34,20,"Bus, excluding Dublin Metro",Number,719994.0
+THA25C01,Passenger Journeys,2022W34,2022 Week 34,30,Rail,Number,753379.0
+THA25C01,Passenger Journeys,2022W34,2022 Week 34,40,"All public transport, excluding LUAS",Number,4087816.0
+THA25C01,Passenger Journeys,2022W35,2022 Week 35,10,Dublin Metro Bus,Number,2694493.0
+THA25C01,Passenger Journeys,2022W35,2022 Week 35,20,"Bus, excluding Dublin Metro",Number,703280.0
+THA25C01,Passenger Journeys,2022W35,2022 Week 35,30,Rail,Number,674115.0
+THA25C01,Passenger Journeys,2022W35,2022 Week 35,40,"All public transport, excluding LUAS",Number,4071888.0
+THA25C01,Passenger Journeys,2022W36,2022 Week 36,10,Dublin Metro Bus,Number,2770458.0
+THA25C01,Passenger Journeys,2022W36,2022 Week 36,20,"Bus, excluding Dublin Metro",Number,746245.0
+THA25C01,Passenger Journeys,2022W36,2022 Week 36,30,Rail,Number,735395.0
+THA25C01,Passenger Journeys,2022W36,2022 Week 36,40,"All public transport, excluding LUAS",Number,4252098.0
+THA25C01,Passenger Journeys,2022W37,2022 Week 37,10,Dublin Metro Bus,Number,2991127.0
+THA25C01,Passenger Journeys,2022W37,2022 Week 37,20,"Bus, excluding Dublin Metro",Number,823471.0
+THA25C01,Passenger Journeys,2022W37,2022 Week 37,30,Rail,Number,781714.0
+THA25C01,Passenger Journeys,2022W37,2022 Week 37,40,"All public transport, excluding LUAS",Number,4596312.0
+THA25C01,Passenger Journeys,2022W38,2022 Week 38,10,Dublin Metro Bus,Number,3026029.0
+THA25C01,Passenger Journeys,2022W38,2022 Week 38,20,"Bus, excluding Dublin Metro",Number,849445.0
+THA25C01,Passenger Journeys,2022W38,2022 Week 38,30,Rail,Number,777177.0
+THA25C01,Passenger Journeys,2022W38,2022 Week 38,40,"All public transport, excluding LUAS",Number,4652651.0
+THA25C01,Passenger Journeys,2022W39,2022 Week 39,10,Dublin Metro Bus,Number,3092163.0
+THA25C01,Passenger Journeys,2022W39,2022 Week 39,20,"Bus, excluding Dublin Metro",Number,885387.0
+THA25C01,Passenger Journeys,2022W39,2022 Week 39,30,Rail,Number,841960.0
+THA25C01,Passenger Journeys,2022W39,2022 Week 39,40,"All public transport, excluding LUAS",Number,4819510.0
+THA25C01,Passenger Journeys,2022W40,2022 Week 40,10,Dublin Metro Bus,Number,3132650.0
+THA25C01,Passenger Journeys,2022W40,2022 Week 40,20,"Bus, excluding Dublin Metro",Number,896210.0
+THA25C01,Passenger Journeys,2022W40,2022 Week 40,30,Rail,Number,841573.0
+THA25C01,Passenger Journeys,2022W40,2022 Week 40,40,"All public transport, excluding LUAS",Number,4870433.0
+THA25C01,Passenger Journeys,2022W41,2022 Week 41,10,Dublin Metro Bus,Number,3130260.0
+THA25C01,Passenger Journeys,2022W41,2022 Week 41,20,"Bus, excluding Dublin Metro",Number,885730.0
+THA25C01,Passenger Journeys,2022W41,2022 Week 41,30,Rail,Number,814269.0
+THA25C01,Passenger Journeys,2022W41,2022 Week 41,40,"All public transport, excluding LUAS",Number,4830259.0
+THA25C01,Passenger Journeys,2022W42,2022 Week 42,10,Dublin Metro Bus,Number,3096053.0
+THA25C01,Passenger Journeys,2022W42,2022 Week 42,20,"Bus, excluding Dublin Metro",Number,866776.0
+THA25C01,Passenger Journeys,2022W42,2022 Week 42,30,Rail,Number,824247.0
+THA25C01,Passenger Journeys,2022W42,2022 Week 42,40,"All public transport, excluding LUAS",Number,4787076.0
+THA25C01,Passenger Journeys,2022W43,2022 Week 43,10,Dublin Metro Bus,Number,3157869.0
+THA25C01,Passenger Journeys,2022W43,2022 Week 43,20,"Bus, excluding Dublin Metro",Number,891987.0
+THA25C01,Passenger Journeys,2022W43,2022 Week 43,30,Rail,Number,799752.0
+THA25C01,Passenger Journeys,2022W43,2022 Week 43,40,"All public transport, excluding LUAS",Number,4849608.0
+THA25C01,Passenger Journeys,2022W44,2022 Week 44,10,Dublin Metro Bus,Number,2723592.0
+THA25C01,Passenger Journeys,2022W44,2022 Week 44,20,"Bus, excluding Dublin Metro",Number,736242.0
+THA25C01,Passenger Journeys,2022W44,2022 Week 44,30,Rail,Number,767786.0
+THA25C01,Passenger Journeys,2022W44,2022 Week 44,40,"All public transport, excluding LUAS",Number,4227620.0
+THA25C01,Passenger Journeys,2022W45,2022 Week 45,10,Dublin Metro Bus,Number,3157496.0
+THA25C01,Passenger Journeys,2022W45,2022 Week 45,20,"Bus, excluding Dublin Metro",Number,864536.0
+THA25C01,Passenger Journeys,2022W45,2022 Week 45,30,Rail,Number,860900.0
+THA25C01,Passenger Journeys,2022W45,2022 Week 45,40,"All public transport, excluding LUAS",Number,4882932.0
+THA25C01,Passenger Journeys,2022W46,2022 Week 46,10,Dublin Metro Bus,Number,3192643.0
+THA25C01,Passenger Journeys,2022W46,2022 Week 46,20,"Bus, excluding Dublin Metro",Number,891579.0
+THA25C01,Passenger Journeys,2022W46,2022 Week 46,30,Rail,Number,863826.0
+THA25C01,Passenger Journeys,2022W46,2022 Week 46,40,"All public transport, excluding LUAS",Number,4948048.0
+THA25C01,Passenger Journeys,2022W47,2022 Week 47,10,Dublin Metro Bus,Number,3114790.0
+THA25C01,Passenger Journeys,2022W47,2022 Week 47,20,"Bus, excluding Dublin Metro",Number,871810.0
+THA25C01,Passenger Journeys,2022W47,2022 Week 47,30,Rail,Number,810472.0
+THA25C01,Passenger Journeys,2022W47,2022 Week 47,40,"All public transport, excluding LUAS",Number,4797072.0
+THA25C01,Passenger Journeys,2022W48,2022 Week 48,10,Dublin Metro Bus,Number,3147713.0
+THA25C01,Passenger Journeys,2022W48,2022 Week 48,20,"Bus, excluding Dublin Metro",Number,852232.0
+THA25C01,Passenger Journeys,2022W48,2022 Week 48,30,Rail,Number,810146.0
+THA25C01,Passenger Journeys,2022W48,2022 Week 48,40,"All public transport, excluding LUAS",Number,4810091.0
+THA25C01,Passenger Journeys,2022W49,2022 Week 49,10,Dublin Metro Bus,Number,3073856.0
+THA25C01,Passenger Journeys,2022W49,2022 Week 49,20,"Bus, excluding Dublin Metro",Number,840769.0
+THA25C01,Passenger Journeys,2022W49,2022 Week 49,30,Rail,Number,831900.0
+THA25C01,Passenger Journeys,2022W49,2022 Week 49,40,"All public transport, excluding LUAS",Number,4746525.0
+THA25C01,Passenger Journeys,2022W50,2022 Week 50,10,Dublin Metro Bus,Number,3050335.0
+THA25C01,Passenger Journeys,2022W50,2022 Week 50,20,"Bus, excluding Dublin Metro",Number,800708.0
+THA25C01,Passenger Journeys,2022W50,2022 Week 50,30,Rail,Number,805056.0
+THA25C01,Passenger Journeys,2022W50,2022 Week 50,40,"All public transport, excluding LUAS",Number,4656099.0
+THA25C01,Passenger Journeys,2022W51,2022 Week 51,10,Dublin Metro Bus,Number,2741688.0
+THA25C01,Passenger Journeys,2022W51,2022 Week 51,20,"Bus, excluding Dublin Metro",Number,662302.0
+THA25C01,Passenger Journeys,2022W51,2022 Week 51,30,Rail,Number,619257.0
+THA25C01,Passenger Journeys,2022W51,2022 Week 51,40,"All public transport, excluding LUAS",Number,4023247.0
+THA25C01,Passenger Journeys,2022W52,2022 Week 52,10,Dublin Metro Bus,Number,2840848.0
+THA25C01,Passenger Journeys,2022W52,2022 Week 52,20,"Bus, excluding Dublin Metro",Number,478378.0
+THA25C01,Passenger Journeys,2022W52,2022 Week 52,30,Rail,Number,410985.0
+THA25C01,Passenger Journeys,2022W52,2022 Week 52,40,"All public transport, excluding LUAS",Number,3730211.0
+THA25C01,Passenger Journeys,2022W53,2022 Week 53,10,Dublin Metro Bus,Number,
+THA25C01,Passenger Journeys,2022W53,2022 Week 53,20,"Bus, excluding Dublin Metro",Number,
+THA25C01,Passenger Journeys,2022W53,2022 Week 53,30,Rail,Number,
+THA25C01,Passenger Journeys,2022W53,2022 Week 53,40,"All public transport, excluding LUAS",Number,
+THA25C01,Passenger Journeys,2023W01,2023 Week 01,10,Dublin Metro Bus,Number,2325239.0
+THA25C01,Passenger Journeys,2023W01,2023 Week 01,20,"Bus, excluding Dublin Metro",Number,614352.0
+THA25C01,Passenger Journeys,2023W01,2023 Week 01,30,Rail,Number,593351.0
+THA25C01,Passenger Journeys,2023W01,2023 Week 01,40,"All public transport, excluding LUAS",Number,3532942.0
+THA25C01,Passenger Journeys,2023W02,2023 Week 02,10,Dublin Metro Bus,Number,2791337.0
+THA25C01,Passenger Journeys,2023W02,2023 Week 02,20,"Bus, excluding Dublin Metro",Number,742138.0
+THA25C01,Passenger Journeys,2023W02,2023 Week 02,30,Rail,Number,693509.0
+THA25C01,Passenger Journeys,2023W02,2023 Week 02,40,"All public transport, excluding LUAS",Number,4226984.0
+THA25C01,Passenger Journeys,2023W03,2023 Week 03,10,Dublin Metro Bus,Number,2948010.0
+THA25C01,Passenger Journeys,2023W03,2023 Week 03,20,"Bus, excluding Dublin Metro",Number,791800.0
+THA25C01,Passenger Journeys,2023W03,2023 Week 03,30,Rail,Number,737213.0
+THA25C01,Passenger Journeys,2023W03,2023 Week 03,40,"All public transport, excluding LUAS",Number,4477023.0
+THA25C01,Passenger Journeys,2023W04,2023 Week 04,10,Dublin Metro Bus,Number,3166957.0
+THA25C01,Passenger Journeys,2023W04,2023 Week 04,20,"Bus, excluding Dublin Metro",Number,858179.0
+THA25C01,Passenger Journeys,2023W04,2023 Week 04,30,Rail,Number,803814.0
+THA25C01,Passenger Journeys,2023W04,2023 Week 04,40,"All public transport, excluding LUAS",Number,4828950.0
+THA25C01,Passenger Journeys,2023W05,2023 Week 05,10,Dublin Metro Bus,Number,3157789.0
+THA25C01,Passenger Journeys,2023W05,2023 Week 05,20,"Bus, excluding Dublin Metro",Number,867139.0
+THA25C01,Passenger Journeys,2023W05,2023 Week 05,30,Rail,Number,843766.0
+THA25C01,Passenger Journeys,2023W05,2023 Week 05,40,"All public transport, excluding LUAS",Number,4868694.0
+THA25C01,Passenger Journeys,2023W06,2023 Week 06,10,Dublin Metro Bus,Number,2957697.0
+THA25C01,Passenger Journeys,2023W06,2023 Week 06,20,"Bus, excluding Dublin Metro",Number,803293.0
+THA25C01,Passenger Journeys,2023W06,2023 Week 06,30,Rail,Number,783829.0
+THA25C01,Passenger Journeys,2023W06,2023 Week 06,40,"All public transport, excluding LUAS",Number,4544819.0
+THA25C01,Passenger Journeys,2023W07,2023 Week 07,10,Dublin Metro Bus,Number,3095444.0
+THA25C01,Passenger Journeys,2023W07,2023 Week 07,20,"Bus, excluding Dublin Metro",Number,882482.0
+THA25C01,Passenger Journeys,2023W07,2023 Week 07,30,Rail,Number,825296.0
+THA25C01,Passenger Journeys,2023W07,2023 Week 07,40,"All public transport, excluding LUAS",Number,4803222.0
+THA25C01,Passenger Journeys,2023W08,2023 Week 08,10,Dublin Metro Bus,Number,3232516.0
+THA25C01,Passenger Journeys,2023W08,2023 Week 08,20,"Bus, excluding Dublin Metro",Number,885217.0
+THA25C01,Passenger Journeys,2023W08,2023 Week 08,30,Rail,Number,843175.0
+THA25C01,Passenger Journeys,2023W08,2023 Week 08,40,"All public transport, excluding LUAS",Number,4960908.0
+THA25C01,Passenger Journeys,2023W09,2023 Week 09,10,Dublin Metro Bus,Number,3207780.0
+THA25C01,Passenger Journeys,2023W09,2023 Week 09,20,"Bus, excluding Dublin Metro",Number,878491.0
+THA25C01,Passenger Journeys,2023W09,2023 Week 09,30,Rail,Number,860894.0
+THA25C01,Passenger Journeys,2023W09,2023 Week 09,40,"All public transport, excluding LUAS",Number,4947165.0
+THA25C01,Passenger Journeys,2023W10,2023 Week 10,10,Dublin Metro Bus,Number,3133172.0
+THA25C01,Passenger Journeys,2023W10,2023 Week 10,20,"Bus, excluding Dublin Metro",Number,847587.0
+THA25C01,Passenger Journeys,2023W10,2023 Week 10,30,Rail,Number,771731.0
+THA25C01,Passenger Journeys,2023W10,2023 Week 10,40,"All public transport, excluding LUAS",Number,4752490.0
+THA25C01,Passenger Journeys,2023W11,2023 Week 11,10,Dublin Metro Bus,Number,2964999.0
+THA25C01,Passenger Journeys,2023W11,2023 Week 11,20,"Bus, excluding Dublin Metro",Number,819312.0
+THA25C01,Passenger Journeys,2023W11,2023 Week 11,30,Rail,Number,816678.0
+THA25C01,Passenger Journeys,2023W11,2023 Week 11,40,"All public transport, excluding LUAS",Number,4600989.0
+THA25C01,Passenger Journeys,2023W12,2023 Week 12,10,Dublin Metro Bus,Number,3207312.0
+THA25C01,Passenger Journeys,2023W12,2023 Week 12,20,"Bus, excluding Dublin Metro",Number,849417.0
+THA25C01,Passenger Journeys,2023W12,2023 Week 12,30,Rail,Number,851471.0
+THA25C01,Passenger Journeys,2023W12,2023 Week 12,40,"All public transport, excluding LUAS",Number,4908200.0
+THA25C01,Passenger Journeys,2023W13,2023 Week 13,10,Dublin Metro Bus,Number,3274633.0
+THA25C01,Passenger Journeys,2023W13,2023 Week 13,20,"Bus, excluding Dublin Metro",Number,854952.0
+THA25C01,Passenger Journeys,2023W13,2023 Week 13,30,Rail,Number,689730.0
+THA25C01,Passenger Journeys,2023W13,2023 Week 13,40,"All public transport, excluding LUAS",Number,4819315.0
+THA25C01,Passenger Journeys,2023W14,2023 Week 14,10,Dublin Metro Bus,Number,3030252.0
+THA25C01,Passenger Journeys,2023W14,2023 Week 14,20,"Bus, excluding Dublin Metro",Number,815998.0
+THA25C01,Passenger Journeys,2023W14,2023 Week 14,30,Rail,Number,801427.0
+THA25C01,Passenger Journeys,2023W14,2023 Week 14,40,"All public transport, excluding LUAS",Number,4647677.0
+THA25C01,Passenger Journeys,2023W15,2023 Week 15,10,Dublin Metro Bus,Number,2814650.0
+THA25C01,Passenger Journeys,2023W15,2023 Week 15,20,"Bus, excluding Dublin Metro",Number,736415.0
+THA25C01,Passenger Journeys,2023W15,2023 Week 15,30,Rail,Number,731982.0
+THA25C01,Passenger Journeys,2023W15,2023 Week 15,40,"All public transport, excluding LUAS",Number,4283047.0
+THA25C01,Passenger Journeys,2023W16,2023 Week 16,10,Dublin Metro Bus,Number,3267439.0
+THA25C01,Passenger Journeys,2023W16,2023 Week 16,20,"Bus, excluding Dublin Metro",Number,880537.0
+THA25C01,Passenger Journeys,2023W16,2023 Week 16,30,Rail,Number,836941.0
+THA25C01,Passenger Journeys,2023W16,2023 Week 16,40,"All public transport, excluding LUAS",Number,4984917.0
+THA25C01,Passenger Journeys,2023W17,2023 Week 17,10,Dublin Metro Bus,Number,3325827.0
+THA25C01,Passenger Journeys,2023W17,2023 Week 17,20,"Bus, excluding Dublin Metro",Number,883494.0
+THA25C01,Passenger Journeys,2023W17,2023 Week 17,30,Rail,Number,865758.0
+THA25C01,Passenger Journeys,2023W17,2023 Week 17,40,"All public transport, excluding LUAS",Number,5075079.0
+THA25C01,Passenger Journeys,2023W18,2023 Week 18,10,Dublin Metro Bus,Number,3082566.0
+THA25C01,Passenger Journeys,2023W18,2023 Week 18,20,"Bus, excluding Dublin Metro",Number,825877.0
+THA25C01,Passenger Journeys,2023W18,2023 Week 18,30,Rail,Number,872894.0
+THA25C01,Passenger Journeys,2023W18,2023 Week 18,40,"All public transport, excluding LUAS",Number,4781337.0
+THA25C01,Passenger Journeys,2023W19,2023 Week 19,10,Dublin Metro Bus,Number,3207366.0
+THA25C01,Passenger Journeys,2023W19,2023 Week 19,20,"Bus, excluding Dublin Metro",Number,878188.0
+THA25C01,Passenger Journeys,2023W19,2023 Week 19,30,Rail,Number,873808.0
+THA25C01,Passenger Journeys,2023W19,2023 Week 19,40,"All public transport, excluding LUAS",Number,4959362.0
+THA25C01,Passenger Journeys,2023W20,2023 Week 20,10,Dublin Metro Bus,Number,3127899.0
+THA25C01,Passenger Journeys,2023W20,2023 Week 20,20,"Bus, excluding Dublin Metro",Number,862338.0
+THA25C01,Passenger Journeys,2023W20,2023 Week 20,30,Rail,Number,891149.0
+THA25C01,Passenger Journeys,2023W20,2023 Week 20,40,"All public transport, excluding LUAS",Number,4881386.0
+THA25C01,Passenger Journeys,2023W21,2023 Week 21,10,Dublin Metro Bus,Number,3173348.0
+THA25C01,Passenger Journeys,2023W21,2023 Week 21,20,"Bus, excluding Dublin Metro",Number,870042.0
+THA25C01,Passenger Journeys,2023W21,2023 Week 21,30,Rail,Number,890058.0
+THA25C01,Passenger Journeys,2023W21,2023 Week 21,40,"All public transport, excluding LUAS",Number,4933448.0
+THA25C01,Passenger Journeys,2023W22,2023 Week 22,10,Dublin Metro Bus,Number,3200660.0
+THA25C01,Passenger Journeys,2023W22,2023 Week 22,20,"Bus, excluding Dublin Metro",Number,865585.0
+THA25C01,Passenger Journeys,2023W22,2023 Week 22,30,Rail,Number,975543.0
+THA25C01,Passenger Journeys,2023W22,2023 Week 22,40,"All public transport, excluding LUAS",Number,5041788.0
+THA25C01,Passenger Journeys,2023W23,2023 Week 23,10,Dublin Metro Bus,Number,2904610.0
+THA25C01,Passenger Journeys,2023W23,2023 Week 23,20,"Bus, excluding Dublin Metro",Number,781015.0
+THA25C01,Passenger Journeys,2023W23,2023 Week 23,30,Rail,Number,816266.0
+THA25C01,Passenger Journeys,2023W23,2023 Week 23,40,"All public transport, excluding LUAS",Number,4501891.0
+THA25C01,Passenger Journeys,2023W24,2023 Week 24,10,Dublin Metro Bus,Number,3057569.0
+THA25C01,Passenger Journeys,2023W24,2023 Week 24,20,"Bus, excluding Dublin Metro",Number,802039.0
+THA25C01,Passenger Journeys,2023W24,2023 Week 24,30,Rail,Number,880035.0
+THA25C01,Passenger Journeys,2023W24,2023 Week 24,40,"All public transport, excluding LUAS",Number,4739643.0
+THA25C01,Passenger Journeys,2023W25,2023 Week 25,10,Dublin Metro Bus,Number,3057052.0
+THA25C01,Passenger Journeys,2023W25,2023 Week 25,20,"Bus, excluding Dublin Metro",Number,781908.0
+THA25C01,Passenger Journeys,2023W25,2023 Week 25,30,Rail,Number,902728.0
+THA25C01,Passenger Journeys,2023W25,2023 Week 25,40,"All public transport, excluding LUAS",Number,4741688.0
+THA25C01,Passenger Journeys,2023W26,2023 Week 26,10,Dublin Metro Bus,Number,3108755.0
+THA25C01,Passenger Journeys,2023W26,2023 Week 26,20,"Bus, excluding Dublin Metro",Number,760478.0
+THA25C01,Passenger Journeys,2023W26,2023 Week 26,30,Rail,Number,938599.0
+THA25C01,Passenger Journeys,2023W26,2023 Week 26,40,"All public transport, excluding LUAS",Number,4807832.0
+THA25C01,Passenger Journeys,2023W27,2023 Week 27,10,Dublin Metro Bus,Number,3046360.0
+THA25C01,Passenger Journeys,2023W27,2023 Week 27,20,"Bus, excluding Dublin Metro",Number,810830.0
+THA25C01,Passenger Journeys,2023W27,2023 Week 27,30,Rail,Number,858711.0
+THA25C01,Passenger Journeys,2023W27,2023 Week 27,40,"All public transport, excluding LUAS",Number,4715901.0
+THA25C01,Passenger Journeys,2023W28,2023 Week 28,10,Dublin Metro Bus,Number,2939504.0
+THA25C01,Passenger Journeys,2023W28,2023 Week 28,20,"Bus, excluding Dublin Metro",Number,799946.0
+THA25C01,Passenger Journeys,2023W28,2023 Week 28,30,Rail,Number,785124.0
+THA25C01,Passenger Journeys,2023W28,2023 Week 28,40,"All public transport, excluding LUAS",Number,4524574.0
+THA25C01,Passenger Journeys,2023W29,2023 Week 29,10,Dublin Metro Bus,Number,2956246.0
+THA25C01,Passenger Journeys,2023W29,2023 Week 29,20,"Bus, excluding Dublin Metro",Number,799518.0
+THA25C01,Passenger Journeys,2023W29,2023 Week 29,30,Rail,Number,806263.0
+THA25C01,Passenger Journeys,2023W29,2023 Week 29,40,"All public transport, excluding LUAS",Number,4562027.0
+THA25C01,Passenger Journeys,2023W30,2023 Week 30,10,Dublin Metro Bus,Number,2998446.0
+THA25C01,Passenger Journeys,2023W30,2023 Week 30,20,"Bus, excluding Dublin Metro",Number,788301.0
+THA25C01,Passenger Journeys,2023W30,2023 Week 30,30,Rail,Number,814033.0
+THA25C01,Passenger Journeys,2023W30,2023 Week 30,40,"All public transport, excluding LUAS",Number,4600780.0
+THA25C01,Passenger Journeys,2023W31,2023 Week 31,10,Dublin Metro Bus,Number,2907903.0
+THA25C01,Passenger Journeys,2023W31,2023 Week 31,20,"Bus, excluding Dublin Metro",Number,819255.0
+THA25C01,Passenger Journeys,2023W31,2023 Week 31,30,Rail,Number,842625.0
+THA25C01,Passenger Journeys,2023W31,2023 Week 31,40,"All public transport, excluding LUAS",Number,4569783.0
+THA25C01,Passenger Journeys,2023W32,2023 Week 32,10,Dublin Metro Bus,Number,2807912.0
+THA25C01,Passenger Journeys,2023W32,2023 Week 32,20,"Bus, excluding Dublin Metro",Number,752795.0
+THA25C01,Passenger Journeys,2023W32,2023 Week 32,30,Rail,Number,828688.0
+THA25C01,Passenger Journeys,2023W32,2023 Week 32,40,"All public transport, excluding LUAS",Number,4389395.0
+THA25C01,Passenger Journeys,2023W33,2023 Week 33,10,Dublin Metro Bus,Number,2935441.0
+THA25C01,Passenger Journeys,2023W33,2023 Week 33,20,"Bus, excluding Dublin Metro",Number,816489.0
+THA25C01,Passenger Journeys,2023W33,2023 Week 33,30,Rail,Number,850226.0
+THA25C01,Passenger Journeys,2023W33,2023 Week 33,40,"All public transport, excluding LUAS",Number,4602156.0
+THA25C01,Passenger Journeys,2023W34,2023 Week 34,10,Dublin Metro Bus,Number,2989135.0
+THA25C01,Passenger Journeys,2023W34,2023 Week 34,20,"Bus, excluding Dublin Metro",Number,845884.0
+THA25C01,Passenger Journeys,2023W34,2023 Week 34,30,Rail,Number,818169.0
+THA25C01,Passenger Journeys,2023W34,2023 Week 34,40,"All public transport, excluding LUAS",Number,4653188.0
+THA25C01,Passenger Journeys,2023W35,2023 Week 35,10,Dublin Metro Bus,Number,3134289.0
+THA25C01,Passenger Journeys,2023W35,2023 Week 35,20,"Bus, excluding Dublin Metro",Number,835183.0
+THA25C01,Passenger Journeys,2023W35,2023 Week 35,30,Rail,Number,882381.0
+THA25C01,Passenger Journeys,2023W35,2023 Week 35,40,"All public transport, excluding LUAS",Number,4851853.0
+THA25C01,Passenger Journeys,2023W36,2023 Week 36,10,Dublin Metro Bus,Number,3266735.0
+THA25C01,Passenger Journeys,2023W36,2023 Week 36,20,"Bus, excluding Dublin Metro",Number,910823.0
+THA25C01,Passenger Journeys,2023W36,2023 Week 36,30,Rail,Number,948395.0
+THA25C01,Passenger Journeys,2023W36,2023 Week 36,40,"All public transport, excluding LUAS",Number,5125953.0
+THA25C01,Passenger Journeys,2023W37,2023 Week 37,10,Dublin Metro Bus,Number,3332761.0
+THA25C01,Passenger Journeys,2023W37,2023 Week 37,20,"Bus, excluding Dublin Metro",Number,924379.0
+THA25C01,Passenger Journeys,2023W37,2023 Week 37,30,Rail,Number,789208.0
+THA25C01,Passenger Journeys,2023W37,2023 Week 37,40,"All public transport, excluding LUAS",Number,5046348.0
+THA25C01,Passenger Journeys,2023W38,2023 Week 38,10,Dublin Metro Bus,Number,3558455.0
+THA25C01,Passenger Journeys,2023W38,2023 Week 38,20,"Bus, excluding Dublin Metro",Number,984371.0
+THA25C01,Passenger Journeys,2023W38,2023 Week 38,30,Rail,Number,945832.0
+THA25C01,Passenger Journeys,2023W38,2023 Week 38,40,"All public transport, excluding LUAS",Number,5488658.0
+THA25C01,Passenger Journeys,2023W39,2023 Week 39,10,Dublin Metro Bus,Number,3517509.0
+THA25C01,Passenger Journeys,2023W39,2023 Week 39,20,"Bus, excluding Dublin Metro",Number,950613.0
+THA25C01,Passenger Journeys,2023W39,2023 Week 39,30,Rail,Number,932441.0
+THA25C01,Passenger Journeys,2023W39,2023 Week 39,40,"All public transport, excluding LUAS",Number,5400563.0
+THA25C01,Passenger Journeys,2023W40,2023 Week 40,10,Dublin Metro Bus,Number,3595880.0
+THA25C01,Passenger Journeys,2023W40,2023 Week 40,20,"Bus, excluding Dublin Metro",Number,894313.0
+THA25C01,Passenger Journeys,2023W40,2023 Week 40,30,Rail,Number,974332.0
+THA25C01,Passenger Journeys,2023W40,2023 Week 40,40,"All public transport, excluding LUAS",Number,5464525.0
+THA25C01,Passenger Journeys,2023W41,2023 Week 41,10,Dublin Metro Bus,Number,3629045.0
+THA25C01,Passenger Journeys,2023W41,2023 Week 41,20,"Bus, excluding Dublin Metro",Number,923175.0
+THA25C01,Passenger Journeys,2023W41,2023 Week 41,30,Rail,Number,925784.0
+THA25C01,Passenger Journeys,2023W41,2023 Week 41,40,"All public transport, excluding LUAS",Number,5478004.0
+THA25C01,Passenger Journeys,2023W42,2023 Week 42,10,Dublin Metro Bus,Number,3492660.0
+THA25C01,Passenger Journeys,2023W42,2023 Week 42,20,"Bus, excluding Dublin Metro",Number,933376.0
+THA25C01,Passenger Journeys,2023W42,2023 Week 42,30,Rail,Number,912832.0
+THA25C01,Passenger Journeys,2023W42,2023 Week 42,40,"All public transport, excluding LUAS",Number,5338868.0
+THA25C01,Passenger Journeys,2023W43,2023 Week 43,10,Dublin Metro Bus,Number,3504413.0
+THA25C01,Passenger Journeys,2023W43,2023 Week 43,20,"Bus, excluding Dublin Metro",Number,974091.0
+THA25C01,Passenger Journeys,2023W43,2023 Week 43,30,Rail,Number,888050.0
+THA25C01,Passenger Journeys,2023W43,2023 Week 43,40,"All public transport, excluding LUAS",Number,5366554.0
+THA25C01,Passenger Journeys,2023W44,2023 Week 44,10,Dublin Metro Bus,Number,3043578.0
+THA25C01,Passenger Journeys,2023W44,2023 Week 44,20,"Bus, excluding Dublin Metro",Number,811636.0
+THA25C01,Passenger Journeys,2023W44,2023 Week 44,30,Rail,Number,824979.0
+THA25C01,Passenger Journeys,2023W44,2023 Week 44,40,"All public transport, excluding LUAS",Number,4680193.0
+THA25C01,Passenger Journeys,2023W45,2023 Week 45,10,Dublin Metro Bus,Number,3517888.0
+THA25C01,Passenger Journeys,2023W45,2023 Week 45,20,"Bus, excluding Dublin Metro",Number,928383.0
+THA25C01,Passenger Journeys,2023W45,2023 Week 45,30,Rail,Number,959770.0
+THA25C01,Passenger Journeys,2023W45,2023 Week 45,40,"All public transport, excluding LUAS",Number,5406041.0
+THA25C01,Passenger Journeys,2023W46,2023 Week 46,10,Dublin Metro Bus,Number,3311974.0
+THA25C01,Passenger Journeys,2023W46,2023 Week 46,20,"Bus, excluding Dublin Metro",Number,900766.0
+THA25C01,Passenger Journeys,2023W46,2023 Week 46,30,Rail,Number,900707.0
+THA25C01,Passenger Journeys,2023W46,2023 Week 46,40,"All public transport, excluding LUAS",Number,5113447.0
+THA25C01,Passenger Journeys,2023W47,2023 Week 47,10,Dublin Metro Bus,Number,3218635.0
+THA25C01,Passenger Journeys,2023W47,2023 Week 47,20,"Bus, excluding Dublin Metro",Number,895925.0
+THA25C01,Passenger Journeys,2023W47,2023 Week 47,30,Rail,Number,945060.0
+THA25C01,Passenger Journeys,2023W47,2023 Week 47,40,"All public transport, excluding LUAS",Number,5059620.0
+THA25C01,Passenger Journeys,2023W48,2023 Week 48,10,Dublin Metro Bus,Number,3453532.0
+THA25C01,Passenger Journeys,2023W48,2023 Week 48,20,"Bus, excluding Dublin Metro",Number,941393.0
+THA25C01,Passenger Journeys,2023W48,2023 Week 48,30,Rail,Number,942218.0
+THA25C01,Passenger Journeys,2023W48,2023 Week 48,40,"All public transport, excluding LUAS",Number,5337143.0
+THA25C01,Passenger Journeys,2023W49,2023 Week 49,10,Dublin Metro Bus,Number,3387510.0
+THA25C01,Passenger Journeys,2023W49,2023 Week 49,20,"Bus, excluding Dublin Metro",Number,853710.0
+THA25C01,Passenger Journeys,2023W49,2023 Week 49,30,Rail,Number,943246.0
+THA25C01,Passenger Journeys,2023W49,2023 Week 49,40,"All public transport, excluding LUAS",Number,5184466.0
+THA25C01,Passenger Journeys,2023W50,2023 Week 50,10,Dublin Metro Bus,Number,3521338.0
+THA25C01,Passenger Journeys,2023W50,2023 Week 50,20,"Bus, excluding Dublin Metro",Number,913884.0
+THA25C01,Passenger Journeys,2023W50,2023 Week 50,30,Rail,Number,993893.0
+THA25C01,Passenger Journeys,2023W50,2023 Week 50,40,"All public transport, excluding LUAS",Number,5429115.0
+THA25C01,Passenger Journeys,2023W51,2023 Week 51,10,Dublin Metro Bus,Number,3214920.0
+THA25C01,Passenger Journeys,2023W51,2023 Week 51,20,"Bus, excluding Dublin Metro",Number,744809.0
+THA25C01,Passenger Journeys,2023W51,2023 Week 51,30,Rail,Number,833724.0
+THA25C01,Passenger Journeys,2023W51,2023 Week 51,40,"All public transport, excluding LUAS",Number,4793453.0
+THA25C01,Passenger Journeys,2023W52,2023 Week 52,10,Dublin Metro Bus,Number,1728356.0
+THA25C01,Passenger Journeys,2023W52,2023 Week 52,20,"Bus, excluding Dublin Metro",Number,452858.0
+THA25C01,Passenger Journeys,2023W52,2023 Week 52,30,Rail,Number,380576.0
+THA25C01,Passenger Journeys,2023W52,2023 Week 52,40,"All public transport, excluding LUAS",Number,2561790.0
+THA25C01,Passenger Journeys,2024W01,2024 Week 01,10,Dublin Metro Bus,Number,2407676.0
+THA25C01,Passenger Journeys,2024W01,2024 Week 01,20,"Bus, excluding Dublin Metro",Number,648962.0
+THA25C01,Passenger Journeys,2024W01,2024 Week 01,30,Rail,Number,653500.0
+THA25C01,Passenger Journeys,2024W01,2024 Week 01,40,"All public transport, excluding LUAS",Number,3710138.0
+THA25C01,Passenger Journeys,2024W02,2024 Week 02,10,Dublin Metro Bus,Number,3046938.0
+THA25C01,Passenger Journeys,2024W02,2024 Week 02,20,"Bus, excluding Dublin Metro",Number,815591.0
+THA25C01,Passenger Journeys,2024W02,2024 Week 02,30,Rail,Number,802515.0
+THA25C01,Passenger Journeys,2024W02,2024 Week 02,40,"All public transport, excluding LUAS",Number,4665044.0
+THA25C01,Passenger Journeys,2024W03,2024 Week 03,10,Dublin Metro Bus,Number,3106779.0
+THA25C01,Passenger Journeys,2024W03,2024 Week 03,20,"Bus, excluding Dublin Metro",Number,833607.0
+THA25C01,Passenger Journeys,2024W03,2024 Week 03,30,Rail,Number,786188.0
+THA25C01,Passenger Journeys,2024W03,2024 Week 03,40,"All public transport, excluding LUAS",Number,4726574.0
+THA25C01,Passenger Journeys,2024W04,2024 Week 04,10,Dublin Metro Bus,Number,3391539.0
+THA25C01,Passenger Journeys,2024W04,2024 Week 04,20,"Bus, excluding Dublin Metro",Number,897015.0
+THA25C01,Passenger Journeys,2024W04,2024 Week 04,30,Rail,Number,868564.0
+THA25C01,Passenger Journeys,2024W04,2024 Week 04,40,"All public transport, excluding LUAS",Number,5157118.0
+THA25C01,Passenger Journeys,2024W05,2024 Week 05,10,Dublin Metro Bus,Number,3466312.0
+THA25C01,Passenger Journeys,2024W05,2024 Week 05,20,"Bus, excluding Dublin Metro",Number,949900.0
+THA25C01,Passenger Journeys,2024W05,2024 Week 05,30,Rail,Number,892918.0
+THA25C01,Passenger Journeys,2024W05,2024 Week 05,40,"All public transport, excluding LUAS",Number,5309130.0
+THA25C01,Passenger Journeys,2024W06,2024 Week 06,10,Dublin Metro Bus,Number,3233749.0
+THA25C01,Passenger Journeys,2024W06,2024 Week 06,20,"Bus, excluding Dublin Metro",Number,874465.0
+THA25C01,Passenger Journeys,2024W06,2024 Week 06,30,Rail,Number,835335.0
+THA25C01,Passenger Journeys,2024W06,2024 Week 06,40,"All public transport, excluding LUAS",Number,4943549.0
+THA25C01,Passenger Journeys,2024W07,2024 Week 07,10,Dublin Metro Bus,Number,3456551.0
+THA25C01,Passenger Journeys,2024W07,2024 Week 07,20,"Bus, excluding Dublin Metro",Number,932537.0
+THA25C01,Passenger Journeys,2024W07,2024 Week 07,30,Rail,Number,880567.0
+THA25C01,Passenger Journeys,2024W07,2024 Week 07,40,"All public transport, excluding LUAS",Number,5269655.0
+THA25C01,Passenger Journeys,2024W08,2024 Week 08,10,Dublin Metro Bus,Number,3566247.0
+THA25C01,Passenger Journeys,2024W08,2024 Week 08,20,"Bus, excluding Dublin Metro",Number,963043.0
+THA25C01,Passenger Journeys,2024W08,2024 Week 08,30,Rail,Number,964634.0
+THA25C01,Passenger Journeys,2024W08,2024 Week 08,40,"All public transport, excluding LUAS",Number,5493924.0
+THA25C01,Passenger Journeys,2024W09,2024 Week 09,10,Dublin Metro Bus,Number,3422941.0
+THA25C01,Passenger Journeys,2024W09,2024 Week 09,20,"Bus, excluding Dublin Metro",Number,959268.0
+THA25C01,Passenger Journeys,2024W09,2024 Week 09,30,Rail,Number,921238.0
+THA25C01,Passenger Journeys,2024W09,2024 Week 09,40,"All public transport, excluding LUAS",Number,5303447.0
+THA25C01,Passenger Journeys,2024W10,2024 Week 10,10,Dublin Metro Bus,Number,3524464.0
+THA25C01,Passenger Journeys,2024W10,2024 Week 10,20,"Bus, excluding Dublin Metro",Number,949923.0
+THA25C01,Passenger Journeys,2024W10,2024 Week 10,30,Rail,Number,904845.0
+THA25C01,Passenger Journeys,2024W10,2024 Week 10,40,"All public transport, excluding LUAS",Number,5379232.0
+THA25C01,Passenger Journeys,2024W11,2024 Week 11,10,Dublin Metro Bus,Number,3539004.0
+THA25C01,Passenger Journeys,2024W11,2024 Week 11,20,"Bus, excluding Dublin Metro",Number,968879.0
+THA25C01,Passenger Journeys,2024W11,2024 Week 11,30,Rail,Number,963335.0
+THA25C01,Passenger Journeys,2024W11,2024 Week 11,40,"All public transport, excluding LUAS",Number,5471218.0
+THA25C01,Passenger Journeys,2024W12,2024 Week 12,10,Dublin Metro Bus,Number,3258334.0
+THA25C01,Passenger Journeys,2024W12,2024 Week 12,20,"Bus, excluding Dublin Metro",Number,878350.0
+THA25C01,Passenger Journeys,2024W12,2024 Week 12,30,Rail,Number,857954.0
+THA25C01,Passenger Journeys,2024W12,2024 Week 12,40,"All public transport, excluding LUAS",Number,4994638.0
+THA25C01,Passenger Journeys,2024W13,2024 Week 13,10,Dublin Metro Bus,Number,3265310.0
+THA25C01,Passenger Journeys,2024W13,2024 Week 13,20,"Bus, excluding Dublin Metro",Number,844011.0
+THA25C01,Passenger Journeys,2024W13,2024 Week 13,30,Rail,Number,795400.0
+THA25C01,Passenger Journeys,2024W13,2024 Week 13,40,"All public transport, excluding LUAS",Number,4904721.0
+THA25C01,Passenger Journeys,2024W14,2024 Week 14,10,Dublin Metro Bus,Number,3072739.0
+THA25C01,Passenger Journeys,2024W14,2024 Week 14,20,"Bus, excluding Dublin Metro",Number,786255.0
+THA25C01,Passenger Journeys,2024W14,2024 Week 14,30,Rail,Number,807979.0
+THA25C01,Passenger Journeys,2024W14,2024 Week 14,40,"All public transport, excluding LUAS",Number,4666973.0
+THA25C01,Passenger Journeys,2024W15,2024 Week 15,10,Dublin Metro Bus,Number,3579561.0
+THA25C01,Passenger Journeys,2024W15,2024 Week 15,20,"Bus, excluding Dublin Metro",Number,947095.0
+THA25C01,Passenger Journeys,2024W15,2024 Week 15,30,Rail,Number,935577.0
+THA25C01,Passenger Journeys,2024W15,2024 Week 15,40,"All public transport, excluding LUAS",Number,5462233.0
+THA25C01,Passenger Journeys,2024W16,2024 Week 16,10,Dublin Metro Bus,Number,3611498.0
+THA25C01,Passenger Journeys,2024W16,2024 Week 16,20,"Bus, excluding Dublin Metro",Number,979029.0
+THA25C01,Passenger Journeys,2024W16,2024 Week 16,30,Rail,Number,942024.0
+THA25C01,Passenger Journeys,2024W16,2024 Week 16,40,"All public transport, excluding LUAS",Number,5532551.0
+THA25C01,Passenger Journeys,2024W17,2024 Week 17,10,Dublin Metro Bus,Number,3570618.0
+THA25C01,Passenger Journeys,2024W17,2024 Week 17,20,"Bus, excluding Dublin Metro",Number,957431.0
+THA25C01,Passenger Journeys,2024W17,2024 Week 17,30,Rail,Number,851664.0
+THA25C01,Passenger Journeys,2024W17,2024 Week 17,40,"All public transport, excluding LUAS",Number,5379713.0
+THA25C01,Passenger Journeys,2024W18,2024 Week 18,10,Dublin Metro Bus,Number,3549426.0
+THA25C01,Passenger Journeys,2024W18,2024 Week 18,20,"Bus, excluding Dublin Metro",Number,939554.0
+THA25C01,Passenger Journeys,2024W18,2024 Week 18,30,Rail,Number,920220.0
+THA25C01,Passenger Journeys,2024W18,2024 Week 18,40,"All public transport, excluding LUAS",Number,5409200.0
+THA25C01,Passenger Journeys,2024W19,2024 Week 19,10,Dublin Metro Bus,Number,3283577.0
+THA25C01,Passenger Journeys,2024W19,2024 Week 19,20,"Bus, excluding Dublin Metro",Number,900426.0
+THA25C01,Passenger Journeys,2024W19,2024 Week 19,30,Rail,Number,902356.0
+THA25C01,Passenger Journeys,2024W19,2024 Week 19,40,"All public transport, excluding LUAS",Number,5086359.0
+THA25C01,Passenger Journeys,2024W20,2024 Week 20,10,Dublin Metro Bus,Number,3476640.0
+THA25C01,Passenger Journeys,2024W20,2024 Week 20,20,"Bus, excluding Dublin Metro",Number,928977.0
+THA25C01,Passenger Journeys,2024W20,2024 Week 20,30,Rail,Number,920252.0
+THA25C01,Passenger Journeys,2024W20,2024 Week 20,40,"All public transport, excluding LUAS",Number,5325869.0
+THA25C01,Passenger Journeys,2024W21,2024 Week 21,10,Dublin Metro Bus,Number,3386256.0
+THA25C01,Passenger Journeys,2024W21,2024 Week 21,20,"Bus, excluding Dublin Metro",Number,905073.0
+THA25C01,Passenger Journeys,2024W21,2024 Week 21,30,Rail,Number,869213.0
+THA25C01,Passenger Journeys,2024W21,2024 Week 21,40,"All public transport, excluding LUAS",Number,5160542.0
+THA25C01,Passenger Journeys,2024W22,2024 Week 22,10,Dublin Metro Bus,Number,3447934.0
+THA25C01,Passenger Journeys,2024W22,2024 Week 22,20,"Bus, excluding Dublin Metro",Number,931660.0
+THA25C01,Passenger Journeys,2024W22,2024 Week 22,30,Rail,Number,944432.0
+THA25C01,Passenger Journeys,2024W22,2024 Week 22,40,"All public transport, excluding LUAS",Number,5324026.0
+THA25C01,Passenger Journeys,2024W23,2024 Week 23,10,Dublin Metro Bus,Number,3101568.0
+THA25C01,Passenger Journeys,2024W23,2024 Week 23,20,"Bus, excluding Dublin Metro",Number,841165.0
+THA25C01,Passenger Journeys,2024W23,2024 Week 23,30,Rail,Number,831534.0
+THA25C01,Passenger Journeys,2024W23,2024 Week 23,40,"All public transport, excluding LUAS",Number,4774267.0
+THA25C01,Passenger Journeys,2024W24,2024 Week 24,10,Dublin Metro Bus,Number,3303254.0
+THA25C01,Passenger Journeys,2024W24,2024 Week 24,20,"Bus, excluding Dublin Metro",Number,895751.0
+THA25C01,Passenger Journeys,2024W24,2024 Week 24,30,Rail,Number,854327.0
+THA25C01,Passenger Journeys,2024W24,2024 Week 24,40,"All public transport, excluding LUAS",Number,5053332.0
+THA25C01,Passenger Journeys,2024W25,2024 Week 25,10,Dublin Metro Bus,Number,3342692.0
+THA25C01,Passenger Journeys,2024W25,2024 Week 25,20,"Bus, excluding Dublin Metro",Number,905743.0
+THA25C01,Passenger Journeys,2024W25,2024 Week 25,30,Rail,Number,933009.0
+THA25C01,Passenger Journeys,2024W25,2024 Week 25,40,"All public transport, excluding LUAS",Number,5181444.0
+THA25C01,Passenger Journeys,2024W26,2024 Week 26,10,Dublin Metro Bus,Number,3328878.0
+THA25C01,Passenger Journeys,2024W26,2024 Week 26,20,"Bus, excluding Dublin Metro",Number,897215.0
+THA25C01,Passenger Journeys,2024W26,2024 Week 26,30,Rail,Number,1005579.0
+THA25C01,Passenger Journeys,2024W26,2024 Week 26,40,"All public transport, excluding LUAS",Number,5231672.0
+THA25C01,Passenger Journeys,2024W27,2024 Week 27,10,Dublin Metro Bus,Number,3273760.0
+THA25C01,Passenger Journeys,2024W27,2024 Week 27,20,"Bus, excluding Dublin Metro",Number,875176.0
+THA25C01,Passenger Journeys,2024W27,2024 Week 27,30,Rail,Number,950951.0
+THA25C01,Passenger Journeys,2024W27,2024 Week 27,40,"All public transport, excluding LUAS",Number,5099887.0
+THA25C01,Passenger Journeys,2024W28,2024 Week 28,10,Dublin Metro Bus,Number,3215134.0
+THA25C01,Passenger Journeys,2024W28,2024 Week 28,20,"Bus, excluding Dublin Metro",Number,886775.0
+THA25C01,Passenger Journeys,2024W28,2024 Week 28,30,Rail,Number,888783.0
+THA25C01,Passenger Journeys,2024W28,2024 Week 28,40,"All public transport, excluding LUAS",Number,4990692.0
+THA25C01,Passenger Journeys,2024W29,2024 Week 29,10,Dublin Metro Bus,Number,3214817.0
+THA25C01,Passenger Journeys,2024W29,2024 Week 29,20,"Bus, excluding Dublin Metro",Number,880765.0
+THA25C01,Passenger Journeys,2024W29,2024 Week 29,30,Rail,Number,877893.0
+THA25C01,Passenger Journeys,2024W29,2024 Week 29,40,"All public transport, excluding LUAS",Number,4973475.0
+THA25C01,Passenger Journeys,2024W30,2024 Week 30,10,Dublin Metro Bus,Number,3229504.0
+THA25C01,Passenger Journeys,2024W30,2024 Week 30,20,"Bus, excluding Dublin Metro",Number,894631.0
+THA25C01,Passenger Journeys,2024W30,2024 Week 30,30,Rail,Number,921598.0
+THA25C01,Passenger Journeys,2024W30,2024 Week 30,40,"All public transport, excluding LUAS",Number,5045733.0
+THA25C01,Passenger Journeys,2024W31,2024 Week 31,10,Dublin Metro Bus,Number,3167600.0
+THA25C01,Passenger Journeys,2024W31,2024 Week 31,20,"Bus, excluding Dublin Metro",Number,877395.0
+THA25C01,Passenger Journeys,2024W31,2024 Week 31,30,Rail,Number,937530.0
+THA25C01,Passenger Journeys,2024W31,2024 Week 31,40,"All public transport, excluding LUAS",Number,4982525.0
+THA25C01,Passenger Journeys,2024W32,2024 Week 32,10,Dublin Metro Bus,Number,2993499.0
+THA25C01,Passenger Journeys,2024W32,2024 Week 32,20,"Bus, excluding Dublin Metro",Number,832984.0
+THA25C01,Passenger Journeys,2024W32,2024 Week 32,30,Rail,Number,848797.0
+THA25C01,Passenger Journeys,2024W32,2024 Week 32,40,"All public transport, excluding LUAS",Number,4675280.0
+THA25C01,Passenger Journeys,2024W33,2024 Week 33,10,Dublin Metro Bus,Number,3219208.0
+THA25C01,Passenger Journeys,2024W33,2024 Week 33,20,"Bus, excluding Dublin Metro",Number,884979.0
+THA25C01,Passenger Journeys,2024W33,2024 Week 33,30,Rail,Number,925615.0
+THA25C01,Passenger Journeys,2024W33,2024 Week 33,40,"All public transport, excluding LUAS",Number,5029802.0
+THA25C01,Passenger Journeys,2024W34,2024 Week 34,10,Dublin Metro Bus,Number,3233460.0
+THA25C01,Passenger Journeys,2024W34,2024 Week 34,20,"Bus, excluding Dublin Metro",Number,880770.0
+THA25C01,Passenger Journeys,2024W34,2024 Week 34,30,Rail,Number,910081.0
+THA25C01,Passenger Journeys,2024W34,2024 Week 34,40,"All public transport, excluding LUAS",Number,5024311.0
+THA25C01,Passenger Journeys,2024W35,2024 Week 35,10,Dublin Metro Bus,Number,3471490.0
+THA25C01,Passenger Journeys,2024W35,2024 Week 35,20,"Bus, excluding Dublin Metro",Number,928814.0
+THA25C01,Passenger Journeys,2024W35,2024 Week 35,30,Rail,Number,989271.0
+THA25C01,Passenger Journeys,2024W35,2024 Week 35,40,"All public transport, excluding LUAS",Number,5389575.0
+THA25C01,Passenger Journeys,2024W36,2024 Week 36,10,Dublin Metro Bus,Number,3537749.0
+THA25C01,Passenger Journeys,2024W36,2024 Week 36,20,"Bus, excluding Dublin Metro",Number,970583.0
+THA25C01,Passenger Journeys,2024W36,2024 Week 36,30,Rail,Number,1002382.0
+THA25C01,Passenger Journeys,2024W36,2024 Week 36,40,"All public transport, excluding LUAS",Number,5510714.0
+THA25C01,Passenger Journeys,2024W37,2024 Week 37,10,Dublin Metro Bus,Number,3706998.0
+THA25C01,Passenger Journeys,2024W37,2024 Week 37,20,"Bus, excluding Dublin Metro",Number,1025239.0
+THA25C01,Passenger Journeys,2024W37,2024 Week 37,30,Rail,Number,944572.0
+THA25C01,Passenger Journeys,2024W37,2024 Week 37,40,"All public transport, excluding LUAS",Number,5676809.0
+THA25C01,Passenger Journeys,2024W38,2024 Week 38,10,Dublin Metro Bus,Number,3794314.0
+THA25C01,Passenger Journeys,2024W38,2024 Week 38,20,"Bus, excluding Dublin Metro",Number,1100942.0
+THA25C01,Passenger Journeys,2024W38,2024 Week 38,30,Rail,Number,1044843.0
+THA25C01,Passenger Journeys,2024W38,2024 Week 38,40,"All public transport, excluding LUAS",Number,5940099.0
+THA25C01,Passenger Journeys,2024W39,2024 Week 39,10,Dublin Metro Bus,Number,3779047.0
+THA25C01,Passenger Journeys,2024W39,2024 Week 39,20,"Bus, excluding Dublin Metro",Number,1050790.0
+THA25C01,Passenger Journeys,2024W39,2024 Week 39,30,Rail,Number,1016204.0
+THA25C01,Passenger Journeys,2024W39,2024 Week 39,40,"All public transport, excluding LUAS",Number,5846041.0
+THA25C01,Passenger Journeys,2024W40,2024 Week 40,10,Dublin Metro Bus,Number,3801095.0
+THA25C01,Passenger Journeys,2024W40,2024 Week 40,20,"Bus, excluding Dublin Metro",Number,1055024.0
+THA25C01,Passenger Journeys,2024W40,2024 Week 40,30,Rail,Number,1061862.0
+THA25C01,Passenger Journeys,2024W40,2024 Week 40,40,"All public transport, excluding LUAS",Number,5917981.0
+THA25C01,Passenger Journeys,2024W41,2024 Week 41,10,Dublin Metro Bus,Number,3874248.0
+THA25C01,Passenger Journeys,2024W41,2024 Week 41,20,"Bus, excluding Dublin Metro",Number,1093954.0
+THA25C01,Passenger Journeys,2024W41,2024 Week 41,30,Rail,Number,1111384.0
+THA25C01,Passenger Journeys,2024W41,2024 Week 41,40,"All public transport, excluding LUAS",Number,6079586.0
+THA25C01,Passenger Journeys,2024W42,2024 Week 42,10,Dublin Metro Bus,Number,3853829.0
+THA25C01,Passenger Journeys,2024W42,2024 Week 42,20,"Bus, excluding Dublin Metro",Number,1054856.0
+THA25C01,Passenger Journeys,2024W42,2024 Week 42,30,Rail,Number,1099977.0
+THA25C01,Passenger Journeys,2024W42,2024 Week 42,40,"All public transport, excluding LUAS",Number,6008662.0
+THA25C01,Passenger Journeys,2024W43,2024 Week 43,10,Dublin Metro Bus,Number,3750530.0
+THA25C01,Passenger Journeys,2024W43,2024 Week 43,20,"Bus, excluding Dublin Metro",Number,1081932.0
+THA25C01,Passenger Journeys,2024W43,2024 Week 43,30,Rail,Number,984519.0
+THA25C01,Passenger Journeys,2024W43,2024 Week 43,40,"All public transport, excluding LUAS",Number,5816981.0
+THA25C01,Passenger Journeys,2024W44,2024 week 44,10,Dublin Metro Bus,Number,3334027.0
+THA25C01,Passenger Journeys,2024W44,2024 week 44,20,"Bus, excluding Dublin Metro",Number,924921.0
+THA25C01,Passenger Journeys,2024W44,2024 week 44,30,Rail,Number,913124.0
+THA25C01,Passenger Journeys,2024W44,2024 week 44,40,"All public transport, excluding LUAS",Number,5172072.0
+THA25C01,Passenger Journeys,2024W45,2024 Week 45,10,Dublin Metro Bus,Number,3782514.0
+THA25C01,Passenger Journeys,2024W45,2024 Week 45,20,"Bus, excluding Dublin Metro",Number,1054455.0
+THA25C01,Passenger Journeys,2024W45,2024 Week 45,30,Rail,Number,1087992.0
+THA25C01,Passenger Journeys,2024W45,2024 Week 45,40,"All public transport, excluding LUAS",Number,5924961.0
+THA25C01,Passenger Journeys,2024W46,2024 Week 46,10,Dublin Metro Bus,Number,3801077.0
+THA25C01,Passenger Journeys,2024W46,2024 Week 46,20,"Bus, excluding Dublin Metro",Number,1067757.0
+THA25C01,Passenger Journeys,2024W46,2024 Week 46,30,Rail,Number,1068454.0
+THA25C01,Passenger Journeys,2024W46,2024 Week 46,40,"All public transport, excluding LUAS",Number,5937288.0
+THA25C01,Passenger Journeys,2024W47,2024 Week 47,10,Dublin Metro Bus,Number,3690266.0
+THA25C01,Passenger Journeys,2024W47,2024 Week 47,20,"Bus, excluding Dublin Metro",Number,976677.0
+THA25C01,Passenger Journeys,2024W47,2024 Week 47,30,Rail,Number,993364.0
+THA25C01,Passenger Journeys,2024W47,2024 Week 47,40,"All public transport, excluding LUAS",Number,5660307.0
+THA25C01,Passenger Journeys,2024W48,2024 Week 48,10,Dublin Metro Bus,Number,3817764.0
+THA25C01,Passenger Journeys,2024W48,2024 Week 48,20,"Bus, excluding Dublin Metro",Number,1029821.0
+THA25C01,Passenger Journeys,2024W48,2024 Week 48,30,Rail,Number,1061537.0
+THA25C01,Passenger Journeys,2024W48,2024 Week 48,40,"All public transport, excluding LUAS",Number,5909122.0
+THA25C01,Passenger Journeys,2024W49,2024 Week 49,10,Dublin Metro Bus,Number,3658274.0
+THA25C01,Passenger Journeys,2024W49,2024 Week 49,20,"Bus, excluding Dublin Metro",Number,968927.0
+THA25C01,Passenger Journeys,2024W49,2024 Week 49,30,Rail,Number,1035893.0
+THA25C01,Passenger Journeys,2024W49,2024 Week 49,40,"All public transport, excluding LUAS",Number,5663095.0
+THA25C01,Passenger Journeys,2024W50,2024 Week 50,10,Dublin Metro Bus,Number,3770647.0
+THA25C01,Passenger Journeys,2024W50,2024 Week 50,20,"Bus, excluding Dublin Metro",Number,1016649.0
+THA25C01,Passenger Journeys,2024W50,2024 Week 50,30,Rail,Number,1060455.0
+THA25C01,Passenger Journeys,2024W50,2024 Week 50,40,"All public transport, excluding LUAS",Number,5847751.0
+THA25C01,Passenger Journeys,2024W51,2024 Week 51,10,Dublin Metro Bus,Number,3659776.0
+THA25C01,Passenger Journeys,2024W51,2024 Week 51,20,"Bus, excluding Dublin Metro",Number,999340.0
+THA25C01,Passenger Journeys,2024W51,2024 Week 51,30,Rail,Number,993466.0
+THA25C01,Passenger Journeys,2024W51,2024 Week 51,40,"All public transport, excluding LUAS",Number,5652582.0
+THA25C01,Passenger Journeys,2024W52,2024 Week 52,10,Dublin Metro Bus,Number,1980749.0
+THA25C01,Passenger Journeys,2024W52,2024 Week 52,20,"Bus, excluding Dublin Metro",Number,531118.0
+THA25C01,Passenger Journeys,2024W52,2024 Week 52,30,Rail,Number,412344.0
+THA25C01,Passenger Journeys,2024W52,2024 Week 52,40,"All public transport, excluding LUAS",Number,2924211.0
+THA25C01,Passenger Journeys,2025W01,2025 Week 01,10,Dublin Metro Bus,Number,2247403.0
+THA25C01,Passenger Journeys,2025W01,2025 Week 01,20,"Bus, excluding Dublin Metro",Number,584677.0
+THA25C01,Passenger Journeys,2025W01,2025 Week 01,30,Rail,Number,494715.0
+THA25C01,Passenger Journeys,2025W01,2025 Week 01,40,"All public transport, excluding LUAS",Number,3326795.0
+THA25C01,Passenger Journeys,2025W02,2025 Week 02,10,Dublin Metro Bus,Number,2977702.0
+THA25C01,Passenger Journeys,2025W02,2025 Week 02,20,"Bus, excluding Dublin Metro",Number,720340.0
+THA25C01,Passenger Journeys,2025W02,2025 Week 02,30,Rail,Number,737868.0
+THA25C01,Passenger Journeys,2025W02,2025 Week 02,40,"All public transport, excluding LUAS",Number,4435910.0
+THA25C01,Passenger Journeys,2025W03,2025 Week 03,10,Dublin Metro Bus,Number,3325123.0
+THA25C01,Passenger Journeys,2025W03,2025 Week 03,20,"Bus, excluding Dublin Metro",Number,912576.0
+THA25C01,Passenger Journeys,2025W03,2025 Week 03,30,Rail,Number,920086.0
+THA25C01,Passenger Journeys,2025W03,2025 Week 03,40,"All public transport, excluding LUAS",Number,5157785.0
+THA25C01,Passenger Journeys,2025W04,2025 Week 04,10,Dublin Metro Bus,Number,2962432.0
+THA25C01,Passenger Journeys,2025W04,2025 Week 04,20,"Bus, excluding Dublin Metro",Number,796064.0
+THA25C01,Passenger Journeys,2025W04,2025 Week 04,30,Rail,Number,741270.0
+THA25C01,Passenger Journeys,2025W04,2025 Week 04,40,"All public transport, excluding LUAS",Number,4499766.0
+THA25C01,Passenger Journeys,2025W05,2025 Week 05,10,Dublin Metro Bus,Number,3481997.0
+THA25C01,Passenger Journeys,2025W05,2025 Week 05,20,"Bus, excluding Dublin Metro",Number,962300.0
+THA25C01,Passenger Journeys,2025W05,2025 Week 05,30,Rail,Number,989932.0
+THA25C01,Passenger Journeys,2025W05,2025 Week 05,40,"All public transport, excluding LUAS",Number,5434229.0
+THA25C01,Passenger Journeys,2025W06,2025 Week 06,10,Dublin Metro Bus,Number,3238863.0
+THA25C01,Passenger Journeys,2025W06,2025 Week 06,20,"Bus, excluding Dublin Metro",Number,895428.0
+THA25C01,Passenger Journeys,2025W06,2025 Week 06,30,Rail,Number,920443.0
+THA25C01,Passenger Journeys,2025W06,2025 Week 06,40,"All public transport, excluding LUAS",Number,5054734.0
+THA25C01,Passenger Journeys,2025W07,2025 Week 07,10,Dublin Metro Bus,Number,3571351.0
+THA25C01,Passenger Journeys,2025W07,2025 Week 07,20,"Bus, excluding Dublin Metro",Number,971523.0
+THA25C01,Passenger Journeys,2025W07,2025 Week 07,30,Rail,Number,947662.0
+THA25C01,Passenger Journeys,2025W07,2025 Week 07,40,"All public transport, excluding LUAS",Number,5490536.0
+THA25C01,Passenger Journeys,2025W08,2025 Week 08,10,Dublin Metro Bus,Number,3540977.0
+THA25C01,Passenger Journeys,2025W08,2025 Week 08,20,"Bus, excluding Dublin Metro",Number,921586.0
+THA25C01,Passenger Journeys,2025W08,2025 Week 08,30,Rail,Number,991006.0
+THA25C01,Passenger Journeys,2025W08,2025 Week 08,40,"All public transport, excluding LUAS",Number,5453569.0
+THA25C01,Passenger Journeys,2025W09,2025 Week 09,10,Dublin Metro Bus,Number,3715885.0
+THA25C01,Passenger Journeys,2025W09,2025 Week 09,20,"Bus, excluding Dublin Metro",Number,996474.0
+THA25C01,Passenger Journeys,2025W09,2025 Week 09,30,Rail,Number,1035480.0
+THA25C01,Passenger Journeys,2025W09,2025 Week 09,40,"All public transport, excluding LUAS",Number,5747839.0
+THA25C01,Passenger Journeys,2025W10,2025 Week 10,10,Dublin Metro Bus,Number,3768906.0
+THA25C01,Passenger Journeys,2025W10,2025 Week 10,20,"Bus, excluding Dublin Metro",Number,1006537.0
+THA25C01,Passenger Journeys,2025W10,2025 Week 10,30,Rail,Number,1091076.0
+THA25C01,Passenger Journeys,2025W10,2025 Week 10,40,"All public transport, excluding LUAS",Number,5866519.0
+THA25C01,Passenger Journeys,2025W11,2025 Week 11,10,Dublin Metro Bus,Number,3754821.0
+THA25C01,Passenger Journeys,2025W11,2025 Week 11,20,"Bus, excluding Dublin Metro",Number,1041321.0
+THA25C01,Passenger Journeys,2025W11,2025 Week 11,30,Rail,Number,1057447.0
+THA25C01,Passenger Journeys,2025W11,2025 Week 11,40,"All public transport, excluding LUAS",Number,5853589.0
+THA25C01,Passenger Journeys,2025W12,2025 Week 12,10,Dublin Metro Bus,Number,3389409.0
+THA25C01,Passenger Journeys,2025W12,2025 Week 12,20,"Bus, excluding Dublin Metro",Number,924952.0
+THA25C01,Passenger Journeys,2025W12,2025 Week 12,30,Rail,Number,964709.0
+THA25C01,Passenger Journeys,2025W12,2025 Week 12,40,"All public transport, excluding LUAS",Number,5279070.0
+THA25C01,Passenger Journeys,2025W13,2025 Week 13,10,Dublin Metro Bus,Number,3813411.0
+THA25C01,Passenger Journeys,2025W13,2025 Week 13,20,"Bus, excluding Dublin Metro",Number,1019535.0
+THA25C01,Passenger Journeys,2025W13,2025 Week 13,30,Rail,Number,1068813.0
+THA25C01,Passenger Journeys,2025W13,2025 Week 13,40,"All public transport, excluding LUAS",Number,5901759.0
+THA25C01,Passenger Journeys,2025W14,2025 Week 14,10,Dublin Metro Bus,Number,3834102.0
+THA25C01,Passenger Journeys,2025W14,2025 Week 14,20,"Bus, excluding Dublin Metro",Number,1040706.0
+THA25C01,Passenger Journeys,2025W14,2025 Week 14,30,Rail,Number,1141397.0
+THA25C01,Passenger Journeys,2025W14,2025 Week 14,40,"All public transport, excluding LUAS",Number,6016205.0
+THA25C01,Passenger Journeys,2025W15,2025 Week 15,10,Dublin Metro Bus,Number,3681556.0
+THA25C01,Passenger Journeys,2025W15,2025 Week 15,20,"Bus, excluding Dublin Metro",Number,1027000.0
+THA25C01,Passenger Journeys,2025W15,2025 Week 15,30,Rail,Number,1089482.0
+THA25C01,Passenger Journeys,2025W15,2025 Week 15,40,"All public transport, excluding LUAS",Number,5798038.0
+THA25C01,Passenger Journeys,2025W16,2025 Week 16,10,Dublin Metro Bus,Number,3163107.0
+THA25C01,Passenger Journeys,2025W16,2025 Week 16,20,"Bus, excluding Dublin Metro",Number,865958.0
+THA25C01,Passenger Journeys,2025W16,2025 Week 16,30,Rail,Number,841834.0
+THA25C01,Passenger Journeys,2025W16,2025 Week 16,40,"All public transport, excluding LUAS",Number,4870899.0
+THA25C01,Passenger Journeys,2025W17,2025 Week 17,10,Dublin Metro Bus,Number,3071394.0
+THA25C01,Passenger Journeys,2025W17,2025 Week 17,20,"Bus, excluding Dublin Metro",Number,841697.0
+THA25C01,Passenger Journeys,2025W17,2025 Week 17,30,Rail,Number,879256.0
+THA25C01,Passenger Journeys,2025W17,2025 Week 17,40,"All public transport, excluding LUAS",Number,4792347.0
+THA25C01,Passenger Journeys,2025W18,2025 Week 18,10,Dublin Metro Bus,Number,3584621.0
+THA25C01,Passenger Journeys,2025W18,2025 Week 18,20,"Bus, excluding Dublin Metro",Number,1027017.0
+THA25C01,Passenger Journeys,2025W18,2025 Week 18,30,Rail,Number,924926.0
+THA25C01,Passenger Journeys,2025W18,2025 Week 18,40,"All public transport, excluding LUAS",Number,5536564.0
+THA25C01,Passenger Journeys,2025W19,2025 Week 19,10,Dublin Metro Bus,Number,3283855.0
+THA25C01,Passenger Journeys,2025W19,2025 Week 19,20,"Bus, excluding Dublin Metro",Number,934328.0
+THA25C01,Passenger Journeys,2025W19,2025 Week 19,30,Rail,Number,894834.0
+THA25C01,Passenger Journeys,2025W19,2025 Week 19,40,"All public transport, excluding LUAS",Number,5113017.0
+THA25C01,Passenger Journeys,2025W20,2025 Week 20,10,Dublin Metro Bus,Number,3499256.0
+THA25C01,Passenger Journeys,2025W20,2025 Week 20,20,"Bus, excluding Dublin Metro",Number,990602.0
+THA25C01,Passenger Journeys,2025W20,2025 Week 20,30,Rail,Number,767938.0
+THA25C01,Passenger Journeys,2025W20,2025 Week 20,40,"All public transport, excluding LUAS",Number,5257796.0
+THA25C01,Passenger Journeys,2025W21,2025 Week 21,10,Dublin Metro Bus,Number,3403361.0
+THA25C01,Passenger Journeys,2025W21,2025 Week 21,20,"Bus, excluding Dublin Metro",Number,921203.0
+THA25C01,Passenger Journeys,2025W21,2025 Week 21,30,Rail,Number,736592.0
+THA25C01,Passenger Journeys,2025W21,2025 Week 21,40,"All public transport, excluding LUAS",Number,5061156.0
+THA25C01,Passenger Journeys,2025W22,2025 Week 22,10,Dublin Metro Bus,Number,3451510.0
+THA25C01,Passenger Journeys,2025W22,2025 Week 22,20,"Bus, excluding Dublin Metro",Number,902296.0
+THA25C01,Passenger Journeys,2025W22,2025 Week 22,30,Rail,Number,811810.0
+THA25C01,Passenger Journeys,2025W22,2025 Week 22,40,"All public transport, excluding LUAS",Number,5165616.0
+THA25C01,Passenger Journeys,2025W23,2025 Week 23,10,Dublin Metro Bus,Number,3107451.0
+THA25C01,Passenger Journeys,2025W23,2025 Week 23,20,"Bus, excluding Dublin Metro",Number,826702.0
+THA25C01,Passenger Journeys,2025W23,2025 Week 23,30,Rail,Number,812394.0
+THA25C01,Passenger Journeys,2025W23,2025 Week 23,40,"All public transport, excluding LUAS",Number,4746547.0
+THA25C01,Passenger Journeys,2025W24,2025 Week 24,10,Dublin Metro Bus,Number,3243462.0
+THA25C01,Passenger Journeys,2025W24,2025 Week 24,20,"Bus, excluding Dublin Metro",Number,884106.0
+THA25C01,Passenger Journeys,2025W24,2025 Week 24,30,Rail,Number,714534.0
+THA25C01,Passenger Journeys,2025W24,2025 Week 24,40,"All public transport, excluding LUAS",Number,4842102.0
+THA25C01,Passenger Journeys,2025W25,2025 Week 25,10,Dublin Metro Bus,Number,3389319.0
+THA25C01,Passenger Journeys,2025W25,2025 Week 25,20,"Bus, excluding Dublin Metro",Number,960579.0
+THA25C01,Passenger Journeys,2025W25,2025 Week 25,30,Rail,Number,871252.0
+THA25C01,Passenger Journeys,2025W25,2025 Week 25,40,"All public transport, excluding LUAS",Number,5221150.0
+THA25C01,Passenger Journeys,2025W26,2025 Week 26,10,Dublin Metro Bus,Number,3371393.0
+THA25C01,Passenger Journeys,2025W26,2025 Week 26,20,"Bus, excluding Dublin Metro",Number,930106.0
+THA25C01,Passenger Journeys,2025W26,2025 Week 26,30,Rail,Number,821874.0
+THA25C01,Passenger Journeys,2025W26,2025 Week 26,40,"All public transport, excluding LUAS",Number,5123373.0
+THA25C01,Passenger Journeys,2025W27,2025 Week 27,10,Dublin Metro Bus,Number,3322063.0
+THA25C01,Passenger Journeys,2025W27,2025 Week 27,20,"Bus, excluding Dublin Metro",Number,924657.0
+THA25C01,Passenger Journeys,2025W27,2025 Week 27,30,Rail,Number,817204.0
+THA25C01,Passenger Journeys,2025W27,2025 Week 27,40,"All public transport, excluding LUAS",Number,5063924.0
+THA25C01,Passenger Journeys,2025W28,2025 Week 28,10,Dublin Metro Bus,Number,3346121.0
+THA25C01,Passenger Journeys,2025W28,2025 Week 28,20,"Bus, excluding Dublin Metro",Number,973584.0
+THA25C01,Passenger Journeys,2025W28,2025 Week 28,30,Rail,Number,851427.0
+THA25C01,Passenger Journeys,2025W28,2025 Week 28,40,"All public transport, excluding LUAS",Number,5171132.0
+THA25C01,Passenger Journeys,2025W29,2025 Week 29,10,Dublin Metro Bus,Number,3217927.0
+THA25C01,Passenger Journeys,2025W29,2025 Week 29,20,"Bus, excluding Dublin Metro",Number,910978.0
+THA25C01,Passenger Journeys,2025W29,2025 Week 29,30,Rail,Number,830168.0
+THA25C01,Passenger Journeys,2025W29,2025 Week 29,40,"All public transport, excluding LUAS",Number,4959073.0
+THA25C01,Passenger Journeys,2025W30,2025 Week 30,10,Dublin Metro Bus,Number,3201181.0
+THA25C01,Passenger Journeys,2025W30,2025 Week 30,20,"Bus, excluding Dublin Metro",Number,931745.0
+THA25C01,Passenger Journeys,2025W30,2025 Week 30,30,Rail,Number,850472.0
+THA25C01,Passenger Journeys,2025W30,2025 Week 30,40,"All public transport, excluding LUAS",Number,4983398.0
+THA25C01,Passenger Journeys,2025W31,2025 Week 31,10,Dublin Metro Bus,Number,3173673.0
+THA25C01,Passenger Journeys,2025W31,2025 Week 31,20,"Bus, excluding Dublin Metro",Number,675611.0
+THA25C01,Passenger Journeys,2025W31,2025 Week 31,30,Rail,Number,829900.0
+THA25C01,Passenger Journeys,2025W31,2025 Week 31,40,"All public transport, excluding LUAS",Number,4679184.0
+THA25C01,Passenger Journeys,2025W32,2025 Week 32,10,Dublin Metro Bus,Number,2994306.0
+THA25C01,Passenger Journeys,2025W32,2025 Week 32,20,"Bus, excluding Dublin Metro",Number,857508.0
+THA25C01,Passenger Journeys,2025W32,2025 Week 32,30,Rail,Number,909942.0
+THA25C01,Passenger Journeys,2025W32,2025 Week 32,40,"All public transport, excluding LUAS",Number,4761756.0
+THA25C01,Passenger Journeys,2025W33,2025 Week 33,10,Dublin Metro Bus,Number,3231267.0
+THA25C01,Passenger Journeys,2025W33,2025 Week 33,20,"Bus, excluding Dublin Metro",Number,948930.0
+THA25C01,Passenger Journeys,2025W33,2025 Week 33,30,Rail,Number,931048.0
+THA25C01,Passenger Journeys,2025W33,2025 Week 33,40,"All public transport, excluding LUAS",Number,5111245.0
+THA25C01,Passenger Journeys,2025W34,2025 Week 34,10,Dublin Metro Bus,Number,3275554.0
+THA25C01,Passenger Journeys,2025W34,2025 Week 34,20,"Bus, excluding Dublin Metro",Number,947525.0
+THA25C01,Passenger Journeys,2025W34,2025 Week 34,30,Rail,Number,924712.0
+THA25C01,Passenger Journeys,2025W34,2025 Week 34,40,"All public transport, excluding LUAS",Number,5147791.0
+THA25C01,Passenger Journeys,2025W35,2025 Week 35,10,Dublin Metro Bus,Number,3349756.0
+THA25C01,Passenger Journeys,2025W35,2025 Week 35,20,"Bus, excluding Dublin Metro",Number,915769.0
+THA25C01,Passenger Journeys,2025W35,2025 Week 35,30,Rail,Number,739652.0
+THA25C01,Passenger Journeys,2025W35,2025 Week 35,40,"All public transport, excluding LUAS",Number,5005177.0
+THA25C01,Passenger Journeys,2025W36,2025 Week 36,10,Dublin Metro Bus,Number,3488562.0
+THA25C01,Passenger Journeys,2025W36,2025 Week 36,20,"Bus, excluding Dublin Metro",Number,1130405.0
+THA25C01,Passenger Journeys,2025W36,2025 Week 36,30,Rail,Number,760368.0
+THA25C01,Passenger Journeys,2025W36,2025 Week 36,40,"All public transport, excluding LUAS",Number,5379335.0
+THA25C01,Passenger Journeys,2025W37,2025 Week 37,10,Dublin Metro Bus,Number,3651365.0
+THA25C01,Passenger Journeys,2025W37,2025 Week 37,20,"Bus, excluding Dublin Metro",Number,1041321.0
+THA25C01,Passenger Journeys,2025W37,2025 Week 37,30,Rail,Number,714450.0
+THA25C01,Passenger Journeys,2025W37,2025 Week 37,40,"All public transport, excluding LUAS",Number,5407136.0
+THA25C01,Passenger Journeys,2025W38,2025 Week 38,10,Dublin Metro Bus,Number,3780622.0
+THA25C01,Passenger Journeys,2025W38,2025 Week 38,20,"Bus, excluding Dublin Metro",Number,1104500.0
+THA25C01,Passenger Journeys,2025W38,2025 Week 38,30,Rail,Number,809830.0
+THA25C01,Passenger Journeys,2025W38,2025 Week 38,40,"All public transport, excluding LUAS",Number,5694952.0
+THA25C01,Passenger Journeys,2025W39,2025 Week 39,10,Dublin Metro Bus,Number,3782468.0
+THA25C01,Passenger Journeys,2025W39,2025 Week 39,20,"Bus, excluding Dublin Metro",Number,1126931.0
+THA25C01,Passenger Journeys,2025W39,2025 Week 39,30,Rail,Number,820922.0
+THA25C01,Passenger Journeys,2025W39,2025 Week 39,40,"All public transport, excluding LUAS",Number,5730321.0
+THA25C01,Passenger Journeys,2025W40,2025 Week 40,10,Dublin Metro Bus,Number,3642054.0
+THA25C01,Passenger Journeys,2025W40,2025 Week 40,20,"Bus, excluding Dublin Metro",Number,1039347.0
+THA25C01,Passenger Journeys,2025W40,2025 Week 40,30,Rail,Number,823432.0
+THA25C01,Passenger Journeys,2025W40,2025 Week 40,40,"All public transport, excluding LUAS",Number,5504833.0
+THA25C01,Passenger Journeys,2025W41,2025 Week 41,10,Dublin Metro Bus,Number,3809019.0
+THA25C01,Passenger Journeys,2025W41,2025 Week 41,20,"Bus, excluding Dublin Metro",Number,1116489.0
+THA25C01,Passenger Journeys,2025W41,2025 Week 41,30,Rail,Number,794734.0
+THA25C01,Passenger Journeys,2025W41,2025 Week 41,40,"All public transport, excluding LUAS",Number,5720242.0
+THA25C01,Passenger Journeys,2025W42,2025 Week 42,10,Dublin Metro Bus,Number,3737273.0
+THA25C01,Passenger Journeys,2025W42,2025 Week 42,20,"Bus, excluding Dublin Metro",Number,1089392.0
+THA25C01,Passenger Journeys,2025W42,2025 Week 42,30,Rail,Number,799956.0
+THA25C01,Passenger Journeys,2025W42,2025 Week 42,40,"All public transport, excluding LUAS",Number,5626621.0
+THA25C01,Passenger Journeys,2025W43,2025 Week 43,10,Dublin Metro Bus,Number,3631321.0
+THA25C01,Passenger Journeys,2025W43,2025 Week 43,20,"Bus, excluding Dublin Metro",Number,1105330.0
+THA25C01,Passenger Journeys,2025W43,2025 Week 43,30,Rail,Number,791436.0
+THA25C01,Passenger Journeys,2025W43,2025 Week 43,40,"All public transport, excluding LUAS",Number,5528087.0
+THA25C01,Passenger Journeys,2025W44,2025 Week 44,10,Dublin Metro Bus,Number,3207291.0
+THA25C01,Passenger Journeys,2025W44,2025 Week 44,20,"Bus, excluding Dublin Metro",Number,906162.0
+THA25C01,Passenger Journeys,2025W44,2025 Week 44,30,Rail,Number,751206.0
+THA25C01,Passenger Journeys,2025W44,2025 Week 44,40,"All public transport, excluding LUAS",Number,4864659.0
+THA25C01,Passenger Journeys,2025W45,2025 Week 45,10,Dublin Metro Bus,Number,3657695.0
+THA25C01,Passenger Journeys,2025W45,2025 Week 45,20,"Bus, excluding Dublin Metro",Number,1046515.0
+THA25C01,Passenger Journeys,2025W45,2025 Week 45,30,Rail,Number,845664.0
+THA25C01,Passenger Journeys,2025W45,2025 Week 45,40,"All public transport, excluding LUAS",Number,5549874.0
+THA25C01,Passenger Journeys,2025W46,2025 Week 46,10,Dublin Metro Bus,Number,3548508.0
+THA25C01,Passenger Journeys,2025W46,2025 Week 46,20,"Bus, excluding Dublin Metro",Number,1038511.0
+THA25C01,Passenger Journeys,2025W46,2025 Week 46,30,Rail,Number,801208.0
+THA25C01,Passenger Journeys,2025W46,2025 Week 46,40,"All public transport, excluding LUAS",Number,5388227.0
+THA25C01,Passenger Journeys,2025W47,2025 Week 47,10,Dublin Metro Bus,Number,3372060.0
+THA25C01,Passenger Journeys,2025W47,2025 Week 47,20,"Bus, excluding Dublin Metro",Number,1063723.0
+THA25C01,Passenger Journeys,2025W47,2025 Week 47,30,Rail,Number,814432.0
+THA25C01,Passenger Journeys,2025W47,2025 Week 47,40,"All public transport, excluding LUAS",Number,5250215.0
+THA25C01,Passenger Journeys,2025W48,2025 Week 48,10,Dublin Metro Bus,Number,3693422.0
+THA25C01,Passenger Journeys,2025W48,2025 Week 48,20,"Bus, excluding Dublin Metro",Number,1053169.0
+THA25C01,Passenger Journeys,2025W48,2025 Week 48,30,Rail,Number,845590.0
+THA25C01,Passenger Journeys,2025W48,2025 Week 48,40,"All public transport, excluding LUAS",Number,5592181.0
+THA25C01,Passenger Journeys,2025W49,2025 Week 49,10,Dublin Metro Bus,Number,3563075.0
+THA25C01,Passenger Journeys,2025W49,2025 Week 49,20,"Bus, excluding Dublin Metro",Number,1012494.0
+THA25C01,Passenger Journeys,2025W49,2025 Week 49,30,Rail,Number,887104.0
+THA25C01,Passenger Journeys,2025W49,2025 Week 49,40,"All public transport, excluding LUAS",Number,5462673.0
+THA25C01,Passenger Journeys,2025W50,2025 Week 50,10,Dublin Metro Bus,Number,3663181.0
+THA25C01,Passenger Journeys,2025W50,2025 Week 50,20,"Bus, excluding Dublin Metro",Number,909209.0
+THA25C01,Passenger Journeys,2025W50,2025 Week 50,30,Rail,Number,859938.0
+THA25C01,Passenger Journeys,2025W50,2025 Week 50,40,"All public transport, excluding LUAS",Number,5432328.0
+THA25C01,Passenger Journeys,2025W51,2025 Week 51,10,Dublin Metro Bus,Number,3615352.0
+THA25C01,Passenger Journeys,2025W51,2025 Week 51,20,"Bus, excluding Dublin Metro",Number,1036397.0
+THA25C01,Passenger Journeys,2025W51,2025 Week 51,30,Rail,Number,861680.0
+THA25C01,Passenger Journeys,2025W51,2025 Week 51,40,"All public transport, excluding LUAS",Number,5513429.0
+THA25C01,Passenger Journeys,2025W52,2025 Week 52,10,Dublin Metro Bus,Number,2054641.0
+THA25C01,Passenger Journeys,2025W52,2025 Week 52,20,"Bus, excluding Dublin Metro",Number,1286613.0
+THA25C01,Passenger Journeys,2025W52,2025 Week 52,30,Rail,Number,604294.0
+THA25C01,Passenger Journeys,2025W52,2025 Week 52,40,"All public transport, excluding LUAS",Number,3945548.0
+THA25C01,Passenger Journeys,2026W01,2026 Week 01,10,Dublin Metro Bus,Number,3114321.0
+THA25C01,Passenger Journeys,2026W01,2026 Week 01,20,"Bus, excluding Dublin Metro",Number,880639.0
+THA25C01,Passenger Journeys,2026W01,2026 Week 01,30,Rail,Number,865533.0
+THA25C01,Passenger Journeys,2026W01,2026 Week 01,40,"All public transport, excluding LUAS",Number,4860493.0
+THA25C01,Passenger Journeys,2026W02,2026 Week 02,10,Dublin Metro Bus,Number,3373015.0
+THA25C01,Passenger Journeys,2026W02,2026 Week 02,20,"Bus, excluding Dublin Metro",Number,1008980.0
+THA25C01,Passenger Journeys,2026W02,2026 Week 02,30,Rail,Number,955644.0
+THA25C01,Passenger Journeys,2026W02,2026 Week 02,40,"All public transport, excluding LUAS",Number,5337639.0
+THA25C01,Passenger Journeys,2026W03,2026 Week 03,10,Dublin Metro Bus,Number,3465498.0
+THA25C01,Passenger Journeys,2026W03,2026 Week 03,20,"Bus, excluding Dublin Metro",Number,1036404.0
+THA25C01,Passenger Journeys,2026W03,2026 Week 03,30,Rail,Number,966437.0
+THA25C01,Passenger Journeys,2026W03,2026 Week 03,40,"All public transport, excluding LUAS",Number,5468339.0
+THA25C01,Passenger Journeys,2026W04,2026 Week 04,10,Dublin Metro Bus,Number,3544241.0
+THA25C01,Passenger Journeys,2026W04,2026 Week 04,20,"Bus, excluding Dublin Metro",Number,1072366.0
+THA25C01,Passenger Journeys,2026W04,2026 Week 04,30,Rail,Number,913828.0
+THA25C01,Passenger Journeys,2026W04,2026 Week 04,40,"All public transport, excluding LUAS",Number,5530435.0
+THA25C01,Passenger Journeys,2026W05,2026 Week 05,10,Dublin Metro Bus,Number,3234847.0
+THA25C01,Passenger Journeys,2026W05,2026 Week 05,20,"Bus, excluding Dublin Metro",Number,981707.0
+THA25C01,Passenger Journeys,2026W05,2026 Week 05,30,Rail,Number,863033.0
+THA25C01,Passenger Journeys,2026W05,2026 Week 05,40,"All public transport, excluding LUAS",Number,5079587.0
+THA25C01,Passenger Journeys,2026W06,2026 Week 06,10,Dublin Metro Bus,Number,3679349.0
+THA25C01,Passenger Journeys,2026W06,2026 Week 06,20,"Bus, excluding Dublin Metro",Number,1099171.0
+THA25C01,Passenger Journeys,2026W06,2026 Week 06,30,Rail,Number,1061793.0
+THA25C01,Passenger Journeys,2026W06,2026 Week 06,40,"All public transport, excluding LUAS",Number,5840313.0
+THA25C01,Passenger Journeys,2026W07,2026 Week 07,10,Dublin Metro Bus,Number,3535947.0
+THA25C01,Passenger Journeys,2026W07,2026 Week 07,20,"Bus, excluding Dublin Metro",Number,1033959.0
+THA25C01,Passenger Journeys,2026W07,2026 Week 07,30,Rail,Number,989742.0
+THA25C01,Passenger Journeys,2026W07,2026 Week 07,40,"All public transport, excluding LUAS",Number,5559648.0
+THA25C01,Passenger Journeys,2026W08,2026 Week 08,10,Dublin Metro Bus,Number,3674587.0
+THA25C01,Passenger Journeys,2026W08,2026 Week 08,20,"Bus, excluding Dublin Metro",Number,1090796.0
+THA25C01,Passenger Journeys,2026W08,2026 Week 08,30,Rail,Number,1071794.0
+THA25C01,Passenger Journeys,2026W08,2026 Week 08,40,"All public transport, excluding LUAS",Number,5837177.0
+THA25C01,Passenger Journeys,2026W09,2026 Week 09,10,Dublin Metro Bus,Number,3777197.0
+THA25C01,Passenger Journeys,2026W09,2026 Week 09,20,"Bus, excluding Dublin Metro",Number,1131608.0
+THA25C01,Passenger Journeys,2026W09,2026 Week 09,30,Rail,Number,1137331.0
+THA25C01,Passenger Journeys,2026W09,2026 Week 09,40,"All public transport, excluding LUAS",Number,6046136.0
+THA25C01,Passenger Journeys,2026W10,2026 Week 10,10,Dublin Metro Bus,Number,3695046.0
+THA25C01,Passenger Journeys,2026W10,2026 Week 10,20,"Bus, excluding Dublin Metro",Number,1108836.0
+THA25C01,Passenger Journeys,2026W10,2026 Week 10,30,Rail,Number,1099616.0
+THA25C01,Passenger Journeys,2026W10,2026 Week 10,40,"All public transport, excluding LUAS",Number,5903498.0
+THA25C01,Passenger Journeys,2026W11,2026 Week 11,10,Dublin Metro Bus,Number,3430454.0
+THA25C01,Passenger Journeys,2026W11,2026 Week 11,20,"Bus, excluding Dublin Metro",Number,1061599.0
+THA25C01,Passenger Journeys,2026W11,2026 Week 11,30,Rail,Number,1057426.0
+THA25C01,Passenger Journeys,2026W11,2026 Week 11,40,"All public transport, excluding LUAS",Number,5549479.0
+THA25C01,Passenger Journeys,2026W12,2026 Week 12,10,Dublin Metro Bus,Number,3735465.0
+THA25C01,Passenger Journeys,2026W12,2026 Week 12,20,"Bus, excluding Dublin Metro",Number,1105252.0
+THA25C01,Passenger Journeys,2026W12,2026 Week 12,30,Rail,Number,1094310.0
+THA25C01,Passenger Journeys,2026W12,2026 Week 12,40,"All public transport, excluding LUAS",Number,5935027.0
+THA25C01,Passenger Journeys,2026W13,2026 Week 13,10,Dublin Metro Bus,Number,3429999.0
+THA25C01,Passenger Journeys,2026W13,2026 Week 13,20,"Bus, excluding Dublin Metro",Number,999275.0
+THA25C01,Passenger Journeys,2026W13,2026 Week 13,30,Rail,Number,953465.0
+THA25C01,Passenger Journeys,2026W13,2026 Week 13,40,"All public transport, excluding LUAS",Number,5382739.0
+THA25C01,Passenger Journeys,2026W14,2026 Week 14,10,Dublin Metro Bus,Number,2695859.0
+THA25C01,Passenger Journeys,2026W14,2026 Week 14,20,"Bus, excluding Dublin Metro",Number,903232.0
+THA25C01,Passenger Journeys,2026W14,2026 Week 14,30,Rail,Number,1125416.0
+THA25C01,Passenger Journeys,2026W14,2026 Week 14,40,"All public transport, excluding LUAS",Number,4724507.0
+THA25C01,Passenger Journeys,2026W15,2026 Week 15,10,Dublin Metro Bus,Number,3659385.0
+THA25C01,Passenger Journeys,2026W15,2026 Week 15,20,"Bus, excluding Dublin Metro",Number,1107518.0
+THA25C01,Passenger Journeys,2026W15,2026 Week 15,30,Rail,Number,1164078.0
+THA25C01,Passenger Journeys,2026W15,2026 Week 15,40,"All public transport, excluding LUAS",Number,5930981.0
+THA25C01,Passenger Journeys,2026W16,2026 Week 16,10,Dublin Metro Bus,Number,3769942.0
+THA25C01,Passenger Journeys,2026W16,2026 Week 16,20,"Bus, excluding Dublin Metro",Number,1146459.0
+THA25C01,Passenger Journeys,2026W16,2026 Week 16,30,Rail,Number,1199200.0
+THA25C01,Passenger Journeys,2026W16,2026 Week 16,40,"All public transport, excluding LUAS",Number,6115601.0
+THA25C01,Passenger Journeys,2026W17,2026 Week 17,10,Dublin Metro Bus,Number,3730103.0
+THA25C01,Passenger Journeys,2026W17,2026 Week 17,20,"Bus, excluding Dublin Metro",Number,1123605.0
+THA25C01,Passenger Journeys,2026W17,2026 Week 17,30,Rail,Number,1083058.0
+THA25C01,Passenger Journeys,2026W17,2026 Week 17,40,"All public transport, excluding LUAS",Number,5936766.0
+THA25C01,Passenger Journeys,2026W18,2026 Week 18,10,Dublin Metro Bus,Number,3414289.0
+THA25C01,Passenger Journeys,2026W18,2026 Week 18,20,"Bus, excluding Dublin Metro",Number,1035607.0
+THA25C01,Passenger Journeys,2026W18,2026 Week 18,30,Rail,Number,1008684.0
+THA25C01,Passenger Journeys,2026W18,2026 Week 18,40,"All public transport, excluding LUAS",Number,5458580.0
+THA25C01,Passenger Journeys,2026W19,2026 Week 19,10,Dublin Metro Bus,Number,3591877.0
+THA25C01,Passenger Journeys,2026W19,2026 Week 19,20,"Bus, excluding Dublin Metro",Number,1063353.0
+THA25C01,Passenger Journeys,2026W19,2026 Week 19,30,Rail,Number,1089630.0
+THA25C01,Passenger Journeys,2026W19,2026 Week 19,40,"All public transport, excluding LUAS",Number,5744860.0
+THA25C01,Passenger Journeys,2026W20,2026 Week 20,10,Dublin Metro Bus,Number,3633154.0
+THA25C01,Passenger Journeys,2026W20,2026 Week 20,20,"Bus, excluding Dublin Metro",Number,1079194.0
+THA25C01,Passenger Journeys,2026W20,2026 Week 20,30,Rail,Number,1136555.0
+THA25C01,Passenger Journeys,2026W20,2026 Week 20,40,"All public transport, excluding LUAS",Number,5848903.0
+THA25C01,Passenger Journeys,2026W21,2026 Week 21,10,Dublin Metro Bus,Number,3663509.0
+THA25C01,Passenger Journeys,2026W21,2026 Week 21,20,"Bus, excluding Dublin Metro",Number,1105629.0
+THA25C01,Passenger Journeys,2026W21,2026 Week 21,30,Rail,Number,1140330.0
+THA25C01,Passenger Journeys,2026W21,2026 Week 21,40,"All public transport, excluding LUAS",Number,5909468.0
+THA25C01,Passenger Journeys,2026W22,2026 Week 22,10,Dublin Metro Bus,Number,3206563.0
+THA25C01,Passenger Journeys,2026W22,2026 Week 22,20,"Bus, excluding Dublin Metro",Number,949783.0
+THA25C01,Passenger Journeys,2026W22,2026 Week 22,30,Rail,Number,940342.0
+THA25C01,Passenger Journeys,2026W22,2026 Week 22,40,"All public transport, excluding LUAS",Number,5096688.0
+THA25C01,Passenger Journeys,2026W23,2026 Week 23,10,Dublin Metro Bus,Number,3449118.0
+THA25C01,Passenger Journeys,2026W23,2026 Week 23,20,"Bus, excluding Dublin Metro",Number,1046485.0
+THA25C01,Passenger Journeys,2026W23,2026 Week 23,30,Rail,Number,1016348.0
+THA25C01,Passenger Journeys,2026W23,2026 Week 23,40,"All public transport, excluding LUAS",Number,5511951.0
+THA25C01,Passenger Journeys,2026W24,2026 Week 24,10,Dublin Metro Bus,Number,3518886.0
+THA25C01,Passenger Journeys,2026W24,2026 Week 24,20,"Bus, excluding Dublin Metro",Number,1047819.0
+THA25C01,Passenger Journeys,2026W24,2026 Week 24,30,Rail,Number,1134468.0
+THA25C01,Passenger Journeys,2026W24,2026 Week 24,40,"All public transport, excluding LUAS",Number,5701173.0
+THA25C01,Passenger Journeys,2026W25,2026 Week 25,10,Dublin Metro Bus,Number,3543850.0
+THA25C01,Passenger Journeys,2026W25,2026 Week 25,20,"Bus, excluding Dublin Metro",Number,1054882.0
+THA25C01,Passenger Journeys,2026W25,2026 Week 25,30,Rail,Number,1183195.0
+THA25C01,Passenger Journeys,2026W25,2026 Week 25,40,"All public transport, excluding LUAS",Number,5781927.0
+THA25C01,Passenger Journeys,2026W26,2026 Week 26,10,Dublin Metro Bus,Number,3439690.0
+THA25C01,Passenger Journeys,2026W26,2026 Week 26,20,"Bus, excluding Dublin Metro",Number,1026078.0
+THA25C01,Passenger Journeys,2026W26,2026 Week 26,30,Rail,Number,1134102.0
+THA25C01,Passenger Journeys,2026W26,2026 Week 26,40,"All public transport, excluding LUAS",Number,5599870.0
+THA25C01,Passenger Journeys,2026W27,2026 Week 27,10,Dublin Metro Bus,Number,3488322.0
+THA25C01,Passenger Journeys,2026W27,2026 Week 27,20,"Bus, excluding Dublin Metro",Number,1071116.0
+THA25C01,Passenger Journeys,2026W27,2026 Week 27,30,Rail,Number,1200509.0
+THA25C01,Passenger Journeys,2026W27,2026 Week 27,40,"All public transport, excluding LUAS",Number,5759947.0
+THA25C01,Passenger Journeys,2026W28,2026 Week 28,10,Dublin Metro Bus,Number,3454944.0
+THA25C01,Passenger Journeys,2026W28,2026 Week 28,20,"Bus, excluding Dublin Metro",Number,1070370.0
+THA25C01,Passenger Journeys,2026W28,2026 Week 28,30,Rail,Number,1139531.0
+THA25C01,Passenger Journeys,2026W28,2026 Week 28,40,"All public transport, excluding LUAS",Number,5664845.0
+THA25C01,Passenger Journeys,2026W29,2026 Week 29,10,Dublin Metro Bus,Number,3358983.0
+THA25C01,Passenger Journeys,2026W29,2026 Week 29,20,"Bus, excluding Dublin Metro",Number,1038990.0
+THA25C01,Passenger Journeys,2026W29,2026 Week 29,30,Rail,Number,1073549.0
+THA25C01,Passenger Journeys,2026W29,2026 Week 29,40,"All public transport, excluding LUAS",Number,5471522.0
+THA25C01,Passenger Journeys,2026W30,2026 Week 30,10,Dublin Metro Bus,Number,3346193.0
+THA25C01,Passenger Journeys,2026W30,2026 Week 30,20,"Bus, excluding Dublin Metro",Number,1037179.0
+THA25C01,Passenger Journeys,2026W30,2026 Week 30,30,Rail,Number,1065115.0
+THA25C01,Passenger Journeys,2026W30,2026 Week 30,40,"All public transport, excluding LUAS",Number,5448487.0
+THA25C01,Passenger Journeys,2026W31,2026 Week 31,10,Dublin Metro Bus,Number,3163089.0
+THA25C01,Passenger Journeys,2026W31,2026 Week 31,20,"Bus, excluding Dublin Metro",Number,957341.0
+THA25C01,Passenger Journeys,2026W31,2026 Week 31,30,Rail,Number,1043572.0
+THA25C01,Passenger Journeys,2026W31,2026 Week 31,40,"All public transport, excluding LUAS",Number,5164002.0
+THA25C01,Passenger Journeys,2026W32,2026 Week 32,10,Dublin Metro Bus,Number,3344374.0
+THA25C01,Passenger Journeys,2026W32,2026 Week 32,20,"Bus, excluding Dublin Metro",Number,1046936.0
+THA25C01,Passenger Journeys,2026W32,2026 Week 32,30,Rail,Number,1075761.0
+THA25C01,Passenger Journeys,2026W32,2026 Week 32,40,"All public transport, excluding LUAS",Number,5467071.0
+THA25C01,Passenger Journeys,2026W33,2026 Week 33,10,Dublin Metro Bus,Number,3386127.0
+THA25C01,Passenger Journeys,2026W33,2026 Week 33,20,"Bus, excluding Dublin Metro",Number,1036427.0
+THA25C01,Passenger Journeys,2026W33,2026 Week 33,30,Rail,Number,1090554.0
+THA25C01,Passenger Journeys,2026W33,2026 Week 33,40,"All public transport, excluding LUAS",Number,5513108.0
+THA25C01,Passenger Journeys,2026W34,2026 Week 34,10,Dublin Metro Bus,Number,3388639.0
+THA25C01,Passenger Journeys,2026W34,2026 Week 34,20,"Bus, excluding Dublin Metro",Number,1016744.0
+THA25C01,Passenger Journeys,2026W34,2026 Week 34,30,Rail,Number,1044495.0
+THA25C01,Passenger Journeys,2026W34,2026 Week 34,40,"All public transport, excluding LUAS",Number,5449878.0
+THA25C01,Passenger Journeys,2026W35,2026 Week 35,10,Dublin Metro Bus,Number,3632522.0
+THA25C01,Passenger Journeys,2026W35,2026 Week 35,20,"Bus, excluding Dublin Metro",Number,1067539.0
+THA25C01,Passenger Journeys,2026W35,2026 Week 35,30,Rail,Number,1076114.0
+THA25C01,Passenger Journeys,2026W35,2026 Week 35,40,"All public transport, excluding LUAS",Number,5776175.0
+THA25C01,Passenger Journeys,2026W36,2026 Week 36,10,Dublin Metro Bus,Number,3770359.0
+THA25C01,Passenger Journeys,2026W36,2026 Week 36,20,"Bus, excluding Dublin Metro",Number,1111622.0
+THA25C01,Passenger Journeys,2026W36,2026 Week 36,30,Rail,Number,1086133.0
+THA25C01,Passenger Journeys,2026W36,2026 Week 36,40,"All public transport, excluding LUAS",Number,5968114.0
+THA25C01,Passenger Journeys,2026W37,2026 Week 37,10,Dublin Metro Bus,Number,3949491.0
+THA25C01,Passenger Journeys,2026W37,2026 Week 37,20,"Bus, excluding Dublin Metro",Number,1148475.0
+THA25C01,Passenger Journeys,2026W37,2026 Week 37,30,Rail,Number,1191905.0
+THA25C01,Passenger Journeys,2026W37,2026 Week 37,40,"All public transport, excluding LUAS",Number,6289871.0
+THA25C01,Passenger Journeys,2026W38,2026 Week 38,10,Dublin Metro Bus,Number,3921543.0
+THA25C01,Passenger Journeys,2026W38,2026 Week 38,20,"Bus, excluding Dublin Metro",Number,1167160.0
+THA25C01,Passenger Journeys,2026W38,2026 Week 38,30,Rail,Number,1188546.0
+THA25C01,Passenger Journeys,2026W38,2026 Week 38,40,"All public transport, excluding LUAS",Number,6277249.0
+THA25C01,Passenger Journeys,2026W39,2026 Week 39,10,Dublin Metro Bus,Number,3936932.0
+THA25C01,Passenger Journeys,2026W39,2026 Week 39,20,"Bus, excluding Dublin Metro",Number,1146201.0
+THA25C01,Passenger Journeys,2026W39,2026 Week 39,30,Rail,Number,1190226.0
+THA25C01,Passenger Journeys,2026W39,2026 Week 39,40,"All public transport, excluding LUAS",Number,6273359.0

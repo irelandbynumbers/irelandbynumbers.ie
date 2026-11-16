@@ -1,0 +1,16 @@
+---
+title: "Cars"
+description: "New and imported cars, and how many are electric."
+---
+
+There were 2.5 million passenger cars on Irish roads in 2024. 120,797 new cars were licensed in 2025, along with 71,604 used cars imported from abroad. New car sales peaked at 225,269 in 2000 and fell to 54,432 in 2009.
+
+{{< chart transport-new-cars >}}
+
+Diesel cars made up 71% of new cars in 2015 and 17% in 2025. In 2025, 19% of new cars were fully electric and 15% were plug-in hybrids, which can be charged from the mains but also have a petrol or diesel engine. A further 23% were hybrids that cannot be plugged in.
+
+{{< chart transport-new-car-fuel >}}
+
+In 2024, 14.2% of new cars registered in Ireland were fully electric, slightly above the EU average of 13.5%. Ireland had the 11th highest share of the 27 EU countries. Denmark had the highest, at 51%. Electric cars made up 3.1% of all cars on Irish roads.
+
+{{< chart transport-electric-cars-eu >}}
