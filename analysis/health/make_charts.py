@@ -1,4 +1,6 @@
-"""Health charts: life expectancy and causes of death."""
+"""Health charts: life expectancy, causes of death, access and the health service."""
+import pandas as pd
+
 from ibn import cso, figures, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
@@ -11,6 +13,10 @@ def build():
     life_expectancy()
     death_rates()
     distance_maps()
+    trolleys()
+    emergency_department_times()
+    outpatient_waits()
+    spending()
 
 
 def life_expectancy():
@@ -99,3 +105,121 @@ def distance_maps():
                      f"{words}, the furthest of any county, compared with {state[service]:.1f} km across the State.",
             data=d, figure=fig,
         ).write()
+
+
+def _months(series, fmt="%Y %B"):
+    return pd.to_datetime(series, format=fmt)
+
+
+def trolleys():
+    df = cso.fetch("KTA02")
+    d = df[df["Statistic Label"].str.startswith("Admitted")].copy()
+    d["day"] = _months(d.Day, "%Y %B %d")
+    d["month"] = d.day.dt.to_period("M").dt.to_timestamp()
+    m = d.groupby("month").VALUE.mean().round(0).astype(int).rename("average_daily_count").reset_index()
+    fig = figures.lines(m, "month", {"average_daily_count": "Patients on trolleys"}, hover_x="%B %Y",
+                        y_range=[0, m.average_daily_count.max() * 1.1])
+    y = d.groupby(d.day.dt.year).VALUE.mean()
+    last, peak = int(y.index.max()), int(y.idxmax())
+    worst = d.loc[d.VALUE.idxmax()]
+    Chart(
+        id="health-trolleys", topic=TOPIC,
+        title="Patients waiting on trolleys",
+        subtitle=f"Average number of admitted patients waiting on trolleys in public hospital emergency departments at "
+                 f"8am each day, by month, {m.month.min():%B %Y} to {m.month.max():%B %Y}.",
+        sources=[Source.cso("KTA02", "Admitted Patients Waiting on Trolleys in Public Acute Hospital Emergency Departments at 8 am")],
+        notes=["Counts patients who have been admitted to hospital but are still waiting in the emergency department "
+               "for a bed, at 8am each day. The Department of Health publishes these figures, from HSE data, in its "
+               "Health in Ireland key trends.",
+               "The Irish Nurses and Midwives Organisation publishes its own daily count, which is usually higher "
+               "because it also includes patients on trolleys elsewhere in the hospital."],
+        key_fact=f"On an average morning in {last}, {y[last]:.0f} admitted patients were waiting on trolleys in emergency "
+                 f"departments. The highest single count was {worst.VALUE:.0f}, on {worst.day:%-d %B %Y}.",
+        data=m, figure=fig,
+    ).write()
+
+
+def emergency_department_times():
+    df = cso.fetch("KTA03")
+    d = df.pivot_table(index="Month", columns="Percentile", values="VALUE").reset_index()
+    d["month"] = _months(d.Month)
+    d = d.sort_values("month")
+    d["median_hours"] = (d["50th percentile"] / 60).round(1)
+    d["longest_5pc_hours"] = (d["95th percentile"] / 60).round(1)
+    d = d[["month", "median_hours", "longest_5pc_hours"]].reset_index(drop=True)
+    fig = figures.lines(d, "month", {"median_hours": "Half of patients within", "longest_5pc_hours": "95% of patients within"},
+                        value_format=".1f", suffix=" hours", hover_x="%B %Y", y_range=[0, d.longest_5pc_hours.max() * 1.1])
+    a = d[d.month.dt.year == d.month.dt.year.min()]
+    b = d[d.month.dt.year == d.month.dt.year.max()]
+    Chart(
+        id="health-ed-times", topic=TOPIC,
+        title="Time spent in emergency departments",
+        subtitle=f"Hours from arrival to leaving a public hospital emergency department, by month, "
+                 f"{d.month.min():%B %Y} to {d.month.max():%B %Y}.",
+        sources=[Source.cso("KTA03", "Patient experience time in emergency departments")],
+        notes=["Patient experience time runs from registration in the emergency department until the patient leaves it, "
+               "either to go home or to a hospital bed.",
+               "The lower line is the median: half of patients left within this time. The upper line is the 95th "
+               "percentile: 95% of patients left within this time, and 5% stayed longer."],
+        key_fact=f"In {b.month.dt.year.iloc[0]}, half of patients left the emergency department within "
+                 f"{b.median_hours.mean():.1f} hours, but one in twenty spent more than {b.longest_5pc_hours.mean():.0f} hours there.",
+        data=d, figure=fig,
+    ).write()
+
+
+def outpatient_waits():
+    df = cso.fetch("HSPAN16")
+    d = df[df["Waiting Times"] == "Waiting times less than 15 months"].copy()
+    d["month"] = _months(d.Month)
+    d = d.sort_values("month").rename(columns={"VALUE": "percent_under_15_months"})[["month", "percent_under_15_months"]]
+    d = d.dropna().reset_index(drop=True)
+    fig = figures.lines(d, "month", {"percent_under_15_months": "Waiting under 15 months"}, value_format=".0f", suffix="%",
+                        hover_x="%B %Y", y_range=[0, 100])
+    a, b = d.iloc[0], d.iloc[-1]
+    Chart(
+        id="health-outpatient-waits", topic=TOPIC,
+        title="Outpatient waiting times",
+        subtitle=f"Percentage of people on the hospital outpatient waiting list who had been waiting less than 15 months, "
+                 f"{a.month:%B %Y} to {b.month:%B %Y}.",
+        sources=[Source.cso("HSPAN16", "Outpatient waiting times")],
+        notes=["An outpatient appointment is a first appointment with a hospital consultant, usually after a GP referral. "
+               "The Sláintecare target is that no one waits more than 10 weeks.",
+               "The CSO publishes these figures, from the National Treatment Purchase Fund, as part of the Department of "
+               "Health's health system performance assessment. The series ends in September 2024. The National Treatment "
+               "Purchase Fund publishes more recent monthly waiting list figures on its own website."],
+        key_fact=f"In {b.month:%B %Y}, {b.percent_under_15_months:.0f}% of people on the outpatient waiting list had been "
+                 f"waiting less than 15 months, up from {a.percent_under_15_months:.0f}% in {a.month:%B %Y}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def spending():
+    df = cso.fetch("SHA07")
+    df["Statistic Label"] = df["Statistic Label"].str.strip()
+    d = df.pivot_table(index="Year", columns="Statistic Label", values="VALUE").reset_index()
+    d = d.rename(columns={"Current Public Expenditure": "public", "Current Private Expenditure": "private",
+                          "Current Expenditure": "total", "Current Expenditure GNI*": "percent_of_gni_star"})
+    for c in ["public", "private", "total"]:
+        d[c] = (d[c] / 1000).round(2)
+    d["Year"] = d.Year.astype(int)
+    d["percent_of_gni_star"] = d.percent_of_gni_star.round(1)
+    d = d[["Year", "public", "private", "total", "percent_of_gni_star"]]
+    fig = figures.lines(d, "Year", {"public": "Public", "private": "Private"}, value_format=".1f", prefix="€", suffix="bn",
+                        y_range=[0, d.public.max() * 1.1])
+    a, b = d.iloc[0], d.iloc[-1]
+    Chart(
+        id="health-spending", topic=TOPIC,
+        title="Spending on health care",
+        subtitle=f"Current spending on health care in Ireland, by the State and by households and insurers, € billion, "
+                 f"{a.Year:.0f} to {b.Year:.0f}.",
+        sources=[Source.cso("SHA07", "Revised Health Care Expenditure")],
+        notes=["Current spending covers the day-to-day cost of health care, such as staff, medicines and treatment. It "
+               "does not include capital spending on buildings and equipment.",
+               "Public spending is by the State, mainly through the HSE. Private spending is by households, health "
+               "insurers and others, including out-of-pocket payments such as GP fees.",
+               "Figures are in current prices, not adjusted for inflation. The data file also gives total spending as a "
+               "percentage of GNI*, a measure of the size of the Irish economy."],
+        key_fact=f"Current spending on health care was €{b.total:.1f} billion in {b.Year:.0f}, of which €{b.public:.1f} billion "
+                 f"({b.public / b.total * 100:.0f}%) was public. That was {b.percent_of_gni_star:.1f}% of GNI*.",
+        data=d, figure=fig,
+    ).write()
