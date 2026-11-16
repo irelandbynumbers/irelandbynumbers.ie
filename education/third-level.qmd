@@ -1,0 +1,14 @@
+---
+title: "Third-level education"
+description: "How many students are in universities and colleges, and how Ireland compares with the rest of the EU."
+---
+
+Third-level education covers universities, technological universities and other higher education colleges. Most students start after finishing secondary school.
+
+There were 283,950 students enrolled in third-level education in 2025-2026, about a third more than in 2014-2015.
+
+{{< chart education-third-level-students >}}
+
+In 2025, 69% of people aged 30 to 34 in Ireland had a third-level qualification, the highest share of any EU country, just ahead of Luxembourg at 68%. The average across the 27 EU countries was 46%.
+
+{{< chart education-third-level-attainment >}}

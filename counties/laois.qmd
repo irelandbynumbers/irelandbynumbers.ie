@@ -1,6 +1,6 @@
 ---
 title: "Laois"
-description: "Population and rents in County Laois, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Laois, from Central Statistics Office data."
 image: ../images/social/county-laois-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-laois-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Laois
+
+- In 2024, disposable income per person in County Laois was €25,270, the 22nd highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Laois was €318,400, the 14th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 9.2 new homes were completed for every 1,000 people in County Laois, the 4th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 24% of households in County Laois rented their home, the 15th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 16% of people living in County Laois were born outside Ireland, the 22nd highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 40% of people aged 3 and over in County Laois said they could speak Irish, the 14th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 28% of people at work in County Laois worked from home for at least part of the week, the 17th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 77% of people travelling to work in County Laois went by car, the 8th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Laois live more than 1.9 km by road from a GP, the 16th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Laois live more than 15.2 km by road from a hospital emergency department, the 20th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 14.6% of County Laois in 2021, the 5th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

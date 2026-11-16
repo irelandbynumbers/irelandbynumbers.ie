@@ -25,7 +25,9 @@ def main(argv):
         cso.REFRESH = True
     only = [a for a in argv if not a.startswith("--")]
     chart.load_topics()
-    for path in sorted(glob.glob(os.path.join(HERE, "*", "make_charts.py"))):
+    # County pages draw on the other topics' maps, so they are built last.
+    paths = sorted(glob.glob(os.path.join(HERE, "*", "make_charts.py")), key=lambda p: ("/counties/" in p, p))
+    for path in paths:
         topic = os.path.basename(os.path.dirname(path))
         if only and topic not in only:
             continue

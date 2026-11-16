@@ -1,6 +1,6 @@
 ---
 title: "Wexford"
-description: "Population and rents in County Wexford, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Wexford, from Central Statistics Office data."
 image: ../images/social/county-wexford-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-wexford-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Wexford
+
+- In 2024, disposable income per person in County Wexford was €27,817, the 13th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Wexford was €318,800, the 13th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 6.5 new homes were completed for every 1,000 people in County Wexford, the 8th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 25% of households in County Wexford rented their home, the 13th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 15% of people living in County Wexford were born outside Ireland, the 23rd highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 37% of people aged 3 and over in County Wexford said they could speak Irish, the 23rd highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 28% of people at work in County Wexford worked from home for at least part of the week, the 15th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 77% of people travelling to work in County Wexford went by car, the 7th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Wexford live more than 3.8 km by road from a GP, the 7th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Wexford live more than 23.5 km by road from a hospital emergency department, the 13th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 6.9% of County Wexford in 2021, the 21st highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

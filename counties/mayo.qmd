@@ -1,6 +1,6 @@
 ---
 title: "Mayo"
-description: "Population and rents in County Mayo, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Mayo, from Central Statistics Office data."
 image: ../images/social/county-mayo-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-mayo-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Mayo
+
+- In 2024, disposable income per person in County Mayo was €27,343, the 15th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Mayo was €249,400, the 22nd highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 3.6 new homes were completed for every 1,000 people in County Mayo, the 22nd highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 22% of households in County Mayo rented their home, the third lowest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 19% of people living in County Mayo were born outside Ireland, the 9th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 44% of people aged 3 and over in County Mayo said they could speak Irish, the 4th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 26% of people at work in County Mayo worked from home for at least part of the week, the 22nd highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 77% of people travelling to work in County Mayo went by car, the 5th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Mayo live more than 3.6 km by road from a GP, the 8th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Mayo live more than 28.9 km by road from a hospital emergency department, the 9th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 10.3% of County Mayo in 2021, the 12th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

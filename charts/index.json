@@ -120,6 +120,39 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "housing-completions-map",
+  "topic": "housing",
+  "title": "New homes by county",
+  "subtitle": "New homes completed each year for every 1,000 people living in the county, 2011 to 2025. Use the slider to move through the years.",
+  "kind": "map",
+  "page": "/charts/housing-completions-map.html",
+  "csv": "/charts/housing-completions-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "New Dwelling Completions (NDQ05)",
+    "url": "https://data.cso.ie/table/NDQ05",
+    "licence": "CC BY 4.0",
+    "code": "NDQ05",
+    "updated": "2026-10-29",
+    "checked": "2026-11-14"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population at Each Census (F1001)",
+    "url": "https://data.cso.ie/table/F1001",
+    "licence": "CC BY 4.0",
+    "code": "F1001",
+    "updated": "2023-06-29",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "In 2025, Louth had the most new homes for its population, 11.0 for every 1,000 people, and Longford the fewest, at 2.1.",
+  "listed": true,
+  "updated": "2026-10-29",
+  "checked": "2026-11-13"
+ },
+ {
   "id": "housing-prices",
   "topic": "housing",
   "title": "House prices",
@@ -142,6 +175,54 @@
   "listed": true,
   "updated": "2026-10-13",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "housing-prices-map",
+  "topic": "housing",
+  "title": "Average house price by county",
+  "subtitle": "Average price paid for homes bought at market value by households, 2010 to 2025. Use the slider to move through the years.",
+  "kind": "map",
+  "page": "/charts/housing-prices-map.html",
+  "csv": "/charts/housing-prices-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Market-based Household Purchases of Residential Dwellings (HPA03)",
+    "url": "https://data.cso.ie/table/HPA03",
+    "licence": "CC BY 4.0",
+    "code": "HPA03",
+    "updated": "2026-10-13",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2025, the average price paid for a home ranged from €209,300 in Longford to €591,300 in Dublin.",
+  "listed": true,
+  "updated": "2026-10-13",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "housing-renting-map",
+  "topic": "housing",
+  "title": "Renting by county",
+  "subtitle": "Percentage of households renting their home, from a private landlord, a local authority or a housing body, Census 2022.",
+  "kind": "map",
+  "page": "/charts/housing-renting-map.html",
+  "csv": "/charts/housing-renting-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, permanent private households (SAP2022T6T3CTY)",
+    "url": "https://data.cso.ie/table/SAP2022T6T3CTY",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T6T3CTY",
+    "updated": "2023-09-15",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "At the 2022 census, 38% of households in Dublin rented their home, the highest share of any county, compared with 20% in Meath.",
+  "listed": true,
+  "updated": "2023-09-15",
+  "checked": "2026-11-14"
  },
  {
   "id": "housing-rents-map",
@@ -216,6 +297,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "economy-car-to-work-map",
+  "topic": "economy",
+  "title": "Driving to work by county",
+  "subtitle": "Percentage of people travelling to work who went by car, as a driver or passenger, Census 2022.",
+  "kind": "map",
+  "page": "/charts/economy-car-to-work-map.html",
+  "csv": "/charts/economy-car-to-work-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, means of travel to work (SAP2022T11T1CTY)",
+    "url": "https://data.cso.ie/table/SAP2022T11T1CTY",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T11T1CTY",
+    "updated": "2023-09-15",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "At the 2022 census, 80% of people travelling to work in Clare went by car, the highest share of any county. The lowest was Dublin, at 52%.",
+  "listed": true,
+  "updated": "2023-09-15",
+  "checked": "2026-11-14"
+ },
+ {
   "id": "economy-earnings",
   "topic": "economy",
   "title": "Average weekly earnings",
@@ -273,6 +378,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "economy-income-map",
+  "topic": "economy",
+  "title": "Disposable income per person by county",
+  "subtitle": "Average household disposable income per person in each county, in euro at current prices, 2000 to 2024. Use the slider to move through the years.",
+  "kind": "map",
+  "page": "/charts/economy-income-map.html",
+  "csv": "/charts/economy-income-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Estimates of Household Income (RAA02)",
+    "url": "https://data.cso.ie/table/RAA02",
+    "licence": "CC BY 4.0",
+    "code": "RAA02",
+    "updated": "2026-02-04",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2024, disposable income per person ranged from €23,725 in Longford to €33,889 in Dublin, compared with €30,139 for the State.",
+  "listed": true,
+  "updated": "2026-02-04",
+  "checked": "2026-11-14"
+ },
+ {
   "id": "economy-unemployment",
   "topic": "economy",
   "title": "Unemployment rate",
@@ -297,6 +426,183 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "economy-work-from-home-map",
+  "topic": "economy",
+  "title": "Working from home by county",
+  "subtitle": "Percentage of people at work who said they worked from home for at least part of the week, Census 2022.",
+  "kind": "map",
+  "page": "/charts/economy-work-from-home-map.html",
+  "csv": "/charts/economy-work-from-home-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, working from home (SAP2022T11T4CTY)",
+    "url": "https://data.cso.ie/table/SAP2022T11T4CTY",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T11T4CTY",
+    "updated": "2023-09-15",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "At the 2022 census, 46% of people at work in Dublin worked from home for at least part of the week, the highest share of any county, compared with 23% in Monaghan.",
+  "listed": true,
+  "updated": "2023-09-15",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-leaving-cert-candidates",
+  "topic": "education",
+  "title": "Leaving Certificate candidates",
+  "subtitle": "Number of people who sat the Leaving Certificate (secondary school), school years 1999-2000 to 2023-2024.",
+  "kind": "chart",
+  "page": "/charts/education-leaving-cert-candidates.html",
+  "csv": "/charts/education-leaving-cert-candidates.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Junior and Leaving Certificate Examination Candidates (Number) (EDA93)",
+    "url": "https://data.cso.ie/table/EDA93",
+    "licence": "CC BY 4.0",
+    "code": "EDA93",
+    "updated": "2026-01-15",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "60,839 people sat the Leaving Certificate in the 2023-2024 school year.",
+  "listed": true,
+  "updated": "2026-01-15",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-leaving-cert-levels",
+  "topic": "education",
+  "title": "Leaving Certificate subjects taken at higher level",
+  "subtitle": "Percentage of Leaving Certificate (secondary school) candidates in the ten largest subjects who took the higher-level paper rather than the ordinary-level paper, 2024.",
+  "kind": "chart",
+  "page": "/charts/education-leaving-cert-levels.html",
+  "csv": "/charts/education-leaving-cert-levels.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Level of Leaving Certificate Subjects (WMI09)",
+    "url": "https://data.cso.ie/table/WMI09",
+    "licence": "CC BY 4.0",
+    "code": "WMI09",
+    "updated": "2025-10-14",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2024, 39% of Leaving Cert Mathematics candidates took the higher-level paper, the lowest share of the ten largest subjects.",
+  "listed": true,
+  "updated": "2025-10-14",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-primary-class-size",
+  "topic": "education",
+  "title": "Average class size in primary schools",
+  "subtitle": "Average number of pupils in a mainstream class in primary schools, school years 2003-2004 to 2024-2025.",
+  "kind": "chart",
+  "page": "/charts/education-primary-class-size.html",
+  "csv": "/charts/education-primary-class-size.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Average Class Size in Mainstream National Schools (EDA21)",
+    "url": "https://data.cso.ie/table/EDA21",
+    "licence": "CC BY 4.0",
+    "code": "EDA21",
+    "updated": "2026-07-28",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "The average primary school class had 22.2 pupils in 2024-2025, down from 24.9 in 2014-2015.",
+  "listed": true,
+  "updated": "2026-07-28",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-pupils",
+  "topic": "education",
+  "title": "Pupils in primary and secondary schools",
+  "subtitle": "Number of pupils in primary schools and in secondary (second-level) schools aided by the Department of Education, school years 1999-2000 to 2025-2026.",
+  "kind": "chart",
+  "page": "/charts/education-pupils.html",
+  "csv": "/charts/education-pupils.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Primary Pupils (EDA42)",
+    "url": "https://data.cso.ie/table/EDA42",
+    "licence": "CC BY 4.0",
+    "code": "EDA42",
+    "updated": "2026-11-12",
+    "checked": "2026-11-14"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Pupils Enrolled in Second Level Schools (EDA70)",
+    "url": "https://data.cso.ie/table/EDA70",
+    "licence": "CC BY 4.0",
+    "code": "EDA70",
+    "updated": "2026-11-12",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In the 2025-2026 school year there were 545,726 pupils in primary schools and 429,653 in secondary schools. Primary numbers peaked in 2018-2019, at 567,772.",
+  "listed": true,
+  "updated": "2026-11-12",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-third-level-attainment",
+  "topic": "education",
+  "title": "Young adults with a third-level qualification",
+  "subtitle": "Percentage of people aged 30 to 34 with a third-level qualification, Ireland and the 27 EU countries, 2021 to 2025.",
+  "kind": "chart",
+  "page": "/charts/education-third-level-attainment.html",
+  "csv": "/charts/education-third-level-attainment.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Persons aged 30-34 years with a Third Level Education in EU Member States (EATR04)",
+    "url": "https://data.cso.ie/table/EATR04",
+    "licence": "CC BY 4.0",
+    "code": "EATR04",
+    "updated": "2026-11-13",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2025, 69% of people aged 30 to 34 in Ireland had a third-level qualification, compared with an EU average of 46%.",
+  "listed": true,
+  "updated": "2026-11-13",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "education-third-level-students",
+  "topic": "education",
+  "title": "Students in third-level education",
+  "subtitle": "Number of students enrolled in third-level education (universities, technological universities and colleges), academic years 2014-2015 to 2025-2026.",
+  "kind": "chart",
+  "page": "/charts/education-third-level-students.html",
+  "csv": "/charts/education-third-level-students.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Students enrolled in third level education (MIP41)",
+    "url": "https://data.cso.ie/table/MIP41",
+    "licence": "CC BY 4.0",
+    "code": "MIP41",
+    "updated": "2026-10-20",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "283,950 students were enrolled in third-level education in 2025-2026, up from 214,590 in 2014-2015.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-14"
+ },
+ {
   "id": "crime-thefts",
   "topic": "crime",
   "title": "Recorded thefts and burglaries",
@@ -319,6 +625,30 @@
   "listed": true,
   "updated": "2026-10-01",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "migration-born-abroad-map",
+  "topic": "migration",
+  "title": "People born abroad by county",
+  "subtitle": "Percentage of people usually living in each county who were born outside Ireland, Census 2022.",
+  "kind": "map",
+  "page": "/charts/migration-born-abroad-map.html",
+  "csv": "/charts/migration-born-abroad-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, birthplace (SAP2022T2T1CTY)",
+    "url": "https://data.cso.ie/table/SAP2022T2T1CTY",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T2T1CTY",
+    "updated": "2023-09-19",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "At the 2022 census, 25% of people living in Dublin were born outside Ireland, the highest share of any county, compared with 14% in Kilkenny.",
+  "listed": true,
+  "updated": "2023-09-19",
+  "checked": "2026-11-14"
  },
  {
   "id": "migration-by-place",
@@ -393,6 +723,54 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "health-distance-emergency-department-map",
+  "topic": "health",
+  "title": "Distance to hospital emergency department by county",
+  "subtitle": "Median distance by road from people's homes to the nearest hospital emergency department, in kilometres, 2026.",
+  "kind": "map",
+  "page": "/charts/health-distance-emergency-department-map.html",
+  "csv": "/charts/health-distance-emergency-department-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Average distance to the nearest service for individuals and households by County (MDSI05)",
+    "url": "https://data.cso.ie/table/MDSI05",
+    "licence": "CC BY 4.0",
+    "code": "MDSI05",
+    "updated": "2026-10-28",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2026, half of people in Monaghan lived more than 44.2 km by road from a hospital emergency department, the furthest of any county, compared with 13.3 km across the State.",
+  "listed": true,
+  "updated": "2026-10-28",
+  "checked": "2026-11-14"
+ },
+ {
+  "id": "health-distance-gp-map",
+  "topic": "health",
+  "title": "Distance to GP by county",
+  "subtitle": "Median distance by road from people's homes to the nearest GP, in kilometres, 2026.",
+  "kind": "map",
+  "page": "/charts/health-distance-gp-map.html",
+  "csv": "/charts/health-distance-gp-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Average distance to the nearest service for individuals and households by County (MDSI05)",
+    "url": "https://data.cso.ie/table/MDSI05",
+    "licence": "CC BY 4.0",
+    "code": "MDSI05",
+    "updated": "2026-10-28",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2026, half of people in Roscommon lived more than 5.3 km by road from a GP, the furthest of any county, compared with 1.3 km across the State.",
+  "listed": true,
+  "updated": "2026-10-28",
+  "checked": "2026-11-14"
+ },
+ {
   "id": "health-life-expectancy",
   "topic": "health",
   "title": "Life expectancy in Ireland and the EU",
@@ -465,6 +843,30 @@
   "checked": "2026-11-13"
  },
  {
+  "id": "environment-forest-map",
+  "topic": "environment",
+  "title": "Forest cover by county",
+  "subtitle": "Forests and woodland as a percentage of each county's area, 2021.",
+  "kind": "map",
+  "page": "/charts/environment-forest-map.html",
+  "csv": "/charts/environment-forest-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Extent of Forests and Woodlands (as a percent of total county area) (FAW02)",
+    "url": "https://data.cso.ie/table/FAW02",
+    "licence": "CC BY 4.0",
+    "code": "FAW02",
+    "updated": "2024-09-11",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "In 2021, Wicklow had the highest share of its land under forest or woodland, 20.7%, and Meath the lowest, 3.7%.",
+  "listed": true,
+  "updated": "2024-09-11",
+  "checked": "2026-11-14"
+ },
+ {
   "id": "irish-language-frequency",
   "topic": "irish-language",
   "title": "How often Irish speakers speak Irish",
@@ -511,6 +913,30 @@
   "listed": true,
   "updated": "2023-12-19",
   "checked": "2026-11-13"
+ },
+ {
+  "id": "irish-language-speakers-map",
+  "topic": "irish-language",
+  "title": "Irish speakers by county",
+  "subtitle": "Percentage of people aged 3 and over who said they could speak Irish, Census 2022.",
+  "kind": "map",
+  "page": "/charts/irish-language-speakers-map.html",
+  "csv": "/charts/irish-language-speakers-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census 2022 Small Area Population Statistics, ability to speak Irish (SAP2022T3T1CTY)",
+    "url": "https://data.cso.ie/table/SAP2022T3T1CTY",
+    "licence": "CC BY 4.0",
+    "code": "SAP2022T3T1CTY",
+    "updated": "2023-09-15",
+    "checked": "2026-11-14"
+   }
+  ],
+  "key_fact": "At the 2022 census, 49% of people aged 3 and over in Galway said they could speak Irish, the highest share of any county, compared with 35% in Louth.",
+  "listed": true,
+  "updated": "2023-09-15",
+  "checked": "2026-11-14"
  },
  {
   "id": "county-carlow-population",

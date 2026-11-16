@@ -7,3 +7,9 @@ image: ../images/social/irish-language-frequency.png
 At the 2022 census, 1,873,997 people aged 3 and over said they could speak Irish, 40% of the population of that age. Far fewer speak it regularly. 71,968 people said they spoke Irish every day outside school, and 115,065 said they spoke it every week. About three in ten Irish speakers spoke it only in school or college.
 
 {{< chart irish-language-frequency >}}
+
+## By county
+
+The share of people who said they could speak Irish was highest in Galway, at 49%, followed by Clare and Cork. It was lowest in Louth, Cavan and Dublin, at between 35% and 37%.
+
+{{< chart irish-language-speakers-map >}}

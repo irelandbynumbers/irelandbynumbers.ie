@@ -1,6 +1,6 @@
 ---
 title: "Wicklow"
-description: "Population and rents in County Wicklow, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Wicklow, from Central Statistics Office data."
 image: ../images/social/county-wicklow-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-wicklow-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Wicklow
+
+- In 2024, disposable income per person in County Wicklow was €30,235, the 8th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Wicklow was €507,100, the second highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 8.8 new homes were completed for every 1,000 people in County Wicklow, the 5th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 24% of households in County Wicklow rented their home, the 15th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 17% of people living in County Wicklow were born outside Ireland, the 19th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 39% of people aged 3 and over in County Wicklow said they could speak Irish, the 18th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 41% of people at work in County Wicklow worked from home for at least part of the week, the second highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 72% of people travelling to work in County Wicklow went by car, the third lowest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Wicklow live more than 1.3 km by road from a GP, the 23rd furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Wicklow live more than 28.3 km by road from a hospital emergency department, the 10th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 20.7% of County Wicklow in 2021, the highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

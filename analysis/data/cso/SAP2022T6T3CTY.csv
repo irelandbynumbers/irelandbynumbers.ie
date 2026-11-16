@@ -1,0 +1,257 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C03789V04537,Administrative Counties,C03761V04510,Type of Occupancy,UNIT,VALUE
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,OML,Owned with mortgage or loan,Number,531207
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,OO,Owned outright,Number,679718
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,RPL,Rented from private landlord,Number,330632
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,RLA,Rented from Local Authority,Number,153192
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,RVC,Rented from voluntary/co-operative housing body,Number,29880
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,OFR,Occupied free of rent,Number,31864
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,NS,Not stated,Number,80235
+SAP2022T6T3C01,Permanent private households,2022,2022,IE0,Ireland,T,Total,Number,1836728
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,OML,Owned with mortgage or loan,Number,5987
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,OO,Owned outright,Number,8375
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,RPL,Rented from private landlord,Number,3584
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,RLA,Rented from Local Authority,Number,2170
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,RVC,Rented from voluntary/co-operative housing body,Number,606
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,OFR,Occupied free of rent,Number,383
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,NS,Not stated,Number,1069
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1492-13a3-e055-000000000001,Carlow County Council,T,Total,Number,22174
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,OML,Owned with mortgage or loan,Number,47705
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,OO,Owned outright,Number,58918
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,RPL,Rented from private landlord,Number,70379
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,RLA,Rented from Local Authority,Number,25971
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,RVC,Rented from voluntary/co-operative housing body,Number,5510
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,OFR,Occupied free of rent,Number,3016
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,NS,Not stated,Number,14020
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1433-13a3-e055-000000000001,Dublin City Council,T,Total,Number,225519
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,OML,Owned with mortgage or loan,Number,24804
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,OO,Owned outright,Number,32894
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,RPL,Rented from private landlord,Number,17807
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,RLA,Rented from Local Authority,Number,5245
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,RVC,Rented from voluntary/co-operative housing body,Number,1195
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,OFR,Occupied free of rent,Number,1179
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,NS,Not stated,Number,1986
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149f-13a3-e055-000000000001,Dún Laoghaire Rathdown County Council,T,Total,Number,85110
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,OML,Owned with mortgage or loan,Number,41377
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,OO,Owned outright,Number,30673
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,RPL,Rented from private landlord,Number,21230
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,RLA,Rented from Local Authority,Number,7133
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,RVC,Rented from voluntary/co-operative housing body,Number,1844
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,OFR,Occupied free of rent,Number,951
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,NS,Not stated,Number,4391
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a0-13a3-e055-000000000001,Fingal County Council,T,Total,Number,107599
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,OML,Owned with mortgage or loan,Number,34625
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,OO,Owned outright,Number,32058
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,RPL,Rented from private landlord,Number,15730
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,RLA,Rented from Local Authority,Number,10957
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,RVC,Rented from voluntary/co-operative housing body,Number,2284
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,OFR,Occupied free of rent,Number,921
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,NS,Not stated,Number,3687
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a1-13a3-e055-000000000001,South Dublin County Council,T,Total,Number,100262
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,OML,Owned with mortgage or loan,Number,32264
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,OO,Owned outright,Number,26634
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,RPL,Rented from private landlord,Number,12339
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,RLA,Rented from Local Authority,Number,5649
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,RVC,Rented from voluntary/co-operative housing body,Number,1458
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,OFR,Occupied free of rent,Number,1134
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,NS,Not stated,Number,3065
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a7-13a3-e055-000000000001,Kildare County Council,T,Total,Number,82543
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,OML,Owned with mortgage or loan,Number,10831
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,OO,Owned outright,Number,15425
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,RPL,Rented from private landlord,Number,4647
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,RLA,Rented from Local Authority,Number,3102
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,RVC,Rented from voluntary/co-operative housing body,Number,716
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,OFR,Occupied free of rent,Number,718
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,NS,Not stated,Number,1246
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a8-13a3-e055-000000000001,Kilkenny County Council,T,Total,Number,36685
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,OML,Owned with mortgage or loan,Number,10509
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,OO,Owned outright,Number,11602
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,RPL,Rented from private landlord,Number,4003
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,RLA,Rented from Local Authority,Number,2634
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,RVC,Rented from voluntary/co-operative housing body,Number,715
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,OFR,Occupied free of rent,Number,554
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,NS,Not stated,Number,1095
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148d-13a3-e055-000000000001,Laois County Council,T,Total,Number,31112
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,OML,Owned with mortgage or loan,Number,3631
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,OO,Owned outright,Number,6214
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,RPL,Rented from private landlord,Number,2807
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,RLA,Rented from Local Authority,Number,2035
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,RVC,Rented from voluntary/co-operative housing body,Number,219
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,OFR,Occupied free of rent,Number,273
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,NS,Not stated,Number,1027
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1490-13a3-e055-000000000001,Longford County Council,T,Total,Number,16206
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,OML,Owned with mortgage or loan,Number,15891
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,OO,Owned outright,Number,16985
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,RPL,Rented from private landlord,Number,7443
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,RLA,Rented from Local Authority,Number,4992
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,RVC,Rented from voluntary/co-operative housing body,Number,1137
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,OFR,Occupied free of rent,Number,705
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,NS,Not stated,Number,2179
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1491-13a3-e055-000000000001,Louth County Council,T,Total,Number,49332
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,OML,Owned with mortgage or loan,Number,30191
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,OO,Owned outright,Number,24331
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,RPL,Rented from private landlord,Number,9079
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,RLA,Rented from Local Authority,Number,4361
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,RVC,Rented from voluntary/co-operative housing body,Number,782
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,OFR,Occupied free of rent,Number,1181
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,NS,Not stated,Number,2624
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1494-13a3-e055-000000000001,Meath County Council,T,Total,Number,72549
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,OML,Owned with mortgage or loan,Number,8599
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,OO,Owned outright,Number,11941
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,RPL,Rented from private landlord,Number,3758
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,RLA,Rented from Local Authority,Number,2211
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,RVC,Rented from voluntary/co-operative housing body,Number,399
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,OFR,Occupied free of rent,Number,563
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,NS,Not stated,Number,1231
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1496-13a3-e055-000000000001,Offaly County Council,T,Total,Number,28702
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,OML,Owned with mortgage or loan,Number,10013
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,OO,Owned outright,Number,12975
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,RPL,Rented from private landlord,Number,6122
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,RLA,Rented from Local Authority,Number,2475
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,RVC,Rented from voluntary/co-operative housing body,Number,261
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,OFR,Occupied free of rent,Number,563
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,NS,Not stated,Number,1594
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149b-13a3-e055-000000000001,Westmeath County Council,T,Total,Number,34003
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,OML,Owned with mortgage or loan,Number,16222
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,OO,Owned outright,Number,24998
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,RPL,Rented from private landlord,Number,8269
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,RLA,Rented from Local Authority,Number,5076
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,RVC,Rented from voluntary/co-operative housing body,Number,864
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,OFR,Occupied free of rent,Number,1323
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,NS,Not stated,Number,2329
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149c-13a3-e055-000000000001,Wexford County Council,T,Total,Number,59081
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,OML,Owned with mortgage or loan,Number,18424
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,OO,Owned outright,Number,20049
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,RPL,Rented from private landlord,Number,7191
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,RLA,Rented from Local Authority,Number,4970
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,RVC,Rented from voluntary/co-operative housing body,Number,601
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,OFR,Occupied free of rent,Number,919
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,NS,Not stated,Number,1905
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149e-13a3-e055-000000000001,Wicklow County Council,T,Total,Number,54059
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,OML,Owned with mortgage or loan,Number,13187
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,OO,Owned outright,Number,20188
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,RPL,Rented from private landlord,Number,6457
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,RLA,Rented from Local Authority,Number,2929
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,RVC,Rented from voluntary/co-operative housing body,Number,574
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,OFR,Occupied free of rent,Number,940
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,NS,Not stated,Number,2166
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a2-13a3-e055-000000000001,Clare County Council,T,Total,Number,46441
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,OML,Owned with mortgage or loan,Number,19785
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,OO,Owned outright,Number,27140
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,RPL,Rented from private landlord,Number,19674
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,RLA,Rented from Local Authority,Number,10416
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,RVC,Rented from voluntary/co-operative housing body,Number,1624
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,OFR,Occupied free of rent,Number,980
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,NS,Not stated,Number,3709
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1434-13a3-e055-000000000001,Cork City Council,T,Total,Number,83328
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,OML,Owned with mortgage or loan,Number,39363
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,OO,Owned outright,Number,53230
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,RPL,Rented from private landlord,Number,17944
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,RLA,Rented from Local Authority,Number,7930
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,RVC,Rented from voluntary/co-operative housing body,Number,1613
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,OFR,Occupied free of rent,Number,2827
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,NS,Not stated,Number,4683
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a3-13a3-e055-000000000001,Cork County Council,T,Total,Number,127590
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,OML,Owned with mortgage or loan,Number,13202
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,OO,Owned outright,Number,27458
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,RPL,Rented from private landlord,Number,8377
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,RLA,Rented from Local Authority,Number,4683
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,RVC,Rented from voluntary/co-operative housing body,Number,691
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,OFR,Occupied free of rent,Number,1458
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,NS,Not stated,Number,2310
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a6-13a3-e055-000000000001,Kerry County Council,T,Total,Number,58179
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,OML,Owned with mortgage or loan,Number,19619
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,OO,Owned outright,Number,29689
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,RPL,Rented from private landlord,Number,13497
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,RLA,Rented from Local Authority,Number,5693
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,RVC,Rented from voluntary/co-operative housing body,Number,1242
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,OFR,Occupied free of rent,Number,1428
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,NS,Not stated,Number,5127
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148f-13a3-e055-000000000001,Limerick City & County Council,T,Total,Number,76295
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,OML,Owned with mortgage or loan,Number,16256
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,OO,Owned outright,Number,26768
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,RPL,Rented from private landlord,Number,8336
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,RLA,Rented from Local Authority,Number,5660
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,RVC,Rented from voluntary/co-operative housing body,Number,1006
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,OFR,Occupied free of rent,Number,1376
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,NS,Not stated,Number,2654
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1499-13a3-e055-000000000001,Tipperary County Council,T,Total,Number,62056
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,OML,Owned with mortgage or loan,Number,12602
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,OO,Owned outright,Number,18207
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,RPL,Rented from private landlord,Number,7595
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,RLA,Rented from Local Authority,Number,5405
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,RVC,Rented from voluntary/co-operative housing body,Number,975
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,OFR,Occupied free of rent,Number,820
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,NS,Not stated,Number,2078
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149a-13a3-e055-000000000001,Waterford City & County Council,T,Total,Number,47682
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,OML,Owned with mortgage or loan,Number,5963
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,OO,Owned outright,Number,8256
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,RPL,Rented from private landlord,Number,10898
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,RLA,Rented from Local Authority,Number,2715
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,RVC,Rented from voluntary/co-operative housing body,Number,807
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,OFR,Occupied free of rent,Number,457
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,NS,Not stated,Number,1776
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1435-13a3-e055-000000000001,Galway City Council,T,Total,Number,30872
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,OML,Owned with mortgage or loan,Number,21054
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,OO,Owned outright,Number,29924
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,RPL,Rented from private landlord,Number,9177
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,RLA,Rented from Local Authority,Number,2470
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,RVC,Rented from voluntary/co-operative housing body,Number,488
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,OFR,Occupied free of rent,Number,1583
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,NS,Not stated,Number,3086
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a5-13a3-e055-000000000001,Galway County Council,T,Total,Number,67782
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,OML,Owned with mortgage or loan,Number,3348
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,OO,Owned outright,Number,6276
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,RPL,Rented from private landlord,Number,2002
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,RLA,Rented from Local Authority,Number,936
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,RVC,Rented from voluntary/co-operative housing body,Number,119
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,OFR,Occupied free of rent,Number,396
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,NS,Not stated,Number,512
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-148e-13a3-e055-000000000001,Leitrim County Council,T,Total,Number,13589
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,OML,Owned with mortgage or loan,Number,12950
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,OO,Owned outright,Number,24929
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,RPL,Rented from private landlord,Number,7885
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,RLA,Rented from Local Authority,Number,2533
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,RVC,Rented from voluntary/co-operative housing body,Number,533
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,OFR,Occupied free of rent,Number,1248
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,NS,Not stated,Number,1918
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1493-13a3-e055-000000000001,Mayo  County Council,T,Total,Number,51996
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,OML,Owned with mortgage or loan,Number,6850
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,OO,Owned outright,Number,12395
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,RPL,Rented from private landlord,Number,3563
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,RLA,Rented from Local Authority,Number,1484
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,RVC,Rented from voluntary/co-operative housing body,Number,150
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,OFR,Occupied free of rent,Number,508
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,NS,Not stated,Number,1025
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1497-13a3-e055-000000000001,Roscommon County Council,T,Total,Number,25975
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,OML,Owned with mortgage or loan,Number,6674
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,OO,Owned outright,Number,11297
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,RPL,Rented from private landlord,Number,4428
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,RLA,Rented from Local Authority,Number,2367
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,RVC,Rented from voluntary/co-operative housing body,Number,383
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,OFR,Occupied free of rent,Number,542
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,NS,Not stated,Number,1110
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1498-13a3-e055-000000000001,Sligo County Council,T,Total,Number,26801
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,OML,Owned with mortgage or loan,Number,8184
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,OO,Owned outright,Number,11735
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,RPL,Rented from private landlord,Number,4614
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,RLA,Rented from Local Authority,Number,2124
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,RVC,Rented from voluntary/co-operative housing body,Number,244
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,OFR,Occupied free of rent,Number,618
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,NS,Not stated,Number,1257
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-149d-13a3-e055-000000000001,Cavan County Council,T,Total,Number,28776
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,OML,Owned with mortgage or loan,Number,14712
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,OO,Owned outright,Number,28395
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,RPL,Rented from private landlord,Number,8377
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,RLA,Rented from Local Authority,Number,5102
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,RVC,Rented from voluntary/co-operative housing body,Number,608
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,OFR,Occupied free of rent,Number,1733
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,NS,Not stated,Number,2648
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-14a4-13a3-e055-000000000001,Donegal County Council,T,Total,Number,61575
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,OML,Owned with mortgage or loan,Number,6385
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,OO,Owned outright,Number,9759
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,RPL,Rented from private landlord,Number,3420
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,RLA,Rented from Local Authority,Number,1764
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,RVC,Rented from voluntary/co-operative housing body,Number,232
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,OFR,Occupied free of rent,Number,567
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,NS,Not stated,Number,728
+SAP2022T6T3C01,Permanent private households,2022,2022,2ae19629-1495-13a3-e055-000000000001,Monaghan County Council,T,Total,Number,22855

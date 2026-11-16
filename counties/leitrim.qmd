@@ -1,6 +1,6 @@
 ---
 title: "Leitrim"
-description: "Population and rents in County Leitrim, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Leitrim, from Central Statistics Office data."
 image: ../images/social/county-leitrim-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-leitrim-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Leitrim
+
+- In 2024, disposable income per person in County Leitrim was €24,960, the 23rd highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Leitrim was €225,500, the third lowest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 3.5 new homes were completed for every 1,000 people in County Leitrim, the third lowest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 23% of households in County Leitrim rented their home, the 21st highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 20% of people living in County Leitrim were born outside Ireland, the 6th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 41% of people aged 3 and over in County Leitrim said they could speak Irish, the 13th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 30% of people at work in County Leitrim worked from home for at least part of the week, the 10th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 78% of people travelling to work in County Leitrim went by car, the third highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Leitrim live more than 4.2 km by road from a GP, the third furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Leitrim live more than 39.8 km by road from a hospital emergency department, the third furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 17.6% of County Leitrim in 2021, the second highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

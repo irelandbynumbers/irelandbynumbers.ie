@@ -1,0 +1,13 @@
+---
+title: "Getting to work"
+description: "Working from home, and how people travel to work, in each county."
+image: ../images/social/economy-work-from-home-map.png
+---
+
+At the 2022 census, 36% of people at work said they worked from home for at least part of the week. The share was highest in Dublin, at 46%, and lowest in Monaghan, at 23%.
+
+{{< chart economy-work-from-home-map >}}
+
+Among people who travelled to work, 69% went by car. Driving was least common in Dublin, at 52%, and most common in Leitrim, Roscommon and Clare, at between 78% and 80%.
+
+{{< chart economy-car-to-work-map >}}

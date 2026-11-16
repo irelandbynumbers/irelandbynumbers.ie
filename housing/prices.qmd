@@ -6,3 +6,9 @@ description: "How the price of homes has moved, nationally and by area."
 House prices rose quickly until 2007, then fell by more than half to their low point in early 2013. They have risen in most months since then, and in August 2026 the national index was about double its 2015 level. Prices outside Dublin have risen faster than in Dublin since 2015.
 
 {{< chart housing-prices >}}
+
+## By county
+
+The CSO also publishes the prices households paid for homes in each area, from stamp duty records. In 2025 the average price paid ranged from €209,300 in Longford to €591,300 in Dublin. These are averages of the prices actually paid, so they depend on the mix of homes sold as well as on price levels.
+
+{{< chart housing-prices-map >}}

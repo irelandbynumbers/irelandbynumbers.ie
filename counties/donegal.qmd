@@ -1,6 +1,6 @@
 ---
 title: "Donegal"
-description: "Population and rents in County Donegal, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Donegal, from Central Statistics Office data."
 image: ../images/social/county-donegal-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-donegal-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Donegal
+
+- In 2024, disposable income per person in County Donegal was €24,686, the third lowest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Donegal was €217,800, the second lowest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 4.1 new homes were completed for every 1,000 people in County Donegal, the 19th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 24% of households in County Donegal rented their home, the 19th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 22% of people living in County Donegal were born outside Ireland, the third highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 38% of people aged 3 and over in County Donegal said they could speak Irish, the 19th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 25% of people at work in County Donegal worked from home for at least part of the week, the second lowest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Donegal went by car, the 9th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Donegal live more than 3.9 km by road from a GP, the 6th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Donegal live more than 33.5 km by road from a hospital emergency department, the 8th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 11.7% of County Donegal in 2021, the 9th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

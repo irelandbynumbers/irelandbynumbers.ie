@@ -6,7 +6,7 @@ Ireland by Numbers is a free website that brings together official statistics ab
 
 ## Who built it
 
-Ireland by Numbers was built by [Maedbh King](https://www.maedbhking.com/home), with Claude Code helping to develop the charting tools and data updates. It is done in her own time and is independent of her employer. The idea comes from [UK by Numbers](https://ukbynumbers.org) by Hannah Ritchie, which does the same for the UK, and the site owes its approach to that project.
+Ireland by Numbers was built by [Maedbh King](https://www.maedbhking.com/home), with Claude Code helping to develop the charting tools and data updates. It is done in her own time and is independent of her employer. Ireland by Numbers was inspired by [UK by Numbers](https://ukbynumbers.org), Hannah Ritchie's project doing the same for the UK, and owes its approach to that project.
 
 ## Funding
 

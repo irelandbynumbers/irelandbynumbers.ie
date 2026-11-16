@@ -1,6 +1,6 @@
 ---
 title: "Kerry"
-description: "Population and rents in County Kerry, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Kerry, from Central Statistics Office data."
 image: ../images/social/county-kerry-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-kerry-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Kerry
+
+- In 2024, disposable income per person in County Kerry was €27,422, the 14th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Kerry was €310,800, the 15th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 4.6 new homes were completed for every 1,000 people in County Kerry, the 17th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 25% of households in County Kerry rented their home, the 14th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 18% of people living in County Kerry were born outside Ireland, the 14th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 44% of people aged 3 and over in County Kerry said they could speak Irish, the 5th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 28% of people at work in County Kerry worked from home for at least part of the week, the 18th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 74% of people travelling to work in County Kerry went by car, the 21st highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Kerry live more than 3.3 km by road from a GP, the 9th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Kerry live more than 26.5 km by road from a hospital emergency department, the 11th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 11.6% of County Kerry in 2021, the 10th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

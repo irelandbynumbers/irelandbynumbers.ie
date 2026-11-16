@@ -7,3 +7,8 @@
   path: causes-of-death.qmd
   image: ../images/charts/health-death-rates.png
   description: "How deaths from heart disease, cancer and tuberculosis have changed since 1922."
+
+- title: "Distance to health services"
+  path: access.qmd
+  image: ../images/charts/health-distance-emergency-department-map.png
+  description: "How far people live from a GP and from a hospital emergency department."

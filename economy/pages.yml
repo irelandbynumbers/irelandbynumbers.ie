@@ -12,3 +12,13 @@
   path: earnings.qmd
   image: ../images/charts/economy-earnings.png
   description: "Average weekly earnings, and how they compare with prices."
+
+- title: "Income by county"
+  path: income.qmd
+  image: ../images/charts/economy-income-map.png
+  description: "Disposable income per person in each county."
+
+- title: "Getting to work"
+  path: commuting.qmd
+  image: ../images/charts/economy-work-from-home-map.png
+  description: "Working from home, and how people travel to work, in each county."

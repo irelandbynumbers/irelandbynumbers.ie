@@ -1,8 +1,9 @@
 """Irish language charts, from Census 2022."""
 import plotly.graph_objects as go
 
-from ibn import cso, style
+from ibn import cso, figures, style
 from ibn.chart import Chart, Source
+from ibn.counties import SUMMED_NOTE, add_up
 
 TOPIC = "irish-language"
 
@@ -22,6 +23,7 @@ CENSUS_NOTE = ("The census asks whether each person aged 3 and over can speak Ir
 def build():
     frequency()
     gaeltacht()
+    speakers_map()
 
 
 def frequency():
@@ -94,5 +96,27 @@ def gaeltacht():
                "Each area here combines the Gaeltacht districts in that county or city."],
         key_fact=f"In {years[-1]}, {all_[last]:.0f}% of people in the Gaeltacht spoke Irish every day outside school, "
                  f"compared with {all_[f'percent_{years[0]}']:.0f}% in {years[0]}.",
+        data=d, figure=fig,
+    ).write()
+
+
+def speakers_map():
+    df = cso.fetch("SAP2022T3T1CTY")
+    area = next(c for c in df.columns if c.startswith("Administrative Counties"))
+    d = df.pivot_table(index=area, columns="Ability to Speak Irish", values="VALUE", aggfunc="sum").reset_index()
+    d = add_up(d, area, ["Yes", "No"]).rename(columns={"Yes": "irish_speakers", "No": "non_irish_speakers"})
+    d["population_aged_3_plus_answering"] = d.irish_speakers + d.non_irish_speakers
+    d["percent_irish_speakers"] = (d.irish_speakers / d.population_aged_3_plus_answering * 100).round(1)
+    fig = figures.county_map(d, "county", "percent_irish_speakers", value_format=".0f", suffix="%",
+                             legend_title="% of people aged 3 and over who can speak Irish")
+    hi, lo = d.loc[d.percent_irish_speakers.idxmax()], d.loc[d.percent_irish_speakers.idxmin()]
+    Chart(
+        id="irish-language-speakers-map", topic=TOPIC, kind="map", height=600,
+        title="Irish speakers by county",
+        subtitle="Percentage of people aged 3 and over who said they could speak Irish, Census 2022.",
+        sources=[Source.cso("SAP2022T3T1CTY", "Census 2022 Small Area Population Statistics, ability to speak Irish")],
+        notes=[CENSUS_NOTE, "As in the CSO's own figures, people who did not answer the question are left out of the total. " + SUMMED_NOTE],
+        key_fact=f"At the 2022 census, {hi.percent_irish_speakers:.0f}% of people aged 3 and over in {hi.county} said they could "
+                 f"speak Irish, the highest share of any county, compared with {lo.percent_irish_speakers:.0f}% in {lo.county}.",
         data=d, figure=fig,
     ).write()

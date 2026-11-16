@@ -5,12 +5,24 @@ description: "Population and rents in each of the 26 counties."
 
 {{< irish counties >}}
 
-Each county has its own page, with its population at every census since 1841 and the average rent on new tenancies since 2008. The figures come from the same Central Statistics Office tables as the [Population](/population/) and [Housing](/housing/) pages, and more measures will be added as county data is brought in.
+Each county has its own page, with its population at every census since 1841, the average rent on new tenancies since 2008, and how it compares with the other counties on income, house prices, new homes, renting, the Irish language, people born abroad, working from home, driving to work, distance to health services and forest cover. The figures come from the same Central Statistics Office tables as the maps on the topic pages.
 
 {{< include _list.md >}}
 
 ## Every county on one map
 
-{{< chart population-county-map >}}
+- [County populations since 1841](/charts/population-county-map.html)
+- [Disposable income per person](/charts/economy-income-map.html)
+- [Average house price](/charts/housing-prices-map.html)
+- [Average rent](/charts/housing-rents-map.html)
+- [New homes](/charts/housing-completions-map.html)
+- [Renting](/charts/housing-renting-map.html)
+- [People born abroad](/charts/migration-born-abroad-map.html)
+- [Irish speakers](/charts/irish-language-speakers-map.html)
+- [Working from home](/charts/economy-work-from-home-map.html)
+- [Driving to work](/charts/economy-car-to-work-map.html)
+- [Distance to a GP](/charts/health-distance-gp-map.html)
+- [Distance to a hospital emergency department](/charts/health-distance-emergency-department-map.html)
+- [Forest cover](/charts/environment-forest-map.html)
 
-{{< chart housing-rents-map >}}
+{{< chart economy-income-map >}}

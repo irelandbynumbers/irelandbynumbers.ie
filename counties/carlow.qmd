@@ -1,6 +1,6 @@
 ---
 title: "Carlow"
-description: "Population and rents in County Carlow, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Carlow, from Central Statistics Office data."
 image: ../images/social/county-carlow-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-carlow-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Carlow
+
+- In 2024, disposable income per person in County Carlow was €30,712, the 4th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Carlow was €280,700, the 18th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 3.6 new homes were completed for every 1,000 people in County Carlow, the 22nd highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 30% of households in County Carlow rented their home, the 4th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 17% of people living in County Carlow were born outside Ireland, the 19th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 38% of people aged 3 and over in County Carlow said they could speak Irish, the 20th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 27% of people at work in County Carlow worked from home for at least part of the week, the 19th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Carlow went by car, the 11th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Carlow live more than 1.7 km by road from a GP, the 19th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Carlow live more than 37.6 km by road from a hospital emergency department, the 5th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 7.2% of County Carlow in 2021, the 20th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

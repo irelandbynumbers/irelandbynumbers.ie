@@ -12,3 +12,8 @@
   path: rents.qmd
   image: ../images/charts/housing-rents-map.png
   description: "How rents have changed for new tenancies."
+
+- title: "Owning and renting"
+  path: owning-renting.qmd
+  image: ../images/charts/housing-renting-map.png
+  description: "How many households own their home and how many rent, in each county."

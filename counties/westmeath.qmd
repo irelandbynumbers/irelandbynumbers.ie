@@ -1,6 +1,6 @@
 ---
 title: "Westmeath"
-description: "Population and rents in County Westmeath, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Westmeath, from Central Statistics Office data."
 image: ../images/social/county-westmeath-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-westmeath-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Westmeath
+
+- In 2024, disposable income per person in County Westmeath was €29,079, the 11th highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Westmeath was €321,400, the 12th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 7.7 new homes were completed for every 1,000 people in County Westmeath, the 7th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 27% of households in County Westmeath rented their home, the 10th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 18% of people living in County Westmeath were born outside Ireland, the 12th highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 39% of people aged 3 and over in County Westmeath said they could speak Irish, the 17th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 30% of people at work in County Westmeath worked from home for at least part of the week, the 12th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Westmeath went by car, the 14th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Westmeath live more than 1.8 km by road from a GP, the 18th furthest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Westmeath live more than 18.0 km by road from a hospital emergency department, the 17th furthest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 8.3% of County Westmeath in 2021, the 19th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)

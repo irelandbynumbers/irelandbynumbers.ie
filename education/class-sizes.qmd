@@ -1,0 +1,12 @@
+---
+title: "Class sizes in primary schools"
+description: "The average number of pupils in a primary school class."
+---
+
+This page is about primary schools only. In secondary schools pupils move between different groups for different subjects, so there is no single class size to measure in the same way.
+
+The average mainstream primary school class had 22.2 pupils in the 2024-2025 school year. Class sizes rose to 24.9 in 2014-2015 and 2015-2016 and have fallen in most years since.
+
+{{< chart education-primary-class-size >}}
+
+The average covers mainstream classes only, so special classes are not included.

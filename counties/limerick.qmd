@@ -1,6 +1,6 @@
 ---
 title: "Limerick"
-description: "Population and rents in County Limerick, from the census and the Residential Tenancies Board."
+description: "Population, rents, income, housing and more in County Limerick, from Central Statistics Office data."
 image: ../images/social/county-limerick-population.png
 ---
 
@@ -25,3 +25,17 @@ The [Where people live](/population/counties.qmd) page compares every county wit
 {{< chart county-limerick-rent height=560 >}}
 
 The [Rents](/housing/rents.qmd) page maps rents in every county.
+
+## More about County Limerick
+
+- In 2024, disposable income per person in County Limerick was €30,879, the second highest of the 26 counties. [See the map](/charts/economy-income-map.html)
+- In 2025, the average price paid for a home in County Limerick was €336,700, the 9th highest of the 26 counties. [See the map](/charts/housing-prices-map.html)
+- In 2025, 4.1 new homes were completed for every 1,000 people in County Limerick, the 19th highest rate of the 26 counties. [See the map](/charts/housing-completions-map.html)
+- At the 2022 census, 29% of households in County Limerick rented their home, the 7th highest share of the 26 counties. [See the map](/charts/housing-renting-map.html)
+- At the 2022 census, 17% of people living in County Limerick were born outside Ireland, the 21st highest share of the 26 counties. [See the map](/charts/migration-born-abroad-map.html)
+- At the 2022 census, 43% of people aged 3 and over in County Limerick said they could speak Irish, the 8th highest share of the 26 counties. [See the map](/charts/irish-language-speakers-map.html)
+- At the 2022 census, 32% of people at work in County Limerick worked from home for at least part of the week, the 8th highest share of the 26 counties. [See the map](/charts/economy-work-from-home-map.html)
+- At the 2022 census, 76% of people travelling to work in County Limerick went by car, the 17th highest share of the 26 counties. [See the map](/charts/economy-car-to-work-map.html)
+- Half of people in County Limerick live more than 1.2 km by road from a GP, the second nearest of the 26 counties. [See the map](/charts/health-distance-gp-map.html)
+- Half of people in County Limerick live more than 9.9 km by road from a hospital emergency department, the second nearest of the 26 counties. [See the map](/charts/health-distance-emergency-department-map.html)
+- Forests and woodland covered 10.0% of County Limerick in 2021, the 15th highest share of the 26 counties. [See the map](/charts/environment-forest-map.html)
