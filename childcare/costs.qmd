@@ -23,4 +23,10 @@ Fees were highest in the four Dublin council areas and Wicklow. In 2020/21 the a
 
 {{< chart childcare-fees-county >}}
 
+## Fees and affluence
+
+Fees were generally higher in more affluent areas. Using the Pobal HP Deprivation Index, Pobal found that in 2020/21 full day fees in affluent areas were 27% higher than in disadvantaged areas. More affluent areas are also more often urban, where fees tend to be higher.
+
+{{< chart childcare-fees-deprivation >}}
+
 The fees take account of the National Childcare Scheme, which pays a subsidy towards the cost of registered childcare, and of the ECCE scheme. Families' own costs depend on the child's age, the hours used, the provider and, for income-based subsidies, household income.

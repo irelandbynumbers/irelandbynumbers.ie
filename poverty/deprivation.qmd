@@ -1,0 +1,18 @@
+---
+title: "Deprivation by area"
+description: "Affluence and deprivation by county, and how many people live in disadvantaged areas."
+---
+
+The Pobal HP Deprivation Index scores every electoral division in the country, using census figures on education, social class, unemployment, lone parenthood, housing and overcrowding.
+
+In 2022, 8% of people, about 403,000, lived in electoral divisions the index scores as disadvantaged or worse. Most people lived in areas close to the national average.
+
+{{< chart poverty-deprivation-categories >}}
+
+## By county
+
+On average, Kildare scored as the most affluent county in 2022 and Donegal as the most deprived. County averages hide large differences between neighbouring areas. Dublin's average is above the national figure, but about 10% of its population lived in disadvantaged areas. In Longford the share was 25%, the highest of any county.
+
+{{< chart poverty-deprivation-map >}}
+
+How childcare fees compare with affluence is shown on the [Childcare costs](../childcare/costs.qmd) page.
