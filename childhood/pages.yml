@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Children in Ireland"
+  path: children.qmd
+  image: ../images/charts/childhood-children-population.png
+  description: "How many children live in Ireland, and children in the care of the State."
+- title: "Children's health"
+  path: health.qmd
+  image: ../images/charts/childhood-infant-mortality.png
+  description: "Infant mortality, birth weight and children's general health."

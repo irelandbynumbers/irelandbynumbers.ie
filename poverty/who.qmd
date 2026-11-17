@@ -1,0 +1,22 @@
+---
+title: "Who is most affected"
+description: "Poverty and deprivation by age, type of household and work status."
+---
+
+## Age
+
+Children were the age group most likely to be at risk of poverty in 2025, at 16.9%, followed by people aged 65 and over, at 14.8%. Older people were the least likely to experience deprivation, at 9.8%, and children the most likely, at 19.6%.
+
+{{< chart poverty-by-age >}}
+
+## Type of household
+
+One-parent households stand out. In 2025, 48.7% of people living in a household of one adult with children experienced deprivation, and 13.4% were in consistent poverty. People aged 65 or over who live alone had the highest rate of being at risk of poverty, at 30.3%.
+
+{{< chart poverty-by-household >}}
+
+## Work
+
+Having a job makes a large difference. In 2025, 5.7% of people in work were at risk of poverty, compared with 29.3% of unemployed people and 28.4% of people unable to work because of a long-standing health problem.
+
+{{< chart poverty-by-work >}}

@@ -202,12 +202,30 @@ def ai():
     return svg("".join(b), "A row of server racks in a data centre")
 
 
+def childhood():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a row of building blocks of different heights
+    for i, (x, h, c) in enumerate([(150, 120, BLUE), (250, 180, DARK), (350, 90, AQUA), (450, 150, GOLD)]):
+        b.append(f'<rect x="{x}" y="{330 - h}" width="80" height="{h}" rx="6" fill="{c}"/>')
+        b.append(f'<rect x="{x + 22}" y="{330 - h + 20}" width="36" height="36" rx="4" fill="#fff" opacity=".25"/>')
+    return svg("".join(b), "Children's building blocks")
+
+
+def poverty():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # five stacks of coins of very different heights, for an uneven share of income
+    for i, (x, n) in enumerate([(120, 1), (210, 2), (300, 3), (390, 5), (480, 9)]):
+        for j in range(n):
+            b.append(f'<ellipse cx="{x + 35}" cy="{318 - j * 24}" rx="38" ry="12" fill="{GOLD if j % 2 else ORANGE}"/>')
+    return svg("".join(b), "Stacks of coins of very different heights")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

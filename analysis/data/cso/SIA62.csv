@@ -1,0 +1,397 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03896V04647,Principal Economic Status,UNIT,VALUE
+SIA62C01,Median Real Household Disposable Income,2020,2020,1,Employed,Euro,57831.0
+SIA62C01,Median Real Household Disposable Income,2020,2020,2,Unemployed,Euro,33872.0
+SIA62C01,Median Real Household Disposable Income,2020,2020,3,Retired,Euro,33752.0
+SIA62C01,Median Real Household Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,22387.0
+SIA62C01,Median Real Household Disposable Income,2020,2020,5,"Student, pupil",Euro,
+SIA62C01,Median Real Household Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,41663.0
+SIA62C01,Median Real Household Disposable Income,2021,2021,1,Employed,Euro,62502.0
+SIA62C01,Median Real Household Disposable Income,2021,2021,2,Unemployed,Euro,35042.0
+SIA62C01,Median Real Household Disposable Income,2021,2021,3,Retired,Euro,33314.0
+SIA62C01,Median Real Household Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,22648.0
+SIA62C01,Median Real Household Disposable Income,2021,2021,5,"Student, pupil",Euro,
+SIA62C01,Median Real Household Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,41855.0
+SIA62C01,Median Real Household Disposable Income,2022,2022,1,Employed,Euro,61734.0
+SIA62C01,Median Real Household Disposable Income,2022,2022,2,Unemployed,Euro,33206.0
+SIA62C01,Median Real Household Disposable Income,2022,2022,3,Retired,Euro,32533.0
+SIA62C01,Median Real Household Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,27747.0
+SIA62C01,Median Real Household Disposable Income,2022,2022,5,"Student, pupil",Euro,
+SIA62C01,Median Real Household Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,42492.0
+SIA62C01,Median Real Household Disposable Income,2023,2023,1,Employed,Euro,60318.0
+SIA62C01,Median Real Household Disposable Income,2023,2023,2,Unemployed,Euro,28142.0
+SIA62C01,Median Real Household Disposable Income,2023,2023,3,Retired,Euro,35048.0
+SIA62C01,Median Real Household Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,26410.0
+SIA62C01,Median Real Household Disposable Income,2023,2023,5,"Student, pupil",Euro,
+SIA62C01,Median Real Household Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,42549.0
+SIA62C01,Median Real Household Disposable Income,2024,2024,1,Employed,Euro,59895.0
+SIA62C01,Median Real Household Disposable Income,2024,2024,2,Unemployed,Euro,38108.0
+SIA62C01,Median Real Household Disposable Income,2024,2024,3,Retired,Euro,33228.0
+SIA62C01,Median Real Household Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,28532.0
+SIA62C01,Median Real Household Disposable Income,2024,2024,5,"Student, pupil",Euro,
+SIA62C01,Median Real Household Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,39162.0
+SIA62C01,Median Real Household Disposable Income,2025,2025,1,Employed,Euro,62722.0
+SIA62C01,Median Real Household Disposable Income,2025,2025,2,Unemployed,Euro,33331.0
+SIA62C01,Median Real Household Disposable Income,2025,2025,3,Retired,Euro,35234.0
+SIA62C01,Median Real Household Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,29176.0
+SIA62C01,Median Real Household Disposable Income,2025,2025,5,"Student, pupil",Euro,
+SIA62C01,Median Real Household Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,37768.0
+SIA62C02,Mean Real Household Disposable Income,2020,2020,1,Employed,Euro,65074.0
+SIA62C02,Mean Real Household Disposable Income,2020,2020,2,Unemployed,Euro,36011.0
+SIA62C02,Mean Real Household Disposable Income,2020,2020,3,Retired,Euro,42056.0
+SIA62C02,Mean Real Household Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,29912.0
+SIA62C02,Mean Real Household Disposable Income,2020,2020,5,"Student, pupil",Euro,
+SIA62C02,Mean Real Household Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,46464.0
+SIA62C02,Mean Real Household Disposable Income,2021,2021,1,Employed,Euro,69378.0
+SIA62C02,Mean Real Household Disposable Income,2021,2021,2,Unemployed,Euro,41164.0
+SIA62C02,Mean Real Household Disposable Income,2021,2021,3,Retired,Euro,43135.0
+SIA62C02,Mean Real Household Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,30699.0
+SIA62C02,Mean Real Household Disposable Income,2021,2021,5,"Student, pupil",Euro,
+SIA62C02,Mean Real Household Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,49394.0
+SIA62C02,Mean Real Household Disposable Income,2022,2022,1,Employed,Euro,69847.0
+SIA62C02,Mean Real Household Disposable Income,2022,2022,2,Unemployed,Euro,39290.0
+SIA62C02,Mean Real Household Disposable Income,2022,2022,3,Retired,Euro,43649.0
+SIA62C02,Mean Real Household Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,37091.0
+SIA62C02,Mean Real Household Disposable Income,2022,2022,5,"Student, pupil",Euro,
+SIA62C02,Mean Real Household Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,48180.0
+SIA62C02,Mean Real Household Disposable Income,2023,2023,1,Employed,Euro,66861.0
+SIA62C02,Mean Real Household Disposable Income,2023,2023,2,Unemployed,Euro,31062.0
+SIA62C02,Mean Real Household Disposable Income,2023,2023,3,Retired,Euro,44059.0
+SIA62C02,Mean Real Household Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,31156.0
+SIA62C02,Mean Real Household Disposable Income,2023,2023,5,"Student, pupil",Euro,
+SIA62C02,Mean Real Household Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,51057.0
+SIA62C02,Mean Real Household Disposable Income,2024,2024,1,Employed,Euro,67012.0
+SIA62C02,Mean Real Household Disposable Income,2024,2024,2,Unemployed,Euro,42201.0
+SIA62C02,Mean Real Household Disposable Income,2024,2024,3,Retired,Euro,44694.0
+SIA62C02,Mean Real Household Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,33409.0
+SIA62C02,Mean Real Household Disposable Income,2024,2024,5,"Student, pupil",Euro,
+SIA62C02,Mean Real Household Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,51324.0
+SIA62C02,Mean Real Household Disposable Income,2025,2025,1,Employed,Euro,69538.0
+SIA62C02,Mean Real Household Disposable Income,2025,2025,2,Unemployed,Euro,42781.0
+SIA62C02,Mean Real Household Disposable Income,2025,2025,3,Retired,Euro,46049.0
+SIA62C02,Mean Real Household Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,34919.0
+SIA62C02,Mean Real Household Disposable Income,2025,2025,5,"Student, pupil",Euro,
+SIA62C02,Mean Real Household Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,52586.0
+SIA62C03,Median Nominal Household Disposable Income,2020,2020,1,Employed,Euro,57831.0
+SIA62C03,Median Nominal Household Disposable Income,2020,2020,2,Unemployed,Euro,33872.0
+SIA62C03,Median Nominal Household Disposable Income,2020,2020,3,Retired,Euro,33752.0
+SIA62C03,Median Nominal Household Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,22387.0
+SIA62C03,Median Nominal Household Disposable Income,2020,2020,5,"Student, pupil",Euro,
+SIA62C03,Median Nominal Household Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,41663.0
+SIA62C03,Median Nominal Household Disposable Income,2021,2021,1,Employed,Euro,62293.0
+SIA62C03,Median Nominal Household Disposable Income,2021,2021,2,Unemployed,Euro,34925.0
+SIA62C03,Median Nominal Household Disposable Income,2021,2021,3,Retired,Euro,33202.0
+SIA62C03,Median Nominal Household Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,22572.0
+SIA62C03,Median Nominal Household Disposable Income,2021,2021,5,"Student, pupil",Euro,
+SIA62C03,Median Nominal Household Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,41715.0
+SIA62C03,Median Nominal Household Disposable Income,2022,2022,1,Employed,Euro,62971.0
+SIA62C03,Median Nominal Household Disposable Income,2022,2022,2,Unemployed,Euro,33871.0
+SIA62C03,Median Nominal Household Disposable Income,2022,2022,3,Retired,Euro,33185.0
+SIA62C03,Median Nominal Household Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,28303.0
+SIA62C03,Median Nominal Household Disposable Income,2022,2022,5,"Student, pupil",Euro,
+SIA62C03,Median Nominal Household Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,43343.0
+SIA62C03,Median Nominal Household Disposable Income,2023,2023,1,Employed,Euro,66315.0
+SIA62C03,Median Nominal Household Disposable Income,2023,2023,2,Unemployed,Euro,30940.0
+SIA62C03,Median Nominal Household Disposable Income,2023,2023,3,Retired,Euro,38532.0
+SIA62C03,Median Nominal Household Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,29036.0
+SIA62C03,Median Nominal Household Disposable Income,2023,2023,5,"Student, pupil",Euro,
+SIA62C03,Median Nominal Household Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,46779.0
+SIA62C03,Median Nominal Household Disposable Income,2024,2024,1,Employed,Euro,70014.0
+SIA62C03,Median Nominal Household Disposable Income,2024,2024,2,Unemployed,Euro,44546.0
+SIA62C03,Median Nominal Household Disposable Income,2024,2024,3,Retired,Euro,38842.0
+SIA62C03,Median Nominal Household Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,33353.0
+SIA62C03,Median Nominal Household Disposable Income,2024,2024,5,"Student, pupil",Euro,
+SIA62C03,Median Nominal Household Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,45778.0
+SIA62C03,Median Nominal Household Disposable Income,2025,2025,1,Employed,Euro,74922.0
+SIA62C03,Median Nominal Household Disposable Income,2025,2025,2,Unemployed,Euro,39814.0
+SIA62C03,Median Nominal Household Disposable Income,2025,2025,3,Retired,Euro,42087.0
+SIA62C03,Median Nominal Household Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,34851.0
+SIA62C03,Median Nominal Household Disposable Income,2025,2025,5,"Student, pupil",Euro,
+SIA62C03,Median Nominal Household Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,45115.0
+SIA62C04,Mean Nominal Household Disposable Income,2020,2020,1,Employed,Euro,65074.0
+SIA62C04,Mean Nominal Household Disposable Income,2020,2020,2,Unemployed,Euro,36011.0
+SIA62C04,Mean Nominal Household Disposable Income,2020,2020,3,Retired,Euro,42056.0
+SIA62C04,Mean Nominal Household Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,29912.0
+SIA62C04,Mean Nominal Household Disposable Income,2020,2020,5,"Student, pupil",Euro,
+SIA62C04,Mean Nominal Household Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,46464.0
+SIA62C04,Mean Nominal Household Disposable Income,2021,2021,1,Employed,Euro,69146.0
+SIA62C04,Mean Nominal Household Disposable Income,2021,2021,2,Unemployed,Euro,41026.0
+SIA62C04,Mean Nominal Household Disposable Income,2021,2021,3,Retired,Euro,42991.0
+SIA62C04,Mean Nominal Household Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,30596.0
+SIA62C04,Mean Nominal Household Disposable Income,2021,2021,5,"Student, pupil",Euro,
+SIA62C04,Mean Nominal Household Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,49229.0
+SIA62C04,Mean Nominal Household Disposable Income,2022,2022,1,Employed,Euro,71246.0
+SIA62C04,Mean Nominal Household Disposable Income,2022,2022,2,Unemployed,Euro,40077.0
+SIA62C04,Mean Nominal Household Disposable Income,2022,2022,3,Retired,Euro,44523.0
+SIA62C04,Mean Nominal Household Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,37834.0
+SIA62C04,Mean Nominal Household Disposable Income,2022,2022,5,"Student, pupil",Euro,
+SIA62C04,Mean Nominal Household Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,49145.0
+SIA62C04,Mean Nominal Household Disposable Income,2023,2023,1,Employed,Euro,73508.0
+SIA62C04,Mean Nominal Household Disposable Income,2023,2023,2,Unemployed,Euro,34150.0
+SIA62C04,Mean Nominal Household Disposable Income,2023,2023,3,Retired,Euro,48439.0
+SIA62C04,Mean Nominal Household Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,34254.0
+SIA62C04,Mean Nominal Household Disposable Income,2023,2023,5,"Student, pupil",Euro,
+SIA62C04,Mean Nominal Household Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,56133.0
+SIA62C04,Mean Nominal Household Disposable Income,2024,2024,1,Employed,Euro,78334.0
+SIA62C04,Mean Nominal Household Disposable Income,2024,2024,2,Unemployed,Euro,49331.0
+SIA62C04,Mean Nominal Household Disposable Income,2024,2024,3,Retired,Euro,52245.0
+SIA62C04,Mean Nominal Household Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,39053.0
+SIA62C04,Mean Nominal Household Disposable Income,2024,2024,5,"Student, pupil",Euro,
+SIA62C04,Mean Nominal Household Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,59995.0
+SIA62C04,Mean Nominal Household Disposable Income,2025,2025,1,Employed,Euro,83064.0
+SIA62C04,Mean Nominal Household Disposable Income,2025,2025,2,Unemployed,Euro,51103.0
+SIA62C04,Mean Nominal Household Disposable Income,2025,2025,3,Retired,Euro,55006.0
+SIA62C04,Mean Nominal Household Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,41711.0
+SIA62C04,Mean Nominal Household Disposable Income,2025,2025,5,"Student, pupil",Euro,
+SIA62C04,Mean Nominal Household Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,62815.0
+SIA62C05,Median Equivalised Real Disposable Income,2020,2020,1,Employed,Euro,28150.0
+SIA62C05,Median Equivalised Real Disposable Income,2020,2020,2,Unemployed,Euro,16852.0
+SIA62C05,Median Equivalised Real Disposable Income,2020,2020,3,Retired,Euro,22679.0
+SIA62C05,Median Equivalised Real Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,17263.0
+SIA62C05,Median Equivalised Real Disposable Income,2020,2020,5,"Student, pupil",Euro,20799.0
+SIA62C05,Median Equivalised Real Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,18895.0
+SIA62C05,Median Equivalised Real Disposable Income,2021,2021,1,Employed,Euro,30481.0
+SIA62C05,Median Equivalised Real Disposable Income,2021,2021,2,Unemployed,Euro,19662.0
+SIA62C05,Median Equivalised Real Disposable Income,2021,2021,3,Retired,Euro,23770.0
+SIA62C05,Median Equivalised Real Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,17432.0
+SIA62C05,Median Equivalised Real Disposable Income,2021,2021,5,"Student, pupil",Euro,22952.0
+SIA62C05,Median Equivalised Real Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,20397.0
+SIA62C05,Median Equivalised Real Disposable Income,2022,2022,1,Employed,Euro,30380.0
+SIA62C05,Median Equivalised Real Disposable Income,2022,2022,2,Unemployed,Euro,17354.0
+SIA62C05,Median Equivalised Real Disposable Income,2022,2022,3,Retired,Euro,23356.0
+SIA62C05,Median Equivalised Real Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,19030.0
+SIA62C05,Median Equivalised Real Disposable Income,2022,2022,5,"Student, pupil",Euro,24912.0
+SIA62C05,Median Equivalised Real Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,20059.0
+SIA62C05,Median Equivalised Real Disposable Income,2023,2023,1,Employed,Euro,29085.0
+SIA62C05,Median Equivalised Real Disposable Income,2023,2023,2,Unemployed,Euro,17193.0
+SIA62C05,Median Equivalised Real Disposable Income,2023,2023,3,Retired,Euro,23740.0
+SIA62C05,Median Equivalised Real Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,18385.0
+SIA62C05,Median Equivalised Real Disposable Income,2023,2023,5,"Student, pupil",Euro,23255.0
+SIA62C05,Median Equivalised Real Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,20430.0
+SIA62C05,Median Equivalised Real Disposable Income,2024,2024,1,Employed,Euro,29308.0
+SIA62C05,Median Equivalised Real Disposable Income,2024,2024,2,Unemployed,Euro,17869.0
+SIA62C05,Median Equivalised Real Disposable Income,2024,2024,3,Retired,Euro,23526.0
+SIA62C05,Median Equivalised Real Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,18758.0
+SIA62C05,Median Equivalised Real Disposable Income,2024,2024,5,"Student, pupil",Euro,22767.0
+SIA62C05,Median Equivalised Real Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,19586.0
+SIA62C05,Median Equivalised Real Disposable Income,2025,2025,1,Employed,Euro,30493.0
+SIA62C05,Median Equivalised Real Disposable Income,2025,2025,2,Unemployed,Euro,20051.0
+SIA62C05,Median Equivalised Real Disposable Income,2025,2025,3,Retired,Euro,24193.0
+SIA62C05,Median Equivalised Real Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,18971.0
+SIA62C05,Median Equivalised Real Disposable Income,2025,2025,5,"Student, pupil",Euro,24157.0
+SIA62C05,Median Equivalised Real Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,19925.0
+SIA62C06,Mean Equivalised Real Disposable Income,2020,2020,1,Employed,Euro,31963.0
+SIA62C06,Mean Equivalised Real Disposable Income,2020,2020,2,Unemployed,Euro,20131.0
+SIA62C06,Mean Equivalised Real Disposable Income,2020,2020,3,Retired,Euro,26822.0
+SIA62C06,Mean Equivalised Real Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,19938.0
+SIA62C06,Mean Equivalised Real Disposable Income,2020,2020,5,"Student, pupil",Euro,24675.0
+SIA62C06,Mean Equivalised Real Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,21903.0
+SIA62C06,Mean Equivalised Real Disposable Income,2021,2021,1,Employed,Euro,33719.0
+SIA62C06,Mean Equivalised Real Disposable Income,2021,2021,2,Unemployed,Euro,22693.0
+SIA62C06,Mean Equivalised Real Disposable Income,2021,2021,3,Retired,Euro,27413.0
+SIA62C06,Mean Equivalised Real Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,19881.0
+SIA62C06,Mean Equivalised Real Disposable Income,2021,2021,5,"Student, pupil",Euro,26238.0
+SIA62C06,Mean Equivalised Real Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,25485.0
+SIA62C06,Mean Equivalised Real Disposable Income,2022,2022,1,Employed,Euro,33846.0
+SIA62C06,Mean Equivalised Real Disposable Income,2022,2022,2,Unemployed,Euro,19420.0
+SIA62C06,Mean Equivalised Real Disposable Income,2022,2022,3,Retired,Euro,27942.0
+SIA62C06,Mean Equivalised Real Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,21900.0
+SIA62C06,Mean Equivalised Real Disposable Income,2022,2022,5,"Student, pupil",Euro,28615.0
+SIA62C06,Mean Equivalised Real Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,23755.0
+SIA62C06,Mean Equivalised Real Disposable Income,2023,2023,1,Employed,Euro,32684.0
+SIA62C06,Mean Equivalised Real Disposable Income,2023,2023,2,Unemployed,Euro,20393.0
+SIA62C06,Mean Equivalised Real Disposable Income,2023,2023,3,Retired,Euro,27973.0
+SIA62C06,Mean Equivalised Real Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,20709.0
+SIA62C06,Mean Equivalised Real Disposable Income,2023,2023,5,"Student, pupil",Euro,27677.0
+SIA62C06,Mean Equivalised Real Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,23853.0
+SIA62C06,Mean Equivalised Real Disposable Income,2024,2024,1,Employed,Euro,32620.0
+SIA62C06,Mean Equivalised Real Disposable Income,2024,2024,2,Unemployed,Euro,21184.0
+SIA62C06,Mean Equivalised Real Disposable Income,2024,2024,3,Retired,Euro,27929.0
+SIA62C06,Mean Equivalised Real Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,20706.0
+SIA62C06,Mean Equivalised Real Disposable Income,2024,2024,5,"Student, pupil",Euro,28560.0
+SIA62C06,Mean Equivalised Real Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,23112.0
+SIA62C06,Mean Equivalised Real Disposable Income,2025,2025,1,Employed,Euro,33599.0
+SIA62C06,Mean Equivalised Real Disposable Income,2025,2025,2,Unemployed,Euro,22902.0
+SIA62C06,Mean Equivalised Real Disposable Income,2025,2025,3,Retired,Euro,28940.0
+SIA62C06,Mean Equivalised Real Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,20653.0
+SIA62C06,Mean Equivalised Real Disposable Income,2025,2025,5,"Student, pupil",Euro,28199.0
+SIA62C06,Mean Equivalised Real Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,24224.0
+SIA62C09,At Risk of Poverty Rate,2020,2020,1,Employed,%,6.3
+SIA62C09,At Risk of Poverty Rate,2020,2020,2,Unemployed,%,32.0
+SIA62C09,At Risk of Poverty Rate,2020,2020,3,Retired,%,9.0
+SIA62C09,At Risk of Poverty Rate,2020,2020,4,Unable to work due to long-standing health problems,%,30.2
+SIA62C09,At Risk of Poverty Rate,2020,2020,5,"Student, pupil",%,21.8
+SIA62C09,At Risk of Poverty Rate,2020,2020,6,Fulfilling domestic tasks,%,20.9
+SIA62C09,At Risk of Poverty Rate,2021,2021,1,Employed,%,4.5
+SIA62C09,At Risk of Poverty Rate,2021,2021,2,Unemployed,%,23.7
+SIA62C09,At Risk of Poverty Rate,2021,2021,3,Retired,%,12.8
+SIA62C09,At Risk of Poverty Rate,2021,2021,4,Unable to work due to long-standing health problems,%,35.7
+SIA62C09,At Risk of Poverty Rate,2021,2021,5,"Student, pupil",%,17.6
+SIA62C09,At Risk of Poverty Rate,2021,2021,6,Fulfilling domestic tasks,%,21.4
+SIA62C09,At Risk of Poverty Rate,2022,2022,1,Employed,%,5.3
+SIA62C09,At Risk of Poverty Rate,2022,2022,2,Unemployed,%,32.1
+SIA62C09,At Risk of Poverty Rate,2022,2022,3,Retired,%,19.7
+SIA62C09,At Risk of Poverty Rate,2022,2022,4,Unable to work due to long-standing health problems,%,30.7
+SIA62C09,At Risk of Poverty Rate,2022,2022,5,"Student, pupil",%,13.1
+SIA62C09,At Risk of Poverty Rate,2022,2022,6,Fulfilling domestic tasks,%,24.5
+SIA62C09,At Risk of Poverty Rate,2023,2023,1,Employed,%,5.8
+SIA62C09,At Risk of Poverty Rate,2023,2023,2,Unemployed,%,25.5
+SIA62C09,At Risk of Poverty Rate,2023,2023,3,Retired,%,8.8
+SIA62C09,At Risk of Poverty Rate,2023,2023,4,Unable to work due to long-standing health problems,%,27.3
+SIA62C09,At Risk of Poverty Rate,2023,2023,5,"Student, pupil",%,12.7
+SIA62C09,At Risk of Poverty Rate,2023,2023,6,Fulfilling domestic tasks,%,16.6
+SIA62C09,At Risk of Poverty Rate,2024,2024,1,Employed,%,5.4
+SIA62C09,At Risk of Poverty Rate,2024,2024,2,Unemployed,%,34.1
+SIA62C09,At Risk of Poverty Rate,2024,2024,3,Retired,%,13.3
+SIA62C09,At Risk of Poverty Rate,2024,2024,4,Unable to work due to long-standing health problems,%,32.5
+SIA62C09,At Risk of Poverty Rate,2024,2024,5,"Student, pupil",%,13.4
+SIA62C09,At Risk of Poverty Rate,2024,2024,6,Fulfilling domestic tasks,%,26.9
+SIA62C09,At Risk of Poverty Rate,2025,2025,1,Employed,%,5.7
+SIA62C09,At Risk of Poverty Rate,2025,2025,2,Unemployed,%,29.3
+SIA62C09,At Risk of Poverty Rate,2025,2025,3,Retired,%,14.9
+SIA62C09,At Risk of Poverty Rate,2025,2025,4,Unable to work due to long-standing health problems,%,28.4
+SIA62C09,At Risk of Poverty Rate,2025,2025,5,"Student, pupil",%,17.4
+SIA62C09,At Risk of Poverty Rate,2025,2025,6,Fulfilling domestic tasks,%,29.1
+SIA62C07,Median Equivalised Nominal Disposable Income,2020,2020,1,Employed,Euro,28150.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2020,2020,2,Unemployed,Euro,16852.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2020,2020,3,Retired,Euro,22679.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,17263.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2020,2020,5,"Student, pupil",Euro,20799.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,18895.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2021,2021,1,Employed,Euro,30379.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2021,2021,2,Unemployed,Euro,19596.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2021,2021,3,Retired,Euro,23690.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,17374.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2021,2021,5,"Student, pupil",Euro,22875.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,20329.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2022,2022,1,Employed,Euro,30989.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2022,2022,2,Unemployed,Euro,17702.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2022,2022,3,Retired,Euro,23824.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,19411.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2022,2022,5,"Student, pupil",Euro,25411.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,20461.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2023,2023,1,Employed,Euro,31977.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2023,2023,2,Unemployed,Euro,18902.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2023,2023,3,Retired,Euro,26100.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,20213.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2023,2023,5,"Student, pupil",Euro,25567.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,22461.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2024,2024,1,Employed,Euro,34259.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2024,2024,2,Unemployed,Euro,20888.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2024,2024,3,Retired,Euro,27501.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,21927.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2024,2024,5,"Student, pupil",Euro,26613.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,22895.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2025,2025,1,Employed,Euro,36424.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2025,2025,2,Unemployed,Euro,23951.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2025,2025,3,Retired,Euro,28899.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,22661.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2025,2025,5,"Student, pupil",Euro,28856.0
+SIA62C07,Median Equivalised Nominal Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,23801.0
+SIA62C10,Enforced Deprivation Rate,2020,2020,1,Employed,%,9.1
+SIA62C10,Enforced Deprivation Rate,2020,2020,2,Unemployed,%,32.5
+SIA62C10,Enforced Deprivation Rate,2020,2020,3,Retired,%,7.0
+SIA62C10,Enforced Deprivation Rate,2020,2020,4,Unable to work due to long-standing health problems,%,36.5
+SIA62C10,Enforced Deprivation Rate,2020,2020,5,"Student, pupil",%,18.6
+SIA62C10,Enforced Deprivation Rate,2020,2020,6,Fulfilling domestic tasks,%,16.9
+SIA62C10,Enforced Deprivation Rate,2021,2021,1,Employed,%,8.7
+SIA62C10,Enforced Deprivation Rate,2021,2021,2,Unemployed,%,29.6
+SIA62C10,Enforced Deprivation Rate,2021,2021,3,Retired,%,7.1
+SIA62C10,Enforced Deprivation Rate,2021,2021,4,Unable to work due to long-standing health problems,%,37.0
+SIA62C10,Enforced Deprivation Rate,2021,2021,5,"Student, pupil",%,13.9
+SIA62C10,Enforced Deprivation Rate,2021,2021,6,Fulfilling domestic tasks,%,16.3
+SIA62C10,Enforced Deprivation Rate,2022,2022,1,Employed,%,11.7
+SIA62C10,Enforced Deprivation Rate,2022,2022,2,Unemployed,%,46.6
+SIA62C10,Enforced Deprivation Rate,2022,2022,3,Retired,%,12.2
+SIA62C10,Enforced Deprivation Rate,2022,2022,4,Unable to work due to long-standing health problems,%,40.3
+SIA62C10,Enforced Deprivation Rate,2022,2022,5,"Student, pupil",%,17.8
+SIA62C10,Enforced Deprivation Rate,2022,2022,6,Fulfilling domestic tasks,%,21.2
+SIA62C10,Enforced Deprivation Rate,2023,2023,1,Employed,%,12.3
+SIA62C10,Enforced Deprivation Rate,2023,2023,2,Unemployed,%,37.8
+SIA62C10,Enforced Deprivation Rate,2023,2023,3,Retired,%,9.6
+SIA62C10,Enforced Deprivation Rate,2023,2023,4,Unable to work due to long-standing health problems,%,44.7
+SIA62C10,Enforced Deprivation Rate,2023,2023,5,"Student, pupil",%,21.6
+SIA62C10,Enforced Deprivation Rate,2023,2023,6,Fulfilling domestic tasks,%,24.8
+SIA62C10,Enforced Deprivation Rate,2024,2024,1,Employed,%,11.6
+SIA62C10,Enforced Deprivation Rate,2024,2024,2,Unemployed,%,37.8
+SIA62C10,Enforced Deprivation Rate,2024,2024,3,Retired,%,6.9
+SIA62C10,Enforced Deprivation Rate,2024,2024,4,Unable to work due to long-standing health problems,%,38.5
+SIA62C10,Enforced Deprivation Rate,2024,2024,5,"Student, pupil",%,17.0
+SIA62C10,Enforced Deprivation Rate,2024,2024,6,Fulfilling domestic tasks,%,23.0
+SIA62C10,Enforced Deprivation Rate,2025,2025,1,Employed,%,9.5
+SIA62C10,Enforced Deprivation Rate,2025,2025,2,Unemployed,%,42.1
+SIA62C10,Enforced Deprivation Rate,2025,2025,3,Retired,%,8.8
+SIA62C10,Enforced Deprivation Rate,2025,2025,4,Unable to work due to long-standing health problems,%,39.2
+SIA62C10,Enforced Deprivation Rate,2025,2025,5,"Student, pupil",%,18.9
+SIA62C10,Enforced Deprivation Rate,2025,2025,6,Fulfilling domestic tasks,%,25.1
+SIA62C08,Mean Equivalised Nominal Disposable Income,2020,2020,1,Employed,Euro,31963.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2020,2020,2,Unemployed,Euro,20131.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2020,2020,3,Retired,Euro,26822.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2020,2020,4,Unable to work due to long-standing health problems,Euro,19938.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2020,2020,5,"Student, pupil",Euro,24675.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2020,2020,6,Fulfilling domestic tasks,Euro,21903.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2021,2021,1,Employed,Euro,33606.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2021,2021,2,Unemployed,Euro,22617.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2021,2021,3,Retired,Euro,27321.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2021,2021,4,Unable to work due to long-standing health problems,Euro,19814.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2021,2021,5,"Student, pupil",Euro,26150.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2021,2021,6,Fulfilling domestic tasks,Euro,25400.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2022,2022,1,Employed,Euro,34524.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2022,2022,2,Unemployed,Euro,19809.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2022,2022,3,Retired,Euro,28502.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2022,2022,4,Unable to work due to long-standing health problems,Euro,22339.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2022,2022,5,"Student, pupil",Euro,29188.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2022,2022,6,Fulfilling domestic tasks,Euro,24231.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2023,2023,1,Employed,Euro,35934.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2023,2023,2,Unemployed,Euro,22421.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2023,2023,3,Retired,Euro,30754.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2023,2023,4,Unable to work due to long-standing health problems,Euro,22768.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2023,2023,5,"Student, pupil",Euro,30429.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2023,2023,6,Fulfilling domestic tasks,Euro,26225.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2024,2024,1,Employed,Euro,38131.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2024,2024,2,Unemployed,Euro,24763.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2024,2024,3,Retired,Euro,32648.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2024,2024,4,Unable to work due to long-standing health problems,Euro,24204.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2024,2024,5,"Student, pupil",Euro,33385.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2024,2024,6,Fulfilling domestic tasks,Euro,27017.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2025,2025,1,Employed,Euro,40135.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2025,2025,2,Unemployed,Euro,27357.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2025,2025,3,Retired,Euro,34569.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2025,2025,4,Unable to work due to long-standing health problems,Euro,24670.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2025,2025,5,"Student, pupil",Euro,33684.0
+SIA62C08,Mean Equivalised Nominal Disposable Income,2025,2025,6,Fulfilling domestic tasks,Euro,28936.0
+SIA62C11,Consistent Poverty Rate,2020,2020,1,Employed,%,1.5
+SIA62C11,Consistent Poverty Rate,2020,2020,2,Unemployed,%,14.3
+SIA62C11,Consistent Poverty Rate,2020,2020,3,Retired,%,1.1
+SIA62C11,Consistent Poverty Rate,2020,2020,4,Unable to work due to long-standing health problems,%,14.7
+SIA62C11,Consistent Poverty Rate,2020,2020,5,"Student, pupil",%,7.4
+SIA62C11,Consistent Poverty Rate,2020,2020,6,Fulfilling domestic tasks,%,5.8
+SIA62C11,Consistent Poverty Rate,2021,2021,1,Employed,%,1.2
+SIA62C11,Consistent Poverty Rate,2021,2021,2,Unemployed,%,10.5
+SIA62C11,Consistent Poverty Rate,2021,2021,3,Retired,%,2.4
+SIA62C11,Consistent Poverty Rate,2021,2021,4,Unable to work due to long-standing health problems,%,16.4
+SIA62C11,Consistent Poverty Rate,2021,2021,5,"Student, pupil",%,6.1
+SIA62C11,Consistent Poverty Rate,2021,2021,6,Fulfilling domestic tasks,%,5.9
+SIA62C11,Consistent Poverty Rate,2022,2022,1,Employed,%,2.0
+SIA62C11,Consistent Poverty Rate,2022,2022,2,Unemployed,%,14.3
+SIA62C11,Consistent Poverty Rate,2022,2022,3,Retired,%,3.8
+SIA62C11,Consistent Poverty Rate,2022,2022,4,Unable to work due to long-standing health problems,%,16.8
+SIA62C11,Consistent Poverty Rate,2022,2022,5,"Student, pupil",%,5.9
+SIA62C11,Consistent Poverty Rate,2022,2022,6,Fulfilling domestic tasks,%,7.7
+SIA62C11,Consistent Poverty Rate,2023,2023,1,Employed,%,1.5
+SIA62C11,Consistent Poverty Rate,2023,2023,2,Unemployed,%,9.4
+SIA62C11,Consistent Poverty Rate,2023,2023,3,Retired,%,1.5
+SIA62C11,Consistent Poverty Rate,2023,2023,4,Unable to work due to long-standing health problems,%,16.5
+SIA62C11,Consistent Poverty Rate,2023,2023,5,"Student, pupil",%,4.6
+SIA62C11,Consistent Poverty Rate,2023,2023,6,Fulfilling domestic tasks,%,6.9
+SIA62C11,Consistent Poverty Rate,2024,2024,1,Employed,%,1.7
+SIA62C11,Consistent Poverty Rate,2024,2024,2,Unemployed,%,18.9
+SIA62C11,Consistent Poverty Rate,2024,2024,3,Retired,%,1.9
+SIA62C11,Consistent Poverty Rate,2024,2024,4,Unable to work due to long-standing health problems,%,19.0
+SIA62C11,Consistent Poverty Rate,2024,2024,5,"Student, pupil",%,5.1
+SIA62C11,Consistent Poverty Rate,2024,2024,6,Fulfilling domestic tasks,%,12.4
+SIA62C11,Consistent Poverty Rate,2025,2025,1,Employed,%,1.5
+SIA62C11,Consistent Poverty Rate,2025,2025,2,Unemployed,%,18.1
+SIA62C11,Consistent Poverty Rate,2025,2025,3,Retired,%,3.0
+SIA62C11,Consistent Poverty Rate,2025,2025,4,Unable to work due to long-standing health problems,%,13.9
+SIA62C11,Consistent Poverty Rate,2025,2025,5,"Student, pupil",%,6.5
+SIA62C11,Consistent Poverty Rate,2025,2025,6,Fulfilling domestic tasks,%,10.3

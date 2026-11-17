@@ -1,0 +1,23 @@
+---
+title: "Childhood"
+description: "How many children there are, children's health, and children in care."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish childhood >}}
+
+These pages show how many children live in Ireland, how healthy they are, and how many are in the care of the State. Child poverty is covered in the [Poverty and inequality](../poverty/child-poverty.qmd) topic, births and fertility in [Population](../population/births-deaths-marriages.qmd), and schools in [Education](../education/index.qmd).
+
+{{< key-facts childhood-children-population poverty-child-rates childhood-infant-mortality childhood-in-care >}}
+
+:::{#pages}
+:::

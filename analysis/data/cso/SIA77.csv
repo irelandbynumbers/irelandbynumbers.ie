@@ -1,0 +1,121 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02196V02652,State,UNIT,VALUE
+SIA77C01,At Risk of Poverty Rate: 60% Median Income Threshold,2020,2020,-,State,%,12.8
+SIA77C01,At Risk of Poverty Rate: 60% Median Income Threshold,2021,2021,-,State,%,11.8
+SIA77C01,At Risk of Poverty Rate: 60% Median Income Threshold,2022,2022,-,State,%,12.5
+SIA77C01,At Risk of Poverty Rate: 60% Median Income Threshold,2023,2023,-,State,%,10.6
+SIA77C01,At Risk of Poverty Rate: 60% Median Income Threshold,2024,2024,-,State,%,11.7
+SIA77C01,At Risk of Poverty Rate: 60% Median Income Threshold,2025,2025,-,State,%,12.6
+SIA77C02,At Risk of Poverty Rate: 40% Median Income Threshold,2020,2020,-,State,%,2.2
+SIA77C02,At Risk of Poverty Rate: 40% Median Income Threshold,2021,2021,-,State,%,2.0
+SIA77C02,At Risk of Poverty Rate: 40% Median Income Threshold,2022,2022,-,State,%,1.5
+SIA77C02,At Risk of Poverty Rate: 40% Median Income Threshold,2023,2023,-,State,%,1.5
+SIA77C02,At Risk of Poverty Rate: 40% Median Income Threshold,2024,2024,-,State,%,1.4
+SIA77C02,At Risk of Poverty Rate: 40% Median Income Threshold,2025,2025,-,State,%,2.5
+SIA77C03,At Risk of Poverty Rate: 50% Median Income Threshold,2020,2020,-,State,%,5.9
+SIA77C03,At Risk of Poverty Rate: 50% Median Income Threshold,2021,2021,-,State,%,5.4
+SIA77C03,At Risk of Poverty Rate: 50% Median Income Threshold,2022,2022,-,State,%,6.1
+SIA77C03,At Risk of Poverty Rate: 50% Median Income Threshold,2023,2023,-,State,%,4.8
+SIA77C03,At Risk of Poverty Rate: 50% Median Income Threshold,2024,2024,-,State,%,5.3
+SIA77C03,At Risk of Poverty Rate: 50% Median Income Threshold,2025,2025,-,State,%,6.1
+SIA77C04,At Risk of Poverty Rate: 70% Median Income Threshold,2020,2020,-,State,%,21.9
+SIA77C04,At Risk of Poverty Rate: 70% Median Income Threshold,2021,2021,-,State,%,22.6
+SIA77C04,At Risk of Poverty Rate: 70% Median Income Threshold,2022,2022,-,State,%,23.2
+SIA77C04,At Risk of Poverty Rate: 70% Median Income Threshold,2023,2023,-,State,%,21.5
+SIA77C04,At Risk of Poverty Rate: 70% Median Income Threshold,2024,2024,-,State,%,21.1
+SIA77C04,At Risk of Poverty Rate: 70% Median Income Threshold,2025,2025,-,State,%,21.7
+SIA77C05,At Risk of Poverty Rate: Excluding All Social Transfers (60% Median Income Threshold),2020,2020,-,State,%,35.3
+SIA77C05,At Risk of Poverty Rate: Excluding All Social Transfers (60% Median Income Threshold),2021,2021,-,State,%,37.3
+SIA77C05,At Risk of Poverty Rate: Excluding All Social Transfers (60% Median Income Threshold),2022,2022,-,State,%,35.5
+SIA77C05,At Risk of Poverty Rate: Excluding All Social Transfers (60% Median Income Threshold),2023,2023,-,State,%,34.1
+SIA77C05,At Risk of Poverty Rate: Excluding All Social Transfers (60% Median Income Threshold),2024,2024,-,State,%,31.4
+SIA77C05,At Risk of Poverty Rate: Excluding All Social Transfers (60% Median Income Threshold),2025,2025,-,State,%,33.2
+SIA77C06,At Risk of Poverty Rate: Excluding All Social Transfers and Public Sector Pensions (60% Median Income Threshold),2020,2020,-,State,%,38.0
+SIA77C06,At Risk of Poverty Rate: Excluding All Social Transfers and Public Sector Pensions (60% Median Income Threshold),2021,2021,-,State,%,40.0
+SIA77C06,At Risk of Poverty Rate: Excluding All Social Transfers and Public Sector Pensions (60% Median Income Threshold),2022,2022,-,State,%,39.1
+SIA77C06,At Risk of Poverty Rate: Excluding All Social Transfers and Public Sector Pensions (60% Median Income Threshold),2023,2023,-,State,%,36.9
+SIA77C06,At Risk of Poverty Rate: Excluding All Social Transfers and Public Sector Pensions (60% Median Income Threshold),2024,2024,-,State,%,34.2
+SIA77C06,At Risk of Poverty Rate: Excluding All Social Transfers and Public Sector Pensions (60% Median Income Threshold),2025,2025,-,State,%,36.1
+SIA77C07,Relative at Risk of Poverty Gap,2020,2020,-,State,%,14.8
+SIA77C07,Relative at Risk of Poverty Gap,2021,2021,-,State,%,15.5
+SIA77C07,Relative at Risk of Poverty Gap,2022,2022,-,State,%,16.0
+SIA77C07,Relative at Risk of Poverty Gap,2023,2023,-,State,%,15.7
+SIA77C07,Relative at Risk of Poverty Gap,2024,2024,-,State,%,14.9
+SIA77C07,Relative at Risk of Poverty Gap,2025,2025,-,State,%,16.0
+SIA77C15,At Risk of Poverty Anchored at 2020,2020,2020,-,State,%,12.8
+SIA77C15,At Risk of Poverty Anchored at 2020,2021,2021,-,State,%,8.5
+SIA77C15,At Risk of Poverty Anchored at 2020,2022,2022,-,State,%,8.0
+SIA77C15,At Risk of Poverty Anchored at 2020,2023,2023,-,State,%,9.1
+SIA77C15,At Risk of Poverty Anchored at 2020,2024,2024,-,State,%,8.8
+SIA77C15,At Risk of Poverty Anchored at 2020,2025,2025,-,State,%,8.0
+SIA77C16,At Risk of Poverty Anchored at 2021,2020,2020,-,State,%,
+SIA77C16,At Risk of Poverty Anchored at 2021,2021,2021,-,State,%,11.8
+SIA77C16,At Risk of Poverty Anchored at 2021,2022,2022,-,State,%,11.5
+SIA77C16,At Risk of Poverty Anchored at 2021,2023,2023,-,State,%,11.8
+SIA77C16,At Risk of Poverty Anchored at 2021,2024,2024,-,State,%,12.2
+SIA77C16,At Risk of Poverty Anchored at 2021,2025,2025,-,State,%,10.7
+SIA77C17,At Risk of Poverty Anchored at 2022,2020,2020,-,State,%,
+SIA77C17,At Risk of Poverty Anchored at 2022,2021,2021,-,State,%,
+SIA77C17,At Risk of Poverty Anchored at 2022,2022,2022,-,State,%,12.5
+SIA77C17,At Risk of Poverty Anchored at 2022,2023,2023,-,State,%,13.6
+SIA77C17,At Risk of Poverty Anchored at 2022,2024,2024,-,State,%,13.4
+SIA77C17,At Risk of Poverty Anchored at 2022,2025,2025,-,State,%,11.8
+SIA77C18,At Risk of Poverty Anchored at 2023,2020,2020,-,State,%,
+SIA77C18,At Risk of Poverty Anchored at 2023,2021,2021,-,State,%,
+SIA77C18,At Risk of Poverty Anchored at 2023,2022,2022,-,State,%,
+SIA77C18,At Risk of Poverty Anchored at 2023,2023,2023,-,State,%,10.6
+SIA77C18,At Risk of Poverty Anchored at 2023,2024,2024,-,State,%,10.5
+SIA77C18,At Risk of Poverty Anchored at 2023,2025,2025,-,State,%,9.4
+SIA77C19,At Risk of Poverty Anchored at 2024,2020,2020,-,State,%,
+SIA77C19,At Risk of Poverty Anchored at 2024,2021,2021,-,State,%,
+SIA77C19,At Risk of Poverty Anchored at 2024,2022,2022,-,State,%,
+SIA77C19,At Risk of Poverty Anchored at 2024,2023,2023,-,State,%,
+SIA77C19,At Risk of Poverty Anchored at 2024,2024,2024,-,State,%,11.7
+SIA77C19,At Risk of Poverty Anchored at 2024,2025,2025,-,State,%,10.3
+SIA77C20,At Risk of Poverty Anchored at 2025,2020,2020,-,State,%,
+SIA77C20,At Risk of Poverty Anchored at 2025,2021,2021,-,State,%,
+SIA77C20,At Risk of Poverty Anchored at 2025,2022,2022,-,State,%,
+SIA77C20,At Risk of Poverty Anchored at 2025,2023,2023,-,State,%,
+SIA77C20,At Risk of Poverty Anchored at 2025,2024,2024,-,State,%,
+SIA77C20,At Risk of Poverty Anchored at 2025,2025,2025,-,State,%,12.6
+SIA77C08,Enforced Deprivation Rate,2020,2020,-,State,%,14.3
+SIA77C08,Enforced Deprivation Rate,2021,2021,-,State,%,13.7
+SIA77C08,Enforced Deprivation Rate,2022,2022,-,State,%,16.6
+SIA77C08,Enforced Deprivation Rate,2023,2023,-,State,%,17.3
+SIA77C08,Enforced Deprivation Rate,2024,2024,-,State,%,15.7
+SIA77C08,Enforced Deprivation Rate,2025,2025,-,State,%,15.1
+SIA77C09,Enforced Deprivation Rate: Those at Risk of Poverty,2020,2020,-,State,%,34.2
+SIA77C09,Enforced Deprivation Rate: Those at Risk of Poverty,2021,2021,-,State,%,35.6
+SIA77C09,Enforced Deprivation Rate: Those at Risk of Poverty,2022,2022,-,State,%,38.9
+SIA77C09,Enforced Deprivation Rate: Those at Risk of Poverty,2023,2023,-,State,%,33.8
+SIA77C09,Enforced Deprivation Rate: Those at Risk of Poverty,2024,2024,-,State,%,43.1
+SIA77C09,Enforced Deprivation Rate: Those at Risk of Poverty,2025,2025,-,State,%,37.4
+SIA77C10,Enforced Deprivation Rate: Those NOT at Risk of Poverty,2020,2020,-,State,%,11.4
+SIA77C10,Enforced Deprivation Rate: Those NOT at Risk of Poverty,2021,2021,-,State,%,10.8
+SIA77C10,Enforced Deprivation Rate: Those NOT at Risk of Poverty,2022,2022,-,State,%,13.4
+SIA77C10,Enforced Deprivation Rate: Those NOT at Risk of Poverty,2023,2023,-,State,%,15.4
+SIA77C10,Enforced Deprivation Rate: Those NOT at Risk of Poverty,2024,2024,-,State,%,12.1
+SIA77C10,Enforced Deprivation Rate: Those NOT at Risk of Poverty,2025,2025,-,State,%,11.9
+SIA77C11,Consistent Poverty Rate (60% Median Income Threshold),2020,2020,-,State,%,4.4
+SIA77C11,Consistent Poverty Rate (60% Median Income Threshold),2021,2021,-,State,%,4.2
+SIA77C11,Consistent Poverty Rate (60% Median Income Threshold),2022,2022,-,State,%,4.9
+SIA77C11,Consistent Poverty Rate (60% Median Income Threshold),2023,2023,-,State,%,3.6
+SIA77C11,Consistent Poverty Rate (60% Median Income Threshold),2024,2024,-,State,%,5.0
+SIA77C11,Consistent Poverty Rate (60% Median Income Threshold),2025,2025,-,State,%,4.7
+SIA77C12,Consistent Poverty Rate (40% Median Income Threshold),2020,2020,-,State,%,0.6
+SIA77C12,Consistent Poverty Rate (40% Median Income Threshold),2021,2021,-,State,%,0.6
+SIA77C12,Consistent Poverty Rate (40% Median Income Threshold),2022,2022,-,State,%,0.5
+SIA77C12,Consistent Poverty Rate (40% Median Income Threshold),2023,2023,-,State,%,0.4
+SIA77C12,Consistent Poverty Rate (40% Median Income Threshold),2024,2024,-,State,%,0.5
+SIA77C12,Consistent Poverty Rate (40% Median Income Threshold),2025,2025,-,State,%,1.3
+SIA77C13,Consistent Poverty Rate (50% Median Income Threshold),2020,2020,-,State,%,2.1
+SIA77C13,Consistent Poverty Rate (50% Median Income Threshold),2021,2021,-,State,%,2.0
+SIA77C13,Consistent Poverty Rate (50% Median Income Threshold),2022,2022,-,State,%,2.3
+SIA77C13,Consistent Poverty Rate (50% Median Income Threshold),2023,2023,-,State,%,1.4
+SIA77C13,Consistent Poverty Rate (50% Median Income Threshold),2024,2024,-,State,%,2.6
+SIA77C13,Consistent Poverty Rate (50% Median Income Threshold),2025,2025,-,State,%,2.3
+SIA77C14,Consistent Poverty Rate (70% Median Income Threshold),2020,2020,-,State,%,7.0
+SIA77C14,Consistent Poverty Rate (70% Median Income Threshold),2021,2021,-,State,%,6.9
+SIA77C14,Consistent Poverty Rate (70% Median Income Threshold),2022,2022,-,State,%,8.8
+SIA77C14,Consistent Poverty Rate (70% Median Income Threshold),2023,2023,-,State,%,7.3
+SIA77C14,Consistent Poverty Rate (70% Median Income Threshold),2024,2024,-,State,%,7.9
+SIA77C14,Consistent Poverty Rate (70% Median Income Threshold),2025,2025,-,State,%,7.0

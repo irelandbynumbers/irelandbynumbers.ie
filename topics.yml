@@ -53,3 +53,11 @@
   path: ai/index.qmd
   image: images/topic-ai.svg
   description: How businesses and people use AI, and how much electricity data centres use.
+- title: Poverty and inequality
+  path: poverty/index.qmd
+  image: images/topic-poverty.svg
+  description: How many people are at risk of poverty or go without basics, who is most affected, and how evenly income is shared.
+- title: Childhood
+  path: childhood/index.qmd
+  image: images/topic-childhood.svg
+  description: How many children there are, children's health, and children in care.

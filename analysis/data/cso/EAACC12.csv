@@ -1,0 +1,25 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C04324V05103,Placement Type,UNIT,VALUE
+EAACC12C01,Children in care in January 2025,2025M01,January 2025,10,Foster Care (General),Number,3324
+EAACC12C01,Children in care in January 2025,2025M01,January 2025,20,Foster Care (Relative),Number,1395
+EAACC12C01,Children in care in January 2025,2025M01,January 2025,30,Residential Care (General),Number,476
+EAACC12C01,Children in care in January 2025,2025M01,January 2025,40,Residential Special Care,Number,12
+EAACC12C01,Children in care in January 2025,2025M01,January 2025,50,Other Care Placements,Number,176
+EAACC12C01,Children in care in January 2025,2025M01,January 2025,-,Total number of children in care placements,Number,5383
+EAACC12C02,Percentage of children in care in January 2025,2025M01,January 2025,10,Foster Care (General),%,62
+EAACC12C02,Percentage of children in care in January 2025,2025M01,January 2025,20,Foster Care (Relative),%,26
+EAACC12C02,Percentage of children in care in January 2025,2025M01,January 2025,30,Residential Care (General),%,9
+EAACC12C02,Percentage of children in care in January 2025,2025M01,January 2025,40,Residential Special Care,%,0
+EAACC12C02,Percentage of children in care in January 2025,2025M01,January 2025,50,Other Care Placements,%,3
+EAACC12C02,Percentage of children in care in January 2025,2025M01,January 2025,-,Total number of children in care placements,%,100
+EAACC12C03,Children who left care since April 2018,2025M01,January 2025,10,Foster Care (General),Number,1846
+EAACC12C03,Children who left care since April 2018,2025M01,January 2025,20,Foster Care (Relative),Number,981
+EAACC12C03,Children who left care since April 2018,2025M01,January 2025,30,Residential Care (General),Number,608
+EAACC12C03,Children who left care since April 2018,2025M01,January 2025,40,Residential Special Care,Number,14
+EAACC12C03,Children who left care since April 2018,2025M01,January 2025,50,Other Care Placements,Number,340
+EAACC12C03,Children who left care since April 2018,2025M01,January 2025,-,Total number of children in care placements,Number,3789
+EAACC12C04,Percentage of children who left care since April 2018,2025M01,January 2025,10,Foster Care (General),%,49
+EAACC12C04,Percentage of children who left care since April 2018,2025M01,January 2025,20,Foster Care (Relative),%,26
+EAACC12C04,Percentage of children who left care since April 2018,2025M01,January 2025,30,Residential Care (General),%,16
+EAACC12C04,Percentage of children who left care since April 2018,2025M01,January 2025,40,Residential Special Care,%,0
+EAACC12C04,Percentage of children who left care since April 2018,2025M01,January 2025,50,Other Care Placements,%,9
+EAACC12C04,Percentage of children who left care since April 2018,2025M01,January 2025,-,Total number of children in care placements,%,100

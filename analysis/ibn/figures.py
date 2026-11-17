@@ -6,6 +6,8 @@ else with plotly directly, starting from style.base_layout().
 import json
 import os
 
+import numpy as np
+
 import plotly.graph_objects as go
 
 from . import style
@@ -37,6 +39,7 @@ def lines(df, x, series, colours=None, value_format=",.0f", suffix="", prefix=""
             fig.add_annotation(x=last[x], y=last[col], xanchor="left", xshift=8, showarrow=False,
                                text=f"<b>{label}</b><br>{text}" if len(series) > 1 else f"<b>{text}</b>",
                                align="left", font=dict(color=style.INK, size=13))
+    _separate_end_labels(fig, df[list(series)].to_numpy(dtype=float), y_range)
     fig.update_layout(style.base_layout(
         hovermode="x unified",
         margin=dict(l=56, r=120 if label_last else 24, t=16, b=40),
@@ -46,6 +49,19 @@ def lines(df, x, series, colours=None, value_format=",.0f", suffix="", prefix=""
                                ticksuffix=suffix, tickprefix=prefix, title=dict(text=y_title)),
     ))
     return fig
+
+
+def _separate_end_labels(fig, values, y_range=None):
+    """Nudge the end-of-line labels apart when two lines finish at nearly the same value."""
+    anns = sorted(fig.layout.annotations, key=lambda a: a.y)
+    if len(anns) < 2:
+        return
+    lo = y_range[0] if y_range and y_range[0] is not None else np.nanmin(values)
+    hi = y_range[1] if y_range and y_range[1] is not None else np.nanmax(values)
+    gap = (hi - lo) * 0.08
+    for below, above in zip(anns, anns[1:]):
+        if above.y - below.y < gap:
+            below.yshift, above.yshift = -16, 16
 
 
 def county_map(df, county, value, time=None, colorscale=None, value_format=",.0f", suffix="",

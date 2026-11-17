@@ -1,0 +1,31 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02196V02652,State,UNIT,VALUE
+SIA75C01,Gini Coefficient,2020,2020,-,State,Ratio,27.7
+SIA75C01,Gini Coefficient,2021,2021,-,State,Ratio,26.7
+SIA75C01,Gini Coefficient,2022,2022,-,State,Ratio,27.4
+SIA75C01,Gini Coefficient,2023,2023,-,State,Ratio,27.5
+SIA75C01,Gini Coefficient,2024,2024,-,State,Ratio,26.9
+SIA75C01,Gini Coefficient,2025,2025,-,State,Ratio,27.4
+SIA75C02,Quintile Share Ratio,2020,2020,-,State,Ratio,3.9
+SIA75C02,Quintile Share Ratio,2021,2021,-,State,Ratio,3.7
+SIA75C02,Quintile Share Ratio,2022,2022,-,State,Ratio,3.9
+SIA75C02,Quintile Share Ratio,2023,2023,-,State,Ratio,3.8
+SIA75C02,Quintile Share Ratio,2024,2024,-,State,Ratio,3.8
+SIA75C02,Quintile Share Ratio,2025,2025,-,State,Ratio,3.9
+SIA75C03,Gini Coefficient (Ratio) - Equivalised Market Income,2020,2020,-,State,Ratio,47.0
+SIA75C03,Gini Coefficient (Ratio) - Equivalised Market Income,2021,2021,-,State,Ratio,47.5
+SIA75C03,Gini Coefficient (Ratio) - Equivalised Market Income,2022,2022,-,State,Ratio,47.3
+SIA75C03,Gini Coefficient (Ratio) - Equivalised Market Income,2023,2023,-,State,Ratio,47.0
+SIA75C03,Gini Coefficient (Ratio) - Equivalised Market Income,2024,2024,-,State,Ratio,45.0
+SIA75C03,Gini Coefficient (Ratio) - Equivalised Market Income,2025,2025,-,State,Ratio,45.5
+SIA75C04,Gini Coefficient (Ratio) - Equivalised Gross Income,2020,2020,-,State,Ratio,35.8
+SIA75C04,Gini Coefficient (Ratio) - Equivalised Gross Income,2021,2021,-,State,Ratio,35.3
+SIA75C04,Gini Coefficient (Ratio) - Equivalised Gross Income,2022,2022,-,State,Ratio,36.0
+SIA75C04,Gini Coefficient (Ratio) - Equivalised Gross Income,2023,2023,-,State,Ratio,36.5
+SIA75C04,Gini Coefficient (Ratio) - Equivalised Gross Income,2024,2024,-,State,Ratio,35.6
+SIA75C04,Gini Coefficient (Ratio) - Equivalised Gross Income,2025,2025,-,State,Ratio,35.7
+SIA75C05,Gini Coefficient (Ratio) - Equivalised Disposable Income,2020,2020,-,State,Ratio,27.7
+SIA75C05,Gini Coefficient (Ratio) - Equivalised Disposable Income,2021,2021,-,State,Ratio,26.7
+SIA75C05,Gini Coefficient (Ratio) - Equivalised Disposable Income,2022,2022,-,State,Ratio,27.4
+SIA75C05,Gini Coefficient (Ratio) - Equivalised Disposable Income,2023,2023,-,State,Ratio,27.5
+SIA75C05,Gini Coefficient (Ratio) - Equivalised Disposable Income,2024,2024,-,State,Ratio,26.9
+SIA75C05,Gini Coefficient (Ratio) - Equivalised Disposable Income,2025,2025,-,State,Ratio,27.4

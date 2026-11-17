@@ -2568,6 +2568,414 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "poverty-by-age",
+  "topic": "poverty",
+  "title": "Poverty and deprivation by age",
+  "subtitle": "Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, by age, 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-by-age.html",
+  "csv": "/charts/poverty-by-age.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Income, poverty and deprivation rates, by age group (SIA61)",
+    "url": "https://data.cso.ie/table/SIA61",
+    "licence": "CC BY 4.0",
+    "code": "SIA61",
+    "updated": "2026-03-11",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 14.8% of people aged 65 and over were at risk of poverty, and 16.9% of children.",
+  "listed": true,
+  "updated": "2026-03-11",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-by-household",
+  "topic": "poverty",
+  "title": "Poverty and deprivation by type of household",
+  "subtitle": "Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, by type of household, 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-by-household.html",
+  "csv": "/charts/poverty-by-household.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Income, poverty and deprivation rates, by household composition (SIA64)",
+    "url": "https://data.cso.ie/table/SIA64",
+    "licence": "CC BY 4.0",
+    "code": "SIA64",
+    "updated": "2026-03-11",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 48.7% of people in one-parent households experienced deprivation, compared with 12.3% in households of two adults with one to three children.",
+  "listed": true,
+  "updated": "2026-03-11",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-by-work",
+  "topic": "poverty",
+  "title": "Poverty and deprivation by work status",
+  "subtitle": "Share of people aged 16 and over at risk of poverty, experiencing deprivation, and in consistent poverty, by main economic status, 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-by-work.html",
+  "csv": "/charts/poverty-by-work.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Income, poverty and deprivation rates, by principal economic status (SIA62)",
+    "url": "https://data.cso.ie/table/SIA62",
+    "licence": "CC BY 4.0",
+    "code": "SIA62",
+    "updated": "2026-03-11",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 29.3% of unemployed people were at risk of poverty, compared with 5.7% of people in work.",
+  "listed": true,
+  "updated": "2026-03-11",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-child-eu",
+  "topic": "poverty",
+  "title": "Children at risk of poverty or social exclusion across the EU",
+  "subtitle": "Share of children aged under 18 at risk of poverty or social exclusion, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-child-eu.html",
+  "csv": "/charts/poverty-child-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Persons at risk of poverty or social exclusion (ilc_peps01n)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "ilc_peps01n_children",
+    "updated": "2026-10-20",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 23.7% of children in Ireland were at risk of poverty or social exclusion, compared with 24.3% across the EU. Ireland's rate was the 9th highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-child-low-income-by-family",
+  "topic": "poverty",
+  "title": "Children in low-income households by type of family",
+  "subtitle": "Share of children aged under 18 living in a low-income household, by type of family, 2022.",
+  "kind": "chart",
+  "page": "/charts/poverty-child-low-income-by-family.html",
+  "csv": "/charts/poverty-child-low-income-by-family.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Children aged under 18 living in low-income households (CCLIH09)",
+    "url": "https://data.cso.ie/table/CCLIH09",
+    "licence": "CC BY 4.0",
+    "code": "CCLIH09",
+    "updated": "2026-10-19",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2022, 30% of children living with a lone mother and 29% of those living with a lone father were in low-income households, compared with 12% of children of married couples.",
+  "listed": true,
+  "updated": "2026-10-19",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-child-low-income-by-work",
+  "topic": "poverty",
+  "title": "Children in low-income households by parents' work",
+  "subtitle": "Share of children aged under 18 living in a low-income household, by how many parents are at work, 2022.",
+  "kind": "chart",
+  "page": "/charts/poverty-child-low-income-by-work.html",
+  "csv": "/charts/poverty-child-low-income-by-work.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Children aged under 18 living in low-income households (CCLIH11)",
+    "url": "https://data.cso.ie/table/CCLIH11",
+    "licence": "CC BY 4.0",
+    "code": "CCLIH11",
+    "updated": "2026-10-19",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2022, 62% of children in households where no parent was at work lived on a low income, compared with 4% where two parents were at work.",
+  "listed": true,
+  "updated": "2026-10-19",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-child-low-income-map",
+  "topic": "poverty",
+  "title": "Children in low-income households by county",
+  "subtitle": "Share of children aged under 18 living in a household with income below 60% of the national median, by county, 2022.",
+  "kind": "map",
+  "page": "/charts/poverty-child-low-income-map.html",
+  "csv": "/charts/poverty-child-low-income-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Children aged under 18 living in low-income households (CCLIH03)",
+    "url": "https://data.cso.ie/table/CCLIH03",
+    "licence": "CC BY 4.0",
+    "code": "CCLIH03",
+    "updated": "2026-10-19",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2022, 16.1% of children in Ireland lived in low-income households. The share ranged from 28.2% in Donegal to 12.2% in Dublin.",
+  "listed": true,
+  "updated": "2026-10-19",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-child-rates",
+  "topic": "poverty",
+  "title": "Child poverty and deprivation",
+  "subtitle": "Share of children aged under 18 at risk of poverty, experiencing deprivation, and in consistent poverty, 2020 to 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-child-rates.html",
+  "csv": "/charts/poverty-child-rates.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Income, poverty and deprivation rates, by age group (SIA61)",
+    "url": "https://data.cso.ie/table/SIA61",
+    "licence": "CC BY 4.0",
+    "code": "SIA61",
+    "updated": "2026-03-11",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 16.9% of children were at risk of poverty, 19.6% experienced deprivation and 7.8% were in consistent poverty.",
+  "listed": true,
+  "updated": "2026-03-11",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-inequality",
+  "topic": "poverty",
+  "title": "Income inequality before and after tax and social welfare",
+  "subtitle": "Gini coefficient of household income, adjusted for household size, 2020 to 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-inequality.html",
+  "csv": "/charts/poverty-inequality.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Income inequality rates (SIA75)",
+    "url": "https://data.cso.ie/table/SIA75",
+    "licence": "CC BY 4.0",
+    "code": "SIA75",
+    "updated": "2026-03-11",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, the Gini coefficient for household income was 45.5 before tax and social welfare and 27.4 after them.",
+  "listed": true,
+  "updated": "2026-03-11",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-inequality-eu",
+  "topic": "poverty",
+  "title": "Income inequality across the EU",
+  "subtitle": "Gini coefficient of disposable household income, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-inequality-eu.html",
+  "csv": "/charts/poverty-inequality-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Gini coefficient of equivalised disposable income (ilc_di12)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_di12/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "ilc_di12",
+    "updated": "2026-11-12",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, Ireland's Gini coefficient for disposable income was 27.2, compared with 29.2 for the EU as a whole. It was the 8th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-11-12",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-rates",
+  "topic": "poverty",
+  "title": "Poverty and deprivation",
+  "subtitle": "Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, 2020 to 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-rates.html",
+  "csv": "/charts/poverty-rates.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Key national indicators of poverty, deprivation and social exclusion (SIA77)",
+    "url": "https://data.cso.ie/table/SIA77",
+    "licence": "CC BY 4.0",
+    "code": "SIA77",
+    "updated": "2026-09-29",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 12.6% of people in Ireland were at risk of poverty, 15.1% experienced deprivation and 4.7% were in consistent poverty.",
+  "listed": true,
+  "updated": "2026-09-29",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "poverty-social-transfers",
+  "topic": "poverty",
+  "title": "Poverty before and after social welfare",
+  "subtitle": "Share of people at risk of poverty, counting income before and after social welfare payments, 2025.",
+  "kind": "chart",
+  "page": "/charts/poverty-social-transfers.html",
+  "csv": "/charts/poverty-social-transfers.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Key national indicators of poverty, deprivation and social exclusion (SIA77)",
+    "url": "https://data.cso.ie/table/SIA77",
+    "licence": "CC BY 4.0",
+    "code": "SIA77",
+    "updated": "2026-09-29",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 33.2% of people would have been at risk of poverty without social welfare payments, compared with 12.6% after them.",
+  "listed": true,
+  "updated": "2026-09-29",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childhood-children-population",
+  "topic": "childhood",
+  "title": "Children as a share of the population",
+  "subtitle": "Children aged under 18 as a share of the population, 1926 to 2026.",
+  "kind": "chart",
+  "page": "/charts/childhood-children-population.html",
+  "csv": "/charts/childhood-children-population.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population estimates from 1926, by single year of age (PEA11)",
+    "url": "https://data.cso.ie/table/PEA11",
+    "licence": "CC BY 4.0",
+    "code": "PEA11",
+    "updated": "2026-08-24",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "There were about 1.22 million children aged under 18 in Ireland in 2026, 22% of the population. The highest share in these figures was 37%, in 1966.",
+  "listed": true,
+  "updated": "2026-08-24",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childhood-general-health",
+  "topic": "childhood",
+  "title": "Children's general health",
+  "subtitle": "Share of children whose health was described as good or very good, by age, 2025.",
+  "kind": "chart",
+  "page": "/charts/childhood-general-health.html",
+  "csv": "/charts/childhood-general-health.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Self-perceived general health of children aged 3 to 14 years (IHSC01)",
+    "url": "https://data.cso.ie/table/IHSC01",
+    "licence": "CC BY 4.0",
+    "code": "IHSC01",
+    "updated": "2026-08-25",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, the health of 94% of children aged 3 to 14 was described as good or very good.",
+  "listed": true,
+  "updated": "2026-08-25",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childhood-in-care",
+  "topic": "childhood",
+  "title": "Children in care by type of placement",
+  "subtitle": "Number of children in the care of the State, by type of placement, January 2025.",
+  "kind": "chart",
+  "page": "/charts/childhood-in-care.html",
+  "csv": "/charts/childhood-in-care.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Placement type of children in care in January 2025 (EAACC12)",
+    "url": "https://data.cso.ie/table/EAACC12",
+    "licence": "CC BY 4.0",
+    "code": "EAACC12",
+    "updated": "2025-12-02",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "There were 5,383 children in care in January 2025. 88% of them were in foster care, including with relatives.",
+  "listed": true,
+  "updated": "2025-12-02",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childhood-infant-mortality",
+  "topic": "childhood",
+  "title": "Infant mortality in Ireland and the EU",
+  "subtitle": "Deaths of babies under one year old per 1,000 live births, 1960 to 2024.",
+  "kind": "chart",
+  "page": "/charts/childhood-infant-mortality.html",
+  "csv": "/charts/childhood-infant-mortality.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Infant mortality rates (demo_minfind)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/demo_minfind/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "demo_minfind",
+    "updated": "2026-11-13",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, 3.3 babies in every 1,000 born in Ireland died before their first birthday, down from 29.3 in 1960.",
+  "listed": true,
+  "updated": "2026-11-13",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childhood-low-birth-weight",
+  "topic": "childhood",
+  "title": "Babies born with a low birth weight",
+  "subtitle": "Share of births weighing under 2,500 grams, selected years 2009 to 2023.",
+  "kind": "chart",
+  "page": "/charts/childhood-low-birth-weight.html",
+  "csv": "/charts/childhood-low-birth-weight.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Prevalence of low birth-weight infants (HSPAA35)",
+    "url": "https://data.cso.ie/table/HSPAA35",
+    "licence": "CC BY 4.0",
+    "code": "HSPAA35",
+    "updated": "2026-09-03",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2023, 6.3% of babies born in Ireland weighed under 2,500 grams.",
+  "listed": true,
+  "updated": "2026-09-03",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",
