@@ -4,7 +4,9 @@
 #
 # Each Friday, tools/check_manual_sources.py lists every item whose
 # `last_checked` date is more than `every_months` old, and the publish
-# workflow opens (or updates) a GitHub issue called "Data to check by hand".
+# workflow opens (or updates) a GitHub issue called "Data to check by hand"
+# and adds a comment to it, so GitHub sends an email each Friday while
+# anything is due.
 #
 # When you have checked an item: download or check it, update the site if the
 # figures have changed (or upload the file so Claude can), then set
