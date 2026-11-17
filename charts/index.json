@@ -3192,6 +3192,126 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "energy-electricity-prices-eu",
+  "topic": "energy",
+  "title": "Household electricity prices across the EU",
+  "subtitle": "Average price of electricity for households, euro per kilowatt hour including taxes, EU countries, first half of 2026.",
+  "kind": "chart",
+  "page": "/charts/energy-electricity-prices-eu.html",
+  "csv": "/charts/energy-electricity-prices-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Electricity prices for household consumers, bi-annual data (nrg_pc_204)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "nrg_pc_204",
+    "updated": "2026-10-19",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In the first half of 2026, households in Ireland paid on average €0.387 per kilowatt hour of electricity, including taxes, compared with €0.283 across the EU. Ireland's price was the highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-19",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "energy-electricity-sources",
+  "topic": "energy",
+  "title": "Where Ireland's electricity comes from",
+  "subtitle": "Share of electricity generated in Ireland, by source, 1990 to 2024.",
+  "kind": "chart",
+  "page": "/charts/energy-electricity-sources.html",
+  "csv": "/charts/energy-electricity-sources.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Gross production of electricity and derived heat by fuel (nrg_bal_peh)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "nrg_bal_peh",
+    "updated": "2026-06-02",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, 37% of the electricity generated in Ireland came from wind and 48% from natural gas. In 1990, 56% came from coal and peat.",
+  "listed": true,
+  "updated": "2026-06-02",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "energy-import-dependency",
+  "topic": "energy",
+  "title": "Reliance on imported energy",
+  "subtitle": "Net energy imports as a share of all energy used, Ireland and the EU, 1990 to 2024.",
+  "kind": "chart",
+  "page": "/charts/energy-import-dependency.html",
+  "csv": "/charts/energy-import-dependency.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Energy import dependency by products (nrg_ind_id)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_id/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "nrg_ind_id",
+    "updated": "2026-07-16",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, Ireland imported 80% of the energy it used, compared with 57% for the EU as a whole.",
+  "listed": true,
+  "updated": "2026-07-16",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "energy-renewable-electricity-eu",
+  "topic": "energy",
+  "title": "Renewable electricity across the EU",
+  "subtitle": "Share of electricity consumption from renewable sources, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/energy-renewable-electricity-eu.html",
+  "csv": "/charts/energy-renewable-electricity-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Share of energy from renewable sources (nrg_ind_ren)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "nrg_ind_ren",
+    "updated": "2026-09-15",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 41.7% of the electricity used in Ireland came from renewable sources, compared with 49.9% across the EU. Ireland's share was the 12th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-09-15",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "energy-renewables",
+  "topic": "energy",
+  "title": "Renewable energy in Ireland and the EU",
+  "subtitle": "Share of energy used that comes from renewable sources, 2004 to 2025.",
+  "kind": "chart",
+  "page": "/charts/energy-renewables.html",
+  "csv": "/charts/energy-renewables.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Share of energy from renewable sources (nrg_ind_ren)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_ind_ren/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "nrg_ind_ren",
+    "updated": "2026-09-15",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 17.2% of the energy used in Ireland came from renewable sources, up from 2.4% in 2004. The EU figure was 26.2%.",
+  "listed": true,
+  "updated": "2026-09-15",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",

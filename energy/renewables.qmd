@@ -1,0 +1,20 @@
+---
+title: "Renewable energy and electricity"
+description: "How much energy comes from renewable sources, and where Ireland's electricity comes from."
+---
+
+In 2025, 17.2% of the energy used in Ireland came from renewable sources such as wind, solar, hydro and bioenergy, up from 2.4% in 2004. This covers all energy, including heating and transport. Across the EU the figure was 26.2%.
+
+{{< chart energy-renewables >}}
+
+## Electricity
+
+Renewable sources make up a larger share of electricity than of energy as a whole. In 2025, 41.7% of the electricity used in Ireland came from renewable sources, compared with 49.9% across the EU.
+
+{{< chart energy-renewable-electricity-eu >}}
+
+Most of the change has come from wind. In 2024, wind generated 37% of Ireland's electricity and natural gas 48%. Coal and peat, which generated 56% of the country's electricity in 1990, were down to 2%.
+
+{{< chart energy-electricity-sources >}}
+
+Electricity generation is part of the energy industries sector, which produced 13% of Ireland's greenhouse gas emissions in 2024, down from 20% in 1990. Emissions from every sector are shown on the [Emissions by sector](../environment/emissions.qmd) page.

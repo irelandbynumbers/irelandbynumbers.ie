@@ -1,0 +1,23 @@
+---
+title: "Energy"
+description: "Renewable energy, where Ireland's electricity comes from, reliance on imported energy, and electricity prices."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish energy >}}
+
+These pages show how much of Ireland's energy comes from renewable sources, how the electricity supply has changed, how much energy Ireland imports, and what households pay for electricity, compared with the rest of the EU. Greenhouse gas emissions, including those from energy, are covered in the [Environment and climate](../environment/index.qmd) topic, and the electricity used by data centres in [Artificial intelligence](../ai/data-centres.qmd).
+
+{{< key-facts energy-renewables energy-electricity-sources energy-import-dependency energy-electricity-prices-eu >}}
+
+:::{#pages}
+:::

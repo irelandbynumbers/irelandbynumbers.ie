@@ -63,14 +63,13 @@ def _separate_end_labels(fig, values, y_range=None):
     hi = y_range[1] if y_range and y_range[1] is not None else np.nanmax(values)
     gap = (hi - lo) * 0.11
     ys = [a.y for a in anns]
-    placed = ys[:1]
+    placed = [max(ys[0], lo + gap * 0.3)]
     for y in ys[1:]:
         placed.append(max(y, placed[-1] + gap))
-    # centre the block of moved labels on the lines it belongs to
-    shift = (sum(placed) - sum(ys)) / len(ys)
-    placed = [p - shift for p in placed]
-    for i in range(1, len(placed)):
-        placed[i] = max(placed[i], placed[i - 1] + gap)
+    # if the labels run off the top, slide them down, but not below the floor
+    over = placed[-1] - hi
+    if over > 0:
+        placed = [max(p - over, lo + gap * 0.3 + i * gap) for i, p in enumerate(placed)]
     for a, y in zip(anns, placed):
         a.y = y
 

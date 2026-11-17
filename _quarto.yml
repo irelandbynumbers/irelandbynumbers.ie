@@ -47,6 +47,8 @@ website:
             text: Public finances
           - href: transport/index.qmd
             text: Transport
+          - href: energy/index.qmd
+            text: Energy
           - href: ai/index.qmd
             text: Artificial intelligence
           - href: childhood/index.qmd

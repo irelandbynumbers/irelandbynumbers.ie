@@ -1,0 +1,2031 @@
+nrg_bal,nrg_bal_label,siec,siec_label,unit,unit_label,geo,geo_label,time,value
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1990,14515.0
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1991,15148.0
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1992,16013.083
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1993,16396.249
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1994,17106.315
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1995,17859.266
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1996,19180.232
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1997,19953.83
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1998,21153.805
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,1999,22013.104
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2000,23982.05
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2001,24961.544
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2002,25201.441
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2003,25226.536
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2004,25579.873
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2005,25988.8
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2006,27506.496
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2007,28739.39
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2008,30287.014
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2009,28371.284
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2010,28399.979
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2011,27236.742
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2012,27421.424
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2013,25995.733
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2014,26170.667
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2015,28497.777
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2016,30613.04
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2017,30997.238
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2018,31278.042
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2019,31121.553
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2020,32459.798
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2021,32028.121
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2022,34045.217
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2023,31852.979
+GEP,Gross electricity production,TOTAL,Total,GWH,Gigawatt-hour,IE,Ireland,2024,31492.654
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1990,5918.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1991,5853.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1992,6658.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1993,6618.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1994,6684.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1995,7018.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1996,6992.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1997,6787.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1998,6740.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,1999,5832.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2000,6817.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2001,7062.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2002,6821.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2003,6203.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2004,6229.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2005,6389.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2006,5884.0
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2007,5436.96
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2008,5141.863
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2009,4004.314
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2010,3554.716
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2011,3944.772
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2012,5024.359
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2013,4282.557
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2014,3956.434
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2015,4874.18
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2016,4695.862
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2017,3644.538
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2018,2151.741
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2019,505.627
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2020,673.131
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2021,2717.529
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2022,2366.287
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2023,1210.761
+GEP,Gross electricity production,C0000X0350-0370,Solid fossil fuels,GWH,Gigawatt-hour,IE,Ireland,2024,632.611
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0110,Anthracite,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0121,Coking coal,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1990,5918.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1991,5853.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1992,6658.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1993,6618.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1994,6684.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1995,7018.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1996,6992.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1997,6787.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1998,6740.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1999,5832.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2000,6817.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2001,7062.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2002,6821.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2003,6203.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2004,6229.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2005,6389.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2006,5884.0
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2007,5436.96
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2008,5141.863
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2009,4004.314
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2010,3554.716
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2011,3944.772
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2012,5024.359
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2013,4282.557
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2014,3956.434
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2015,4874.18
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2016,4695.862
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2017,3644.538
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2018,2151.741
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2019,505.627
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2020,673.131
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2021,2717.529
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2022,2366.287
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2023,1210.761
+GEP,Gross electricity production,C0129,Other bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2024,632.611
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0210,Sub-bituminous coal,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0220,Lignite,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0311,Coke oven coke,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0312,Gas coke,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0320,Patent fuel,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0330,Brown coal briquettes,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0340,Coal tar,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0350-0370,Manufactured gases,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0350,Coke oven gas,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0360,Gas works gas,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0371,Blast furnace gas,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,C0379,Other recovered gases,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1990,2245.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1991,2147.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1992,2180.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1993,1875.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1994,1913.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1995,2017.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1996,2187.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1997,2059.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1998,1694.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,1999,1682.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2000,1770.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2001,2193.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2002,2082.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2003,2028.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2004,1487.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2005,2450.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2006,2138.0
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2007,2162.186
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2008,2754.355
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2009,2629.084
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2010,2178.952
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2011,2129.779
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2012,2437.786
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2013,2281.484
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2014,2496.086
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2015,2518.22
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2016,2317.885
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2017,2164.38
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2018,2090.716
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2019,1927.106
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2020,918.619
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2021,324.857
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2022,247.22
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2023,151.833
+GEP,Gross electricity production,P1000,Peat and peat products,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1990,2245.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1991,2147.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1992,2180.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1993,1875.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1994,1913.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1995,2017.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1996,2187.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1997,2059.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1998,1694.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,1999,1682.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2000,1770.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2001,2193.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2002,2082.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2003,2028.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2004,1487.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2005,2450.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2006,2138.0
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2007,2162.186
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2008,2754.355
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2009,2629.084
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2010,2178.952
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2011,2129.779
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2012,2437.786
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2013,2281.484
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2014,2496.086
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2015,2518.22
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2016,2317.885
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2017,2164.38
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2018,2090.716
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2019,1927.106
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2020,918.619
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2021,324.857
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2022,247.22
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2023,151.833
+GEP,Gross electricity production,P1100,Peat,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,P1200,Peat products,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,S2000,Oil shale and oil sands,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1990,3941.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1991,3752.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1992,3648.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1993,4535.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1994,4456.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1995,5160.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1996,6291.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1997,6569.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1998,6425.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,1999,6958.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2000,9263.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2001,9147.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2002,10829.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2003,13038.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2004,12894.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2005,11574.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2006,13785.0
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2007,16057.66
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2008,16716.118
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2009,16298.119
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2010,18110.754
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2011,15432.198
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2012,14139.29
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2013,13129.751
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2014,12635.047
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2015,12367.491
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2016,15328.403
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2017,15679.856
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2018,16013.964
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2019,15906.186
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2020,16236.382
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2021,15155.53
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2022,16529.627
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2023,15350.675
+GEP,Gross electricity production,G3000,Natural gas,GWH,Gigawatt-hour,IE,Ireland,2024,15095.854
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1990,1428.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1991,2432.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1992,2472.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1993,2341.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1994,2836.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1995,2680.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1996,2687.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1997,3465.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1998,4849.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1999,6169.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2000,4638.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2001,5203.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2002,3729.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2003,2454.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2004,3211.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2005,3340.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2006,2834.0
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2007,1898.712
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2008,1708.057
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2009,917.843
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2010,603.19
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2011,233.685
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2012,235.811
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2013,188.83
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2014,258.69
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2015,407.087
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2016,292.617
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2017,141.894
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2018,139.355
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2019,282.519
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2020,389.417
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2021,1453.163
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2022,1075.133
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2023,227.66
+GEP,Gross electricity production,O4000XBIO,Oil and petroleum products (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2024,601.711
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4100_TOT,Crude oil,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4200,Natural gas liquids,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1990,23.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1991,22.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1992,31.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1993,29.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1994,36.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1995,41.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1996,40.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1997,40.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1998,41.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,1999,47.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2000,51.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2001,51.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2002,41.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2003,41.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2004,42.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2005,42.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2006,39.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2007,43.204
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2008,30.971
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2009,28.2
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2010,44.956
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2011,35.609
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2012,40.011
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2013,28.2
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2014,26.906
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2015,51.593
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2016,21.036
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2017,1.953
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4610,Refinery gas,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2002,1.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2003,1.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2004,1.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2005,1.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2006,1.0
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2007,1.416
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2008,1.4
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2009,1.423
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2010,2.523
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2011,2.439
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2012,2.655
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2013,3.276
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2014,2.796
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2015,3.469
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2016,3.152
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2017,3.581
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2018,3.526
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2019,3.483
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2020,2.338
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2021,2.805
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2022,3.293
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2023,3.517
+GEP,Gross electricity production,O4630,Liquefied petroleum gases,GWH,Gigawatt-hour,IE,Ireland,2024,3.128
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4640,Naphtha,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4661XR5230B,Kerosene-type jet fuel (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4669,Other kerosene,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1990,19.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1991,17.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1992,21.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1993,13.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1994,49.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1995,41.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1996,25.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1997,29.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1998,36.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,1999,64.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2000,69.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2001,59.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2002,34.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2003,112.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2004,63.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2005,227.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2006,249.0
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2007,70.897
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2008,53.914
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2009,41.502
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2010,140.399
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2011,37.067
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2012,36.222
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2013,20.758
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2014,37.549
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2015,109.648
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2016,52.544
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2017,34.516
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2018,36.604
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2019,58.137
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2020,47.522
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2021,122.079
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2022,121.727
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2023,44.966
+GEP,Gross electricity production,O4671XR5220B,Gas oil and diesel oil (excluding biofuel portion),GWH,Gigawatt-hour,IE,Ireland,2024,105.709
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1990,1386.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1991,2393.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1992,2420.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1993,2299.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1994,2751.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1995,2598.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1996,2622.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1997,3396.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1998,4772.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,1999,6058.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2000,4518.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2001,5093.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2002,3653.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2003,2300.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2004,3105.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2005,3070.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2006,2545.0
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2007,1783.195
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2008,1621.772
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2009,846.718
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2010,415.312
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2011,158.57
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2012,156.923
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2013,136.596
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2014,191.439
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2015,242.377
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2016,215.885
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2017,101.844
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2018,99.225
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2019,220.899
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2020,339.557
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2021,1328.279
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2022,950.113
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2023,179.177
+GEP,Gross electricity production,O4680,Fuel oil,GWH,Gigawatt-hour,IE,Ireland,2024,492.874
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4694,Petroleum coke,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4695,Bitumen,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,O4699,Other oil products n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1990,697.0
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1991,746.0
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1992,822.083
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1993,780.249
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1994,939.315
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1995,729.266
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1996,763.232
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1997,809.83
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1998,1172.805
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,1999,1128.104
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2000,1190.05
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2001,1032.544
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2002,1388.441
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2003,1145.536
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2004,1404.873
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2005,1891.89
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2006,2501.673
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2007,2834.569
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2008,3635.353
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2009,4166.655
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2010,3775.505
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2011,5496.307
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2012,5322.658
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2013,5702.913
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2014,6475.74
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2015,7968.63
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2016,7613.528
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2017,9003.805
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2018,10343.109
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2019,11960.125
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2020,13651.795
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2021,11768.72
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2022,13257.046
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2023,14283.44
+GEP,Gross electricity production,RA000,Renewables and biofuels,GWH,Gigawatt-hour,IE,Ireland,2024,14512.163
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1990,697.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1991,746.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1992,817.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1993,765.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1994,920.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1995,713.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1996,722.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1997,678.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1998,916.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,1999,847.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2000,847.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2001,596.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2002,912.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2003,598.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2004,630.0
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2005,631.26
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2006,724.273
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2007,666.576
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2008,968.323
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2009,901.734
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2010,599.231
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2011,706.687
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2012,802.349
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2013,599.497
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2014,708.654
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2015,806.49
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2016,681.025
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2017,691.603
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2018,694.09
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2019,886.584
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2020,932.655
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2021,749.42
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2022,701.202
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2023,942.751
+GEP,Gross electricity production,RA100,Hydro,GWH,Gigawatt-hour,IE,Ireland,2024,766.112
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1990,286.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1991,218.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1992,233.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1993,247.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1994,278.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1995,255.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1996,260.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1997,264.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1998,273.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,1999,244.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2000,304.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2001,324.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2002,352.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2003,358.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2004,354.0
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2005,343.91
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2006,363.823
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2007,349.303
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2008,331.268
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2009,355.269
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2010,176.862
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2011,0.001
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2012,211.772
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2013,344.728
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2014,279.077
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2015,288.108
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2016,291.945
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2017,203.463
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2018,237.569
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2019,245.319
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2020,291.562
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2021,286.275
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2022,247.004
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2023,294.867
+GEP,Gross electricity production,RA130,Pumped hydro power,GWH,Gigawatt-hour,IE,Ireland,2024,332.61
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,RA200,Geothermal,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1992,5.083
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1993,15.249
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1994,19.315
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1995,16.266
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1996,14.232
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1997,50.83
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1998,171.805
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,1999,190.104
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2000,248.05
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2001,339.544
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2002,394.441
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2003,461.536
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2004,665.873
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2005,1130.368
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2006,1648.967
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2007,1990.88
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2008,2450.019
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2009,3004.274
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2010,2861.382
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2011,4453.028
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2012,4076.868
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2013,4616.707
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2014,5224.982
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2015,6681.507
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2016,6248.551
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2017,7567.004
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2018,8782.527
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2019,10184.945
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2020,11740.253
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2021,9939.705
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2022,11393.491
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2023,11863.352
+GEP,Gross electricity production,RA300,Wind,GWH,Gigawatt-hour,IE,Ireland,2024,11649.561
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,RA410,Solar thermal,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2009,0.424
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2010,0.476
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2011,0.542
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2012,0.645
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2013,0.828
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2014,1.129
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2015,2.046
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2016,4.736
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2017,9.951
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2018,18.151
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2019,33.811
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2020,55.114
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2021,84.647
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2022,148.665
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2023,646.482
+GEP,Gross electricity production,RA420,Solar photovoltaic,GWH,Gigawatt-hour,IE,Ireland,2024,1093.092
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,RA500,"Tide, wave, ocean",GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2004,8.0
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2005,7.892
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2006,7.892
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2007,13.825
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2008,33.07
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2009,65.223
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2010,109.717
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2011,136.282
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2012,179.011
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2013,226.939
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2014,264.912
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2015,196.712
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2016,395.477
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2017,381.409
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2018,334.093
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2019,346.322
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2020,429.887
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2021,470.701
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2022,507.783
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2023,347.437
+GEP,Gross electricity production,R5110-5150_W6000RI,Primary solid biofuels,GWH,Gigawatt-hour,IE,Ireland,2024,514.12
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,R5210P,Pure biogasoline,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,R5220P,Pure biodiesels,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,R5290,Other liquid biofuels,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1996,27.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1997,81.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1998,85.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,1999,91.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2000,95.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2001,97.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2002,82.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2003,86.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2004,101.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2005,122.37
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2006,120.541
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2007,163.288
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2008,183.941
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2009,195.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2010,204.699
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2011,199.768
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2012,197.1
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2013,184.561
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2014,203.629
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2015,204.791
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2016,207.967
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2017,203.093
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2018,184.092
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2019,188.0
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2020,167.747
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2021,172.845
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2022,159.121
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2023,149.612
+GEP,Gross electricity production,R5300,Biogases,GWH,Gigawatt-hour,IE,Ireland,2024,145.975
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,W6100,Industrial waste (non-renewable),GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2012,66.685
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2013,74.381
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2014,72.434
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2015,77.084
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2016,75.772
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2017,150.745
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2018,330.156
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2019,320.463
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2020,326.139
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2021,351.402
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2022,346.784
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2023,333.806
+GEP,Gross electricity production,W6210,Renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2024,343.303
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2012,49.748
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2013,65.47
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2014,69.593
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2015,74.061
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2016,72.8
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2017,159.302
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2018,301.588
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2019,294.671
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2020,298.892
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2021,322.047
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2022,319.21
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2023,326.57
+GEP,Gross electricity production,W6220,Non-renewable municipal waste,GWH,Gigawatt-hour,IE,Ireland,2024,290.846
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2012,49.748
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2013,65.47
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2014,69.593
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2015,74.061
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2016,72.8
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2017,159.302
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2018,301.588
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2019,294.671
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2020,298.892
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2021,322.047
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2022,319.21
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2023,326.57
+GEP,Gross electricity production,W6100_6220,Non-renewable waste,GWH,Gigawatt-hour,IE,Ireland,2024,290.846
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,N900H,Nuclear heat,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,H8000,Heat,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2022,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2023,0.0
+GEP,Gross electricity production,X9900,Other fuels n.e.c.,GWH,Gigawatt-hour,IE,Ireland,2024,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1996,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1997,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1998,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,1999,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2000,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2001,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2002,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2003,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2004,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2005,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2006,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2007,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2008,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2009,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2010,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2011,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2012,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2013,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2014,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2015,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2016,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2017,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2018,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2019,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2020,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2021,0.0
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2022,3.69
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2023,7.173
+GEP,Gross electricity production,BA100,Batteries,GWH,Gigawatt-hour,IE,Ireland,2024,26.859
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1990,0.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1991,0.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1992,0.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1993,0.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1994,0.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1995,0.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1996,27.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1997,81.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1998,85.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,1999,91.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2000,95.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2001,97.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2002,82.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2003,86.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2004,109.0
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2005,130.262
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2006,128.433
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2007,177.113
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2008,217.011
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2009,260.223
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2010,314.416
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2011,336.05
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2012,442.796
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2013,485.881
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2014,540.975
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2015,478.587
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2016,679.216
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2017,735.247
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2018,848.341
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2019,854.785
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2020,924.052
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2021,996.29
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2022,1026.877
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2023,849.232
+GEP,Gross electricity production,BIOE,Bioenergy,GWH,Gigawatt-hour,IE,Ireland,2024,1017.656
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1990,13532.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1991,14184.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1992,14958.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1993,15369.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1994,15889.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1995,16875.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1996,18157.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1997,18880.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1998,19708.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,1999,20641.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2000,22488.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2001,23605.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2002,23461.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2003,23723.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2004,23821.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2005,23753.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2006,24641.0
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2007,25555.518
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2008,26320.393
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2009,23849.36
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2010,24447.612
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2011,21740.434
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2012,21886.994
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2013,19948.092
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2014,19415.85
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2015,20241.039
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2016,22707.567
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2017,21789.97
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2018,20697.364
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2019,18916.109
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2020,18516.162
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2021,19971.784
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2022,20524.288
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2023,17249.122
+GEP,Gross electricity production,FE,Fossil energy,GWH,Gigawatt-hour,IE,Ireland,2024,16606.764
