@@ -2465,6 +2465,28 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "ai-data-centre-planning-map",
+  "topic": "ai",
+  "title": "Data centre planning applications by county",
+  "subtitle": "Planning applications to councils that mention a data centre, by county, 2017 to May 2026.",
+  "kind": "map",
+  "page": "/charts/ai-data-centre-planning-map.html",
+  "csv": "/charts/ai-data-centre-planning-map.csv",
+  "sources": [
+   {
+    "publisher": "Department of Housing, Local Government and Heritage",
+    "title": "National planning applications register (Planning Application Points)",
+    "url": "https://data.gov.ie/dataset/planning-application-points",
+    "licence": "CC BY 4.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "Dublin had 56 of the 90 planning applications that mention a data centre from 2017 to May 2026. Applications were made in 11 of the 26 counties.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
   "id": "ai-familiarity",
   "topic": "ai",
   "title": "How familiar people are with the term AI",

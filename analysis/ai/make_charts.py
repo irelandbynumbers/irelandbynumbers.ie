@@ -3,7 +3,7 @@ businesses and people use AI, with EU comparisons."""
 import pandas as pd
 import plotly.graph_objects as go
 
-from ibn import cso, eu, eurostat, figures, style
+from ibn import cso, eu, eurostat, figures, planning, style
 from ibn.chart import Chart, Source
 
 TOPIC = "ai"
@@ -13,6 +13,7 @@ METER_NOTE = "Covers electricity measured by meters on the electricity network."
 
 def build():
     data_centre_electricity()
+    data_centre_planning_map()
     business_use()
     business_use_eu()
     generative_ai_eu()
@@ -211,5 +212,53 @@ def familiarity():
         key_fact=f"In {year}, {r.iloc[0]:.0f}% of adults said they understood the term AI well enough to explain it to "
                  f"others. The share ranged from {age.iloc[0]:.0f}% of people aged 18 to 29 to {age.iloc[-1]:.0f}% of those "
                  f"aged 50 and over.",
+        data=d, figure=fig,
+    ).write()
+
+
+PLANNING_SOURCE = Source("Department of Housing, Local Government and Heritage",
+                         "National planning applications register (Planning Application Points)", planning.PAGE,
+                         licence="CC BY 4.0", licence_url="https://creativecommons.org/licenses/by/4.0/")
+PLANNING_FROM = 2017   # most councils' records in the register start in 2017
+
+
+def _granted(decision):
+    d = str(decision).upper()
+    return ("GRANT" in d or "CONDITIONAL" in d) and "EXTENSION" not in d and "REFUS" not in d
+
+
+def data_centre_planning_map():
+    df = planning.fetch()
+    df = df[df.ReceivedDate.dt.year >= PLANNING_FROM].copy()
+    df["county"] = df.PlanningAuthority.map(planning.county)
+    df["granted"] = df.Decision.map(_granted)
+    last = df.ReceivedDate.max()
+    d = (df.groupby("county").agg(applications=("ApplicationNumber", "size"), granted=("granted", "sum"))
+         .reindex(figures.COUNTIES, fill_value=0).rename_axis("county").reset_index())
+    d = d.astype({"applications": int, "granted": int})
+    fig = figures.county_map(d[["county", "applications", "granted"]], "county", "applications",
+                             legend_title="Planning applications", hover_extra="%{customdata[2]} granted permission")
+    d = d.sort_values(["applications", "county"], ascending=[False, True]).reset_index(drop=True)
+    top, total = d.iloc[0], int(d.applications.sum())
+    with_any = int((d.applications > 0).sum())
+    Chart(
+        id="ai-data-centre-planning-map", topic=TOPIC, kind="map", height=560,
+        title="Data centre planning applications by county",
+        subtitle=f"Planning applications to councils that mention a data centre, by county, {PLANNING_FROM} to "
+                 f"{last:%B %Y}.",
+        sources=[PLANNING_SOURCE],
+        notes=["This counts planning applications, not data centres. One data centre can have several applications, "
+               "for example for extensions or generators, and some applications were refused or never built.",
+               "Applications are found by searching their descriptions for \"data centre\", \"data center\" or "
+               "\"data hall\". Fingal County Council's descriptions in the register are cut to 70 characters, so many of "
+               "its applications cannot be found this way and Dublin's count is too low.",
+               "Only applications made to councils are included. Applications made directly to An Coimisiún "
+               "Pleanála (formerly An Bord Pleanála) are not in this register.",
+               f"Most councils' records in the register start in {PLANNING_FROM}, so earlier years are left out. "
+               "Dublin City Council's records start in 2019.",
+               "No official list of data centre locations is published. The CSO publishes how much electricity "
+               "data centres use, but not where they are."],
+        key_fact=f"{top.county} had {top.applications} of the {total} planning applications that mention a data "
+                 f"centre from {PLANNING_FROM} to {last:%B %Y}. Applications were made in {with_any} of the 26 counties.",
         data=d, figure=fig,
     ).write()
