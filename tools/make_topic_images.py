@@ -220,12 +220,28 @@ def poverty():
     return svg("".join(b), "Stacks of coins of very different heights")
 
 
+PURPLE_ = "#7a4fc9"
+
+
+def gender():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a balance scale with two equal pans
+    b.append(f'<rect x="{W // 2 - 6}" y="110" width="12" height="220" fill="{DARK}"/>')
+    b.append(f'<rect x="{W // 2 - 60}" y="318" width="120" height="14" rx="4" fill="{DARK}"/>')
+    b.append(f'<rect x="{W // 2 - 170}" y="120" width="340" height="10" rx="4" fill="{DARK}"/>')
+    for x, c in [(W // 2 - 165, PURPLE_), (W // 2 + 165, BLUE)]:
+        b.append(f'<line x1="{x}" y1="130" x2="{x - 45}" y2="220" stroke="{DARK}" stroke-width="3"/>'
+                 f'<line x1="{x}" y1="130" x2="{x + 45}" y2="220" stroke="{DARK}" stroke-width="3"/>'
+                 f'<path d="M{x - 60},220 a60,26 0 0,0 120,0 z" fill="{c}"/>')
+    return svg("".join(b), "A balance scale with two level pans")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

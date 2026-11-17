@@ -1,0 +1,16 @@
+---
+title: "Politics and business"
+description: "Women elected to the Dáil, and women in senior roles in large companies."
+---
+
+## The Dáil
+
+44 women were elected to the Dáil at the 2024 general election, 25% of all TDs. The share has roughly doubled since the 1990s, when about one TD in eight was a woman.
+
+{{< chart gender-dail >}}
+
+## Business
+
+Women's share of senior roles in large companies has grown since 2019, but remains below half. In 2025, women held 28% of board seats, 19% of chief executive roles and 32% of senior executive roles.
+
+{{< chart gender-business-leaders >}}

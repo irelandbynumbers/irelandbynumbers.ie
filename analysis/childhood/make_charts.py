@@ -59,7 +59,7 @@ def infant_mortality():
         Source.eurostat("demo_minfind", "Infant mortality rates"), df,
         lambda w: (lambda a, b: f"In {b.year:.0f}, {b.ireland:.1f} babies in every 1,000 born in Ireland died before their "
                                 f"first birthday, down from {a.ireland:.1f} in {a.year:.0f}.")(w.iloc[0], w.iloc[-1]),
-        value_format=".1f", y_range=[0, None])
+        value_format=".1f", y_range=[0, 45])
 
 
 def low_birth_weight():

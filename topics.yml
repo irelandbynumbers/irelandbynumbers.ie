@@ -61,3 +61,7 @@
   path: childhood/index.qmd
   image: images/topic-childhood.svg
   description: How many children there are, children's health, and children in care.
+- title: Gender equality
+  path: gender/index.qmd
+  image: images/topic-gender.svg
+  description: The gender pay gap, women and men at work, unpaid care, and women in politics and business leadership.
