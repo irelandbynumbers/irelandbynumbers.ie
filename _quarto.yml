@@ -59,6 +59,8 @@ website:
             text: Artificial intelligence
           - href: childhood/index.qmd
             text: Childhood
+          - href: childcare/index.qmd
+            text: Childcare and family leave
           - href: poverty/index.qmd
             text: Poverty and inequality
           - href: gender/index.qmd

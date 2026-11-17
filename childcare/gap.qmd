@@ -1,0 +1,14 @@
+---
+title: "The childcare gap"
+description: "The time between the end of well-paid leave and a guaranteed childcare place, compared with the EU."
+---
+
+The childcare gap is the time between the end of well-paid family leave after a birth and the age from which a child is guaranteed a place in early childhood education and care, or must start school. During the gap, parents rely on paid childcare, family members, unpaid leave or leaving work.
+
+Ireland has no family leave paid at 66% or more of earnings, which is the measure Eurydice uses, and no legal right to a childcare place before school. Children must start school by age 6, so the gap in Ireland runs from birth to age 6, the longest in the EU. In Denmark, Finland, Germany, Slovenia and Sweden there is no gap, because a guaranteed place starts by the time well-paid leave ends.
+
+{{< chart childcare-gap-eu >}}
+
+The Early Childhood Care and Education (ECCE) scheme gives children free preschool hours before they start school, but these are not a legal entitlement and are not counted as a guaranteed place in this comparison.
+
+Eurydice also asks each country whether there are enough places to meet demand. In 2023/2024 it recorded that in Ireland, as in most EU countries, demand for places for the youngest children was higher than supply, while demand was met in the last year before school.

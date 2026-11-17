@@ -1,4 +1,8 @@
 {
+ "childcare_formal": {
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
+ },
  "cyb_probe": {
   "updated": "2026-06-15",
   "checked": "2026-11-17"
@@ -98,6 +102,34 @@
  "prc_ppp_ind_aic": {
   "updated": "2025-07-10",
   "checked": "2026-11-16"
+ },
+ "probe_a3": {
+  "updated": "2026-06-25",
+  "checked": "2026-11-17"
+ },
+ "probe_ilc_ats04": {
+  "updated": "2026-06-25",
+  "checked": "2026-11-17"
+ },
+ "probe_ilc_ats05": {
+  "updated": "2026-06-25",
+  "checked": "2026-11-17"
+ },
+ "probe_ilc_ats06": {
+  "updated": "2026-06-25",
+  "checked": "2026-11-17"
+ },
+ "probe_ilc_ats07": {
+  "updated": "2026-08-13",
+  "checked": "2026-11-17"
+ },
+ "probe_ilc_caindformal": {
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
+ },
+ "probe_ilc_caparents": {
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
  },
  "probe_pc": {
   "updated": "2026-10-19",

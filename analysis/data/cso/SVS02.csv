@@ -1,0 +1,127 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02199V02655,Sex,C02076V03371,Age Group,UNIT,VALUE
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,-,All ages,%,11
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,350,18 - 24 years,%,11
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,415,25 -34 years,%,20
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,465,35 - 44 years,%,14
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,500,45 - 54 years,%,9
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,535,55 - 64 years,%,9
+SVS02C01,As an adult-only,2022,2022,-,Both sexes,575,65 years and over,%,4
+SVS02C01,As an adult-only,2022,2022,1,Male,-,All ages,%,6
+SVS02C01,As an adult-only,2022,2022,1,Male,350,18 - 24 years,%,6
+SVS02C01,As an adult-only,2022,2022,1,Male,415,25 -34 years,%,12
+SVS02C01,As an adult-only,2022,2022,1,Male,465,35 - 44 years,%,7
+SVS02C01,As an adult-only,2022,2022,1,Male,500,45 - 54 years,%,5
+SVS02C01,As an adult-only,2022,2022,1,Male,535,55 - 64 years,%,6
+SVS02C01,As an adult-only,2022,2022,1,Male,575,65 years and over,%,1
+SVS02C01,As an adult-only,2022,2022,2,Female,-,All ages,%,16
+SVS02C01,As an adult-only,2022,2022,2,Female,350,18 - 24 years,%,16
+SVS02C01,As an adult-only,2022,2022,2,Female,415,25 -34 years,%,27
+SVS02C01,As an adult-only,2022,2022,2,Female,465,35 - 44 years,%,21
+SVS02C01,As an adult-only,2022,2022,2,Female,500,45 - 54 years,%,14
+SVS02C01,As an adult-only,2022,2022,2,Female,535,55 - 64 years,%,12
+SVS02C01,As an adult-only,2022,2022,2,Female,575,65 years and over,%,7
+SVS02C02,As a child-only,2022,2022,-,Both sexes,-,All ages,%,14
+SVS02C02,As a child-only,2022,2022,-,Both sexes,350,18 - 24 years,%,19
+SVS02C02,As a child-only,2022,2022,-,Both sexes,415,25 -34 years,%,11
+SVS02C02,As a child-only,2022,2022,-,Both sexes,465,35 - 44 years,%,12
+SVS02C02,As a child-only,2022,2022,-,Both sexes,500,45 - 54 years,%,13
+SVS02C02,As a child-only,2022,2022,-,Both sexes,535,55 - 64 years,%,17
+SVS02C02,As a child-only,2022,2022,-,Both sexes,575,65 years and over,%,14
+SVS02C02,As a child-only,2022,2022,1,Male,-,All ages,%,15
+SVS02C02,As a child-only,2022,2022,1,Male,350,18 - 24 years,%,24
+SVS02C02,As a child-only,2022,2022,1,Male,415,25 -34 years,%,14
+SVS02C02,As a child-only,2022,2022,1,Male,465,35 - 44 years,%,15
+SVS02C02,As a child-only,2022,2022,1,Male,500,45 - 54 years,%,13
+SVS02C02,As a child-only,2022,2022,1,Male,535,55 - 64 years,%,18
+SVS02C02,As a child-only,2022,2022,1,Male,575,65 years and over,%,12
+SVS02C02,As a child-only,2022,2022,2,Female,-,All ages,%,12
+SVS02C02,As a child-only,2022,2022,2,Female,350,18 - 24 years,%,14
+SVS02C02,As a child-only,2022,2022,2,Female,415,25 -34 years,%,9
+SVS02C02,As a child-only,2022,2022,2,Female,465,35 - 44 years,%,9
+SVS02C02,As a child-only,2022,2022,2,Female,500,45 - 54 years,%,13
+SVS02C02,As a child-only,2022,2022,2,Female,535,55 - 64 years,%,16
+SVS02C02,As a child-only,2022,2022,2,Female,575,65 years and over,%,15
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,-,All ages,%,15
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,350,18 - 24 years,%,22
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,415,25 -34 years,%,16
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,465,35 - 44 years,%,17
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,500,45 - 54 years,%,17
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,535,55 - 64 years,%,12
+SVS02C03,Both as an adult and as a child,2022,2022,-,Both sexes,575,65 years and over,%,8
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,-,All ages,%,6
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,350,18 - 24 years,%,9
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,415,25 -34 years,%,9
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,465,35 - 44 years,%,7
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,500,45 - 54 years,%,6
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,535,55 - 64 years,%,4
+SVS02C03,Both as an adult and as a child,2022,2022,1,Male,575,65 years and over,%,4
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,-,All ages,%,23
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,350,18 - 24 years,%,35
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,415,25 -34 years,%,23
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,465,35 - 44 years,%,26
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,500,45 - 54 years,%,27
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,535,55 - 64 years,%,20
+SVS02C03,Both as an adult and as a child,2022,2022,2,Female,575,65 years and over,%,13
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,-,All ages,%,53
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,350,18 - 24 years,%,43
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,415,25 -34 years,%,46
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,465,35 - 44 years,%,49
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,500,45 - 54 years,%,53
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,535,55 - 64 years,%,58
+SVS02C04,No experience of sexual violence,2022,2022,-,Both sexes,575,65 years and over,%,65
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,-,All ages,%,65
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,350,18 - 24 years,%,56
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,415,25 -34 years,%,59
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,465,35 - 44 years,%,61
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,500,45 - 54 years,%,68
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,535,55 - 64 years,%,68
+SVS02C04,No experience of sexual violence,2022,2022,1,Male,575,65 years and over,%,74
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,-,All ages,%,42
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,350,18 - 24 years,%,30
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,415,25 -34 years,%,33
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,465,35 - 44 years,%,38
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,500,45 - 54 years,%,39
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,535,55 - 64 years,%,48
+SVS02C04,No experience of sexual violence,2022,2022,2,Female,575,65 years and over,%,56
+SVS02C05,Not stated,2022,2022,-,Both sexes,-,All ages,%,7
+SVS02C05,Not stated,2022,2022,-,Both sexes,350,18 - 24 years,%,6
+SVS02C05,Not stated,2022,2022,-,Both sexes,415,25 -34 years,%,7
+SVS02C05,Not stated,2022,2022,-,Both sexes,465,35 - 44 years,%,8
+SVS02C05,Not stated,2022,2022,-,Both sexes,500,45 - 54 years,%,7
+SVS02C05,Not stated,2022,2022,-,Both sexes,535,55 - 64 years,%,4
+SVS02C05,Not stated,2022,2022,-,Both sexes,575,65 years and over,%,9
+SVS02C05,Not stated,2022,2022,1,Male,-,All ages,%,7
+SVS02C05,Not stated,2022,2022,1,Male,350,18 - 24 years,%,5
+SVS02C05,Not stated,2022,2022,1,Male,415,25 -34 years,%,6
+SVS02C05,Not stated,2022,2022,1,Male,465,35 - 44 years,%,11
+SVS02C05,Not stated,2022,2022,1,Male,500,45 - 54 years,%,8
+SVS02C05,Not stated,2022,2022,1,Male,535,55 - 64 years,%,4
+SVS02C05,Not stated,2022,2022,1,Male,575,65 years and over,%,9
+SVS02C05,Not stated,2022,2022,2,Female,-,All ages,%,7
+SVS02C05,Not stated,2022,2022,2,Female,350,18 - 24 years,%,6
+SVS02C05,Not stated,2022,2022,2,Female,415,25 -34 years,%,8
+SVS02C05,Not stated,2022,2022,2,Female,465,35 - 44 years,%,5
+SVS02C05,Not stated,2022,2022,2,Female,500,45 - 54 years,%,7
+SVS02C05,Not stated,2022,2022,2,Female,535,55 - 64 years,%,4
+SVS02C05,Not stated,2022,2022,2,Female,575,65 years and over,%,8
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,-,All ages,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,350,18 - 24 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,415,25 -34 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,465,35 - 44 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,500,45 - 54 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,535,55 - 64 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,-,Both sexes,575,65 years and over,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,-,All ages,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,350,18 - 24 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,415,25 -34 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,465,35 - 44 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,500,45 - 54 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,535,55 - 64 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,1,Male,575,65 years and over,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,-,All ages,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,350,18 - 24 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,415,25 -34 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,465,35 - 44 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,500,45 - 54 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,535,55 - 64 years,%,100
+SVS02C06,All persons aged 18 and over,2022,2022,2,Female,575,65 years and over,%,100

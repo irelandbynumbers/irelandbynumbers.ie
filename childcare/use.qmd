@@ -1,0 +1,24 @@
+---
+title: "Use of childcare"
+description: "How many young children are in formal childcare, the types of care families use, and access to affordable childcare."
+---
+
+In 2025, 27% of children under 3 in Ireland were in formal childcare for at least an hour a week, compared with 41% across the EU. Formal childcare means crèches, preschools and registered childminders. Care by grandparents and other relatives is not included.
+
+{{< chart childcare-under3-eu >}}
+
+The share in Ireland is higher than twenty years ago, but has stayed below the EU figure throughout.
+
+{{< chart childcare-under3-trend >}}
+
+## Types of childcare
+
+The 2022 census asked parents what childcare each child mainly used. Among children aged 0 to 2 in childcare, 43% were mainly in a crèche, Montessori or similar setting, and 27% were cared for by an unpaid relative.
+
+{{< chart childcare-types >}}
+
+## Access to affordable childcare
+
+There is no regular official survey of whether parents can get the childcare they want. The most recent CSO figures are from 2016, when 43% of households disagreed that they had access to affordable childcare in their community and 28% agreed. Disagreement was highest in Dublin and the Mid-East.
+
+{{< chart childcare-affordable-access >}}

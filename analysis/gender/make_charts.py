@@ -8,6 +8,8 @@ from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn.charts import hbars
 
+from gender import violence
+
 TOPIC = "gender"
 EU_GEO = eurostat.EU27 + [eurostat.EU]
 WOMEN, MEN = "Women", "Men"
@@ -32,6 +34,7 @@ def build():
     top_earners()
     dail()
     business_leaders()
+    violence.build()
 
 
 def _index():

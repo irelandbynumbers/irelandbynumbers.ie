@@ -1,0 +1,37 @@
+C02196V02652,Region,TLIST(A1),Year,STATISTIC,Statistic Label,UNIT,VALUE
+-,State,2016,2016,CCA21C01,Strongly Agree or Agree,%,28
+-,State,2016,2016,CCA21C02,Neither Agree nor Disagree,%,26
+-,State,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,43
+-,State,2016,2016,CCA21C04,Not Stated,%,4
+IE11,Border,2016,2016,CCA21C01,Strongly Agree or Agree,%,24
+IE11,Border,2016,2016,CCA21C02,Neither Agree nor Disagree,%,29
+IE11,Border,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,45
+IE11,Border,2016,2016,CCA21C04,Not Stated,%,3
+IE12,Midland,2016,2016,CCA21C01,Strongly Agree or Agree,%,41
+IE12,Midland,2016,2016,CCA21C02,Neither Agree nor Disagree,%,28
+IE12,Midland,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,31
+IE12,Midland,2016,2016,CCA21C04,Not Stated,%,1
+IE13,West,2016,2016,CCA21C01,Strongly Agree or Agree,%,34
+IE13,West,2016,2016,CCA21C02,Neither Agree nor Disagree,%,24
+IE13,West,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,37
+IE13,West,2016,2016,CCA21C04,Not Stated,%,4
+IE21,Dublin,2016,2016,CCA21C01,Strongly Agree or Agree,%,20
+IE21,Dublin,2016,2016,CCA21C02,Neither Agree nor Disagree,%,25
+IE21,Dublin,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,52
+IE21,Dublin,2016,2016,CCA21C04,Not Stated,%,3
+IE22,Mid-East,2016,2016,CCA21C01,Strongly Agree or Agree,%,19
+IE22,Mid-East,2016,2016,CCA21C02,Neither Agree nor Disagree,%,26
+IE22,Mid-East,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,50
+IE22,Mid-East,2016,2016,CCA21C04,Not Stated,%,4
+IE23,Mid-West,2016,2016,CCA21C01,Strongly Agree or Agree,%,36
+IE23,Mid-West,2016,2016,CCA21C02,Neither Agree nor Disagree,%,17
+IE23,Mid-West,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,40
+IE23,Mid-West,2016,2016,CCA21C04,Not Stated,%,7
+IE24,South-East,2016,2016,CCA21C01,Strongly Agree or Agree,%,38
+IE24,South-East,2016,2016,CCA21C02,Neither Agree nor Disagree,%,30
+IE24,South-East,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,29
+IE24,South-East,2016,2016,CCA21C04,Not Stated,%,3
+IE25,South-West,2016,2016,CCA21C01,Strongly Agree or Agree,%,28
+IE25,South-West,2016,2016,CCA21C02,Neither Agree nor Disagree,%,25
+IE25,South-West,2016,2016,CCA21C03,Disagree or Strongly Disagree,%,43
+IE25,South-West,2016,2016,CCA21C04,Not Stated,%,4

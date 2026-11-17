@@ -1,0 +1,12 @@
+---
+title: "Childcare costs"
+description: "What families pay for childcare after state supports, compared with other EU countries."
+---
+
+In 2023/2024, childcare for a child under 3 in Ireland cost an average of €491 a month after state supports, according to Eurydice, the European Commission's network on education systems. For children aged 3 and over the average was €331 a month, on top of the free preschool hours of the Early Childhood Care and Education (ECCE) scheme.
+
+Adjusted for differences in prices between countries, the fee for under-3s in Ireland was the highest of the 16 EU countries that give a single average figure. Eurydice records no fees for under-3s in Bulgaria, Latvia, Portugal and Romania.
+
+{{< chart childcare-fees-eu >}}
+
+The fees take account of the National Childcare Scheme, which pays a subsidy towards the cost of registered childcare, and of the ECCE scheme. Families' own costs depend on the child's age, the hours used, the provider and, for income-based subsidies, household income.

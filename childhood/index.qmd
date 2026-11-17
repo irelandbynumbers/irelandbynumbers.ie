@@ -15,7 +15,7 @@ listing:
 
 {{< irish childhood >}}
 
-These pages show how many children live in Ireland, how healthy they are, and how many are in the care of the State. Child poverty is covered in the [Poverty and inequality](../poverty/child-poverty.qmd) topic, births and fertility in [Population](../population/births-deaths-marriages.qmd), and schools in [Education](../education/index.qmd).
+These pages show how many children live in Ireland, how healthy they are, and how many are in the care of the State. Child poverty is covered in the [Poverty and inequality](../poverty/child-poverty.qmd) topic, births and fertility in [Population](../population/births-deaths-marriages.qmd), schools in [Education](../education/index.qmd), and childcare and family leave in [Childcare and family leave](../childcare/index.qmd).
 
 {{< key-facts childhood-children-population poverty-child-rates childhood-infant-mortality childhood-in-care >}}
 

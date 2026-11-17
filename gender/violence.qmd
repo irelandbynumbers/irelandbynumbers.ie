@@ -1,0 +1,26 @@
+---
+title: "Gender-based violence"
+description: "Experience of sexual violence, victims of recorded sexual offences, and violence by partners and former partners."
+---
+
+In the CSO's Sexual Violence Survey in 2022, 52% of women and 28% of men said they had experienced sexual violence at some point in their lives, as a child or as an adult. The share was highest among young women, at 65% of women aged 18 to 24.
+
+{{< chart gender-sexual-violence-lifetime >}}
+
+## Recorded sexual offences
+
+Most sexual violence is never reported to An Garda Síochána. Of the victims of sexual offences that were recorded in 2025, 2,382 were women and girls, 80% of all victims, compared with 1,781 in 2016. Around 30% of them reported the offence a year or more after it happened. Changes over time can reflect changes in reporting as well as in offending.
+
+{{< chart gender-sexual-offence-victims >}}
+
+## Violence by partners and former partners
+
+Women and girls who are victims of recorded assaults, threats and harassment are much more likely than men and boys to know the suspected offender. In 2024, a current or former partner was the suspected offender for 29% of female victims, compared with 3% of male victims. For men and boys, the suspected offender was most often a stranger.
+
+{{< chart gender-assault-relationship >}}
+
+## Figures by area
+
+The CSO does not publish victims of sexual offences, or victims by sex, for counties or Garda divisions, so these figures cannot be shown on a map. Recorded crime by Garda division is on the [crime by area](../crime/divisions.qmd) page.
+
+The [National Women's Council](https://togetherforpublic.nwci.ie/resources/) and [Rape Crisis Ireland](https://www.rapecrisisireland.ie/) publish further research on gender-based violence in Ireland.

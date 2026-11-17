@@ -1,0 +1,23 @@
+---
+title: "Childcare and family leave"
+description: "Use of formal childcare, what it costs parents, the gap between paid leave and a childcare place, and maternity, paternity and parental leave."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish childcare >}}
+
+These pages show how many young children are in formal childcare, what families pay for it, the time between the end of paid family leave and a guaranteed childcare place, and how family leave in Ireland compares with Northern Ireland and the rest of the EU. Women's and men's time spent on care is covered in the [Gender equality](../gender/work-and-pay.qmd) topic.
+
+{{< key-facts childcare-gap-eu childcare-under3-eu childcare-fees-eu childcare-leave-ireland-ni >}}
+
+:::{#pages}
+:::

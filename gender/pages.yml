@@ -11,3 +11,7 @@
   path: leadership.qmd
   image: ../images/charts/gender-dail.png
   description: "Women elected to the Dáil, and women in senior roles in large companies."
+- title: "Gender-based violence"
+  path: violence.qmd
+  image: ../images/charts/gender-sexual-violence-lifetime.png
+  description: "Experience of sexual violence, victims of recorded sexual offences, and violence by partners and former partners."

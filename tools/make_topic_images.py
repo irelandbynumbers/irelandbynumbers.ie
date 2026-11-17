@@ -282,12 +282,26 @@ def elections():
     return svg("".join(b), "A ballot paper going into a ballot box")
 
 
+def childcare():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a pram beside stacked toy blocks
+    b.append(f'<path d="M150,200 L330,200 A90,90 0 0 1 150,200 Z" fill="{BLUE}"/>')
+    b.append(f'<path d="M150,200 A90,90 0 0 1 240,110 L240,200 Z" fill="{DARK}"/>')
+    b.append(f'<path d="M330,200 L360,150 L385,150" fill="none" stroke="{DARK}" stroke-width="8" stroke-linecap="round"/>')
+    b.append(f'<circle cx="185" cy="305" r="24" fill="{DARK}"/><circle cx="295" cy="305" r="24" fill="{DARK}"/>')
+    b.append(f'<path d="M200,282 L240,236 L280,282" fill="none" stroke="{DARK}" stroke-width="6"/>')
+    b.append(f'<rect x="410" y="270" width="60" height="60" rx="6" fill="{GOLD}"/>')
+    b.append(f'<rect x="475" y="270" width="60" height="60" rx="6" fill="{ORANGE}"/>')
+    b.append(f'<rect x="442" y="205" width="60" height="60" rx="6" fill="{AQUA}"/>')
+    return svg("".join(b), "A pram beside a stack of toy blocks")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender), ("energy", energy), ("agriculture", agriculture), ("defence", defence), ("elections", elections)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender), ("energy", energy), ("agriculture", agriculture), ("defence", defence), ("elections", elections), ("childcare", childcare)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

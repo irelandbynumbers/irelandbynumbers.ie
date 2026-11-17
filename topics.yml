@@ -81,3 +81,7 @@
   path: elections/index.qmd
   image: images/topic-elections.svg
   description: Turnout at elections, how Ireland compares with the EU, and trust in public institutions.
+- title: Childcare and family leave
+  path: childcare/index.qmd
+  image: images/topic-childcare.svg
+  description: Use of formal childcare, what it costs parents, the gap between paid leave and a childcare place, and maternity, paternity and parental leave.

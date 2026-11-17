@@ -15,7 +15,7 @@ listing:
 
 {{< irish gender >}}
 
-These pages compare the positions of women and men in Ireland, using official figures. They cover the EU's Gender Equality Index, pay, employment, unpaid care, and women in the Dáil and in business leadership, with comparisons with the rest of the EU.
+These pages compare the positions of women and men in Ireland, using official figures. They cover the EU's Gender Equality Index, pay, employment, unpaid care, women in the Dáil and in business leadership, and gender-based violence, with comparisons with the rest of the EU. Maternity, paternity and parental leave are covered in the [Childcare and family leave](../childcare/index.qmd) topic.
 
 {{< key-facts gender-equality-index-eu gender-pay-gap gender-carers gender-dail >}}
 
