@@ -1,0 +1,68 @@
+# Data that the Friday update cannot fetch by itself, because the publisher
+# has no download link that works for an automated job, or because the
+# figures are typed into the code from a web page or report.
+#
+# Each Friday, tools/check_manual_sources.py lists every item whose
+# `last_checked` date is more than `every_months` old, and the publish
+# workflow opens (or updates) a GitHub issue called "Data to check by hand".
+#
+# When you have checked an item: download or check it, update the site if the
+# figures have changed (or upload the file so Claude can), then set
+# `last_checked` to today's date. The issue closes itself once nothing is due.
+# An item with `last_checked: never` is not used on the site yet.
+
+- name: Family leave in Ireland
+  used_in: Childcare and family leave, Family leave page (LEAVE in analysis/childcare/make_charts.py)
+  what: Weeks of maternity, adoptive, paternity, parent's and parental leave, and the weekly benefit rate. Also check whether surrogacy leave has started.
+  url: https://www.citizensinformation.ie/en/employment/employment-rights-and-conditions/leave-and-holidays/
+  when: After each Budget in October, and in January when new rates start.
+  every_months: 6
+  last_checked: 2026-11-17
+
+- name: Family leave in Northern Ireland
+  used_in: Childcare and family leave, Family leave page (LEAVE in analysis/childcare/make_charts.py)
+  what: Statutory maternity, paternity, adoption and parental leave and pay.
+  url: https://www.nidirect.gov.uk/articles/statutory-maternity-leave
+  when: Each April, when new UK rates start.
+  every_months: 12
+  last_checked: 2026-11-17
+
+- name: Eurydice key data on early childhood education and care
+  used_in: Childcare and family leave, The childcare gap, Childcare costs and Family leave pages (analysis/ibn/eurydice.py)
+  what: Check for a new edition after the 2025 one. If there is one, give Claude the link to its open data workbook.
+  url: https://eurydice.eacea.ec.europa.eu/publications
+  when: A new edition comes out every few years.
+  every_months: 12
+  last_checked: 2026-11-17
+
+- name: Pobal Early Years Sector Profile
+  used_in: Not used yet. Would add childcare fees by county and by age, and numbers using the National Childcare Scheme and ECCE.
+  what: The latest annual report and its data tables (Excel if offered, otherwise the PDF). Upload to the project.
+  url: https://www.pobal.ie/research-analysis/early-years/
+  when: Published once a year.
+  every_months: 12
+  last_checked: never
+
+- name: OECD Family Database
+  used_in: Not used yet. Would add a fuller comparison of leave and childcare costs with EU and OECD countries.
+  what: PF2.1 Parental leave systems, and PF3.4 Childcare support (Excel files). Upload to the project.
+  url: https://www.oecd.org/en/data/datasets/oecd-family-database.html
+  when: Updated about once a year.
+  every_months: 12
+  last_checked: never
+
+- name: International Review of Leave Policies and Research
+  used_in: Not used yet. Would add leave entitlements country by country, including Ireland and the UK.
+  what: The latest annual review (PDF) and any cross-country tables. Upload to the project.
+  url: https://www.leavenetwork.org/annual-review-reports/
+  when: Published once a year.
+  every_months: 12
+  last_checked: never
+
+- name: Rape Crisis Ireland annual statistics
+  used_in: Not used yet. Would add figures on people using rape crisis services, alongside the CSO figures on the Gender-based violence page.
+  what: The latest annual statistics report (PDF). Upload to the project.
+  url: https://www.rapecrisisireland.ie/
+  when: Published once a year.
+  every_months: 12
+  last_checked: never

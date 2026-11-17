@@ -9,6 +9,7 @@ name: Publish site
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   publish:
@@ -38,6 +39,23 @@ jobs:
           git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
           git add analysis/data charts counties images/charts images/social _all-charts.md _data-updates.md
           git diff --cached --quiet || (git commit -m "Update data from source publishers" && git push)
+
+      # Some sources can't be fetched by a job (see analysis/manual_sources.yml).
+      # Keep one open issue listing those that are due, so they get checked by hand.
+      - if: github.event_name != 'push'
+        name: Remind about data to check by hand
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 tools/check_manual_sources.py > due.md
+          title="Data to check by hand"
+          number=$(gh issue list --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -s due.md ]; then
+            if [ -n "$number" ]; then gh issue edit "$number" --body-file due.md
+            else gh issue create --title "$title" --body-file due.md; fi
+          elif [ -n "$number" ]; then
+            gh issue close "$number" --comment "Nothing is due to be checked by hand."
+          fi
 
       - if: github.event_name == 'push'
         uses: quarto-dev/quarto-actions/setup@v2
