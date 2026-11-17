@@ -65,3 +65,7 @@
   path: gender/index.qmd
   image: images/topic-gender.svg
   description: The gender pay gap, women and men at work, unpaid care, and women in politics and business leadership.
+- title: Energy
+  path: energy/index.qmd
+  image: images/topic-energy.svg
+  description: Renewable energy, where Ireland's electricity comes from, reliance on imported energy, and electricity prices.

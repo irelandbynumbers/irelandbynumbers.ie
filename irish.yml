@@ -39,6 +39,9 @@ topics:
   gender:
     title: "Comhionannas inscne"
     summary: "An bhearna phá idir na hinscní, mná agus fir ag obair, cúram gan phá, agus mná sa pholaitíocht agus i gceannasaíocht gnó."
+  energy:
+    title: "Fuinneamh"
+    summary: "Fuinneamh in-athnuaite, foinsí leictreachais na hÉireann, spleáchas ar fhuinneamh allmhairithe, agus praghsanna leictreachais."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

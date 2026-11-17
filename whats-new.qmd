@@ -7,6 +7,8 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Changes to the site
 
+**17 November 2026.** A new [Energy](energy/index.qmd) topic, covering [renewable energy and electricity](energy/renewables.qmd) and [energy imports, electricity prices and demand](energy/supply.qmd).
+
 **17 November 2026.** A new [Gender equality](gender/index.qmd) topic, covering [the EU Gender Equality Index](gender/equality-index.qmd), [work, pay and care](gender/work-and-pay.qmd), and [women in politics and business](gender/leadership.qmd).
 
 **17 November 2026.** Two new topics. [Poverty and inequality](poverty/index.qmd) covers [poverty and deprivation](poverty/rates.qmd), [who is most affected](poverty/who.qmd), [child poverty](poverty/child-poverty.qmd) and [income inequality](poverty/inequality.qmd). [Childhood](childhood/index.qmd) covers [children in Ireland](childhood/children.qmd) and [children's health](childhood/health.qmd). The [data centres](ai/data-centres.qmd) page now maps planning applications for data centres by county. Figures across the site are now checked for updates every Friday.

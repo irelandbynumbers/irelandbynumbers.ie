@@ -236,12 +236,25 @@ def gender():
     return svg("".join(b), "A balance scale with two level pans")
 
 
+def energy():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # two wind turbines
+    for x, h in [(220, 230), (390, 180)]:
+        top = 330 - h
+        b.append(f'<path d="M{x - 6},330 L{x - 3},{top} L{x + 3},{top} L{x + 6},330 z" fill="{DARK}"/>')
+        for ang in (0, 120, 240):
+            b.append(f'<rect x="{x - 4}" y="{top - 85}" width="8" height="85" rx="4" fill="{BLUE}" '
+                     f'transform="rotate({ang + 15} {x} {top})"/>')
+        b.append(f'<circle cx="{x}" cy="{top}" r="9" fill="{GOLD}"/>')
+    return svg("".join(b), "Two wind turbines")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender), ("energy", energy)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

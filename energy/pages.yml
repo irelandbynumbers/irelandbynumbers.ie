@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Renewable energy and electricity"
+  path: renewables.qmd
+  image: ../images/charts/energy-electricity-sources.png
+  description: "How much energy comes from renewable sources, and where Ireland's electricity comes from."
+- title: "Imports, prices and demand"
+  path: supply.qmd
+  image: ../images/charts/energy-electricity-prices-eu.png
+  description: "How much energy Ireland imports, what households pay for electricity, and how much data centres use."

@@ -1,0 +1,22 @@
+---
+title: "Imports, prices and demand"
+description: "How much energy Ireland imports, what households pay for electricity, and how much data centres use."
+---
+
+## Imported energy
+
+Ireland imports most of its energy. In 2024, net imports made up 80% of the energy used in Ireland, compared with 57% for the EU as a whole.
+
+{{< chart energy-import-dependency >}}
+
+## Household electricity prices
+
+In the first half of 2026, households in Ireland paid on average €0.387 per kilowatt hour of electricity, including taxes and charges, the highest price in the EU. The EU average was €0.283. These prices are not adjusted for differences in incomes or the cost of living. Changes in energy prices over time are covered on the [Energy and food prices](../cost-of-living/energy-and-food.qmd) page.
+
+{{< chart energy-electricity-prices-eu >}}
+
+## Data centres
+
+Data centres are a large and growing part of electricity demand in Ireland. In 2025 they used 23% of all metered electricity, up from 5% in 2015. More is on the [Data centres](../ai/data-centres.qmd) page.
+
+{{< chart ai-data-centre-electricity >}}

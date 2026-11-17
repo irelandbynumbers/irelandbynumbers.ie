@@ -173,3 +173,11 @@
 - [The gender pay gap in Ireland and the EU](/charts/gender-pay-gap.html). Difference between men's and women's average gross hourly earnings, as a percentage of men's, 2007 to 2024. *Eurostat.* [CSV](/charts/gender-pay-gap.csv)
 - [The gender pay gap across the EU](/charts/gender-pay-gap-eu.html). Difference between men's and women's average gross hourly earnings, as a percentage of men's, EU countries, 2024. *Eurostat.* [CSV](/charts/gender-pay-gap-eu.csv)
 - [Women's share of the best-paid jobs](/charts/gender-top-earners.html). Women's share of all jobs and of the best-paid jobs, by annual earnings, 2011 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/gender-top-earners.csv)
+
+## [Energy](/energy/)
+
+- [Household electricity prices across the EU](/charts/energy-electricity-prices-eu.html). Average price of electricity for households, euro per kilowatt hour including taxes, EU countries, first half of 2026. *Eurostat.* [CSV](/charts/energy-electricity-prices-eu.csv)
+- [Where Ireland's electricity comes from](/charts/energy-electricity-sources.html). Share of electricity generated in Ireland, by source, 1990 to 2024. *Eurostat.* [CSV](/charts/energy-electricity-sources.csv)
+- [Reliance on imported energy](/charts/energy-import-dependency.html). Net energy imports as a share of all energy used, Ireland and the EU, 1990 to 2024. *Eurostat.* [CSV](/charts/energy-import-dependency.csv)
+- [Renewable electricity across the EU](/charts/energy-renewable-electricity-eu.html). Share of electricity consumption from renewable sources, EU countries, 2025. *Eurostat.* [CSV](/charts/energy-renewable-electricity-eu.csv)
+- [Renewable energy in Ireland and the EU](/charts/energy-renewables.html). Share of energy used that comes from renewable sources, 2004 to 2025. *Eurostat.* [CSV](/charts/energy-renewables.csv)
