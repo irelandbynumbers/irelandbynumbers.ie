@@ -195,3 +195,12 @@
 - [Milk from Irish farms](/charts/agriculture-milk.html). Cows' milk taken in by dairies from farms in Ireland, in billions of litres, 1992 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-milk.csv)
 - [Organic farming across the EU](/charts/agriculture-organic-eu.html). Share of farmed land used for organic farming, EU countries, 2024. *Eurostat.* [CSV](/charts/agriculture-organic-eu.csv)
 - [What Irish farms produce](/charts/agriculture-output.html). Value of goods produced by farms in Ireland, by product, as a share of the total, 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-output.csv)
+
+## [Defence and security](/defence/)
+
+- [Types of cyber security incident](/charts/defence-cyber-incident-types.html). Share of businesses that had each type of ICT security incident, Ireland and the EU, 2024. *Eurostat.* [CSV](/charts/defence-cyber-incident-types.csv)
+- [Cyber security incidents at businesses](/charts/defence-cyber-incidents-eu.html). Share of businesses that had an ICT security incident, EU countries, 2024. *Eurostat.* [CSV](/charts/defence-cyber-incidents-eu.csv)
+- [Defence spending across the EU](/charts/defence-spending-eu.html). Government spending on defence per person, in euro, EU countries, 2024. *Eurostat.* [CSV](/charts/defence-spending-eu.csv)
+- [Defence as a share of government spending](/charts/defence-spending-share.html). Defence as a share of total government spending, Ireland and the EU, 1995 to 2024. *Eurostat.* [CSV](/charts/defence-spending-share.csv)
+- [Defence spending in Ireland](/charts/defence-spending-trend.html). Government spending on defence in Ireland, in millions of euro at current prices, 1995 to 2024. *Eurostat.* [CSV](/charts/defence-spending-trend.csv)
+- [Trust in the armed forces](/charts/defence-trust-armed-forces.html). Share of people who trust their country's armed forces, OECD Trust Survey countries, 2025. *Central Statistics Office (CSO).* [CSV](/charts/defence-trust-armed-forces.csv)

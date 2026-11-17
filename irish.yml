@@ -45,6 +45,9 @@ topics:
   agriculture:
     title: "Talmhaíocht agus bia"
     summary: "Feirmeacha agus feirmeoirí, beostoc agus bainne, aschur agus ioncam feirme, leasachán, feirmeoireacht orgánach agus cur amú bia."
+  defence:
+    title: "Cosaint agus slándáil"
+    summary: "Caiteachas ar chosaint i gcomparáid leis an AE, muinín as Óglaigh na hÉireann, agus teagmhais chibearshlándála."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

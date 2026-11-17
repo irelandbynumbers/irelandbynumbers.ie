@@ -1,0 +1,9 @@
+STATISTIC,Statistic Label,C03555V04292,Type of ICT Security Incidents,TLIST(A1),Year,UNIT,VALUE
+ICA81,Enterprises experience of ICT security related incidents,10,Any ICT related security incident,2018,2018,%,17.9
+ICA81,Enterprises experience of ICT security related incidents,10,Any ICT related security incident,2022,2022,%,15.0
+ICA81,Enterprises experience of ICT security related incidents,20,Unavailability of ICT services,2018,2018,%,15.7
+ICA81,Enterprises experience of ICT security related incidents,20,Unavailability of ICT services,2022,2022,%,13.8
+ICA81,Enterprises experience of ICT security related incidents,30,Destruction or corruption of data,2018,2018,%,4.8
+ICA81,Enterprises experience of ICT security related incidents,30,Destruction or corruption of data,2022,2022,%,1.6
+ICA81,Enterprises experience of ICT security related incidents,40,Disclosure of confidential data,2018,2018,%,2.6
+ICA81,Enterprises experience of ICT security related incidents,40,Disclosure of confidential data,2022,2022,%,0.6

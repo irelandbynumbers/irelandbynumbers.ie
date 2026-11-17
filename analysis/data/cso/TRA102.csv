@@ -1,0 +1,361 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03919V04671,Gender,C03920V04672,Trust in people and institutions,UNIT,VALUE
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,100,Most people,%,7.8
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,200,National government (the Taoiseach and government ministers),%,38.2
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,210,The parliament/congress (the Oireachtas),%,31.7
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,300,Their local government (local authority),%,39.7
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,400,Political parties,%,49.8
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,410,The electoral system,%,
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,500,The police (the Gardaí),%,20.7
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,510,The armed forces/military,%,
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,600,The courts and legal system,%,17.8
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,700,The civil service,%,18.1
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,800,The news media,%,36.5
+TRA102C01,Don't trust (0-4),2023,2023,10,Male,900,International organisations,%,24.9
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,100,Most people,%,6.3
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,200,National government (the Taoiseach and government ministers),%,44.8
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,210,The parliament/congress (the Oireachtas),%,36.4
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,300,Their local government (local authority),%,40.0
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,400,Political parties,%,57.9
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,410,The electoral system,%,
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,500,The police (the Gardaí),%,17.2
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,510,The armed forces/military,%,
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,600,The courts and legal system,%,19.5
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,700,The civil service,%,19.7
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,800,The news media,%,34.9
+TRA102C01,Don't trust (0-4),2023,2023,20,Female,900,International organisations,%,21.5
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,100,Most people,%,7.1
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,200,National government (the Taoiseach and government ministers),%,41.6
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,210,The parliament/congress (the Oireachtas),%,34.1
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,300,Their local government (local authority),%,39.8
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,400,Political parties,%,53.9
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,410,The electoral system,%,
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,500,The police (the Gardaí),%,18.9
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,510,The armed forces/military,%,
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,600,The courts and legal system,%,18.7
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,700,The civil service,%,18.9
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,800,The news media,%,35.7
+TRA102C01,Don't trust (0-4),2023,2023,25,Both male and female,900,International organisations,%,23.1
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,100,Most people,%,7.3
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,200,National government (the Taoiseach and government ministers),%,39.7
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,210,The parliament/congress (the Oireachtas),%,33.5
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,300,Their local government (local authority),%,36.3
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,400,Political parties,%,49.1
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,410,The electoral system,%,13.3
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,500,The police (the Gardaí),%,19.9
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,510,The armed forces/military,%,12.1
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,600,The courts and legal system,%,17.9
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,700,The civil service,%,19.9
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,800,The news media,%,35.6
+TRA102C01,Don't trust (0-4),2025,2025,10,Male,900,International organisations,%,26.7
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,100,Most people,%,9.4
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,200,National government (the Taoiseach and government ministers),%,46.7
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,210,The parliament/congress (the Oireachtas),%,40.3
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,300,Their local government (local authority),%,43.0
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,400,Political parties,%,56.9
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,410,The electoral system,%,17.4
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,500,The police (the Gardaí),%,18.6
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,510,The armed forces/military,%,20.3
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,600,The courts and legal system,%,21.3
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,700,The civil service,%,21.9
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,800,The news media,%,37.2
+TRA102C01,Don't trust (0-4),2025,2025,20,Female,900,International organisations,%,23.9
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,100,Most people,%,8.4
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,200,National government (the Taoiseach and government ministers),%,43.2
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,210,The parliament/congress (the Oireachtas),%,36.9
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,300,Their local government (local authority),%,39.6
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,400,Political parties,%,53.1
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,410,The electoral system,%,15.5
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,500,The police (the Gardaí),%,19.2
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,510,The armed forces/military,%,16.3
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,600,The courts and legal system,%,19.6
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,700,The civil service,%,20.9
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,800,The news media,%,36.4
+TRA102C01,Don't trust (0-4),2025,2025,25,Both male and female,900,International organisations,%,25.2
+TRA102C02,Neutral (5),2023,2023,10,Male,100,Most people,%,8.8
+TRA102C02,Neutral (5),2023,2023,10,Male,200,National government (the Taoiseach and government ministers),%,9.5
+TRA102C02,Neutral (5),2023,2023,10,Male,210,The parliament/congress (the Oireachtas),%,14.9
+TRA102C02,Neutral (5),2023,2023,10,Male,300,Their local government (local authority),%,15.4
+TRA102C02,Neutral (5),2023,2023,10,Male,400,Political parties,%,19.5
+TRA102C02,Neutral (5),2023,2023,10,Male,410,The electoral system,%,
+TRA102C02,Neutral (5),2023,2023,10,Male,500,The police (the Gardaí),%,9.2
+TRA102C02,Neutral (5),2023,2023,10,Male,510,The armed forces/military,%,
+TRA102C02,Neutral (5),2023,2023,10,Male,600,The courts and legal system,%,9.9
+TRA102C02,Neutral (5),2023,2023,10,Male,700,The civil service,%,13.0
+TRA102C02,Neutral (5),2023,2023,10,Male,800,The news media,%,13.6
+TRA102C02,Neutral (5),2023,2023,10,Male,900,International organisations,%,13.3
+TRA102C02,Neutral (5),2023,2023,20,Female,100,Most people,%,12.0
+TRA102C02,Neutral (5),2023,2023,20,Female,200,National government (the Taoiseach and government ministers),%,13.8
+TRA102C02,Neutral (5),2023,2023,20,Female,210,The parliament/congress (the Oireachtas),%,17.7
+TRA102C02,Neutral (5),2023,2023,20,Female,300,Their local government (local authority),%,20.7
+TRA102C02,Neutral (5),2023,2023,20,Female,400,Political parties,%,18.3
+TRA102C02,Neutral (5),2023,2023,20,Female,410,The electoral system,%,
+TRA102C02,Neutral (5),2023,2023,20,Female,500,The police (the Gardaí),%,12.0
+TRA102C02,Neutral (5),2023,2023,20,Female,510,The armed forces/military,%,
+TRA102C02,Neutral (5),2023,2023,20,Female,600,The courts and legal system,%,12.1
+TRA102C02,Neutral (5),2023,2023,20,Female,700,The civil service,%,14.8
+TRA102C02,Neutral (5),2023,2023,20,Female,800,The news media,%,18.5
+TRA102C02,Neutral (5),2023,2023,20,Female,900,International organisations,%,12.6
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,100,Most people,%,10.4
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,200,National government (the Taoiseach and government ministers),%,11.7
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,210,The parliament/congress (the Oireachtas),%,16.3
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,300,Their local government (local authority),%,18.1
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,400,Political parties,%,18.9
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,410,The electoral system,%,
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,500,The police (the Gardaí),%,10.6
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,510,The armed forces/military,%,
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,600,The courts and legal system,%,11.0
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,700,The civil service,%,13.9
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,800,The news media,%,16.1
+TRA102C02,Neutral (5),2023,2023,25,Both male and female,900,International organisations,%,13.0
+TRA102C02,Neutral (5),2025,2025,10,Male,100,Most people,%,10.6
+TRA102C02,Neutral (5),2025,2025,10,Male,200,National government (the Taoiseach and government ministers),%,11.2
+TRA102C02,Neutral (5),2025,2025,10,Male,210,The parliament/congress (the Oireachtas),%,14.1
+TRA102C02,Neutral (5),2025,2025,10,Male,300,Their local government (local authority),%,16.1
+TRA102C02,Neutral (5),2025,2025,10,Male,400,Political parties,%,18.7
+TRA102C02,Neutral (5),2025,2025,10,Male,410,The electoral system,%,6.1
+TRA102C02,Neutral (5),2025,2025,10,Male,500,The police (the Gardaí),%,11.2
+TRA102C02,Neutral (5),2025,2025,10,Male,510,The armed forces/military,%,10.2
+TRA102C02,Neutral (5),2025,2025,10,Male,600,The courts and legal system,%,10.1
+TRA102C02,Neutral (5),2025,2025,10,Male,700,The civil service,%,12.2
+TRA102C02,Neutral (5),2025,2025,10,Male,800,The news media,%,16.0
+TRA102C02,Neutral (5),2025,2025,10,Male,900,International organisations,%,12.5
+TRA102C02,Neutral (5),2025,2025,20,Female,100,Most people,%,14.7
+TRA102C02,Neutral (5),2025,2025,20,Female,200,National government (the Taoiseach and government ministers),%,14.7
+TRA102C02,Neutral (5),2025,2025,20,Female,210,The parliament/congress (the Oireachtas),%,18.0
+TRA102C02,Neutral (5),2025,2025,20,Female,300,Their local government (local authority),%,15.4
+TRA102C02,Neutral (5),2025,2025,20,Female,400,Political parties,%,18.9
+TRA102C02,Neutral (5),2025,2025,20,Female,410,The electoral system,%,7.7
+TRA102C02,Neutral (5),2025,2025,20,Female,500,The police (the Gardaí),%,11.0
+TRA102C02,Neutral (5),2025,2025,20,Female,510,The armed forces/military,%,13.6
+TRA102C02,Neutral (5),2025,2025,20,Female,600,The courts and legal system,%,13.2
+TRA102C02,Neutral (5),2025,2025,20,Female,700,The civil service,%,15.4
+TRA102C02,Neutral (5),2025,2025,20,Female,800,The news media,%,19.0
+TRA102C02,Neutral (5),2025,2025,20,Female,900,International organisations,%,16.9
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,100,Most people,%,12.6
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,200,National government (the Taoiseach and government ministers),%,13.0
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,210,The parliament/congress (the Oireachtas),%,16.1
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,300,Their local government (local authority),%,15.8
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,400,Political parties,%,18.8
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,410,The electoral system,%,6.9
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,500,The police (the Gardaí),%,11.1
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,510,The armed forces/military,%,12.0
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,600,The courts and legal system,%,11.7
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,700,The civil service,%,13.9
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,800,The news media,%,17.5
+TRA102C02,Neutral (5),2025,2025,25,Both male and female,900,International organisations,%,14.8
+TRA102C03,Trust (6-10),2023,2023,10,Male,100,Most people,%,83.4
+TRA102C03,Trust (6-10),2023,2023,10,Male,200,National government (the Taoiseach and government ministers),%,52.1
+TRA102C03,Trust (6-10),2023,2023,10,Male,210,The parliament/congress (the Oireachtas),%,53.2
+TRA102C03,Trust (6-10),2023,2023,10,Male,300,Their local government (local authority),%,44.3
+TRA102C03,Trust (6-10),2023,2023,10,Male,400,Political parties,%,30.2
+TRA102C03,Trust (6-10),2023,2023,10,Male,410,The electoral system,%,
+TRA102C03,Trust (6-10),2023,2023,10,Male,500,The police (the Gardaí),%,69.9
+TRA102C03,Trust (6-10),2023,2023,10,Male,510,The armed forces/military,%,
+TRA102C03,Trust (6-10),2023,2023,10,Male,600,The courts and legal system,%,71.6
+TRA102C03,Trust (6-10),2023,2023,10,Male,700,The civil service,%,68.3
+TRA102C03,Trust (6-10),2023,2023,10,Male,800,The news media,%,48.9
+TRA102C03,Trust (6-10),2023,2023,10,Male,900,International organisations,%,61.5
+TRA102C03,Trust (6-10),2023,2023,20,Female,100,Most people,%,81.7
+TRA102C03,Trust (6-10),2023,2023,20,Female,200,National government (the Taoiseach and government ministers),%,41.3
+TRA102C03,Trust (6-10),2023,2023,20,Female,210,The parliament/congress (the Oireachtas),%,45.2
+TRA102C03,Trust (6-10),2023,2023,20,Female,300,Their local government (local authority),%,38.8
+TRA102C03,Trust (6-10),2023,2023,20,Female,400,Political parties,%,22.8
+TRA102C03,Trust (6-10),2023,2023,20,Female,410,The electoral system,%,
+TRA102C03,Trust (6-10),2023,2023,20,Female,500,The police (the Gardaí),%,70.8
+TRA102C03,Trust (6-10),2023,2023,20,Female,510,The armed forces/military,%,
+TRA102C03,Trust (6-10),2023,2023,20,Female,600,The courts and legal system,%,66.3
+TRA102C03,Trust (6-10),2023,2023,20,Female,700,The civil service,%,64.7
+TRA102C03,Trust (6-10),2023,2023,20,Female,800,The news media,%,45.4
+TRA102C03,Trust (6-10),2023,2023,20,Female,900,International organisations,%,65.7
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,100,Most people,%,82.5
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,200,National government (the Taoiseach and government ministers),%,46.6
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,210,The parliament/congress (the Oireachtas),%,49.1
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,300,Their local government (local authority),%,41.5
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,400,Political parties,%,26.4
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,410,The electoral system,%,
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,500,The police (the Gardaí),%,70.4
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,510,The armed forces/military,%,
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,600,The courts and legal system,%,68.9
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,700,The civil service,%,66.5
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,800,The news media,%,47.1
+TRA102C03,Trust (6-10),2023,2023,25,Both male and female,900,International organisations,%,63.7
+TRA102C03,Trust (6-10),2025,2025,10,Male,100,Most people,%,82.0
+TRA102C03,Trust (6-10),2025,2025,10,Male,200,National government (the Taoiseach and government ministers),%,49.1
+TRA102C03,Trust (6-10),2025,2025,10,Male,210,The parliament/congress (the Oireachtas),%,51.7
+TRA102C03,Trust (6-10),2025,2025,10,Male,300,Their local government (local authority),%,47.2
+TRA102C03,Trust (6-10),2025,2025,10,Male,400,Political parties,%,32.0
+TRA102C03,Trust (6-10),2025,2025,10,Male,410,The electoral system,%,80.4
+TRA102C03,Trust (6-10),2025,2025,10,Male,500,The police (the Gardaí),%,68.7
+TRA102C03,Trust (6-10),2025,2025,10,Male,510,The armed forces/military,%,75.1
+TRA102C03,Trust (6-10),2025,2025,10,Male,600,The courts and legal system,%,71.6
+TRA102C03,Trust (6-10),2025,2025,10,Male,700,The civil service,%,67.1
+TRA102C03,Trust (6-10),2025,2025,10,Male,800,The news media,%,48.2
+TRA102C03,Trust (6-10),2025,2025,10,Male,900,International organisations,%,59.7
+TRA102C03,Trust (6-10),2025,2025,20,Female,100,Most people,%,75.6
+TRA102C03,Trust (6-10),2025,2025,20,Female,200,National government (the Taoiseach and government ministers),%,38.5
+TRA102C03,Trust (6-10),2025,2025,20,Female,210,The parliament/congress (the Oireachtas),%,40.3
+TRA102C03,Trust (6-10),2025,2025,20,Female,300,Their local government (local authority),%,41.2
+TRA102C03,Trust (6-10),2025,2025,20,Female,400,Political parties,%,22.8
+TRA102C03,Trust (6-10),2025,2025,20,Female,410,The electoral system,%,74.4
+TRA102C03,Trust (6-10),2025,2025,20,Female,500,The police (the Gardaí),%,70.2
+TRA102C03,Trust (6-10),2025,2025,20,Female,510,The armed forces/military,%,63.4
+TRA102C03,Trust (6-10),2025,2025,20,Female,600,The courts and legal system,%,64.9
+TRA102C03,Trust (6-10),2025,2025,20,Female,700,The civil service,%,61.5
+TRA102C03,Trust (6-10),2025,2025,20,Female,800,The news media,%,43.8
+TRA102C03,Trust (6-10),2025,2025,20,Female,900,International organisations,%,55.1
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,100,Most people,%,78.7
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,200,National government (the Taoiseach and government ministers),%,43.8
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,210,The parliament/congress (the Oireachtas),%,45.9
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,300,Their local government (local authority),%,44.2
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,400,Political parties,%,27.4
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,410,The electoral system,%,77.3
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,500,The police (the Gardaí),%,69.5
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,510,The armed forces/military,%,69.1
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,600,The courts and legal system,%,68.2
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,700,The civil service,%,64.2
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,800,The news media,%,46.0
+TRA102C03,Trust (6-10),2025,2025,25,Both male and female,900,International organisations,%,57.4
+TRA102C04,Don't know,2023,2023,10,Male,100,Most people,%,0.0
+TRA102C04,Don't know,2023,2023,10,Male,200,National government (the Taoiseach and government ministers),%,0.1
+TRA102C04,Don't know,2023,2023,10,Male,210,The parliament/congress (the Oireachtas),%,0.2
+TRA102C04,Don't know,2023,2023,10,Male,300,Their local government (local authority),%,0.6
+TRA102C04,Don't know,2023,2023,10,Male,400,Political parties,%,0.5
+TRA102C04,Don't know,2023,2023,10,Male,410,The electoral system,%,
+TRA102C04,Don't know,2023,2023,10,Male,500,The police (the Gardaí),%,0.1
+TRA102C04,Don't know,2023,2023,10,Male,510,The armed forces/military,%,
+TRA102C04,Don't know,2023,2023,10,Male,600,The courts and legal system,%,0.7
+TRA102C04,Don't know,2023,2023,10,Male,700,The civil service,%,0.6
+TRA102C04,Don't know,2023,2023,10,Male,800,The news media,%,1.0
+TRA102C04,Don't know,2023,2023,10,Male,900,International organisations,%,0.3
+TRA102C04,Don't know,2023,2023,20,Female,100,Most people,%,0.0
+TRA102C04,Don't know,2023,2023,20,Female,200,National government (the Taoiseach and government ministers),%,0.1
+TRA102C04,Don't know,2023,2023,20,Female,210,The parliament/congress (the Oireachtas),%,0.6
+TRA102C04,Don't know,2023,2023,20,Female,300,Their local government (local authority),%,0.5
+TRA102C04,Don't know,2023,2023,20,Female,400,Political parties,%,1.1
+TRA102C04,Don't know,2023,2023,20,Female,410,The electoral system,%,
+TRA102C04,Don't know,2023,2023,20,Female,500,The police (the Gardaí),%,0.0
+TRA102C04,Don't know,2023,2023,20,Female,510,The armed forces/military,%,
+TRA102C04,Don't know,2023,2023,20,Female,600,The courts and legal system,%,2.0
+TRA102C04,Don't know,2023,2023,20,Female,700,The civil service,%,0.8
+TRA102C04,Don't know,2023,2023,20,Female,800,The news media,%,1.2
+TRA102C04,Don't know,2023,2023,20,Female,900,International organisations,%,0.2
+TRA102C04,Don't know,2023,2023,25,Both male and female,100,Most people,%,0.0
+TRA102C04,Don't know,2023,2023,25,Both male and female,200,National government (the Taoiseach and government ministers),%,0.1
+TRA102C04,Don't know,2023,2023,25,Both male and female,210,The parliament/congress (the Oireachtas),%,0.4
+TRA102C04,Don't know,2023,2023,25,Both male and female,300,Their local government (local authority),%,0.6
+TRA102C04,Don't know,2023,2023,25,Both male and female,400,Political parties,%,0.8
+TRA102C04,Don't know,2023,2023,25,Both male and female,410,The electoral system,%,
+TRA102C04,Don't know,2023,2023,25,Both male and female,500,The police (the Gardaí),%,0.1
+TRA102C04,Don't know,2023,2023,25,Both male and female,510,The armed forces/military,%,
+TRA102C04,Don't know,2023,2023,25,Both male and female,600,The courts and legal system,%,1.4
+TRA102C04,Don't know,2023,2023,25,Both male and female,700,The civil service,%,0.7
+TRA102C04,Don't know,2023,2023,25,Both male and female,800,The news media,%,1.1
+TRA102C04,Don't know,2023,2023,25,Both male and female,900,International organisations,%,0.2
+TRA102C04,Don't know,2025,2025,10,Male,100,Most people,%,0.1
+TRA102C04,Don't know,2025,2025,10,Male,200,National government (the Taoiseach and government ministers),%,0.0
+TRA102C04,Don't know,2025,2025,10,Male,210,The parliament/congress (the Oireachtas),%,0.8
+TRA102C04,Don't know,2025,2025,10,Male,300,Their local government (local authority),%,0.3
+TRA102C04,Don't know,2025,2025,10,Male,400,Political parties,%,0.1
+TRA102C04,Don't know,2025,2025,10,Male,410,The electoral system,%,0.2
+TRA102C04,Don't know,2025,2025,10,Male,500,The police (the Gardaí),%,0.1
+TRA102C04,Don't know,2025,2025,10,Male,510,The armed forces/military,%,2.6
+TRA102C04,Don't know,2025,2025,10,Male,600,The courts and legal system,%,0.4
+TRA102C04,Don't know,2025,2025,10,Male,700,The civil service,%,0.7
+TRA102C04,Don't know,2025,2025,10,Male,800,The news media,%,0.2
+TRA102C04,Don't know,2025,2025,10,Male,900,International organisations,%,1.1
+TRA102C04,Don't know,2025,2025,20,Female,100,Most people,%,0.3
+TRA102C04,Don't know,2025,2025,20,Female,200,National government (the Taoiseach and government ministers),%,0.1
+TRA102C04,Don't know,2025,2025,20,Female,210,The parliament/congress (the Oireachtas),%,1.4
+TRA102C04,Don't know,2025,2025,20,Female,300,Their local government (local authority),%,0.4
+TRA102C04,Don't know,2025,2025,20,Female,400,Political parties,%,1.4
+TRA102C04,Don't know,2025,2025,20,Female,410,The electoral system,%,0.5
+TRA102C04,Don't know,2025,2025,20,Female,500,The police (the Gardaí),%,0.1
+TRA102C04,Don't know,2025,2025,20,Female,510,The armed forces/military,%,2.7
+TRA102C04,Don't know,2025,2025,20,Female,600,The courts and legal system,%,0.7
+TRA102C04,Don't know,2025,2025,20,Female,700,The civil service,%,1.2
+TRA102C04,Don't know,2025,2025,20,Female,800,The news media,%,0.1
+TRA102C04,Don't know,2025,2025,20,Female,900,International organisations,%,4.1
+TRA102C04,Don't know,2025,2025,25,Both male and female,100,Most people,%,0.2
+TRA102C04,Don't know,2025,2025,25,Both male and female,200,National government (the Taoiseach and government ministers),%,0.0
+TRA102C04,Don't know,2025,2025,25,Both male and female,210,The parliament/congress (the Oireachtas),%,1.1
+TRA102C04,Don't know,2025,2025,25,Both male and female,300,Their local government (local authority),%,0.4
+TRA102C04,Don't know,2025,2025,25,Both male and female,400,Political parties,%,0.8
+TRA102C04,Don't know,2025,2025,25,Both male and female,410,The electoral system,%,0.4
+TRA102C04,Don't know,2025,2025,25,Both male and female,500,The police (the Gardaí),%,0.1
+TRA102C04,Don't know,2025,2025,25,Both male and female,510,The armed forces/military,%,2.7
+TRA102C04,Don't know,2025,2025,25,Both male and female,600,The courts and legal system,%,0.5
+TRA102C04,Don't know,2025,2025,25,Both male and female,700,The civil service,%,1.0
+TRA102C04,Don't know,2025,2025,25,Both male and female,800,The news media,%,0.1
+TRA102C04,Don't know,2025,2025,25,Both male and female,900,International organisations,%,2.6
+TRA102C05,Mean Score,2023,2023,10,Male,100,Most people,Number,6.8
+TRA102C05,Mean Score,2023,2023,10,Male,200,National government (the Taoiseach and government ministers),Number,5.0
+TRA102C05,Mean Score,2023,2023,10,Male,210,The parliament/congress (the Oireachtas),Number,5.3
+TRA102C05,Mean Score,2023,2023,10,Male,300,Their local government (local authority),Number,4.8
+TRA102C05,Mean Score,2023,2023,10,Male,400,Political parties,Number,4.0
+TRA102C05,Mean Score,2023,2023,10,Male,410,The electoral system,Number,
+TRA102C05,Mean Score,2023,2023,10,Male,500,The police (the Gardaí),Number,6.3
+TRA102C05,Mean Score,2023,2023,10,Male,510,The armed forces/military,Number,
+TRA102C05,Mean Score,2023,2023,10,Male,600,The courts and legal system,Number,6.6
+TRA102C05,Mean Score,2023,2023,10,Male,700,The civil service,Number,6.2
+TRA102C05,Mean Score,2023,2023,10,Male,800,The news media,Number,5.0
+TRA102C05,Mean Score,2023,2023,10,Male,900,International organisations,Number,5.9
+TRA102C05,Mean Score,2023,2023,20,Female,100,Most people,Number,6.7
+TRA102C05,Mean Score,2023,2023,20,Female,200,National government (the Taoiseach and government ministers),Number,4.6
+TRA102C05,Mean Score,2023,2023,20,Female,210,The parliament/congress (the Oireachtas),Number,4.9
+TRA102C05,Mean Score,2023,2023,20,Female,300,Their local government (local authority),Number,4.7
+TRA102C05,Mean Score,2023,2023,20,Female,400,Political parties,Number,3.7
+TRA102C05,Mean Score,2023,2023,20,Female,410,The electoral system,Number,
+TRA102C05,Mean Score,2023,2023,20,Female,500,The police (the Gardaí),Number,6.4
+TRA102C05,Mean Score,2023,2023,20,Female,510,The armed forces/military,Number,
+TRA102C05,Mean Score,2023,2023,20,Female,600,The courts and legal system,Number,6.2
+TRA102C05,Mean Score,2023,2023,20,Female,700,The civil service,Number,6.0
+TRA102C05,Mean Score,2023,2023,20,Female,800,The news media,Number,5.0
+TRA102C05,Mean Score,2023,2023,20,Female,900,International organisations,Number,6.0
+TRA102C05,Mean Score,2023,2023,25,Both male and female,100,Most people,Number,6.7
+TRA102C05,Mean Score,2023,2023,25,Both male and female,200,National government (the Taoiseach and government ministers),Number,4.8
+TRA102C05,Mean Score,2023,2023,25,Both male and female,210,The parliament/congress (the Oireachtas),Number,5.1
+TRA102C05,Mean Score,2023,2023,25,Both male and female,300,Their local government (local authority),Number,4.8
+TRA102C05,Mean Score,2023,2023,25,Both male and female,400,Political parties,Number,3.9
+TRA102C05,Mean Score,2023,2023,25,Both male and female,410,The electoral system,Number,
+TRA102C05,Mean Score,2023,2023,25,Both male and female,500,The police (the Gardaí),Number,6.4
+TRA102C05,Mean Score,2023,2023,25,Both male and female,510,The armed forces/military,Number,
+TRA102C05,Mean Score,2023,2023,25,Both male and female,600,The courts and legal system,Number,6.4
+TRA102C05,Mean Score,2023,2023,25,Both male and female,700,The civil service,Number,6.1
+TRA102C05,Mean Score,2023,2023,25,Both male and female,800,The news media,Number,5.0
+TRA102C05,Mean Score,2023,2023,25,Both male and female,900,International organisations,Number,5.9
+TRA102C05,Mean Score,2025,2025,10,Male,100,Most people,Number,6.7
+TRA102C05,Mean Score,2025,2025,10,Male,200,National government (the Taoiseach and government ministers),Number,4.9
+TRA102C05,Mean Score,2025,2025,10,Male,210,The parliament/congress (the Oireachtas),Number,5.2
+TRA102C05,Mean Score,2025,2025,10,Male,300,Their local government (local authority),Number,5.0
+TRA102C05,Mean Score,2025,2025,10,Male,400,Political parties,Number,4.1
+TRA102C05,Mean Score,2025,2025,10,Male,410,The electoral system,Number,7.8
+TRA102C05,Mean Score,2025,2025,10,Male,500,The police (the Gardaí),Number,6.3
+TRA102C05,Mean Score,2025,2025,10,Male,510,The armed forces/military,Number,9.2
+TRA102C05,Mean Score,2025,2025,10,Male,600,The courts and legal system,Number,6.6
+TRA102C05,Mean Score,2025,2025,10,Male,700,The civil service,Number,6.2
+TRA102C05,Mean Score,2025,2025,10,Male,800,The news media,Number,5.0
+TRA102C05,Mean Score,2025,2025,10,Male,900,International organisations,Number,5.6
+TRA102C05,Mean Score,2025,2025,20,Female,100,Most people,Number,6.5
+TRA102C05,Mean Score,2025,2025,20,Female,200,National government (the Taoiseach and government ministers),Number,4.4
+TRA102C05,Mean Score,2025,2025,20,Female,210,The parliament/congress (the Oireachtas),Number,4.7
+TRA102C05,Mean Score,2025,2025,20,Female,300,Their local government (local authority),Number,4.7
+TRA102C05,Mean Score,2025,2025,20,Female,400,Political parties,Number,3.7
+TRA102C05,Mean Score,2025,2025,20,Female,410,The electoral system,Number,7.4
+TRA102C05,Mean Score,2025,2025,20,Female,500,The police (the Gardaí),Number,6.4
+TRA102C05,Mean Score,2025,2025,20,Female,510,The armed forces/military,Number,8.6
+TRA102C05,Mean Score,2025,2025,20,Female,600,The courts and legal system,Number,6.1
+TRA102C05,Mean Score,2025,2025,20,Female,700,The civil service,Number,6.0
+TRA102C05,Mean Score,2025,2025,20,Female,800,The news media,Number,4.9
+TRA102C05,Mean Score,2025,2025,20,Female,900,International organisations,Number,5.6
+TRA102C05,Mean Score,2025,2025,25,Both male and female,100,Most people,Number,6.6
+TRA102C05,Mean Score,2025,2025,25,Both male and female,200,National government (the Taoiseach and government ministers),Number,4.6
+TRA102C05,Mean Score,2025,2025,25,Both male and female,210,The parliament/congress (the Oireachtas),Number,5.0
+TRA102C05,Mean Score,2025,2025,25,Both male and female,300,Their local government (local authority),Number,4.9
+TRA102C05,Mean Score,2025,2025,25,Both male and female,400,Political parties,Number,3.9
+TRA102C05,Mean Score,2025,2025,25,Both male and female,410,The electoral system,Number,7.6
+TRA102C05,Mean Score,2025,2025,25,Both male and female,500,The police (the Gardaí),Number,6.3
+TRA102C05,Mean Score,2025,2025,25,Both male and female,510,The armed forces/military,Number,8.9
+TRA102C05,Mean Score,2025,2025,25,Both male and female,600,The courts and legal system,Number,6.3
+TRA102C05,Mean Score,2025,2025,25,Both male and female,700,The civil service,Number,6.1
+TRA102C05,Mean Score,2025,2025,25,Both male and female,800,The news media,Number,4.9
+TRA102C05,Mean Score,2025,2025,25,Both male and female,900,International organisations,Number,5.6

@@ -51,6 +51,8 @@ website:
             text: Energy
           - href: agriculture/index.qmd
             text: Agriculture and food
+          - href: defence/index.qmd
+            text: Defence and security
           - href: ai/index.qmd
             text: Artificial intelligence
           - href: childhood/index.qmd

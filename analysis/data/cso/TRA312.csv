@@ -1,0 +1,801 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03846V04596,OECD Countries,C03920V04672,Trust in people and institutions,UNIT,VALUE
+TRA312C01,Percentage of People,2023,2023,AU,Australia,910,National Government (OECD),%,46.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,920,Local Government (OECD),%,51.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,930,National Parliament (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,940,Political Parties (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,950,Police (OECD),%,68.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,960,National Civil Service (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,970,Courts and Judicial System (OECD),%,59.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,980,News Media (OECD),%,41.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,990,International Organisations (OECD),%,41.0
+TRA312C01,Percentage of People,2023,2023,AU,Australia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,AT,Austria,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,910,National Government (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,920,Local Government (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,930,National Parliament (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,940,Political Parties (OECD),%,29.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,950,Police (OECD),%,67.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,960,National Civil Service (OECD),%,49.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,970,Courts and Judicial System (OECD),%,53.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,980,News Media (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,990,International Organisations (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,BE,Belgium,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BR,Brazil,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,BG,Bulgaria,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CA,Canada,910,National Government (OECD),%,49.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,920,Local Government (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,930,National Parliament (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,940,Political Parties (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,950,Police (OECD),%,67.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,960,National Civil Service (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,970,Courts and Judicial System (OECD),%,63.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,980,News Media (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,990,International Organisations (OECD),%,46.0
+TRA312C01,Percentage of People,2023,2023,CA,Canada,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CL,Chile,910,National Government (OECD),%,30.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,920,Local Government (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,930,National Parliament (OECD),%,19.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,940,Political Parties (OECD),%,14.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,950,Police (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,960,National Civil Service (OECD),%,24.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,970,Courts and Judicial System (OECD),%,25.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,980,News Media (OECD),%,28.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,990,International Organisations (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,CL,Chile,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,920,Local Government (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,930,National Parliament (OECD),%,23.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,940,Political Parties (OECD),%,19.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,950,Police (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,960,National Civil Service (OECD),%,27.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,970,Courts and Judicial System (OECD),%,33.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,980,News Media (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,990,International Organisations (OECD),%,51.0
+TRA312C01,Percentage of People,2023,2023,CO,Colombia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,910,National Government (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,920,Local Government (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,930,National Parliament (OECD),%,26.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,940,Political Parties (OECD),%,13.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,950,Police (OECD),%,48.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,960,National Civil Service (OECD),%,28.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,970,Courts and Judicial System (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,980,News Media (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,CR,Costa Rica,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,HR,Croatia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,910,National Government (OECD),%,19.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,920,Local Government (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,930,National Parliament (OECD),%,20.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,940,Political Parties (OECD),%,14.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,950,Police (OECD),%,60.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,960,National Civil Service (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,970,Courts and Judicial System (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,980,News Media (OECD),%,27.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,990,International Organisations (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,CZ,Czechia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,910,National Government (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,920,Local Government (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,930,National Parliament (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,940,Political Parties (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,950,Police (OECD),%,69.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,960,National Civil Service (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,970,Courts and Judicial System (OECD),%,75.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,980,News Media (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,990,International Organisations (OECD),%,57.0
+TRA312C01,Percentage of People,2023,2023,DK,Denmark,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,910,National Government (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,920,Local Government (OECD),%,46.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,930,National Parliament (OECD),%,27.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,940,Political Parties (OECD),%,17.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,950,Police (OECD),%,74.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,960,National Civil Service (OECD),%,49.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,970,Courts and Judicial System (OECD),%,62.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,980,News Media (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,EE,Estonia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,FI,Finland,910,National Government (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,920,Local Government (OECD),%,56.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,930,National Parliament (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,940,Political Parties (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,950,Police (OECD),%,87.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,960,National Civil Service (OECD),%,62.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,970,Courts and Judicial System (OECD),%,74.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,980,News Media (OECD),%,61.0
+TRA312C01,Percentage of People,2023,2023,FI,Finland,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,FI,Finland,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,FR,France,910,National Government (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,FR,France,920,Local Government (OECD),%,56.0
+TRA312C01,Percentage of People,2023,2023,FR,France,930,National Parliament (OECD),%,33.0
+TRA312C01,Percentage of People,2023,2023,FR,France,940,Political Parties (OECD),%,18.0
+TRA312C01,Percentage of People,2023,2023,FR,France,950,Police (OECD),%,67.0
+TRA312C01,Percentage of People,2023,2023,FR,France,960,National Civil Service (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,FR,France,970,Courts and Judicial System (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,FR,France,980,News Media (OECD),%,33.0
+TRA312C01,Percentage of People,2023,2023,FR,France,990,International Organisations (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,FR,France,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,DE,Germany,910,National Government (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,920,Local Government (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,930,National Parliament (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,940,Political Parties (OECD),%,26.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,950,Police (OECD),%,64.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,960,National Civil Service (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,970,Courts and Judicial System (OECD),%,58.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,980,News Media (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,990,International Organisations (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,DE,Germany,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,GR,Greece,910,National Government (OECD),%,32.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,920,Local Government (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,930,National Parliament (OECD),%,32.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,940,Political Parties (OECD),%,17.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,950,Police (OECD),%,51.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,960,National Civil Service (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,970,Courts and Judicial System (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,980,News Media (OECD),%,22.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,990,International Organisations (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,GR,Greece,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,910,National Government (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,920,Local Government (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,930,National Parliament (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,940,Political Parties (OECD),%,20.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,950,Police (OECD),%,73.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,960,National Civil Service (OECD),%,64.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,970,Courts and Judicial System (OECD),%,48.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,980,News Media (OECD),%,62.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,990,International Organisations (OECD),%,55.0
+TRA312C01,Percentage of People,2023,2023,IS,Iceland,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,910,National Government (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,920,Local Government (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,930,National Parliament (OECD),%,49.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,940,Political Parties (OECD),%,26.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,950,Police (OECD),%,70.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,960,National Civil Service (OECD),%,67.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,970,Courts and Judicial System (OECD),%,69.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,980,News Media (OECD),%,47.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,990,International Organisations (OECD),%,64.0
+TRA312C01,Percentage of People,2023,2023,IE,Ireland,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,IT,Italy,910,National Government (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,920,Local Government (OECD),%,41.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,930,National Parliament (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,940,Political Parties (OECD),%,19.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,950,Police (OECD),%,64.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,960,National Civil Service (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,970,Courts and Judicial System (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,980,News Media (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,990,International Organisations (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,IT,Italy,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,JP,Japan,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,910,National Government (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,920,Local Government (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,930,National Parliament (OECD),%,21.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,940,Political Parties (OECD),%,20.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,950,Police (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,960,National Civil Service (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,970,Courts and Judicial System (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,980,News Media (OECD),%,30.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,990,International Organisations (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,KR,Korea (the Republic of)South Korea,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,910,National Government (OECD),%,29.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,920,Local Government (OECD),%,41.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,930,National Parliament (OECD),%,25.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,940,Political Parties (OECD),%,13.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,950,Police (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,960,National Civil Service (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,970,Courts and Judicial System (OECD),%,48.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,990,International Organisations (OECD),%,41.0
+TRA312C01,Percentage of People,2023,2023,LV,Latvia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LT,Lithuania,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,910,National Government (OECD),%,56.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,920,Local Government (OECD),%,62.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,930,National Parliament (OECD),%,57.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,940,Political Parties (OECD),%,32.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,950,Police (OECD),%,73.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,960,National Civil Service (OECD),%,57.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,970,Courts and Judicial System (OECD),%,70.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,980,News Media (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,990,International Organisations (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,LU,Luxembourg,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,910,National Government (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,920,Local Government (OECD),%,48.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,930,National Parliament (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,940,Political Parties (OECD),%,33.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,950,Police (OECD),%,58.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,960,National Civil Service (OECD),%,55.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,970,Courts and Judicial System (OECD),%,53.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,980,News Media (OECD),%,50.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,990,International Organisations (OECD),%,60.0
+TRA312C01,Percentage of People,2023,2023,MX,Mexico,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),910,National Government (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),920,Local Government (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),930,National Parliament (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),940,Political Parties (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),950,Police (OECD),%,76.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),960,National Civil Service (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),970,Courts and Judicial System (OECD),%,72.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),980,News Media (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),990,International Organisations (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,NL,Netherlands (the),995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,910,National Government (OECD),%,46.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,920,Local Government (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,930,National Parliament (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,940,Political Parties (OECD),%,32.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,950,Police (OECD),%,71.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,960,National Civil Service (OECD),%,59.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,970,Courts and Judicial System (OECD),%,60.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,990,International Organisations (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,NZ,New Zealand,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,NO,Norway,910,National Government (OECD),%,48.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,920,Local Government (OECD),%,51.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,930,National Parliament (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,940,Political Parties (OECD),%,36.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,950,Police (OECD),%,77.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,960,National Civil Service (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,970,Courts and Judicial System (OECD),%,77.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,980,News Media (OECD),%,49.0
+TRA312C01,Percentage of People,2023,2023,NO,Norway,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,NO,Norway,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,910,National Government (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,920,Local Government (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,930,National Parliament (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,940,Political Parties (OECD),%,24.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,950,Police (OECD),%,63.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,960,National Civil Service (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,970,Courts and Judicial System (OECD),%,54.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,980,News Media (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,XX1,OECD average,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PE,Peru,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PL,Poland,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,910,National Government (OECD),%,32.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,920,Local Government (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,930,National Parliament (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,940,Political Parties (OECD),%,18.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,950,Police (OECD),%,65.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,960,National Civil Service (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,970,Courts and Judicial System (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,980,News Media (OECD),%,39.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,990,International Organisations (OECD),%,48.0
+TRA312C01,Percentage of People,2023,2023,PT,Portugal,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,950,Police (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2023,2023,RO,Romania,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,910,National Government (OECD),%,32.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,920,Local Government (OECD),%,40.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,930,National Parliament (OECD),%,30.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,940,Political Parties (OECD),%,19.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,950,Police (OECD),%,40.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,960,National Civil Service (OECD),%,33.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,970,Courts and Judicial System (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,980,News Media (OECD),%,28.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,990,International Organisations (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,SK,Slovakia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,910,National Government (OECD),%,28.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,920,Local Government (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,930,National Parliament (OECD),%,27.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,940,Political Parties (OECD),%,14.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,950,Police (OECD),%,52.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,960,National Civil Service (OECD),%,30.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,970,Courts and Judicial System (OECD),%,41.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,980,News Media (OECD),%,26.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,990,International Organisations (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,SI,Slovenia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,ES,Spain,910,National Government (OECD),%,37.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,920,Local Government (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,930,National Parliament (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,940,Political Parties (OECD),%,18.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,950,Police (OECD),%,61.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,960,National Civil Service (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,970,Courts and Judicial System (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,980,News Media (OECD),%,34.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,990,International Organisations (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,ES,Spain,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,910,National Government (OECD),%,43.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,920,Local Government (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,930,National Parliament (OECD),%,46.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,940,Political Parties (OECD),%,31.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,950,Police (OECD),%,70.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,960,National Civil Service (OECD),%,42.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,970,Courts and Judicial System (OECD),%,64.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,980,News Media (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,SE,Sweden,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,910,National Government (OECD),%,62.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,920,Local Government (OECD),%,63.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,930,National Parliament (OECD),%,56.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,940,Political Parties (OECD),%,38.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,950,Police (OECD),%,75.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,960,National Civil Service (OECD),%,56.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,970,Courts and Judicial System (OECD),%,69.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,980,News Media (OECD),%,40.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2023,2023,CH,Switzerland,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),910,National Government (OECD),%,29.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),920,Local Government (OECD),%,35.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),930,National Parliament (OECD),%,24.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),940,Political Parties (OECD),%,12.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),950,Police (OECD),%,56.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),960,National Civil Service (OECD),%,45.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),970,Courts and Judicial System (OECD),%,62.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),980,News Media (OECD),%,19.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),990,International Organisations (OECD),%,25.0
+TRA312C01,Percentage of People,2023,2023,GB,United Kingdom of Great Britain and Northern Ireland (the),995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2025,2025,AU,Australia,910,National Government (OECD),%,51.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,920,Local Government (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,930,National Parliament (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,940,Political Parties (OECD),%,40.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,950,Police (OECD),%,73.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,960,National Civil Service (OECD),%,60.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,970,Courts and Judicial System (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,980,News Media (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,AU,Australia,995,Armed Forces (OECD),%,74.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,910,National Government (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,920,Local Government (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,930,National Parliament (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,940,Political Parties (OECD),%,21.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,950,Police (OECD),%,66.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,960,National Civil Service (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,970,Courts and Judicial System (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,980,News Media (OECD),%,30.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,990,International Organisations (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,AT,Austria,995,Armed Forces (OECD),%,63.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,910,National Government (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,920,Local Government (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,930,National Parliament (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,940,Political Parties (OECD),%,27.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,950,Police (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,960,National Civil Service (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,970,Courts and Judicial System (OECD),%,53.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,980,News Media (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,990,International Organisations (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,BE,Belgium,995,Armed Forces (OECD),%,66.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,910,National Government (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,920,Local Government (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,930,National Parliament (OECD),%,32.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,940,Political Parties (OECD),%,20.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,950,Police (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,960,National Civil Service (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,970,Courts and Judicial System (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,980,News Media (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,990,International Organisations (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,BR,Brazil,995,Armed Forces (OECD),%,60.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,910,National Government (OECD),%,16.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,920,Local Government (OECD),%,26.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,930,National Parliament (OECD),%,13.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,940,Political Parties (OECD),%,10.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,950,Police (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,960,National Civil Service (OECD),%,15.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,970,Courts and Judicial System (OECD),%,20.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,980,News Media (OECD),%,21.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,990,International Organisations (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,BG,Bulgaria,995,Armed Forces (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,910,National Government (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,920,Local Government (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,930,National Parliament (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,940,Political Parties (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,950,Police (OECD),%,65.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,960,National Civil Service (OECD),%,51.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,970,Courts and Judicial System (OECD),%,61.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,980,News Media (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,990,International Organisations (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,CA,Canada,995,Armed Forces (OECD),%,67.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,910,National Government (OECD),%,26.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,920,Local Government (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,930,National Parliament (OECD),%,16.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,940,Political Parties (OECD),%,11.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,950,Police (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,960,National Civil Service (OECD),%,20.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,970,Courts and Judicial System (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,980,News Media (OECD),%,27.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,990,International Organisations (OECD),%,28.0
+TRA312C01,Percentage of People,2025,2025,CL,Chile,995,Armed Forces (OECD),%,55.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,910,National Government (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,920,Local Government (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,930,National Parliament (OECD),%,22.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,940,Political Parties (OECD),%,15.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,950,Police (OECD),%,40.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,960,National Civil Service (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,970,Courts and Judicial System (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,980,News Media (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,990,International Organisations (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,CO,Colombia,995,Armed Forces (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,910,National Government (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,920,Local Government (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,930,National Parliament (OECD),%,22.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,940,Political Parties (OECD),%,17.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,950,Police (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,960,National Civil Service (OECD),%,31.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,970,Courts and Judicial System (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,990,International Organisations (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,CR,Costa Rica,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,910,National Government (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,920,Local Government (OECD),%,30.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,930,National Parliament (OECD),%,22.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,940,Political Parties (OECD),%,12.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,950,Police (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,960,National Civil Service (OECD),%,27.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,970,Courts and Judicial System (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,980,News Media (OECD),%,22.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,990,International Organisations (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,HR,Croatia,995,Armed Forces (OECD),%,59.0
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,910,National Government (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,920,Local Government (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,930,National Parliament (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,940,Political Parties (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,950,Police (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,960,National Civil Service (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,970,Courts and Judicial System (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,980,News Media (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2025,2025,CZ,Czechia,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,910,National Government (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,920,Local Government (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,930,National Parliament (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,940,Political Parties (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,950,Police (OECD),%,73.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,960,National Civil Service (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,970,Courts and Judicial System (OECD),%,77.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,990,International Organisations (OECD),%,60.0
+TRA312C01,Percentage of People,2025,2025,DK,Denmark,995,Armed Forces (OECD),%,70.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,910,National Government (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,920,Local Government (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,930,National Parliament (OECD),%,31.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,940,Political Parties (OECD),%,18.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,950,Police (OECD),%,70.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,960,National Civil Service (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,970,Courts and Judicial System (OECD),%,61.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,980,News Media (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,990,International Organisations (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,EE,Estonia,995,Armed Forces (OECD),%,71.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,910,National Government (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,920,Local Government (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,930,National Parliament (OECD),%,54.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,940,Political Parties (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,950,Police (OECD),%,89.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,960,National Civil Service (OECD),%,69.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,970,Courts and Judicial System (OECD),%,75.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,980,News Media (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,990,International Organisations (OECD),%,59.0
+TRA312C01,Percentage of People,2025,2025,FI,Finland,995,Armed Forces (OECD),%,91.0
+TRA312C01,Percentage of People,2025,2025,FR,France,910,National Government (OECD),%,22.0
+TRA312C01,Percentage of People,2025,2025,FR,France,920,Local Government (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,FR,France,930,National Parliament (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,FR,France,940,Political Parties (OECD),%,15.0
+TRA312C01,Percentage of People,2025,2025,FR,France,950,Police (OECD),%,65.0
+TRA312C01,Percentage of People,2025,2025,FR,France,960,National Civil Service (OECD),%,51.0
+TRA312C01,Percentage of People,2025,2025,FR,France,970,Courts and Judicial System (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,FR,France,980,News Media (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,FR,France,990,International Organisations (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,FR,France,995,Armed Forces (OECD),%,69.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,910,National Government (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,920,Local Government (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,930,National Parliament (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,940,Political Parties (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,950,Police (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,960,National Civil Service (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,970,Courts and Judicial System (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,980,News Media (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,990,International Organisations (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,DE,Germany,995,Armed Forces (OECD),%,56.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,910,National Government (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,920,Local Government (OECD),%,28.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,930,National Parliament (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,940,Political Parties (OECD),%,15.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,950,Police (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,960,National Civil Service (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,970,Courts and Judicial System (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,980,News Media (OECD),%,19.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,990,International Organisations (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,GR,Greece,995,Armed Forces (OECD),%,63.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,910,National Government (OECD),%,59.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,920,Local Government (OECD),%,56.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,930,National Parliament (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,940,Political Parties (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,950,Police (OECD),%,75.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,960,National Civil Service (OECD),%,68.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,970,Courts and Judicial System (OECD),%,65.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,980,News Media (OECD),%,51.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,990,International Organisations (OECD),%,56.0
+TRA312C01,Percentage of People,2025,2025,IS,Iceland,995,Armed Forces (OECD),%,
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,910,National Government (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,920,Local Government (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,930,National Parliament (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,940,Political Parties (OECD),%,27.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,950,Police (OECD),%,70.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,960,National Civil Service (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,970,Courts and Judicial System (OECD),%,68.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,980,News Media (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,990,International Organisations (OECD),%,57.0
+TRA312C01,Percentage of People,2025,2025,IE,Ireland,995,Armed Forces (OECD),%,69.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,910,National Government (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,920,Local Government (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,930,National Parliament (OECD),%,32.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,940,Political Parties (OECD),%,22.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,950,Police (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,960,National Civil Service (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,970,Courts and Judicial System (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,980,News Media (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,990,International Organisations (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,IT,Italy,995,Armed Forces (OECD),%,67.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,910,National Government (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,920,Local Government (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,930,National Parliament (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,940,Political Parties (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,950,Police (OECD),%,56.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,960,National Civil Service (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,970,Courts and Judicial System (OECD),%,59.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,980,News Media (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,990,International Organisations (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,JP,Japan,995,Armed Forces (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,910,National Government (OECD),%,51.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,920,Local Government (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,930,National Parliament (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,940,Political Parties (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,950,Police (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,960,National Civil Service (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,970,Courts and Judicial System (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,980,News Media (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,990,International Organisations (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,KR,Korea (the Republic of)South Korea,995,Armed Forces (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,910,National Government (OECD),%,27.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,920,Local Government (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,930,National Parliament (OECD),%,23.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,940,Political Parties (OECD),%,12.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,950,Police (OECD),%,53.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,960,National Civil Service (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,970,Courts and Judicial System (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,990,International Organisations (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,LV,Latvia,995,Armed Forces (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,910,National Government (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,920,Local Government (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,930,National Parliament (OECD),%,27.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,940,Political Parties (OECD),%,19.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,950,Police (OECD),%,68.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,960,National Civil Service (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,970,Courts and Judicial System (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,980,News Media (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,990,International Organisations (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,LT,Lithuania,995,Armed Forces (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,910,National Government (OECD),%,55.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,920,Local Government (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,930,National Parliament (OECD),%,55.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,940,Political Parties (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,950,Police (OECD),%,77.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,960,National Civil Service (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,970,Courts and Judicial System (OECD),%,73.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,990,International Organisations (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,LU,Luxembourg,995,Armed Forces (OECD),%,66.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,910,National Government (OECD),%,53.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,920,Local Government (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,930,National Parliament (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,940,Political Parties (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,950,Police (OECD),%,61.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,960,National Civil Service (OECD),%,56.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,970,Courts and Judicial System (OECD),%,51.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,980,News Media (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,990,International Organisations (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,MX,Mexico,995,Armed Forces (OECD),%,76.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),910,National Government (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),920,Local Government (OECD),%,54.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),930,National Parliament (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),940,Political Parties (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),950,Police (OECD),%,73.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),960,National Civil Service (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),970,Courts and Judicial System (OECD),%,70.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),980,News Media (OECD),%,53.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),990,International Organisations (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,NL,Netherlands (the),995,Armed Forces (OECD),%,75.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,910,National Government (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,920,Local Government (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,930,National Parliament (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,940,Political Parties (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,950,Police (OECD),%,71.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,960,National Civil Service (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,970,Courts and Judicial System (OECD),%,64.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,980,News Media (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,990,International Organisations (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,NZ,New Zealand,995,Armed Forces (OECD),%,73.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,910,National Government (OECD),%,57.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,920,Local Government (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,930,National Parliament (OECD),%,58.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,940,Political Parties (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,950,Police (OECD),%,78.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,960,National Civil Service (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,970,Courts and Judicial System (OECD),%,76.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,980,News Media (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,NO,Norway,990,International Organisations (OECD),%,
+TRA312C01,Percentage of People,2025,2025,NO,Norway,995,Armed Forces (OECD),%,77.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,910,National Government (OECD),%,40.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,920,Local Government (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,930,National Parliament (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,940,Political Parties (OECD),%,26.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,950,Police (OECD),%,63.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,960,National Civil Service (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,970,Courts and Judicial System (OECD),%,54.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,980,News Media (OECD),%,40.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,990,International Organisations (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,XX1,OECD average,995,Armed Forces (OECD),%,66.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,910,National Government (OECD),%,20.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,920,Local Government (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,930,National Parliament (OECD),%,15.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,940,Political Parties (OECD),%,17.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,950,Police (OECD),%,32.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,960,National Civil Service (OECD),%,19.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,970,Courts and Judicial System (OECD),%,23.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,990,International Organisations (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,PE,Peru,995,Armed Forces (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,910,National Government (OECD),%,32.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,920,Local Government (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,930,National Parliament (OECD),%,28.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,940,Political Parties (OECD),%,20.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,950,Police (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,960,National Civil Service (OECD),%,34.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,970,Courts and Judicial System (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,990,International Organisations (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,PL,Poland,995,Armed Forces (OECD),%,65.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,910,National Government (OECD),%,40.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,920,Local Government (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,930,National Parliament (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,940,Political Parties (OECD),%,26.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,950,Police (OECD),%,68.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,960,National Civil Service (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,970,Courts and Judicial System (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,980,News Media (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,990,International Organisations (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,PT,Portugal,995,Armed Forces (OECD),%,71.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,910,National Government (OECD),%,30.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,920,Local Government (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,930,National Parliament (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,940,Political Parties (OECD),%,18.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,950,Police (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,960,National Civil Service (OECD),%,29.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,970,Courts and Judicial System (OECD),%,36.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,980,News Media (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,990,International Organisations (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,RO,Romania,995,Armed Forces (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,910,National Government (OECD),%,23.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,920,Local Government (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,930,National Parliament (OECD),%,21.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,940,Political Parties (OECD),%,14.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,950,Police (OECD),%,40.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,960,National Civil Service (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,970,Courts and Judicial System (OECD),%,32.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,980,News Media (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,990,International Organisations (OECD),%,35.0
+TRA312C01,Percentage of People,2025,2025,SK,Slovakia,995,Armed Forces (OECD),%,47.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,910,National Government (OECD),%,28.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,920,Local Government (OECD),%,26.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,930,National Parliament (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,940,Political Parties (OECD),%,14.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,950,Police (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,960,National Civil Service (OECD),%,30.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,970,Courts and Judicial System (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,980,News Media (OECD),%,25.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,990,International Organisations (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,SI,Slovenia,995,Armed Forces (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,910,National Government (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,920,Local Government (OECD),%,48.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,930,National Parliament (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,940,Political Parties (OECD),%,21.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,950,Police (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,960,National Civil Service (OECD),%,45.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,970,Courts and Judicial System (OECD),%,50.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,990,International Organisations (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,ES,Spain,995,Armed Forces (OECD),%,66.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,910,National Government (OECD),%,42.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,920,Local Government (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,930,National Parliament (OECD),%,44.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,940,Political Parties (OECD),%,31.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,950,Police (OECD),%,69.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,960,National Civil Service (OECD),%,41.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,970,Courts and Judicial System (OECD),%,65.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,980,News Media (OECD),%,46.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,990,International Organisations (OECD),%,43.0
+TRA312C01,Percentage of People,2025,2025,SE,Sweden,995,Armed Forces (OECD),%,71.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,910,National Government (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,920,Local Government (OECD),%,68.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,930,National Parliament (OECD),%,61.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,940,Political Parties (OECD),%,49.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,950,Police (OECD),%,77.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,960,National Civil Service (OECD),%,62.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,970,Courts and Judicial System (OECD),%,72.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,980,News Media (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,990,International Organisations (OECD),%,55.0
+TRA312C01,Percentage of People,2025,2025,CH,Switzerland,995,Armed Forces (OECD),%,69.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),910,National Government (OECD),%,33.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),920,Local Government (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),930,National Parliament (OECD),%,30.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),940,Political Parties (OECD),%,24.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),950,Police (OECD),%,52.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),960,National Civil Service (OECD),%,39.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),970,Courts and Judicial System (OECD),%,55.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),980,News Media (OECD),%,37.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),990,International Organisations (OECD),%,38.0
+TRA312C01,Percentage of People,2025,2025,GB,United Kingdom of Great Britain and Northern Ireland (the),995,Armed Forces (OECD),%,71.0

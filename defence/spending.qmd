@@ -1,0 +1,22 @@
+---
+title: "Defence spending"
+description: "Government spending on defence, per person and as a share of all spending, compared with the EU."
+---
+
+Ireland spends less on defence per person than any other EU country. In 2024, government spending on defence came to €157 per person, compared with €592 across the EU.
+
+{{< chart defence-spending-eu >}}
+
+Measured against the size of the economy, spending was 0.1% of GDP, compared with 1.5% across the EU. Ireland's GDP is strongly affected by the activities of large multinational companies, as explained on the [Size of the economy](../economy/size.qmd) page, so per person figures and shares of government spending give a fairer comparison.
+
+## Share of government spending
+
+Defence made up 0.7% of all government spending in Ireland in 2024, compared with 3.0% across the EU. In 1995 the share in Ireland was 2.1%.
+
+{{< chart defence-spending-share >}}
+
+## Spending over time
+
+In cash terms, defence spending was €841 million in 2024, compared with €444 million in 1995. These figures are not adjusted for inflation.
+
+{{< chart defence-spending-trend >}}

@@ -3585,6 +3585,150 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "defence-cyber-incident-types",
+  "topic": "defence",
+  "title": "Types of cyber security incident",
+  "subtitle": "Share of businesses that had each type of ICT security incident, Ireland and the EU, 2024.",
+  "kind": "chart",
+  "page": "/charts/defence-cyber-incident-types.html",
+  "csv": "/charts/defence-cyber-incident-types.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Security related incidents and consequences (enterprises) (isoc_cisce_ic)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cisce_ic/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "cyber_enterprises",
+    "updated": "2026-06-15",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, 1.2% of businesses in Ireland had ICT services go down because of an outside attack such as ransomware, compared with 3.4% across the EU. Hardware or software failures were far more common.",
+  "listed": true,
+  "updated": "2026-06-15",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "defence-cyber-incidents-eu",
+  "topic": "defence",
+  "title": "Cyber security incidents at businesses",
+  "subtitle": "Share of businesses that had an ICT security incident, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/defence-cyber-incidents-eu.html",
+  "csv": "/charts/defence-cyber-incidents-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Security related incidents and consequences (enterprises) (isoc_cisce_ic)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_cisce_ic/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "cyber_enterprises",
+    "updated": "2026-06-15",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, 13% of businesses in Ireland had an ICT security incident, compared with 22% across the EU. Ireland's share was the 7th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-06-15",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "defence-spending-eu",
+  "topic": "defence",
+  "title": "Defence spending across the EU",
+  "subtitle": "Government spending on defence per person, in euro, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/defence-spending-eu.html",
+  "csv": "/charts/defence-spending-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "General government expenditure by function (COFOG) (gov_10a_exp)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "gov_defence",
+    "updated": "2026-10-21",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Government spending on defence in Ireland was €157 per person in 2024, compared with €592 across the EU. Ireland's spending was the lowest of the 27 EU countries. It came to 0.1% of GDP, compared with 1.5% across the EU.",
+  "listed": true,
+  "updated": "2026-10-21",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "defence-spending-share",
+  "topic": "defence",
+  "title": "Defence as a share of government spending",
+  "subtitle": "Defence as a share of total government spending, Ireland and the EU, 1995 to 2024.",
+  "kind": "chart",
+  "page": "/charts/defence-spending-share.html",
+  "csv": "/charts/defence-spending-share.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "General government expenditure by function (COFOG) (gov_10a_exp)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "gov_defence",
+    "updated": "2026-10-21",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Defence made up 0.7% of government spending in Ireland in 2024, compared with 3.0% across the EU. In 1995 it was 2.1% in Ireland.",
+  "listed": true,
+  "updated": "2026-10-21",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "defence-spending-trend",
+  "topic": "defence",
+  "title": "Defence spending in Ireland",
+  "subtitle": "Government spending on defence in Ireland, in millions of euro at current prices, 1995 to 2024.",
+  "kind": "chart",
+  "page": "/charts/defence-spending-trend.html",
+  "csv": "/charts/defence-spending-trend.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "General government expenditure by function (COFOG) (gov_10a_exp)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "gov_defence",
+    "updated": "2026-10-21",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "The Irish government spent €841 million on defence in 2024, compared with €444 million in 1995. The highest in the period was €1,108 million in 2023.",
+  "listed": true,
+  "updated": "2026-10-21",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "defence-trust-armed-forces",
+  "topic": "defence",
+  "title": "Trust in the armed forces",
+  "subtitle": "Share of people who trust their country's armed forces, OECD Trust Survey countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/defence-trust-armed-forces.html",
+  "csv": "/charts/defence-trust-armed-forces.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "OECD Trust Survey, trust in institutions across countries (TRA312)",
+    "url": "https://data.cso.ie/table/TRA312",
+    "licence": "CC BY 4.0",
+    "code": "TRA312",
+    "updated": "2026-09-15",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 69% of people in Ireland said they trust the armed forces, compared with an OECD average of 66%. Ireland ranked 14th of the 36 countries with figures.",
+  "listed": true,
+  "updated": "2026-09-15",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",
