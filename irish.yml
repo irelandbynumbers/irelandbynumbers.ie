@@ -51,6 +51,9 @@ topics:
   elections:
     title: "Toghcháin agus muinín"
     summary: "Líon na vótálaithe i dtoghcháin, comparáid leis an AE, agus muinín as institiúidí poiblí."
+  childcare:
+    title: "Cúram leanaí agus saoire teaghlaigh"
+    summary: "Úsáid cúraim leanaí fhoirmiúil, an costas do thuismitheoirí, an bhearna idir saoire íoctha agus áit chúraim leanaí, agus saoire mháithreachais, saoire atharthachta agus saoire tuismitheora."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

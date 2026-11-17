@@ -1,0 +1,22 @@
+---
+title: "Family leave"
+description: "Maternity, adoptive, paternity and parental leave in Ireland, Northern Ireland and the EU."
+---
+
+Employees in Ireland are entitled to 26 weeks of paid maternity leave and 16 further weeks unpaid. The State pays maternity benefit at a flat rate of €299 a week from 2026, and some employers top this up. In Northern Ireland, maternity leave is 52 weeks, of which 39 are paid, with the first six weeks at 90% of earnings.
+
+{{< chart childcare-leave-ireland-ni >}}
+
+Adoptive leave in Ireland is 24 paid weeks and 16 unpaid. In Northern Ireland, adoption leave follows the same pattern as maternity leave and also covers intended parents through surrogacy who apply for a parental order. Paternity leave is two weeks in Ireland and one or two weeks in Northern Ireland.
+
+## Compared with the EU
+
+No family leave in Ireland is paid at 66% or more of earnings, the level Eurydice and the International Network on Leave Policies and Research use to define well-paid leave. Ireland is the only EU country with none.
+
+{{< chart childcare-well-paid-leave-eu >}}
+
+## Fathers taking paternity benefit
+
+In 2023, 55% of eligible fathers in employment took paternity benefit, compared with 58% in 2017.
+
+{{< chart childcare-paternity-uptake >}}

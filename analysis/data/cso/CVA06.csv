@@ -1,0 +1,361 @@
+STATISTIC,Statistic Label,TLIST(A1),Year Reported,C02076V02508,Age of Victim when Incident Occurred,C02199V02655,Sex of Victim,C03623V04363,Time between Date Occurred and Date Reported,UNIT,VALUE
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,574
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,-,Both sexes,51,1 year or more,Number,741
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,-,Both sexes,-,All time periods,Number,1315
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,1,Male,10,Less than 1 year,Number,88
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,1,Male,51,1 year or more,Number,256
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,1,Male,-,All time periods,Number,344
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,2,Female,10,Less than 1 year,Number,486
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,2,Female,51,1 year or more,Number,485
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,344,Under 18 years,2,Female,-,All time periods,Number,971
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,468
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,70
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,538
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,39
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,1,Male,51,1 year or more,Number,13
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,1,Male,-,All time periods,Number,52
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,429
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,2,Female,51,1 year or more,Number,57
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,3502,18 - 29 years,2,Female,-,All time periods,Number,486
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,311
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,-,Both sexes,51,1 year or more,Number,55
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,-,Both sexes,-,All time periods,Number,366
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,1,Male,10,Less than 1 year,Number,36
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,1,Male,51,1 year or more,Number,6
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,1,Male,-,All time periods,Number,42
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,2,Female,10,Less than 1 year,Number,275
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,2,Female,51,1 year or more,Number,49
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,439,30 years and over,2,Female,-,All time periods,Number,324
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,-,Both sexes,10,Less than 1 year,Number,1353
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,-,Both sexes,51,1 year or more,Number,866
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,-,Both sexes,-,All time periods,Number,2219
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,1,Male,10,Less than 1 year,Number,163
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,1,Male,51,1 year or more,Number,275
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,1,Male,-,All time periods,Number,438
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,2,Female,10,Less than 1 year,Number,1190
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,2,Female,51,1 year or more,Number,591
+CVA06C01,Victims of Recorded Crime (Sexual offences),2016,2016,-,All ages,2,Female,-,All time periods,Number,1781
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,617
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,-,Both sexes,51,1 year or more,Number,814
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,-,Both sexes,-,All time periods,Number,1431
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,1,Male,10,Less than 1 year,Number,104
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,1,Male,51,1 year or more,Number,280
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,1,Male,-,All time periods,Number,384
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,2,Female,10,Less than 1 year,Number,513
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,2,Female,51,1 year or more,Number,534
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,344,Under 18 years,2,Female,-,All time periods,Number,1047
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,570
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,81
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,651
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,29
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,1,Male,51,1 year or more,Number,8
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,1,Male,-,All time periods,Number,37
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,541
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,2,Female,51,1 year or more,Number,73
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,3502,18 - 29 years,2,Female,-,All time periods,Number,614
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,379
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,-,Both sexes,51,1 year or more,Number,70
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,-,Both sexes,-,All time periods,Number,449
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,1,Male,10,Less than 1 year,Number,44
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,1,Male,51,1 year or more,Number,15
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,1,Male,-,All time periods,Number,59
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,2,Female,10,Less than 1 year,Number,335
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,2,Female,51,1 year or more,Number,55
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,439,30 years and over,2,Female,-,All time periods,Number,390
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,-,Both sexes,10,Less than 1 year,Number,1566
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,-,Both sexes,51,1 year or more,Number,965
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,-,Both sexes,-,All time periods,Number,2531
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,1,Male,10,Less than 1 year,Number,177
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,1,Male,51,1 year or more,Number,303
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,1,Male,-,All time periods,Number,480
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,2,Female,10,Less than 1 year,Number,1389
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,2,Female,51,1 year or more,Number,662
+CVA06C01,Victims of Recorded Crime (Sexual offences),2017,2017,-,All ages,2,Female,-,All time periods,Number,2051
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,680
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,-,Both sexes,51,1 year or more,Number,874
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,-,Both sexes,-,All time periods,Number,1554
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,1,Male,10,Less than 1 year,Number,112
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,1,Male,51,1 year or more,Number,292
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,1,Male,-,All time periods,Number,404
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,2,Female,10,Less than 1 year,Number,568
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,2,Female,51,1 year or more,Number,582
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,344,Under 18 years,2,Female,-,All time periods,Number,1150
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,607
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,124
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,731
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,41
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,1,Male,51,1 year or more,Number,26
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,1,Male,-,All time periods,Number,67
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,566
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,2,Female,51,1 year or more,Number,98
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,3502,18 - 29 years,2,Female,-,All time periods,Number,664
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,464
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,-,Both sexes,51,1 year or more,Number,57
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,-,Both sexes,-,All time periods,Number,521
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,1,Male,10,Less than 1 year,Number,38
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,1,Male,51,1 year or more,Number,7
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,1,Male,-,All time periods,Number,45
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,2,Female,10,Less than 1 year,Number,426
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,2,Female,51,1 year or more,Number,50
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,439,30 years and over,2,Female,-,All time periods,Number,476
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,-,Both sexes,10,Less than 1 year,Number,1751
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,-,Both sexes,51,1 year or more,Number,1055
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,-,Both sexes,-,All time periods,Number,2806
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,1,Male,10,Less than 1 year,Number,191
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,1,Male,51,1 year or more,Number,325
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,1,Male,-,All time periods,Number,516
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,2,Female,10,Less than 1 year,Number,1560
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,2,Female,51,1 year or more,Number,730
+CVA06C01,Victims of Recorded Crime (Sexual offences),2018,2018,-,All ages,2,Female,-,All time periods,Number,2290
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,692
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,-,Both sexes,51,1 year or more,Number,920
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,-,Both sexes,-,All time periods,Number,1612
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,1,Male,10,Less than 1 year,Number,90
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,1,Male,51,1 year or more,Number,320
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,1,Male,-,All time periods,Number,410
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,2,Female,10,Less than 1 year,Number,602
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,2,Female,51,1 year or more,Number,600
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,344,Under 18 years,2,Female,-,All time periods,Number,1202
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,601
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,111
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,712
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,56
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,1,Male,51,1 year or more,Number,19
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,1,Male,-,All time periods,Number,75
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,545
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,2,Female,51,1 year or more,Number,92
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,3502,18 - 29 years,2,Female,-,All time periods,Number,637
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,450
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,-,Both sexes,51,1 year or more,Number,81
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,-,Both sexes,-,All time periods,Number,531
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,1,Male,10,Less than 1 year,Number,49
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,1,Male,51,1 year or more,Number,15
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,1,Male,-,All time periods,Number,64
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,2,Female,10,Less than 1 year,Number,401
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,2,Female,51,1 year or more,Number,66
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,439,30 years and over,2,Female,-,All time periods,Number,467
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,-,Both sexes,10,Less than 1 year,Number,1743
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,-,Both sexes,51,1 year or more,Number,1112
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,-,Both sexes,-,All time periods,Number,2855
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,1,Male,10,Less than 1 year,Number,195
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,1,Male,51,1 year or more,Number,354
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,1,Male,-,All time periods,Number,549
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,2,Female,10,Less than 1 year,Number,1548
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,2,Female,51,1 year or more,Number,758
+CVA06C01,Victims of Recorded Crime (Sexual offences),2019,2019,-,All ages,2,Female,-,All time periods,Number,2306
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,636
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,-,Both sexes,51,1 year or more,Number,1014
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,-,Both sexes,-,All time periods,Number,1650
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,1,Male,10,Less than 1 year,Number,96
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,1,Male,51,1 year or more,Number,387
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,1,Male,-,All time periods,Number,483
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,2,Female,10,Less than 1 year,Number,540
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,2,Female,51,1 year or more,Number,627
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,344,Under 18 years,2,Female,-,All time periods,Number,1167
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,434
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,126
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,560
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,37
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,1,Male,51,1 year or more,Number,13
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,1,Male,-,All time periods,Number,50
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,397
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,2,Female,51,1 year or more,Number,113
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,3502,18 - 29 years,2,Female,-,All time periods,Number,510
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,353
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,-,Both sexes,51,1 year or more,Number,62
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,-,Both sexes,-,All time periods,Number,415
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,1,Male,10,Less than 1 year,Number,26
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,1,Male,51,1 year or more,Number,7
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,1,Male,-,All time periods,Number,33
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,2,Female,10,Less than 1 year,Number,327
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,2,Female,51,1 year or more,Number,55
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,439,30 years and over,2,Female,-,All time periods,Number,382
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,-,Both sexes,10,Less than 1 year,Number,1423
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,-,Both sexes,51,1 year or more,Number,1202
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,-,Both sexes,-,All time periods,Number,2625
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,1,Male,10,Less than 1 year,Number,159
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,1,Male,51,1 year or more,Number,407
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,1,Male,-,All time periods,Number,566
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,2,Female,10,Less than 1 year,Number,1264
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,2,Female,51,1 year or more,Number,795
+CVA06C01,Victims of Recorded Crime (Sexual offences),2020,2020,-,All ages,2,Female,-,All time periods,Number,2059
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,653
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,-,Both sexes,51,1 year or more,Number,1058
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,-,Both sexes,-,All time periods,Number,1711
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,1,Male,10,Less than 1 year,Number,80
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,1,Male,51,1 year or more,Number,379
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,1,Male,-,All time periods,Number,459
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,2,Female,10,Less than 1 year,Number,573
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,2,Female,51,1 year or more,Number,679
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,344,Under 18 years,2,Female,-,All time periods,Number,1252
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,620
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,156
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,776
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,47
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,1,Male,51,1 year or more,Number,16
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,1,Male,-,All time periods,Number,63
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,573
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,2,Female,51,1 year or more,Number,140
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,3502,18 - 29 years,2,Female,-,All time periods,Number,713
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,401
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,-,Both sexes,51,1 year or more,Number,104
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,-,Both sexes,-,All time periods,Number,505
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,1,Male,10,Less than 1 year,Number,38
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,1,Male,51,1 year or more,Number,10
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,1,Male,-,All time periods,Number,48
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,2,Female,10,Less than 1 year,Number,363
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,2,Female,51,1 year or more,Number,94
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,439,30 years and over,2,Female,-,All time periods,Number,457
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,-,Both sexes,10,Less than 1 year,Number,1674
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,-,Both sexes,51,1 year or more,Number,1318
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,-,Both sexes,-,All time periods,Number,2992
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,1,Male,10,Less than 1 year,Number,165
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,1,Male,51,1 year or more,Number,405
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,1,Male,-,All time periods,Number,570
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,2,Female,10,Less than 1 year,Number,1509
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,2,Female,51,1 year or more,Number,913
+CVA06C01,Victims of Recorded Crime (Sexual offences),2021,2021,-,All ages,2,Female,-,All time periods,Number,2422
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,743
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,-,Both sexes,51,1 year or more,Number,930
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,-,Both sexes,-,All time periods,Number,1673
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,1,Male,10,Less than 1 year,Number,98
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,1,Male,51,1 year or more,Number,316
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,1,Male,-,All time periods,Number,414
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,2,Female,10,Less than 1 year,Number,645
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,2,Female,51,1 year or more,Number,614
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,344,Under 18 years,2,Female,-,All time periods,Number,1259
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,784
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,134
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,918
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,70
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,1,Male,51,1 year or more,Number,16
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,1,Male,-,All time periods,Number,86
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,714
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,2,Female,51,1 year or more,Number,118
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,3502,18 - 29 years,2,Female,-,All time periods,Number,832
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,513
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,-,Both sexes,51,1 year or more,Number,94
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,-,Both sexes,-,All time periods,Number,607
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,1,Male,10,Less than 1 year,Number,48
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,1,Male,51,1 year or more,Number,10
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,1,Male,-,All time periods,Number,58
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,2,Female,10,Less than 1 year,Number,465
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,2,Female,51,1 year or more,Number,84
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,439,30 years and over,2,Female,-,All time periods,Number,549
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,-,Both sexes,10,Less than 1 year,Number,2040
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,-,Both sexes,51,1 year or more,Number,1158
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,-,Both sexes,-,All time periods,Number,3198
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,1,Male,10,Less than 1 year,Number,216
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,1,Male,51,1 year or more,Number,342
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,1,Male,-,All time periods,Number,558
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,2,Female,10,Less than 1 year,Number,1824
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,2,Female,51,1 year or more,Number,816
+CVA06C01,Victims of Recorded Crime (Sexual offences),2022,2022,-,All ages,2,Female,-,All time periods,Number,2640
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,680
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,-,Both sexes,51,1 year or more,Number,812
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,-,Both sexes,-,All time periods,Number,1492
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,1,Male,10,Less than 1 year,Number,104
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,1,Male,51,1 year or more,Number,311
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,1,Male,-,All time periods,Number,415
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,2,Female,10,Less than 1 year,Number,576
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,2,Female,51,1 year or more,Number,501
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,344,Under 18 years,2,Female,-,All time periods,Number,1077
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,696
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,131
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,827
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,58
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,1,Male,51,1 year or more,Number,16
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,1,Male,-,All time periods,Number,74
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,638
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,2,Female,51,1 year or more,Number,115
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,3502,18 - 29 years,2,Female,-,All time periods,Number,753
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,546
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,-,Both sexes,51,1 year or more,Number,106
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,-,Both sexes,-,All time periods,Number,652
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,1,Male,10,Less than 1 year,Number,73
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,1,Male,51,1 year or more,Number,11
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,1,Male,-,All time periods,Number,84
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,2,Female,10,Less than 1 year,Number,473
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,2,Female,51,1 year or more,Number,95
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,439,30 years and over,2,Female,-,All time periods,Number,568
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,-,Both sexes,10,Less than 1 year,Number,1922
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,-,Both sexes,51,1 year or more,Number,1049
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,-,Both sexes,-,All time periods,Number,2971
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,1,Male,10,Less than 1 year,Number,235
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,1,Male,51,1 year or more,Number,338
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,1,Male,-,All time periods,Number,573
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,2,Female,10,Less than 1 year,Number,1687
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,2,Female,51,1 year or more,Number,711
+CVA06C01,Victims of Recorded Crime (Sexual offences),2023,2023,-,All ages,2,Female,-,All time periods,Number,2398
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,575
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,-,Both sexes,51,1 year or more,Number,1141
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,-,Both sexes,-,All time periods,Number,1716
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,1,Male,10,Less than 1 year,Number,90
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,1,Male,51,1 year or more,Number,635
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,1,Male,-,All time periods,Number,725
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,2,Female,10,Less than 1 year,Number,485
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,2,Female,51,1 year or more,Number,506
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,344,Under 18 years,2,Female,-,All time periods,Number,991
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,737
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,148
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,885
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,73
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,1,Male,51,1 year or more,Number,20
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,1,Male,-,All time periods,Number,93
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,664
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,2,Female,51,1 year or more,Number,128
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,3502,18 - 29 years,2,Female,-,All time periods,Number,792
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,617
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,-,Both sexes,51,1 year or more,Number,133
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,-,Both sexes,-,All time periods,Number,750
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,1,Male,10,Less than 1 year,Number,65
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,1,Male,51,1 year or more,Number,15
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,1,Male,-,All time periods,Number,80
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,2,Female,10,Less than 1 year,Number,552
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,2,Female,51,1 year or more,Number,118
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,439,30 years and over,2,Female,-,All time periods,Number,670
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,-,Both sexes,10,Less than 1 year,Number,1929
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,-,Both sexes,51,1 year or more,Number,1422
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,-,Both sexes,-,All time periods,Number,3351
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,1,Male,10,Less than 1 year,Number,228
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,1,Male,51,1 year or more,Number,670
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,1,Male,-,All time periods,Number,898
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,2,Female,10,Less than 1 year,Number,1701
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,2,Female,51,1 year or more,Number,752
+CVA06C01,Victims of Recorded Crime (Sexual offences),2024,2024,-,All ages,2,Female,-,All time periods,Number,2453
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,-,Both sexes,10,Less than 1 year,Number,560
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,-,Both sexes,51,1 year or more,Number,817
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,-,Both sexes,-,All time periods,Number,1377
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,1,Male,10,Less than 1 year,Number,91
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,1,Male,51,1 year or more,Number,337
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,1,Male,-,All time periods,Number,428
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,2,Female,10,Less than 1 year,Number,469
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,2,Female,51,1 year or more,Number,480
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,344,Under 18 years,2,Female,-,All time periods,Number,949
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,-,Both sexes,10,Less than 1 year,Number,713
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,-,Both sexes,51,1 year or more,Number,140
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,-,Both sexes,-,All time periods,Number,853
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,1,Male,10,Less than 1 year,Number,88
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,1,Male,51,1 year or more,Number,13
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,1,Male,-,All time periods,Number,101
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,2,Female,10,Less than 1 year,Number,625
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,2,Female,51,1 year or more,Number,127
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,3502,18 - 29 years,2,Female,-,All time periods,Number,752
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,-,Both sexes,10,Less than 1 year,Number,639
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,-,Both sexes,51,1 year or more,Number,122
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,-,Both sexes,-,All time periods,Number,761
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,1,Male,10,Less than 1 year,Number,71
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,1,Male,51,1 year or more,Number,9
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,1,Male,-,All time periods,Number,80
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,2,Female,10,Less than 1 year,Number,568
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,2,Female,51,1 year or more,Number,113
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,439,30 years and over,2,Female,-,All time periods,Number,681
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,-,Both sexes,10,Less than 1 year,Number,1912
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,-,Both sexes,51,1 year or more,Number,1079
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,-,Both sexes,-,All time periods,Number,2991
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,1,Male,10,Less than 1 year,Number,250
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,1,Male,51,1 year or more,Number,359
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,1,Male,-,All time periods,Number,609
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,2,Female,10,Less than 1 year,Number,1662
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,2,Female,51,1 year or more,Number,720
+CVA06C01,Victims of Recorded Crime (Sexual offences),2025,2025,-,All ages,2,Female,-,All time periods,Number,2382

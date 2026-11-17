@@ -1,0 +1,316 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02199V02655,Sex,C02076V03371,Age Group,UNIT,VALUE
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,-,All ages,%,13
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,350,18 - 24 years,%,14
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,415,25 -34 years,%,19
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,465,35 - 44 years,%,15
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,500,45 - 54 years,%,13
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,535,55 - 64 years,%,11
+SVS03C01,Sexual intercourse - Yes,2022,2022,-,Both sexes,575,65 years and over,%,6
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,-,All ages,%,5
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,350,18 - 24 years,%,5
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,415,25 -34 years,%,8
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,465,35 - 44 years,%,4
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,500,45 - 54 years,%,5
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,535,55 - 64 years,%,5
+SVS03C01,Sexual intercourse - Yes,2022,2022,1,Male,575,65 years and over,%,1
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,-,All ages,%,21
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,350,18 - 24 years,%,25
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,415,25 -34 years,%,31
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,465,35 - 44 years,%,24
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,500,45 - 54 years,%,21
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,535,55 - 64 years,%,17
+SVS03C01,Sexual intercourse - Yes,2022,2022,2,Female,575,65 years and over,%,10
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,-,All ages,%,80
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,350,18 - 24 years,%,80
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,415,25 -34 years,%,73
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,465,35 - 44 years,%,77
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,500,45 - 54 years,%,79
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,535,55 - 64 years,%,85
+SVS03C02,Sexual intercourse - No,2022,2022,-,Both sexes,575,65 years and over,%,85
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,-,All ages,%,88
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,350,18 - 24 years,%,90
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,415,25 -34 years,%,86
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,465,35 - 44 years,%,84
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,500,45 - 54 years,%,87
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,535,55 - 64 years,%,91
+SVS03C02,Sexual intercourse - No,2022,2022,1,Male,575,65 years and over,%,90
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,-,All ages,%,72
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,350,18 - 24 years,%,70
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,415,25 -34 years,%,60
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,465,35 - 44 years,%,70
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,500,45 - 54 years,%,71
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,535,55 - 64 years,%,79
+SVS03C02,Sexual intercourse - No,2022,2022,2,Female,575,65 years and over,%,81
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,-,All ages,%,7
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,350,18 - 24 years,%,6
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,415,25 -34 years,%,8
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,465,35 - 44 years,%,9
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,500,45 - 54 years,%,8
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,535,55 - 64 years,%,4
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,-,Both sexes,575,65 years and over,%,9
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,-,All ages,%,8
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,350,18 - 24 years,%,6
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,415,25 -34 years,%,7
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,465,35 - 44 years,%,12
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,500,45 - 54 years,%,8
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,535,55 - 64 years,%,4
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,1,Male,575,65 years and over,%,9
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,-,All ages,%,7
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,350,18 - 24 years,%,6
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,415,25 -34 years,%,8
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,465,35 - 44 years,%,5
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,500,45 - 54 years,%,8
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,535,55 - 64 years,%,5
+SVS03C03,Sexual intercourse - Not Stated,2022,2022,2,Female,575,65 years and over,%,8
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,-,All ages,%,15
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,350,18 - 24 years,%,16
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,415,25 -34 years,%,21
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,465,35 - 44 years,%,17
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,500,45 - 54 years,%,16
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,535,55 - 64 years,%,14
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,-,Both sexes,575,65 years and over,%,8
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,-,All ages,%,7
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,350,18 - 24 years,%,8
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,415,25 -34 years,%,11
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,465,35 - 44 years,%,6
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,500,45 - 54 years,%,6
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,535,55 - 64 years,%,8
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,1,Male,575,65 years and over,%,2
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,-,All ages,%,23
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,350,18 - 24 years,%,25
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,415,25 -34 years,%,31
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,465,35 - 44 years,%,27
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,500,45 - 54 years,%,25
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,535,55 - 64 years,%,21
+SVS03C04,Attempted sexual intercourse - Yes,2022,2022,2,Female,575,65 years and over,%,13
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,-,All ages,%,77
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,350,18 - 24 years,%,77
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,415,25 -34 years,%,71
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,465,35 - 44 years,%,73
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,500,45 - 54 years,%,76
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,535,55 - 64 years,%,81
+SVS03C05,Attempted sexual intercourse - No,2022,2022,-,Both sexes,575,65 years and over,%,83
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,-,All ages,%,85
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,350,18 - 24 years,%,86
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,415,25 -34 years,%,82
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,465,35 - 44 years,%,81
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,500,45 - 54 years,%,85
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,535,55 - 64 years,%,88
+SVS03C05,Attempted sexual intercourse - No,2022,2022,1,Male,575,65 years and over,%,88
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,-,All ages,%,69
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,350,18 - 24 years,%,68
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,415,25 -34 years,%,61
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,465,35 - 44 years,%,67
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,500,45 - 54 years,%,67
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,535,55 - 64 years,%,75
+SVS03C05,Attempted sexual intercourse - No,2022,2022,2,Female,575,65 years and over,%,78
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,-,All ages,%,8
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,350,18 - 24 years,%,6
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,415,25 -34 years,%,8
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,465,35 - 44 years,%,9
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,500,45 - 54 years,%,8
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,535,55 - 64 years,%,5
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,-,Both sexes,575,65 years and over,%,9
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,-,All ages,%,8
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,350,18 - 24 years,%,6
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,415,25 -34 years,%,7
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,465,35 - 44 years,%,13
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,500,45 - 54 years,%,9
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,535,55 - 64 years,%,4
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,1,Male,575,65 years and over,%,10
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,-,All ages,%,7
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,350,18 - 24 years,%,7
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,415,25 -34 years,%,9
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,465,35 - 44 years,%,6
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,500,45 - 54 years,%,8
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,535,55 - 64 years,%,5
+SVS03C06,Attempted sexual intercourse - Not Stated,2022,2022,2,Female,575,65 years and over,%,9
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,-,All ages,%,30
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,350,18 - 24 years,%,36
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,415,25 -34 years,%,37
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,465,35 - 44 years,%,32
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,500,45 - 54 years,%,30
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,535,55 - 64 years,%,29
+SVS03C07,Sexual touching -Yes,2022,2022,-,Both sexes,575,65 years and over,%,21
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,-,All ages,%,17
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,350,18 - 24 years,%,20
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,415,25 -34 years,%,21
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,465,35 - 44 years,%,17
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,500,45 - 54 years,%,15
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,535,55 - 64 years,%,19
+SVS03C07,Sexual touching -Yes,2022,2022,1,Male,575,65 years and over,%,14
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,-,All ages,%,43
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,350,18 - 24 years,%,51
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,415,25 -34 years,%,52
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,465,35 - 44 years,%,46
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,500,45 - 54 years,%,45
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,535,55 - 64 years,%,38
+SVS03C07,Sexual touching -Yes,2022,2022,2,Female,575,65 years and over,%,28
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,-,All ages,%,63
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,350,18 - 24 years,%,59
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,415,25 -34 years,%,56
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,465,35 - 44 years,%,60
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,500,45 - 54 years,%,63
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,535,55 - 64 years,%,67
+SVS03C08,Sexual touching -No,2022,2022,-,Both sexes,575,65 years and over,%,70
+SVS03C08,Sexual touching -No,2022,2022,1,Male,-,All ages,%,75
+SVS03C08,Sexual touching -No,2022,2022,1,Male,350,18 - 24 years,%,74
+SVS03C08,Sexual touching -No,2022,2022,1,Male,415,25 -34 years,%,73
+SVS03C08,Sexual touching -No,2022,2022,1,Male,465,35 - 44 years,%,72
+SVS03C08,Sexual touching -No,2022,2022,1,Male,500,45 - 54 years,%,78
+SVS03C08,Sexual touching -No,2022,2022,1,Male,535,55 - 64 years,%,77
+SVS03C08,Sexual touching -No,2022,2022,1,Male,575,65 years and over,%,77
+SVS03C08,Sexual touching -No,2022,2022,2,Female,-,All ages,%,51
+SVS03C08,Sexual touching -No,2022,2022,2,Female,350,18 - 24 years,%,43
+SVS03C08,Sexual touching -No,2022,2022,2,Female,415,25 -34 years,%,40
+SVS03C08,Sexual touching -No,2022,2022,2,Female,465,35 - 44 years,%,49
+SVS03C08,Sexual touching -No,2022,2022,2,Female,500,45 - 54 years,%,48
+SVS03C08,Sexual touching -No,2022,2022,2,Female,535,55 - 64 years,%,58
+SVS03C08,Sexual touching -No,2022,2022,2,Female,575,65 years and over,%,63
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,-,All ages,%,7
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,350,18 - 24 years,%,6
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,415,25 -34 years,%,7
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,465,35 - 44 years,%,8
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,500,45 - 54 years,%,7
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,535,55 - 64 years,%,4
+SVS03C09,Sexual touching -Not Stated,2022,2022,-,Both sexes,575,65 years and over,%,9
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,-,All ages,%,7
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,350,18 - 24 years,%,5
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,415,25 -34 years,%,6
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,465,35 - 44 years,%,11
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,500,45 - 54 years,%,8
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,535,55 - 64 years,%,4
+SVS03C09,Sexual touching -Not Stated,2022,2022,1,Male,575,65 years and over,%,9
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,-,All ages,%,7
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,350,18 - 24 years,%,6
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,415,25 -34 years,%,8
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,465,35 - 44 years,%,5
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,500,45 - 54 years,%,7
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,535,55 - 64 years,%,4
+SVS03C09,Sexual touching -Not Stated,2022,2022,2,Female,575,65 years and over,%,9
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,-,All ages,%,21
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,350,18 - 24 years,%,23
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,415,25 -34 years,%,28
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,465,35 - 44 years,%,22
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,500,45 - 54 years,%,21
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,535,55 - 64 years,%,19
+SVS03C10,Other sexual contact - Yes,2022,2022,-,Both sexes,575,65 years and over,%,13
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,-,All ages,%,10
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,350,18 - 24 years,%,9
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,415,25 -34 years,%,16
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,465,35 - 44 years,%,9
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,500,45 - 54 years,%,10
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,535,55 - 64 years,%,11
+SVS03C10,Other sexual contact - Yes,2022,2022,1,Male,575,65 years and over,%,7
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,-,All ages,%,30
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,350,18 - 24 years,%,37
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,415,25 -34 years,%,40
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,465,35 - 44 years,%,34
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,500,45 - 54 years,%,31
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,535,55 - 64 years,%,26
+SVS03C10,Other sexual contact - Yes,2022,2022,2,Female,575,65 years and over,%,18
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,-,All ages,%,72
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,350,18 - 24 years,%,71
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,415,25 -34 years,%,64
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,465,35 - 44 years,%,69
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,500,45 - 54 years,%,71
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,535,55 - 64 years,%,77
+SVS03C11,Other sexual contact - No,2022,2022,-,Both sexes,575,65 years and over,%,78
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,-,All ages,%,81
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,350,18 - 24 years,%,85
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,415,25 -34 years,%,77
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,465,35 - 44 years,%,78
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,500,45 - 54 years,%,81
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,535,55 - 64 years,%,85
+SVS03C11,Other sexual contact - No,2022,2022,1,Male,575,65 years and over,%,83
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,-,All ages,%,63
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,350,18 - 24 years,%,57
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,415,25 -34 years,%,51
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,465,35 - 44 years,%,60
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,500,45 - 54 years,%,61
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,535,55 - 64 years,%,70
+SVS03C11,Other sexual contact - No,2022,2022,2,Female,575,65 years and over,%,73
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,-,All ages,%,8
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,350,18 - 24 years,%,6
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,415,25 -34 years,%,8
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,465,35 - 44 years,%,9
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,500,45 - 54 years,%,8
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,535,55 - 64 years,%,4
+SVS03C12,Other sexual contact - Not Stated,2022,2022,-,Both sexes,575,65 years and over,%,9
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,-,All ages,%,8
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,350,18 - 24 years,%,6
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,415,25 -34 years,%,7
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,465,35 - 44 years,%,13
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,500,45 - 54 years,%,9
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,535,55 - 64 years,%,4
+SVS03C12,Other sexual contact - Not Stated,2022,2022,1,Male,575,65 years and over,%,10
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,-,All ages,%,7
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,350,18 - 24 years,%,6
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,415,25 -34 years,%,8
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,465,35 - 44 years,%,6
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,500,45 - 54 years,%,8
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,535,55 - 64 years,%,5
+SVS03C12,Other sexual contact - Not Stated,2022,2022,2,Female,575,65 years and over,%,9
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,-,All ages,%,20
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,350,18 - 24 years,%,33
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,415,25 -34 years,%,21
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,465,35 - 44 years,%,20
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,500,45 - 54 years,%,20
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,535,55 - 64 years,%,19
+SVS03C13,Sexual non-contact - Yes,2022,2022,-,Both sexes,575,65 years and over,%,14
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,-,All ages,%,16
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,350,18 - 24 years,%,28
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,415,25 -34 years,%,19
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,465,35 - 44 years,%,16
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,500,45 - 54 years,%,15
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,535,55 - 64 years,%,12
+SVS03C13,Sexual non-contact - Yes,2022,2022,1,Male,575,65 years and over,%,8
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,-,All ages,%,25
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,350,18 - 24 years,%,40
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,415,25 -34 years,%,23
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,465,35 - 44 years,%,24
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,500,45 - 54 years,%,26
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,535,55 - 64 years,%,25
+SVS03C13,Sexual non-contact - Yes,2022,2022,2,Female,575,65 years and over,%,19
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,-,All ages,%,68
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,350,18 - 24 years,%,55
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,415,25 -34 years,%,65
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,465,35 - 44 years,%,67
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,500,45 - 54 years,%,68
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,535,55 - 64 years,%,74
+SVS03C14,Sexual non-contact -No,2022,2022,-,Both sexes,575,65 years and over,%,73
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,-,All ages,%,73
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,350,18 - 24 years,%,62
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,415,25 -34 years,%,69
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,465,35 - 44 years,%,68
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,500,45 - 54 years,%,74
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,535,55 - 64 years,%,81
+SVS03C14,Sexual non-contact -No,2022,2022,1,Male,575,65 years and over,%,81
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,-,All ages,%,63
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,350,18 - 24 years,%,47
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,415,25 -34 years,%,62
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,465,35 - 44 years,%,66
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,500,45 - 54 years,%,62
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,535,55 - 64 years,%,67
+SVS03C14,Sexual non-contact -No,2022,2022,2,Female,575,65 years and over,%,67
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,-,All ages,%,12
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,350,18 - 24 years,%,12
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,415,25 -34 years,%,14
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,465,35 - 44 years,%,13
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,500,45 - 54 years,%,11
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,535,55 - 64 years,%,7
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,-,Both sexes,575,65 years and over,%,13
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,-,All ages,%,11
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,350,18 - 24 years,%,10
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,415,25 -34 years,%,12
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,465,35 - 44 years,%,16
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,500,45 - 54 years,%,11
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,535,55 - 64 years,%,7
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,1,Male,575,65 years and over,%,11
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,-,All ages,%,12
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,350,18 - 24 years,%,13
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,415,25 -34 years,%,15
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,465,35 - 44 years,%,10
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,500,45 - 54 years,%,12
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,535,55 - 64 years,%,7
+SVS03C15,Sexual non-contact - Not Stated,2022,2022,2,Female,575,65 years and over,%,14

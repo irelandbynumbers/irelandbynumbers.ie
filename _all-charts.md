@@ -149,6 +149,8 @@
 - [Children in low-income households by parents' work](/charts/poverty-child-low-income-by-work.html). Share of children aged under 18 living in a low-income household, by how many parents are at work, 2022. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-low-income-by-work.csv)
 - [Children in low-income households by county](/charts/poverty-child-low-income-map.html). Share of children aged under 18 living in a household with income below 60% of the national median, by county, 2022. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-low-income-map.csv)
 - [Child poverty and deprivation](/charts/poverty-child-rates.html). Share of children aged under 18 at risk of poverty, experiencing deprivation, and in consistent poverty, 2020 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-rates.csv)
+- [People living in affluent and deprived areas](/charts/poverty-deprivation-categories.html). Share of the population by the Pobal HP Deprivation Index category of the electoral division they live in, 2022. *Pobal.* [CSV](/charts/poverty-deprivation-categories.csv)
+- [Affluence and deprivation by county](/charts/poverty-deprivation-map.html). Average Pobal HP Deprivation Index score by county, weighted by population, 2022. Blue is more affluent than average and orange more deprived. *Pobal.* [CSV](/charts/poverty-deprivation-map.csv)
 - [Income inequality before and after tax and social welfare](/charts/poverty-inequality.html). Gini coefficient of household income, adjusted for household size, 2020 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-inequality.csv)
 - [Income inequality across the EU](/charts/poverty-inequality-eu.html). Gini coefficient of disposable household income, EU countries, 2025. *Eurostat.* [CSV](/charts/poverty-inequality-eu.csv)
 - [Poverty and deprivation](/charts/poverty-rates.html). Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, 2020 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-rates.csv)
@@ -164,6 +166,7 @@
 
 ## [Gender equality](/gender/)
 
+- [Who the suspected offender was](/charts/gender-assault-relationship.html). Victims of recorded assaults, threats and harassment, by their relationship with the suspected offender and by sex, 2024. *Central Statistics Office (CSO).* [CSV](/charts/gender-assault-relationship.csv)
 - [Women in senior roles in large companies](/charts/gender-business-leaders.html). Women's share of senior roles in large enterprises, 2019 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/gender-business-leaders.csv)
 - [Women's share of unpaid carers](/charts/gender-carers.html). Women as a share of people who give regular unpaid help to someone with a long-lasting health condition, illness or disability, by hours a week, 2022. *Central Statistics Office (CSO).* [CSV](/charts/gender-carers.csv)
 - [Women elected to the Dáil](/charts/gender-dail.html). Women as a share of TDs elected at general elections, selected Dála, 1918 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/gender-dail.csv)
@@ -172,6 +175,8 @@
 - [Gender Equality Index across the EU](/charts/gender-equality-index-eu.html). Gender Equality Index score, out of 100, EU countries, 2022. *Central Statistics Office (CSO).* [CSV](/charts/gender-equality-index-eu.csv)
 - [The gender pay gap in Ireland and the EU](/charts/gender-pay-gap.html). Difference between men's and women's average gross hourly earnings, as a percentage of men's, 2007 to 2024. *Eurostat.* [CSV](/charts/gender-pay-gap.csv)
 - [The gender pay gap across the EU](/charts/gender-pay-gap-eu.html). Difference between men's and women's average gross hourly earnings, as a percentage of men's, EU countries, 2024. *Eurostat.* [CSV](/charts/gender-pay-gap-eu.csv)
+- [Victims of recorded sexual offences](/charts/gender-sexual-offence-victims.html). Victims of sexual offences recorded by An Garda Síochána, by sex and year reported, 2016 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/gender-sexual-offence-victims.csv)
+- [Experience of sexual violence](/charts/gender-sexual-violence-lifetime.html). Share of adults who have experienced sexual violence at least once in their lifetime, as a child or an adult, by age and sex, 2022. *Central Statistics Office (CSO).* [CSV](/charts/gender-sexual-violence-lifetime.csv)
 - [Women's share of the best-paid jobs](/charts/gender-top-earners.html). Women's share of all jobs and of the best-paid jobs, by annual earnings, 2011 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/gender-top-earners.csv)
 
 ## [Energy](/energy/)
@@ -213,3 +218,18 @@
 - [Turnout at elections](/charts/elections-turnout.html). Turnout at Dáil and European Parliament elections in Ireland, 1948 to 2024. *International IDEA.* [CSV](/charts/elections-turnout.csv)
 - [Turnout at national elections across the EU](/charts/elections-turnout-eu.html). Turnout at the most recent national parliamentary election in each EU country. *International IDEA.* [CSV](/charts/elections-turnout-eu.csv)
 - [Views on voting and elections](/charts/elections-views-on-voting.html). Share of people in Ireland who hold each view, 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/elections-views-on-voting.csv)
+
+## [Childcare and family leave](/childcare/)
+
+- [Access to affordable childcare](/charts/childcare-affordable-access.html). Households asked whether they have access to affordable childcare in their community, by region, 2016. *Central Statistics Office (CSO).* [CSV](/charts/childcare-affordable-access.csv)
+- [Weekly childcare fees by county](/charts/childcare-fees-county.html). Average weekly fee per child for full day childcare, by county or council area, 2020/21. Orange bars are above the national average, shown by the dotted line. *Pobal.* [CSV](/charts/childcare-fees-county.csv)
+- [Childcare fees and affluence](/charts/childcare-fees-deprivation.html). Average weekly fee for full day childcare in 2020/21, against the average Pobal HP Deprivation Index score in 2016, by county or council area. *Pobal; Pobal.* [CSV](/charts/childcare-fees-deprivation.csv)
+- [Childcare fees for under-3s across the EU](/charts/childcare-fees-eu.html). Average monthly fees for early childhood education and care for children under 3, after state supports, in purchasing power standards (PPS), EU countries, 2023/2024. *Eurydice (European Commission).* [CSV](/charts/childcare-fees-eu.csv)
+- [Weekly childcare fees over time](/charts/childcare-fees-trend.html). Average weekly fee per child in early learning and childcare services, by type of care, 2011 to 2020/21. Not adjusted for inflation. *Pobal.* [CSV](/charts/childcare-fees-trend.csv)
+- [The gap between paid leave and a childcare place](/charts/childcare-gap-eu.html). Years of well-paid leave after a birth, and the further gap before a child is guaranteed a place in early childhood education and care or school, EU countries, 2024/2025. *Eurydice (European Commission).* [CSV](/charts/childcare-gap-eu.csv)
+- [Family leave in Ireland and Northern Ireland](/charts/childcare-leave-ireland-ni.html). Weeks of statutory family leave for employees, by type of leave, 2026. Coloured bars are paid weeks (orange for Ireland, blue for Northern Ireland) and grey bars are unpaid weeks. *National Women's Council; NI Direct.* [CSV](/charts/childcare-leave-ireland-ni.csv)
+- [Fathers taking paternity benefit](/charts/childcare-paternity-uptake.html). Share of eligible fathers in employment who took paternity benefit, 2017 to 2023. *Central Statistics Office (CSO).* [CSV](/charts/childcare-paternity-uptake.csv)
+- [Types of childcare used](/charts/childcare-types.html). Children in childcare, by the type of childcare they mainly use and by age, 2022. *Central Statistics Office (CSO).* [CSV](/charts/childcare-types.csv)
+- [Children under 3 in formal childcare](/charts/childcare-under3-eu.html). Share of children under 3 in formal childcare for at least one hour a week, EU countries, 2025. *Eurostat.* [CSV](/charts/childcare-under3-eu.csv)
+- [Formal childcare for under-3s over time](/charts/childcare-under3-trend.html). Share of children under 3 in formal childcare for at least one hour a week, Ireland and the EU, 2005 to 2025. *Eurostat.* [CSV](/charts/childcare-under3-trend.csv)
+- [Well-paid family leave across the EU](/charts/childcare-well-paid-leave-eu.html). Months of family leave paid at 66% or more of earnings, for both parents together, EU countries, 2024. *Eurydice (European Commission).* [CSV](/charts/childcare-well-paid-leave-eu.csv)

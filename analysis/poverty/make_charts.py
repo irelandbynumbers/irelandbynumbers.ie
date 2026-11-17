@@ -6,6 +6,8 @@ from ibn import cso, eu, eurostat, figures, style
 from ibn.chart import Chart, Source
 from ibn import charts
 
+from poverty import deprivation
+
 TOPIC = "poverty"
 EU_GEO = eurostat.EU27 + [eurostat.EU]
 YEAR_NOTE = "From the CSO's Survey on Income and Living Conditions (SILC). These CSO tables start in 2020."
@@ -34,6 +36,7 @@ def build():
     child_poverty_eu()
     inequality()
     inequality_eu()
+    deprivation.build()
 
 
 def _measures(df, group_col=None, year=None):

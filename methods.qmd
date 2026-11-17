@@ -33,6 +33,8 @@ Some statistics come with warnings from their publisher. The CSO publishes recor
 
 Every Friday the site automatically checks every source for new figures, rebuilds the charts and records what changed. A chart only changes when its publisher has released new figures, so many charts stay the same from week to week. Each chart's page shows when its source was last updated and when it was last checked. The [What's new](whats-new.qmd) page lists every source table with those dates.
 
+A few sources cannot be checked automatically, because the publisher offers no file to download or because the figures come from a report or web page. These are checked by hand on a regular schedule. Where a series stops earlier than expected because the publisher no longer releases the figures in a form that can be downloaded, the chart's notes say so. For example, Pobal's figures on childcare fees stop at 2020/21, because its yearly report was replaced by online dashboards.
+
 Published statistics are often revised, for example after a new census. The site always shows the latest published figures, and earlier versions of the data remain in the repository's history.
 
 ## Keeping to the facts

@@ -15,3 +15,7 @@
   path: inequality.qmd
   image: ../images/charts/poverty-inequality-eu.png
   description: "How evenly income is shared, before and after tax and social welfare, compared with the EU."
+- title: "Deprivation by area"
+  path: deprivation.qmd
+  image: ../images/charts/poverty-deprivation-map.png
+  description: "Affluence and deprivation by county, and how many people live in disadvantaged areas."

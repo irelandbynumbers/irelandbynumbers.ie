@@ -1,0 +1,17 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "The childcare gap"
+  path: gap.qmd
+  image: ../images/charts/childcare-gap-eu.png
+  description: "The time between the end of well-paid leave and a guaranteed childcare place, compared with the EU."
+- title: "Use of childcare"
+  path: use.qmd
+  image: ../images/charts/childcare-under3-trend.png
+  description: "How many young children are in formal childcare, the types of care families use, and access to affordable childcare."
+- title: "Childcare costs"
+  path: costs.qmd
+  image: ../images/charts/childcare-fees-eu.png
+  description: "What families pay for childcare after state supports, compared with other EU countries."
+- title: "Family leave"
+  path: leave.qmd
+  image: ../images/charts/childcare-leave-ireland-ni.png
+  description: "Maternity, adoptive, paternity and parental leave in Ireland, Northern Ireland and the EU."

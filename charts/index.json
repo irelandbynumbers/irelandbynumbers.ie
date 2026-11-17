@@ -2760,6 +2760,50 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "poverty-deprivation-categories",
+  "topic": "poverty",
+  "title": "People living in affluent and deprived areas",
+  "subtitle": "Share of the population by the Pobal HP Deprivation Index category of the electoral division they live in, 2022.",
+  "kind": "chart",
+  "page": "/charts/poverty-deprivation-categories.html",
+  "csv": "/charts/poverty-deprivation-categories.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Pobal HP Deprivation Index 2022, scores by electoral division (Haase and Pratschke)",
+    "url": "https://www.pobal.ie/",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2022, 8% of people, about 403,000, lived in electoral divisions the Pobal HP Deprivation Index scores as disadvantaged or worse.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "poverty-deprivation-map",
+  "topic": "poverty",
+  "title": "Affluence and deprivation by county",
+  "subtitle": "Average Pobal HP Deprivation Index score by county, weighted by population, 2022. Blue is more affluent than average and orange more deprived.",
+  "kind": "map",
+  "page": "/charts/poverty-deprivation-map.html",
+  "csv": "/charts/poverty-deprivation-map.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Pobal HP Deprivation Index 2022, scores by electoral division (Haase and Pratschke)",
+    "url": "https://www.pobal.ie/",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2022, Kildare had the highest average score on the Pobal HP Deprivation Index, at +3.1, and Donegal the lowest, at -5.6.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
   "id": "poverty-inequality",
   "topic": "poverty",
   "title": "Income inequality before and after tax and social welfare",
@@ -2976,6 +3020,30 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "gender-assault-relationship",
+  "topic": "gender",
+  "title": "Who the suspected offender was",
+  "subtitle": "Victims of recorded assaults, threats and harassment, by their relationship with the suspected offender and by sex, 2024.",
+  "kind": "chart",
+  "page": "/charts/gender-assault-relationship.html",
+  "csv": "/charts/gender-assault-relationship.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Victims of recorded crime by relationship with suspected offender (CVA12)",
+    "url": "https://data.cso.ie/table/CVA12",
+    "licence": "CC BY 4.0",
+    "code": "CVA12",
+    "updated": "2026-05-14",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, a current or former partner was the suspected offender for 29% of women and girls who were victims of recorded assaults, threats or harassment, compared with 3% of men and boys.",
+  "listed": true,
+  "updated": "2026-05-14",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "gender-business-leaders",
   "topic": "gender",
   "title": "Women in senior roles in large companies",
@@ -3165,6 +3233,54 @@
   "key_fact": "Ireland's gender pay gap was 8.3% in 2024, compared with 11.1% across the EU. It was the 11th lowest of the 27 EU countries.",
   "listed": true,
   "updated": "2026-10-27",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-sexual-offence-victims",
+  "topic": "gender",
+  "title": "Victims of recorded sexual offences",
+  "subtitle": "Victims of sexual offences recorded by An Garda Síochána, by sex and year reported, 2016 to 2025.",
+  "kind": "chart",
+  "page": "/charts/gender-sexual-offence-victims.html",
+  "csv": "/charts/gender-sexual-offence-victims.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Victims of recorded crime, sexual offences, by sex and age (CVA06)",
+    "url": "https://data.cso.ie/table/CVA06",
+    "licence": "CC BY 4.0",
+    "code": "CVA06",
+    "updated": "2026-05-14",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 2,382 women and girls were recorded as victims of sexual offences, 80% of all victims, compared with 1,781 in 2016. 30% of them reported the offence a year or more after it happened.",
+  "listed": true,
+  "updated": "2026-05-14",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-sexual-violence-lifetime",
+  "topic": "gender",
+  "title": "Experience of sexual violence",
+  "subtitle": "Share of adults who have experienced sexual violence at least once in their lifetime, as a child or an adult, by age and sex, 2022.",
+  "kind": "chart",
+  "page": "/charts/gender-sexual-violence-lifetime.html",
+  "csv": "/charts/gender-sexual-violence-lifetime.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Sexual Violence Survey 2022, experience of sexual violence (SVS01)",
+    "url": "https://data.cso.ie/table/SVS01",
+    "licence": "CC BY 4.0",
+    "code": "SVS01",
+    "updated": "2023-04-20",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2022, 52% of women and 28% of men in Ireland said they had experienced sexual violence at some point in their lives. Among women aged 18 to 24 the share was 65%.",
+  "listed": true,
+  "updated": "2023-04-20",
   "checked": "2026-11-17"
  },
  {
@@ -3894,6 +4010,294 @@
   "listed": true,
   "updated": "2026-07-29",
   "checked": "2026-11-17"
+ },
+ {
+  "id": "childcare-affordable-access",
+  "topic": "childcare",
+  "title": "Access to affordable childcare",
+  "subtitle": "Households asked whether they have access to affordable childcare in their community, by region, 2016.",
+  "kind": "chart",
+  "page": "/charts/childcare-affordable-access.html",
+  "csv": "/charts/childcare-affordable-access.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Households who have access to affordable childcare in their community (CCA21)",
+    "url": "https://data.cso.ie/table/CCA21",
+    "licence": "CC BY 4.0",
+    "code": "CCA21",
+    "updated": "2020-09-16",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2016, 43% of households disagreed that they had access to affordable childcare in their community, and 28% agreed. Disagreement was highest in Dublin, at 52%.",
+  "listed": true,
+  "updated": "2020-09-16",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childcare-fees-county",
+  "topic": "childcare",
+  "title": "Weekly childcare fees by county",
+  "subtitle": "Average weekly fee per child for full day childcare, by county or council area, 2020/21. Orange bars are above the national average, shown by the dotted line.",
+  "kind": "chart",
+  "page": "/charts/childcare-fees-county.html",
+  "csv": "/charts/childcare-fees-county.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Annual Early Years Sector Profile reports, 2016/2017 to 2020/2021",
+    "url": "https://www.pobal.ie/EarlyLearningandChildcaredata",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2020/21, the average weekly fee for full day childcare was €244 in Dún Laoghaire-Rathdown, the highest, and €152 in Carlow, the lowest. The national average was €187.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-fees-deprivation",
+  "topic": "childcare",
+  "title": "Childcare fees and affluence",
+  "subtitle": "Average weekly fee for full day childcare in 2020/21, against the average Pobal HP Deprivation Index score in 2016, by county or council area.",
+  "kind": "chart",
+  "page": "/charts/childcare-fees-deprivation.html",
+  "csv": "/charts/childcare-fees-deprivation.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Annual Early Years Sector Profile reports, 2016/2017 to 2020/2021",
+    "url": "https://www.pobal.ie/EarlyLearningandChildcaredata",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   },
+   {
+    "publisher": "Pobal",
+    "title": "Pobal HP Deprivation Index 2016, scores by electoral division (Haase and Pratschke)",
+    "url": "https://www.pobal.ie/",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2020/21, childcare fees were generally higher in more affluent areas. Dún Laoghaire-Rathdown, the most affluent area on the index, had the highest full day fee, at €244 a week, while 20 of the 21 areas with below-average scores had fees under €185.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-fees-eu",
+  "topic": "childcare",
+  "title": "Childcare fees for under-3s across the EU",
+  "subtitle": "Average monthly fees for early childhood education and care for children under 3, after state supports, in purchasing power standards (PPS), EU countries, 2023/2024.",
+  "kind": "chart",
+  "page": "/charts/childcare-fees-eu.html",
+  "csv": "/charts/childcare-fees-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurydice (European Commission)",
+    "title": "Key data on early childhood education and care in Europe 2025, Figure B5",
+    "url": "https://eurydice.eacea.ec.europa.eu/publications/key-data-early-childhood-education-and-care-europe-2025",
+    "licence": "CC BY 4.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "Childcare for children under 3 in Ireland cost an average of €491 a month after state supports in 2023/2024. Adjusted for prices, this was the highest of the 16 EU countries that give a single figure.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-fees-trend",
+  "topic": "childcare",
+  "title": "Weekly childcare fees over time",
+  "subtitle": "Average weekly fee per child in early learning and childcare services, by type of care, 2011 to 2020/21. Not adjusted for inflation.",
+  "kind": "chart",
+  "page": "/charts/childcare-fees-trend.html",
+  "csv": "/charts/childcare-fees-trend.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Annual Early Years Sector Profile reports, 2016/2017 to 2020/2021",
+    "url": "https://www.pobal.ie/EarlyLearningandChildcaredata",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2020/21, the average weekly fee for full day childcare was €187, compared with €166 in 2011. These are the latest figures in Pobal's yearly reports.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-gap-eu",
+  "topic": "childcare",
+  "title": "The gap between paid leave and a childcare place",
+  "subtitle": "Years of well-paid leave after a birth, and the further gap before a child is guaranteed a place in early childhood education and care or school, EU countries, 2024/2025.",
+  "kind": "chart",
+  "page": "/charts/childcare-gap-eu.html",
+  "csv": "/charts/childcare-gap-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurydice (European Commission)",
+    "title": "Key data on early childhood education and care in Europe 2025, Figure B3",
+    "url": "https://eurydice.eacea.ec.europa.eu/publications/key-data-early-childhood-education-and-care-europe-2025",
+    "licence": "CC BY 4.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "In Ireland there is no well-paid family leave and no guaranteed childcare place before school, so the gap runs to age 6, the longest of the 27 EU countries. In 5 countries there is no gap at all.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-leave-ireland-ni",
+  "topic": "childcare",
+  "title": "Family leave in Ireland and Northern Ireland",
+  "subtitle": "Weeks of statutory family leave for employees, by type of leave, 2026. Coloured bars are paid weeks (orange for Ireland, blue for Northern Ireland) and grey bars are unpaid weeks.",
+  "kind": "chart",
+  "page": "/charts/childcare-leave-ireland-ni.html",
+  "csv": "/charts/childcare-leave-ireland-ni.csv",
+  "sources": [
+   {
+    "publisher": "National Women's Council",
+    "title": "Close the Gap: an information booklet on the gap between family leave and childcare (March 2026)",
+    "url": "https://togetherforpublic.nwci.ie/close-the-gap-an-information-booklet-on-the-gap-between-family-leave-and-childcare/",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   },
+   {
+    "publisher": "NI Direct",
+    "title": "Statutory maternity, paternity, adoption and parental leave and pay",
+    "url": "https://www.nidirect.gov.uk/articles/statutory-maternity-leave",
+    "licence": "Open Government Licence v3.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "Maternity leave in Ireland is 26 paid weeks plus 16 unpaid, paid at a flat €299 a week. In Northern Ireland it is 39 paid weeks plus 13 unpaid, with the first six weeks at 90% of earnings.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-paternity-uptake",
+  "topic": "childcare",
+  "title": "Fathers taking paternity benefit",
+  "subtitle": "Share of eligible fathers in employment who took paternity benefit, 2017 to 2023.",
+  "kind": "chart",
+  "page": "/charts/childcare-paternity-uptake.html",
+  "csv": "/charts/childcare-paternity-uptake.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Rate of paternity benefit uptake (EMP31)",
+    "url": "https://data.cso.ie/table/EMP31",
+    "licence": "CC BY 4.0",
+    "code": "EMP31",
+    "updated": "2026-06-19",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2023, 55% of eligible fathers in employment took paternity benefit, compared with 58% in 2017. The lowest in the period was 49% in 2020.",
+  "listed": true,
+  "updated": "2026-06-19",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childcare-types",
+  "topic": "childcare",
+  "title": "Types of childcare used",
+  "subtitle": "Children in childcare, by the type of childcare they mainly use and by age, 2022.",
+  "kind": "chart",
+  "page": "/charts/childcare-types.html",
+  "csv": "/charts/childcare-types.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Population 2022, children under 15 in childcare (F3050)",
+    "url": "https://data.cso.ie/table/F3050",
+    "licence": "CC BY 4.0",
+    "code": "F3050",
+    "updated": "2023-08-31",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2022, 43% of children aged 0 to 2 in childcare were mainly in a crèche or similar setting, and 27% were cared for by an unpaid relative.",
+  "listed": true,
+  "updated": "2023-08-31",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childcare-under3-eu",
+  "topic": "childcare",
+  "title": "Children under 3 in formal childcare",
+  "subtitle": "Share of children under 3 in formal childcare for at least one hour a week, EU countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/childcare-under3-eu.html",
+  "csv": "/charts/childcare-under3-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Children in formal childcare or education (ilc_caindformal)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_caindformal/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "childcare_formal",
+    "updated": "2026-10-20",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 27% of children under 3 in Ireland were in formal childcare, compared with 41% across the EU. Ireland's share was the 9th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childcare-under3-trend",
+  "topic": "childcare",
+  "title": "Formal childcare for under-3s over time",
+  "subtitle": "Share of children under 3 in formal childcare for at least one hour a week, Ireland and the EU, 2005 to 2025.",
+  "kind": "chart",
+  "page": "/charts/childcare-under3-trend.html",
+  "csv": "/charts/childcare-under3-trend.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Children in formal childcare or education (ilc_caindformal)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_caindformal/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "childcare_formal",
+    "updated": "2026-10-20",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 27% of children under 3 in Ireland were in formal childcare, compared with 15% in 2005. The EU figure was 41%.",
+  "listed": true,
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "childcare-well-paid-leave-eu",
+  "topic": "childcare",
+  "title": "Well-paid family leave across the EU",
+  "subtitle": "Months of family leave paid at 66% or more of earnings, for both parents together, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/childcare-well-paid-leave-eu.html",
+  "csv": "/charts/childcare-well-paid-leave-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurydice (European Commission)",
+    "title": "Key data on early childhood education and care in Europe 2025, Figure B3",
+    "url": "https://eurydice.eacea.ec.europa.eu/publications/key-data-early-childhood-education-and-care-europe-2025",
+    "licence": "CC BY 4.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "Ireland is the only EU country with no family leave paid at 66% or more of earnings.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
  },
  {
   "id": "county-carlow-population",
