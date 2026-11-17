@@ -161,3 +161,15 @@
 - [Children in care by type of placement](/charts/childhood-in-care.html). Number of children in the care of the State, by type of placement, January 2025. *Central Statistics Office (CSO).* [CSV](/charts/childhood-in-care.csv)
 - [Infant mortality in Ireland and the EU](/charts/childhood-infant-mortality.html). Deaths of babies under one year old per 1,000 live births, 1960 to 2024. *Eurostat.* [CSV](/charts/childhood-infant-mortality.csv)
 - [Babies born with a low birth weight](/charts/childhood-low-birth-weight.html). Share of births weighing under 2,500 grams, selected years 2009 to 2023. *Central Statistics Office (CSO).* [CSV](/charts/childhood-low-birth-weight.csv)
+
+## [Gender equality](/gender/)
+
+- [Women in senior roles in large companies](/charts/gender-business-leaders.html). Women's share of senior roles in large enterprises, 2019 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/gender-business-leaders.csv)
+- [Women's share of unpaid carers](/charts/gender-carers.html). Women as a share of people who give regular unpaid help to someone with a long-lasting health condition, illness or disability, by hours a week, 2022. *Central Statistics Office (CSO).* [CSV](/charts/gender-carers.csv)
+- [Women elected to the Dáil](/charts/gender-dail.html). Women as a share of TDs elected at general elections, selected Dála, 1918 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/gender-dail.csv)
+- [Employment rates of women and men](/charts/gender-employment.html). Share of people aged 20 to 64 in work, women and men, Ireland, 2009 to 2025. *Eurostat.* [CSV](/charts/gender-employment.csv)
+- [Gender Equality Index by area](/charts/gender-equality-index-areas.html). Gender Equality Index score for each area, out of 100, Ireland and the EU, 2022. *Central Statistics Office (CSO).* [CSV](/charts/gender-equality-index-areas.csv)
+- [Gender Equality Index across the EU](/charts/gender-equality-index-eu.html). Gender Equality Index score, out of 100, EU countries, 2022. *Central Statistics Office (CSO).* [CSV](/charts/gender-equality-index-eu.csv)
+- [The gender pay gap in Ireland and the EU](/charts/gender-pay-gap.html). Difference between men's and women's average gross hourly earnings, as a percentage of men's, 2007 to 2024. *Eurostat.* [CSV](/charts/gender-pay-gap.csv)
+- [The gender pay gap across the EU](/charts/gender-pay-gap-eu.html). Difference between men's and women's average gross hourly earnings, as a percentage of men's, EU countries, 2024. *Eurostat.* [CSV](/charts/gender-pay-gap-eu.csv)
+- [Women's share of the best-paid jobs](/charts/gender-top-earners.html). Women's share of all jobs and of the best-paid jobs, by annual earnings, 2011 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/gender-top-earners.csv)

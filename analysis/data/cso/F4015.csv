@@ -1,0 +1,37 @@
+STATISTIC,Statistic Label,TLIST(A1),CensusYear,C02738V03306,Regular Unpaid Help,C02199V02655,Sex,C04104V04868,County and City,C02076V03371,Age Group,UNIT,VALUE
+F4015C01,Carers,2022,2022,-6,All carers,-,Both sexes,IE0,State,-,All ages,Number,299128.0
+F4015C01,Carers,2022,2022,-6,All carers,1,Male,IE0,State,-,All ages,Number,117536.0
+F4015C01,Carers,2022,2022,-6,All carers,2,Female,IE0,State,-,All ages,Number,181592.0
+F4015C01,Carers,2022,2022,1,1-14 hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,Number,136237.0
+F4015C01,Carers,2022,2022,1,1-14 hours unpaid help per week,1,Male,IE0,State,-,All ages,Number,57147.0
+F4015C01,Carers,2022,2022,1,1-14 hours unpaid help per week,2,Female,IE0,State,-,All ages,Number,79090.0
+F4015C01,Carers,2022,2022,2,15-28 hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,Number,40864.0
+F4015C01,Carers,2022,2022,2,15-28 hours unpaid help per week,1,Male,IE0,State,-,All ages,Number,15047.0
+F4015C01,Carers,2022,2022,2,15-28 hours unpaid help per week,2,Female,IE0,State,-,All ages,Number,25817.0
+F4015C01,Carers,2022,2022,3,29-42 hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,Number,18435.0
+F4015C01,Carers,2022,2022,3,29-42 hours unpaid help per week,1,Male,IE0,State,-,All ages,Number,7726.0
+F4015C01,Carers,2022,2022,3,29-42 hours unpaid help per week,2,Female,IE0,State,-,All ages,Number,10709.0
+F4015C01,Carers,2022,2022,4,43 or more hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,Number,86972.0
+F4015C01,Carers,2022,2022,4,43 or more hours unpaid help per week,1,Male,IE0,State,-,All ages,Number,30057.0
+F4015C01,Carers,2022,2022,4,43 or more hours unpaid help per week,2,Female,IE0,State,-,All ages,Number,56915.0
+F4015C01,Carers,2022,2022,98,Not stated,-,Both sexes,IE0,State,-,All ages,Number,16620.0
+F4015C01,Carers,2022,2022,98,Not stated,1,Male,IE0,State,-,All ages,Number,7559.0
+F4015C01,Carers,2022,2022,98,Not stated,2,Female,IE0,State,-,All ages,Number,9061.0
+F4015C02,Carers as a percentage of total population,2022,2022,-6,All carers,-,Both sexes,IE0,State,-,All ages,%,5.8
+F4015C02,Carers as a percentage of total population,2022,2022,-6,All carers,1,Male,IE0,State,-,All ages,%,4.6
+F4015C02,Carers as a percentage of total population,2022,2022,-6,All carers,2,Female,IE0,State,-,All ages,%,7.0
+F4015C02,Carers as a percentage of total population,2022,2022,1,1-14 hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,%,2.6
+F4015C02,Carers as a percentage of total population,2022,2022,1,1-14 hours unpaid help per week,1,Male,IE0,State,-,All ages,%,2.2
+F4015C02,Carers as a percentage of total population,2022,2022,1,1-14 hours unpaid help per week,2,Female,IE0,State,-,All ages,%,3.0
+F4015C02,Carers as a percentage of total population,2022,2022,2,15-28 hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,%,0.8
+F4015C02,Carers as a percentage of total population,2022,2022,2,15-28 hours unpaid help per week,1,Male,IE0,State,-,All ages,%,0.6
+F4015C02,Carers as a percentage of total population,2022,2022,2,15-28 hours unpaid help per week,2,Female,IE0,State,-,All ages,%,1.0
+F4015C02,Carers as a percentage of total population,2022,2022,3,29-42 hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,%,0.4
+F4015C02,Carers as a percentage of total population,2022,2022,3,29-42 hours unpaid help per week,1,Male,IE0,State,-,All ages,%,0.3
+F4015C02,Carers as a percentage of total population,2022,2022,3,29-42 hours unpaid help per week,2,Female,IE0,State,-,All ages,%,0.4
+F4015C02,Carers as a percentage of total population,2022,2022,4,43 or more hours unpaid help per week,-,Both sexes,IE0,State,-,All ages,%,1.7
+F4015C02,Carers as a percentage of total population,2022,2022,4,43 or more hours unpaid help per week,1,Male,IE0,State,-,All ages,%,1.2
+F4015C02,Carers as a percentage of total population,2022,2022,4,43 or more hours unpaid help per week,2,Female,IE0,State,-,All ages,%,2.2
+F4015C02,Carers as a percentage of total population,2022,2022,98,Not stated,-,Both sexes,IE0,State,-,All ages,%,0.3
+F4015C02,Carers as a percentage of total population,2022,2022,98,Not stated,1,Male,IE0,State,-,All ages,%,0.3
+F4015C02,Carers as a percentage of total population,2022,2022,98,Not stated,2,Female,IE0,State,-,All ages,%,0.3

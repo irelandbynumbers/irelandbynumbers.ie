@@ -2976,6 +2976,222 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "gender-business-leaders",
+  "topic": "gender",
+  "title": "Women in senior roles in large companies",
+  "subtitle": "Women's share of senior roles in large enterprises, 2019 to 2025.",
+  "kind": "chart",
+  "page": "/charts/gender-business-leaders.html",
+  "csv": "/charts/gender-business-leaders.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Gender balance in business (GBA01)",
+    "url": "https://data.cso.ie/table/GBA01",
+    "licence": "CC BY 4.0",
+    "code": "GBA01",
+    "updated": "2025-10-17",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, women held 28% of board seats and 19% of chief executive roles in large companies, up from 20% and 12% in 2019.",
+  "listed": true,
+  "updated": "2025-10-17",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-carers",
+  "topic": "gender",
+  "title": "Women's share of unpaid carers",
+  "subtitle": "Women as a share of people who give regular unpaid help to someone with a long-lasting health condition, illness or disability, by hours a week, 2022.",
+  "kind": "chart",
+  "page": "/charts/gender-carers.html",
+  "csv": "/charts/gender-carers.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Population 2022, carers (F4015)",
+    "url": "https://data.cso.ie/table/F4015",
+    "licence": "CC BY 4.0",
+    "code": "F4015",
+    "updated": "2023-09-28",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2022, 61% of unpaid carers were women, and 65% of those giving 43 hours or more a week.",
+  "listed": true,
+  "updated": "2023-09-28",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-dail",
+  "topic": "gender",
+  "title": "Women elected to the Dáil",
+  "subtitle": "Women as a share of TDs elected at general elections, selected Dála, 1918 to 2024.",
+  "kind": "chart",
+  "page": "/charts/gender-dail.html",
+  "csv": "/charts/gender-dail.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Women and men elected to Dáil Éireann (G0502)",
+    "url": "https://data.cso.ie/table/G0502",
+    "licence": "CC BY 4.0",
+    "code": "G0502",
+    "updated": "2025-02-26",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "44 women were elected to the Dáil in 2024, 25% of all TDs. 1 woman was elected to the first Dáil in 1918.",
+  "listed": true,
+  "updated": "2025-02-26",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-employment",
+  "topic": "gender",
+  "title": "Employment rates of women and men",
+  "subtitle": "Share of people aged 20 to 64 in work, women and men, Ireland, 2009 to 2025.",
+  "kind": "chart",
+  "page": "/charts/gender-employment.html",
+  "csv": "/charts/gender-employment.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Employment and activity by sex and age, annual data (lfsi_emp_a)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/lfsi_emp_a/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "lfsi_emp_a",
+    "updated": "2026-11-06",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 75.7% of women aged 20 to 64 in Ireland were in work, compared with 84.7% of men. In 2009 the figures were 62.8% and 73.2%.",
+  "listed": true,
+  "updated": "2026-11-06",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-equality-index-areas",
+  "topic": "gender",
+  "title": "Gender Equality Index by area",
+  "subtitle": "Gender Equality Index score for each area, out of 100, Ireland and the EU, 2022.",
+  "kind": "chart",
+  "page": "/charts/gender-equality-index-areas.html",
+  "csv": "/charts/gender-equality-index-areas.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Gender Equality Index (European Institute for Gender Equality) (WMI06)",
+    "url": "https://data.cso.ie/table/WMI06",
+    "licence": "CC BY 4.0",
+    "code": "WMI06",
+    "updated": "2025-01-07",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In the 2022 Gender Equality Index, Ireland scored highest on health, at 94.6, and lowest on time, at 59.5.",
+  "listed": true,
+  "updated": "2025-01-07",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-equality-index-eu",
+  "topic": "gender",
+  "title": "Gender Equality Index across the EU",
+  "subtitle": "Gender Equality Index score, out of 100, EU countries, 2022.",
+  "kind": "chart",
+  "page": "/charts/gender-equality-index-eu.html",
+  "csv": "/charts/gender-equality-index-eu.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Gender Equality Index (European Institute for Gender Equality) (WMI06)",
+    "url": "https://data.cso.ie/table/WMI06",
+    "licence": "CC BY 4.0",
+    "code": "WMI06",
+    "updated": "2025-01-07",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Ireland scored 73.4 out of 100 on the Gender Equality Index for 2022, compared with 71.0 for the EU as a whole. Its score was the 9th highest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2025-01-07",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-pay-gap",
+  "topic": "gender",
+  "title": "The gender pay gap in Ireland and the EU",
+  "subtitle": "Difference between men's and women's average gross hourly earnings, as a percentage of men's, 2007 to 2024.",
+  "kind": "chart",
+  "page": "/charts/gender-pay-gap.html",
+  "csv": "/charts/gender-pay-gap.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Gender pay gap in unadjusted form (earn_gr_gpgr2)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_gr_gpgr2/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "earn_gr_gpgr2",
+    "updated": "2026-10-27",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, women in Ireland earned on average 8.3% less per hour than men, compared with 11.1% across the EU.",
+  "listed": true,
+  "updated": "2026-10-27",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-pay-gap-eu",
+  "topic": "gender",
+  "title": "The gender pay gap across the EU",
+  "subtitle": "Difference between men's and women's average gross hourly earnings, as a percentage of men's, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/gender-pay-gap-eu.html",
+  "csv": "/charts/gender-pay-gap-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Gender pay gap in unadjusted form (earn_gr_gpgr2)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/earn_gr_gpgr2/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "earn_gr_gpgr2",
+    "updated": "2026-10-27",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Ireland's gender pay gap was 8.3% in 2024, compared with 11.1% across the EU. It was the 11th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-10-27",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "gender-top-earners",
+  "topic": "gender",
+  "title": "Women's share of the best-paid jobs",
+  "subtitle": "Women's share of all jobs and of the best-paid jobs, by annual earnings, 2011 to 2025.",
+  "kind": "chart",
+  "page": "/charts/gender-top-earners.html",
+  "csv": "/charts/gender-top-earners.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Gender representation in employments, by earnings (DEA02)",
+    "url": "https://data.cso.ie/table/DEA02",
+    "licence": "CC BY 4.0",
+    "code": "DEA02",
+    "updated": "2026-11-11",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, women held 49% of all jobs but 28% of the jobs in the top 1% of earnings, up from 18% in 2011.",
+  "listed": true,
+  "updated": "2026-11-11",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",

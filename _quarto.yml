@@ -53,6 +53,8 @@ website:
             text: Childhood
           - href: poverty/index.qmd
             text: Poverty and inequality
+          - href: gender/index.qmd
+            text: Gender equality
       - href: counties/index.qmd
         text: Counties
       - href: charts.qmd

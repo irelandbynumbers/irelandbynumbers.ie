@@ -1,0 +1,43 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02199V02655,Sex,UNIT,VALUE
+WMI10C01,Minister of State,2021,2021,1,Male,Number,14.0
+WMI10C01,Minister of State,2021,2021,2,Female,Number,4.0
+WMI10C01,Minister of State,2024,2024,1,Male,Number,14.0
+WMI10C01,Minister of State,2024,2024,2,Female,Number,6.0
+WMI10C01,Minister of State,2025,2025,1,Male,Number,18.0
+WMI10C01,Minister of State,2025,2025,2,Female,Number,5.0
+WMI10C02,Dail Eireann,2021,2021,1,Male,Number,124.0
+WMI10C02,Dail Eireann,2021,2021,2,Female,Number,36.0
+WMI10C02,Dail Eireann,2024,2024,1,Male,Number,
+WMI10C02,Dail Eireann,2024,2024,2,Female,Number,
+WMI10C02,Dail Eireann,2025,2025,1,Male,Number,
+WMI10C02,Dail Eireann,2025,2025,2,Female,Number,
+WMI10C03,Government Ministers,2021,2021,1,Male,Number,11.0
+WMI10C03,Government Ministers,2021,2021,2,Female,Number,4.0
+WMI10C03,Government Ministers,2024,2024,1,Male,Number,11.0
+WMI10C03,Government Ministers,2024,2024,2,Female,Number,4.0
+WMI10C03,Government Ministers,2025,2025,1,Male,Number,11.0
+WMI10C03,Government Ministers,2025,2025,2,Female,Number,4.0
+WMI10C04,Seanad Eireann,2021,2021,1,Male,Number,36.0
+WMI10C04,Seanad Eireann,2021,2021,2,Female,Number,24.0
+WMI10C04,Seanad Eireann,2024,2024,1,Male,Number,
+WMI10C04,Seanad Eireann,2024,2024,2,Female,Number,
+WMI10C04,Seanad Eireann,2025,2025,1,Male,Number,
+WMI10C04,Seanad Eireann,2025,2025,2,Female,Number,
+WMI10C05,State Boards,2021,2021,1,Male,Number,1406.0
+WMI10C05,State Boards,2021,2021,2,Female,Number,1204.0
+WMI10C05,State Boards,2024,2024,1,Male,Number,
+WMI10C05,State Boards,2024,2024,2,Female,Number,
+WMI10C05,State Boards,2025,2025,1,Male,Number,
+WMI10C05,State Boards,2025,2025,2,Female,Number,
+WMI10C06,Candidates for Local Election,2021,2021,1,Male,Number,
+WMI10C06,Candidates for Local Election,2021,2021,2,Female,Number,
+WMI10C06,Candidates for Local Election,2024,2024,1,Male,Number,1489.0
+WMI10C06,Candidates for Local Election,2024,2024,2,Female,Number,681.0
+WMI10C06,Candidates for Local Election,2025,2025,1,Male,Number,1489.0
+WMI10C06,Candidates for Local Election,2025,2025,2,Female,Number,681.0
+WMI10C07,Member of European Parliament,2021,2021,1,Male,Number,
+WMI10C07,Member of European Parliament,2021,2021,2,Female,Number,
+WMI10C07,Member of European Parliament,2024,2024,1,Male,Number,8.0
+WMI10C07,Member of European Parliament,2024,2024,2,Female,Number,6.0
+WMI10C07,Member of European Parliament,2025,2025,1,Male,Number,8.0
+WMI10C07,Member of European Parliament,2025,2025,2,Female,Number,6.0

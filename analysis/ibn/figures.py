@@ -24,6 +24,8 @@ def lines(df, x, series, colours=None, value_format=",.0f", suffix="", prefix=""
     """One line per column in `series` (a dict of column -> label), with the
     latest value labelled at the end of each line so no legend is needed."""
     colours = colours or style.SLOTS
+    if y_range and y_range[1] is None:   # a fixed floor with room above the highest value
+        y_range = [y_range[0], float(np.nanmax(df[list(series)].to_numpy(dtype=float))) * 1.12]
     fig = go.Figure()
     for (col, label), colour in zip(series.items(), colours):
         d = df[[x, col]].dropna()
@@ -52,16 +54,25 @@ def lines(df, x, series, colours=None, value_format=",.0f", suffix="", prefix=""
 
 
 def _separate_end_labels(fig, values, y_range=None):
-    """Nudge the end-of-line labels apart when two lines finish at nearly the same value."""
+    """Move the end-of-line labels apart when lines finish at nearly the same
+    value, keeping each label as close to its line as possible."""
     anns = sorted(fig.layout.annotations, key=lambda a: a.y)
     if len(anns) < 2:
         return
     lo = y_range[0] if y_range and y_range[0] is not None else np.nanmin(values)
     hi = y_range[1] if y_range and y_range[1] is not None else np.nanmax(values)
-    gap = (hi - lo) * 0.08
-    for below, above in zip(anns, anns[1:]):
-        if above.y - below.y < gap:
-            below.yshift, above.yshift = -16, 16
+    gap = (hi - lo) * 0.11
+    ys = [a.y for a in anns]
+    placed = ys[:1]
+    for y in ys[1:]:
+        placed.append(max(y, placed[-1] + gap))
+    # centre the block of moved labels on the lines it belongs to
+    shift = (sum(placed) - sum(ys)) / len(ys)
+    placed = [p - shift for p in placed]
+    for i in range(1, len(placed)):
+        placed[i] = max(placed[i], placed[i - 1] + gap)
+    for a, y in zip(anns, placed):
+        a.y = y
 
 
 def county_map(df, county, value, time=None, colorscale=None, value_format=",.0f", suffix="",

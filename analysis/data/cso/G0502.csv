@@ -1,0 +1,61 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02199V02655,Sex,UNIT,VALUE
+G0502C01,Number of women and men elected to Dáil Éireann,1918,1st Dáil December 1918,-,Both sexes,Number,105
+G0502C01,Number of women and men elected to Dáil Éireann,1918,1st Dáil December 1918,1,Male,Number,104
+G0502C01,Number of women and men elected to Dáil Éireann,1918,1st Dáil December 1918,2,Female,Number,1
+G0502C01,Number of women and men elected to Dáil Éireann,1981,22nd Dáil June 1981,-,Both sexes,Number,166
+G0502C01,Number of women and men elected to Dáil Éireann,1981,22nd Dáil June 1981,1,Male,Number,155
+G0502C01,Number of women and men elected to Dáil Éireann,1981,22nd Dáil June 1981,2,Female,Number,11
+G0502C01,Number of women and men elected to Dáil Éireann,1992,27th Dáil November 1992,-,Both sexes,Number,166
+G0502C01,Number of women and men elected to Dáil Éireann,1992,27th Dáil November 1992,1,Male,Number,146
+G0502C01,Number of women and men elected to Dáil Éireann,1992,27th Dáil November 1992,2,Female,Number,20
+G0502C01,Number of women and men elected to Dáil Éireann,1997,28th Dáil November 1997,-,Both sexes,Number,166
+G0502C01,Number of women and men elected to Dáil Éireann,1997,28th Dáil November 1997,1,Male,Number,146
+G0502C01,Number of women and men elected to Dáil Éireann,1997,28th Dáil November 1997,2,Female,Number,20
+G0502C01,Number of women and men elected to Dáil Éireann,2002,29th Dáil November 2002,-,Both sexes,Number,165
+G0502C01,Number of women and men elected to Dáil Éireann,2002,29th Dáil November 2002,1,Male,Number,143
+G0502C01,Number of women and men elected to Dáil Éireann,2002,29th Dáil November 2002,2,Female,Number,22
+G0502C01,Number of women and men elected to Dáil Éireann,2007,30th Dáil November 2007,-,Both sexes,Number,166
+G0502C01,Number of women and men elected to Dáil Éireann,2007,30th Dáil November 2007,1,Male,Number,144
+G0502C01,Number of women and men elected to Dáil Éireann,2007,30th Dáil November 2007,2,Female,Number,22
+G0502C01,Number of women and men elected to Dáil Éireann,2011,31st Dáil November 2011,-,Both sexes,Number,165
+G0502C01,Number of women and men elected to Dáil Éireann,2011,31st Dáil November 2011,1,Male,Number,140
+G0502C01,Number of women and men elected to Dáil Éireann,2011,31st Dáil November 2011,2,Female,Number,25
+G0502C01,Number of women and men elected to Dáil Éireann,2016,32nd Dáil February 2016,-,Both sexes,Number,158
+G0502C01,Number of women and men elected to Dáil Éireann,2016,32nd Dáil February 2016,1,Male,Number,123
+G0502C01,Number of women and men elected to Dáil Éireann,2016,32nd Dáil February 2016,2,Female,Number,35
+G0502C01,Number of women and men elected to Dáil Éireann,2020,33rd Dáil February 2020,-,Both sexes,Number,160
+G0502C01,Number of women and men elected to Dáil Éireann,2020,33rd Dáil February 2020,1,Male,Number,124
+G0502C01,Number of women and men elected to Dáil Éireann,2020,33rd Dáil February 2020,2,Female,Number,36
+G0502C01,Number of women and men elected to Dáil Éireann,2024,34th Dáil February 2024,-,Both sexes,Number,174
+G0502C01,Number of women and men elected to Dáil Éireann,2024,34th Dáil February 2024,1,Male,Number,130
+G0502C01,Number of women and men elected to Dáil Éireann,2024,34th Dáil February 2024,2,Female,Number,44
+G0502C02,Percentage of women and men elected to Dáil Éireann,1918,1st Dáil December 1918,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,1918,1st Dáil December 1918,1,Male,%,99
+G0502C02,Percentage of women and men elected to Dáil Éireann,1918,1st Dáil December 1918,2,Female,%,1
+G0502C02,Percentage of women and men elected to Dáil Éireann,1981,22nd Dáil June 1981,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,1981,22nd Dáil June 1981,1,Male,%,93
+G0502C02,Percentage of women and men elected to Dáil Éireann,1981,22nd Dáil June 1981,2,Female,%,7
+G0502C02,Percentage of women and men elected to Dáil Éireann,1992,27th Dáil November 1992,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,1992,27th Dáil November 1992,1,Male,%,88
+G0502C02,Percentage of women and men elected to Dáil Éireann,1992,27th Dáil November 1992,2,Female,%,12
+G0502C02,Percentage of women and men elected to Dáil Éireann,1997,28th Dáil November 1997,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,1997,28th Dáil November 1997,1,Male,%,88
+G0502C02,Percentage of women and men elected to Dáil Éireann,1997,28th Dáil November 1997,2,Female,%,12
+G0502C02,Percentage of women and men elected to Dáil Éireann,2002,29th Dáil November 2002,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,2002,29th Dáil November 2002,1,Male,%,87
+G0502C02,Percentage of women and men elected to Dáil Éireann,2002,29th Dáil November 2002,2,Female,%,13
+G0502C02,Percentage of women and men elected to Dáil Éireann,2007,30th Dáil November 2007,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,2007,30th Dáil November 2007,1,Male,%,87
+G0502C02,Percentage of women and men elected to Dáil Éireann,2007,30th Dáil November 2007,2,Female,%,13
+G0502C02,Percentage of women and men elected to Dáil Éireann,2011,31st Dáil November 2011,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,2011,31st Dáil November 2011,1,Male,%,85
+G0502C02,Percentage of women and men elected to Dáil Éireann,2011,31st Dáil November 2011,2,Female,%,15
+G0502C02,Percentage of women and men elected to Dáil Éireann,2016,32nd Dáil February 2016,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,2016,32nd Dáil February 2016,1,Male,%,78
+G0502C02,Percentage of women and men elected to Dáil Éireann,2016,32nd Dáil February 2016,2,Female,%,22
+G0502C02,Percentage of women and men elected to Dáil Éireann,2020,33rd Dáil February 2020,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,2020,33rd Dáil February 2020,1,Male,%,78
+G0502C02,Percentage of women and men elected to Dáil Éireann,2020,33rd Dáil February 2020,2,Female,%,23
+G0502C02,Percentage of women and men elected to Dáil Éireann,2024,34th Dáil February 2024,-,Both sexes,%,100
+G0502C02,Percentage of women and men elected to Dáil Éireann,2024,34th Dáil February 2024,1,Male,%,75
+G0502C02,Percentage of women and men elected to Dáil Éireann,2024,34th Dáil February 2024,2,Female,%,25

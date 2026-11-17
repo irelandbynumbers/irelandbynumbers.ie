@@ -1,0 +1,30 @@
+---
+title: "Work, pay and care"
+description: "The gender pay gap, employment, the best-paid jobs, and unpaid care."
+---
+
+## The gender pay gap
+
+The gender pay gap compares the average hourly earnings of all male and female employees. In 2024, women in Ireland earned on average 8.3% less per hour than men, compared with 11.1% across the EU. The gap compares all jobs, so it reflects differences in the jobs, sectors and hours of women and men, as well as any differences in pay for the same work.
+
+{{< chart gender-pay-gap >}}
+
+{{< chart gender-pay-gap-eu >}}
+
+## Employment
+
+More women are in work than in the past. In 2025, 75.7% of women aged 20 to 64 were in work, up from 62.8% in 2009. The rate for men was 84.7%.
+
+{{< chart gender-employment >}}
+
+## The best-paid jobs
+
+Women hold about half of all jobs, but a smaller share of the best-paid ones. In 2025, women held 28% of the jobs in the top 1% of annual earnings, up from 18% in 2011.
+
+{{< chart gender-top-earners >}}
+
+## Unpaid care
+
+Women do more of the unpaid caring for people with an illness or disability. At the 2022 census, 61% of people who gave regular unpaid help were women, and 65% of those who gave 43 hours or more a week.
+
+{{< chart gender-carers >}}

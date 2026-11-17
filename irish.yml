@@ -36,6 +36,9 @@ topics:
   poverty:
     title: "Bochtaineacht agus neamhionannas"
     summary: "Cé mhéad duine atá i mbaol bochtaineachta nó gan bhunriachtanais, cé is mó a bhíonn thíos leis, agus cé chomh cothrom is atá ioncam roinnte."
+  gender:
+    title: "Comhionannas inscne"
+    summary: "An bhearna phá idir na hinscní, mná agus fir ag obair, cúram gan phá, agus mná sa pholaitíocht agus i gceannasaíocht gnó."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

@@ -1,0 +1,13 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Gender Equality Index"
+  path: equality-index.qmd
+  image: ../images/charts/gender-equality-index-eu.png
+  description: "How Ireland scores on the EU's Gender Equality Index, overall and by area."
+- title: "Work, pay and care"
+  path: work-and-pay.qmd
+  image: ../images/charts/gender-pay-gap.png
+  description: "The gender pay gap, employment, the best-paid jobs, and unpaid care."
+- title: "Politics and business"
+  path: leadership.qmd
+  image: ../images/charts/gender-dail.png
+  description: "Women elected to the Dáil, and women in senior roles in large companies."

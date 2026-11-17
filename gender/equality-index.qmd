@@ -1,0 +1,16 @@
+---
+title: "Gender Equality Index"
+description: "How Ireland scores on the EU's Gender Equality Index, overall and by area."
+---
+
+The Gender Equality Index is published by the European Institute for Gender Equality, an EU agency. It gives each EU country a score out of 100, where 100 would mean full equality between women and men, based on six areas: work, money, knowledge, time, power and health.
+
+In 2022, Ireland scored 73.4, compared with 71.0 for the EU as a whole, the 9th highest of the 27 countries.
+
+{{< chart gender-equality-index-eu >}}
+
+## By area
+
+Ireland scored above the EU in five of the six areas. Its highest score was for health, at 94.6. Its lowest was for time, at 59.5, below the EU score of 68.5. The time area covers how women and men share time spent on care, housework and social activities.
+
+{{< chart gender-equality-index-areas >}}
