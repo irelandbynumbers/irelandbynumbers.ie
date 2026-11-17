@@ -47,6 +47,8 @@ website:
             text: Public finances
           - href: transport/index.qmd
             text: Transport
+          - href: ai/index.qmd
+            text: Artificial intelligence
       - href: counties/index.qmd
         text: Counties
       - href: charts.qmd
@@ -75,7 +77,7 @@ website:
         href: https://github.com/irelandbynumbers/irelandbynumbers.ie
         aria-label: GitHub
   page-footer:
-    center: "Ireland by Numbers is independent and non-partisan · [How figures are checked](/methods.qmd) · [Corrections](/corrections.qmd) · Charts CC BY 4.0, code MIT · [Contact](mailto:irelandbynumbers@proton.me)"
+    center: "Ireland by Numbers is independent and non-partisan · Figures are checked for updates every Friday ([what changed](/whats-new.qmd#latest-data)) · [How figures are checked](/methods.qmd) · [Corrections](/corrections.qmd) · Charts CC BY 4.0, code MIT · [Contact](mailto:irelandbynumbers@proton.me)"
 
 format:
   html:

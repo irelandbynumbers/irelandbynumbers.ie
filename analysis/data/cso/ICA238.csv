@@ -1,0 +1,97 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03066V03701,Enterprise Size Class,UNIT,VALUE
+ICA238C01,Enterprises using Artificial Intelligence,2023,2023,-,All Enterprises,%,8.1
+ICA238C01,Enterprises using Artificial Intelligence,2023,2023,01,Small (10 to 49),%,5.4
+ICA238C01,Enterprises using Artificial Intelligence,2023,2023,02,Medium (50 to 249),%,17.8
+ICA238C01,Enterprises using Artificial Intelligence,2023,2023,03,Large (250 or more),%,36.5
+ICA238C01,Enterprises using Artificial Intelligence,2024,2024,-,All Enterprises,%,15.2
+ICA238C01,Enterprises using Artificial Intelligence,2024,2024,01,Small (10 to 49),%,12.0
+ICA238C01,Enterprises using Artificial Intelligence,2024,2024,02,Medium (50 to 249),%,25.1
+ICA238C01,Enterprises using Artificial Intelligence,2024,2024,03,Large (250 or more),%,51.2
+ICA238C01,Enterprises using Artificial Intelligence,2025,2025,-,All Enterprises,%,20.2
+ICA238C01,Enterprises using Artificial Intelligence,2025,2025,01,Small (10 to 49),%,17.2
+ICA238C01,Enterprises using Artificial Intelligence,2025,2025,02,Medium (50 to 249),%,28.6
+ICA238C01,Enterprises using Artificial Intelligence,2025,2025,03,Large (250 or more),%,57.7
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2023,2023,-,All Enterprises,%,2.8
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2023,2023,01,Small (10 to 49),%,2.0
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2023,2023,02,Medium (50 to 249),%,5.8
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2023,2023,03,Large (250 or more),%,10.9
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2024,2024,-,All Enterprises,%,5.7
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2024,2024,01,Small (10 to 49),%,4.7
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2024,2024,02,Medium (50 to 249),%,8.6
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2024,2024,03,Large (250 or more),%,18.7
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2025,2025,-,All Enterprises,%,5.4
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2025,2025,01,Small (10 to 49),%,4.5
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2025,2025,02,Medium (50 to 249),%,6.9
+ICA238C02,Enterprises using Artificial Intelligence for marketing or sales,2025,2025,03,Large (250 or more),%,20.8
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2023,2023,-,All Enterprises,%,1.6
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2023,2023,01,Small (10 to 49),%,1.3
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2023,2023,02,Medium (50 to 249),%,1.8
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2023,2023,03,Large (250 or more),%,9.9
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2024,2024,-,All Enterprises,%,3.8
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2024,2024,01,Small (10 to 49),%,2.9
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2024,2024,02,Medium (50 to 249),%,5.0
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2024,2024,03,Large (250 or more),%,20.7
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2025,2025,-,All Enterprises,%,3.3
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2025,2025,01,Small (10 to 49),%,2.3
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2025,2025,02,Medium (50 to 249),%,5.5
+ICA238C03,Enterprises using Artificial Intelligence for production processes,2025,2025,03,Large (250 or more),%,18.0
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2023,2023,-,All Enterprises,%,1.8
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2023,2023,01,Small (10 to 49),%,1.1
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2023,2023,02,Medium (50 to 249),%,3.9
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2023,2023,03,Large (250 or more),%,12.0
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2024,2024,-,All Enterprises,%,5.7
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2024,2024,01,Small (10 to 49),%,4.2
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2024,2024,02,Medium (50 to 249),%,10.1
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2024,2024,03,Large (250 or more),%,24.1
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2025,2025,-,All Enterprises,%,7.8
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2025,2025,01,Small (10 to 49),%,6.3
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2025,2025,02,Medium (50 to 249),%,12.2
+ICA238C04,Enterprises using Artificial Intelligence for business administrative processes,2025,2025,03,Large (250 or more),%,26.8
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2023,2023,-,All Enterprises,%,0.7
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2023,2023,01,Small (10 to 49),%,0.5
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2023,2023,02,Medium (50 to 249),%,1.0
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2023,2023,03,Large (250 or more),%,6.0
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2024,2024,-,All Enterprises,%,1.6
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2024,2024,01,Small (10 to 49),%,1.2
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2024,2024,02,Medium (50 to 249),%,1.9
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2024,2024,03,Large (250 or more),%,8.7
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2025,2025,-,All Enterprises,%,1.5
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2025,2025,01,Small (10 to 49),%,0.9
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2025,2025,02,Medium (50 to 249),%,3.3
+ICA238C05,Enterprises using Artificial Intelligence for logistics,2025,2025,03,Large (250 or more),%,10.0
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2023,2023,-,All Enterprises,%,1.8
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2023,2023,01,Small (10 to 49),%,0.5
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2023,2023,02,Medium (50 to 249),%,6.5
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2023,2023,03,Large (250 or more),%,13.1
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2024,2024,-,All Enterprises,%,4.0
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2024,2024,01,Small (10 to 49),%,3.1
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2024,2024,02,Medium (50 to 249),%,3.7
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2024,2024,03,Large (250 or more),%,29.1
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2025,2025,-,All Enterprises,%,5.4
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2025,2025,01,Small (10 to 49),%,3.2
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2025,2025,02,Medium (50 to 249),%,11.8
+ICA238C06,Enterprises using Artificial Intelligence for ICT services,2025,2025,03,Large (250 or more),%,31.7
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2023,2023,-,All Enterprises,%,2.1
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2023,2023,01,Small (10 to 49),%,0.9
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2023,2023,02,Medium (50 to 249),%,7.1
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2023,2023,03,Large (250 or more),%,10.3
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2024,2024,-,All Enterprises,%,3.5
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2024,2024,01,Small (10 to 49),%,2.4
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2024,2024,02,Medium (50 to 249),%,7.1
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2024,2024,03,Large (250 or more),%,15.4
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2025,2025,-,All Enterprises,%,4.7
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2025,2025,01,Small (10 to 49),%,3.7
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2025,2025,02,Medium (50 to 249),%,7.3
+ICA238C07,"Enterprises using Artificial Intelligence for accounting, controlling, or financial management",2025,2025,03,Large (250 or more),%,17.9
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2023,2023,-,All Enterprises,%,1.9
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2023,2023,01,Small (10 to 49),%,1.2
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2023,2023,02,Medium (50 to 249),%,5.0
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2023,2023,03,Large (250 or more),%,8.3
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2024,2024,-,All Enterprises,%,4.0
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2024,2024,01,Small (10 to 49),%,3.2
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2024,2024,02,Medium (50 to 249),%,6.0
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2024,2024,03,Large (250 or more),%,17.4
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2025,2025,-,All Enterprises,%,5.4
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2025,2025,01,Small (10 to 49),%,4.3
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2025,2025,02,Medium (50 to 249),%,8.0
+ICA238C08,Enterprises using Artificial Intelligence for R&D or innovation activity,2025,2025,03,Large (250 or more),%,20.5

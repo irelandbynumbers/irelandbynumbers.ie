@@ -27,6 +27,9 @@ topics:
   transport:
     title: "Iompar"
     summary: "Sábháilteacht ar bhóithre, conas a thaistealaíonn daoine, úsáid iompair phoiblí, agus na gluaisteáin ar bhóithre na hÉireann."
+  ai:
+    title: "Intleacht shaorga"
+    summary: "Conas a úsáideann gnólachtaí agus daoine IS, agus an méid leictreachais a úsáideann ionaid sonraí."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

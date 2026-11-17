@@ -1,0 +1,97 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03066V03701,Enterprise Size Class,UNIT,VALUE
+ICA237C01,Enterprises using Artificial Intelligence,2023,2023,-,All Enterprises,%,8.1
+ICA237C01,Enterprises using Artificial Intelligence,2023,2023,01,Small (10 to 49),%,5.4
+ICA237C01,Enterprises using Artificial Intelligence,2023,2023,02,Medium (50 to 249),%,17.8
+ICA237C01,Enterprises using Artificial Intelligence,2023,2023,03,Large (250 or more),%,36.5
+ICA237C01,Enterprises using Artificial Intelligence,2024,2024,-,All Enterprises,%,15.2
+ICA237C01,Enterprises using Artificial Intelligence,2024,2024,01,Small (10 to 49),%,12.0
+ICA237C01,Enterprises using Artificial Intelligence,2024,2024,02,Medium (50 to 249),%,25.1
+ICA237C01,Enterprises using Artificial Intelligence,2024,2024,03,Large (250 or more),%,51.2
+ICA237C01,Enterprises using Artificial Intelligence,2025,2025,-,All Enterprises,%,20.2
+ICA237C01,Enterprises using Artificial Intelligence,2025,2025,01,Small (10 to 49),%,17.2
+ICA237C01,Enterprises using Artificial Intelligence,2025,2025,02,Medium (50 to 249),%,28.6
+ICA237C01,Enterprises using Artificial Intelligence,2025,2025,03,Large (250 or more),%,57.7
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2023,2023,-,All Enterprises,%,2.7
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2023,2023,01,Small (10 to 49),%,1.5
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2023,2023,02,Medium (50 to 249),%,7.2
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2023,2023,03,Large (250 or more),%,14.0
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2024,2024,-,All Enterprises,%,6.5
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2024,2024,01,Small (10 to 49),%,5.1
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2024,2024,02,Medium (50 to 249),%,9.8
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2024,2024,03,Large (250 or more),%,28.1
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2025,2025,-,All Enterprises,%,10.8
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2025,2025,01,Small (10 to 49),%,9.0
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2025,2025,02,Medium (50 to 249),%,15.8
+ICA237C02,Enterprises using Artificial Intelligence for data mining,2025,2025,03,Large (250 or more),%,34.6
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2023,2023,-,All Enterprises,%,1.5
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2023,2023,01,Small (10 to 49),%,0.7
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2023,2023,02,Medium (50 to 249),%,3.9
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2023,2023,03,Large (250 or more),%,10.7
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2024,2024,-,All Enterprises,%,4.5
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2024,2024,01,Small (10 to 49),%,3.2
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2024,2024,02,Medium (50 to 249),%,8.3
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2024,2024,03,Large (250 or more),%,20.4
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2025,2025,-,All Enterprises,%,6.0
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2025,2025,01,Small (10 to 49),%,4.4
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2025,2025,02,Medium (50 to 249),%,10.9
+ICA237C03,Enterprises using Artificial Intelligence for speech recognition,2025,2025,03,Large (250 or more),%,23.8
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2023,2023,-,All Enterprises,%,2.2
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2023,2023,01,Small (10 to 49),%,1.7
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2023,2023,02,Medium (50 to 249),%,3.6
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2023,2023,03,Large (250 or more),%,10.9
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2024,2024,-,All Enterprises,%,7.4
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2024,2024,01,Small (10 to 49),%,6.3
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2024,2024,02,Medium (50 to 249),%,10.2
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2024,2024,03,Large (250 or more),%,23.6
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2025,2025,-,All Enterprises,%,9.3
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2025,2025,01,Small (10 to 49),%,7.9
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2025,2025,02,Medium (50 to 249),%,12.5
+ICA237C04,Enterprises using Artificial Intelligence for natural language generation,2025,2025,03,Large (250 or more),%,30.0
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2023,2023,-,All Enterprises,%,1.4
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2023,2023,01,Small (10 to 49),%,0.8
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2023,2023,02,Medium (50 to 249),%,3.5
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2023,2023,03,Large (250 or more),%,8.9
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2024,2024,-,All Enterprises,%,3.2
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2024,2024,01,Small (10 to 49),%,2.4
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2024,2024,02,Medium (50 to 249),%,4.7
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2024,2024,03,Large (250 or more),%,16.8
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2025,2025,-,All Enterprises,%,2.8
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2025,2025,01,Small (10 to 49),%,2.0
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2025,2025,02,Medium (50 to 249),%,4.6
+ICA237C05,Enterprises using Artificial Intelligence for image recognition or processing,2025,2025,03,Large (250 or more),%,13.8
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2023,2023,-,All Enterprises,%,3.0
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2023,2023,01,Small (10 to 49),%,1.5
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2023,2023,02,Medium (50 to 249),%,8.2
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2023,2023,03,Large (250 or more),%,20.0
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2024,2024,-,All Enterprises,%,5.6
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2024,2024,01,Small (10 to 49),%,4.1
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2024,2024,02,Medium (50 to 249),%,9.7
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2024,2024,03,Large (250 or more),%,27.6
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2025,2025,-,All Enterprises,%,6.0
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2025,2025,01,Small (10 to 49),%,4.2
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2025,2025,02,Medium (50 to 249),%,11.6
+ICA237C06,Enterprises using Artificial Intelligence for machine learning,2025,2025,03,Large (250 or more),%,27.4
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2023,2023,-,All Enterprises,%,4.4
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2023,2023,01,Small (10 to 49),%,2.3
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2023,2023,02,Medium (50 to 249),%,12.2
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2023,2023,03,Large (250 or more),%,21.9
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2024,2024,-,All Enterprises,%,6.4
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2024,2024,01,Small (10 to 49),%,4.3
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2024,2024,02,Medium (50 to 249),%,12.4
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2024,2024,03,Large (250 or more),%,30.4
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2025,2025,-,All Enterprises,%,6.2
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2025,2025,01,Small (10 to 49),%,4.3
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2025,2025,02,Medium (50 to 249),%,11.6
+ICA237C07,Enterprises using Artificial Intelligence for automating workflows or assisting in decision making,2025,2025,03,Large (250 or more),%,28.6
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2023,2023,-,All Enterprises,%,0.7
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2023,2023,01,Small (10 to 49),%,
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2023,2023,02,Medium (50 to 249),%,1.9
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2023,2023,03,Large (250 or more),%,7.8
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2024,2024,-,All Enterprises,%,1.0
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2024,2024,01,Small (10 to 49),%,0.6
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2024,2024,02,Medium (50 to 249),%,1.5
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2024,2024,03,Large (250 or more),%,9.4
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2025,2025,-,All Enterprises,%,0.8
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2025,2025,01,Small (10 to 49),%,0.3
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2025,2025,02,Medium (50 to 249),%,2.1
+ICA237C08,Enterprises using Artificial Intelligence for  enabling physical movement of machines via autonomous decisions,2025,2025,03,Large (250 or more),%,7.9

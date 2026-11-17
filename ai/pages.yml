@@ -1,0 +1,9 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Data centres"
+  path: data-centres.qmd
+  image: ../images/charts/ai-data-centre-electricity.png
+  description: "How much of Ireland's electricity data centres use."
+- title: "Using AI"
+  path: ai-use.qmd
+  image: ../images/charts/ai-generative-ai-eu.png
+  description: "How many businesses and people use AI, compared with the rest of the EU."

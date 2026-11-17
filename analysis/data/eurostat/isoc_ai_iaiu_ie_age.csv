@@ -1,0 +1,13 @@
+ind_type,ind_type_label,indic_is,indic_is_label,unit,unit_label,geo,geo_label,time,value
+Y16_24,"Individuals, 16 to 24 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,EU27_2020,European Union - 27 countries (from 2020),2025,63.81
+Y16_24,"Individuals, 16 to 24 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,IE,Ireland,2025,66.45
+Y25_34,"Individuals, 25 to 34 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,EU27_2020,European Union - 27 countries (from 2020),2025,50.65
+Y25_34,"Individuals, 25 to 34 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,IE,Ireland,2025,57.39
+Y35_44,"Individuals, 35 to 44 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,EU27_2020,European Union - 27 countries (from 2020),2025,38.96
+Y35_44,"Individuals, 35 to 44 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,IE,Ireland,2025,53.27
+Y45_54,"Individuals, 45 to 54 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,EU27_2020,European Union - 27 countries (from 2020),2025,28.35
+Y45_54,"Individuals, 45 to 54 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,IE,Ireland,2025,41.96
+Y55_64,"Individuals, 55 to 64 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,EU27_2020,European Union - 27 countries (from 2020),2025,16.49
+Y55_64,"Individuals, 55 to 64 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,IE,Ireland,2025,23.36
+Y65_74,"Individuals, 65 to 74 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,EU27_2020,European Union - 27 countries (from 2020),2025,6.5
+Y65_74,"Individuals, 65 to 74 years old",I_IUAI,Use of generative AI tools: in the last 3 months,PC_IND,Percentage of individuals,IE,Ireland,2025,10.81

@@ -7,6 +7,8 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Changes to the site
 
+**16 November 2026.** A new [Artificial intelligence](ai/index.qmd) topic, covering [data centres](ai/data-centres.qmd) and [how businesses and people use AI](ai/ai-use.qmd).
+
 **16 November 2026.** Ten new charts comparing Ireland with Northern Ireland, on population, age, fertility, place of birth, general health, home ownership, household income, cross-border commuting, travel to work and qualifications, mostly from tables the CSO and NISRA publish jointly.
 
 **16 November 2026.** Twelve new charts comparing Ireland with the other EU countries, on unemployment, living standards, poverty, inflation, price levels, house prices, government debt, road deaths, fertility, people born abroad, health spending and early school leaving.
@@ -25,6 +27,6 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Latest data
 
-Each week the site checks every source table for new figures. This table shows when each source was last updated by its publisher, and when it was last checked.
+Every Friday the site automatically checks every source table for new figures and updates any chart whose figures have changed. This table shows when each source was last updated by its publisher, and when it was last checked.
 
 {{< include _data-updates.md >}}

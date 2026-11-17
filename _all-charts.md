@@ -127,3 +127,14 @@
 - [People killed or seriously injured on the roads](/charts/transport-serious-injuries.html). Number of people killed or seriously injured in road collisions, for four types of road user, 2019 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/transport-serious-injuries.csv)
 - [How pupils and students travel to school or college](/charts/transport-travel-to-school.html). Share of people aged 5 and over travelling to school or college, by main means of travel, census 2016 and 2022. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-travel-to-school.csv)
 - [How people travel to work](/charts/transport-travel-to-work.html). Share of people travelling to work, by main means of travel, census 2016 and 2022. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/transport-travel-to-work.csv)
+
+## [Artificial intelligence](/ai/)
+
+- [Businesses using AI](/charts/ai-business-use.html). Share of businesses with 10 or more staff that use at least one AI technology, by size, 2023 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/ai-business-use.csv)
+- [Businesses using AI across the EU](/charts/ai-business-use-eu.html). Share of businesses with 10 or more staff that use at least one AI technology, EU countries, 2025. *Central Statistics Office (CSO).* [CSV](/charts/ai-business-use-eu.csv)
+- [Electricity used by data centres](/charts/ai-data-centre-electricity.html). Data centres' share of all metered electricity used in Ireland, 2015 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/ai-data-centre-electricity.csv)
+- [Electricity used by data centres and other customers](/charts/ai-data-centre-electricity-amount.html). Metered electricity consumption, terawatt hours (TWh), 2015 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/ai-data-centre-electricity-amount.csv)
+- [Data centre planning applications by county](/charts/ai-data-centre-planning-map.html). Planning applications to councils that mention a data centre, by county, 2017 to May 2026. *Department of Housing, Local Government and Heritage.* [CSV](/charts/ai-data-centre-planning-map.csv)
+- [How familiar people are with the term AI](/charts/ai-familiarity.html). Share of adults by how well they understand the term artificial intelligence (AI), 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/ai-familiarity.csv)
+- [Use of generative AI by age](/charts/ai-generative-ai-by-age.html). Share of people who used generative AI tools in the previous three months, by age, Ireland and the EU, 2025. *Eurostat.* [CSV](/charts/ai-generative-ai-by-age.csv)
+- [Use of generative AI across the EU](/charts/ai-generative-ai-eu.html). Share of people aged 16 to 74 who used generative AI tools in the previous three months, EU countries, 2025. *Eurostat.* [CSV](/charts/ai-generative-ai-eu.csv)

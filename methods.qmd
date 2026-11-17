@@ -31,7 +31,7 @@ Some statistics come with warnings from their publisher. The CSO publishes recor
 
 ## How the data is kept up to date
 
-Each week the site checks every source for new figures, rebuilds the charts and records what changed. Each chart's page shows when its source was last updated and when it was last checked. The [What's new](whats-new.qmd) page lists every source table with those dates.
+Every Friday the site automatically checks every source for new figures, rebuilds the charts and records what changed. A chart only changes when its publisher has released new figures, so many charts stay the same from week to week. Each chart's page shows when its source was last updated and when it was last checked. The [What's new](whats-new.qmd) page lists every source table with those dates.
 
 Published statistics are often revised, for example after a new census. The site always shows the latest published figures, and earlier versions of the data remain in the repository's history.
 
