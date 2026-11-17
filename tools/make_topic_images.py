@@ -272,12 +272,22 @@ def defence():
     return svg("".join(b), "A shield with a padlock")
 
 
+def elections():
+    b = [f'<rect x="0" y="330" width="{W}" height="70" fill="#e8e7e3"/>']
+    # a ballot box with a paper going in
+    b.append(f'<rect x="190" y="190" width="220" height="140" rx="6" fill="{DARK}"/>')
+    b.append(f'<rect x="250" y="182" width="100" height="10" rx="4" fill="{GOLD}"/>')
+    b.append(f'<rect x="262" y="80" width="76" height="108" rx="4" fill="#ffffff" stroke="{BLUE}" stroke-width="4"/>')
+    b.append(f'<path d="M280,130 L295,148 L322,112" fill="none" stroke="{BLUE}" stroke-width="8" stroke-linecap="round"/>')
+    return svg("".join(b), "A ballot paper going into a ballot box")
+
+
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("population", population), ("housing", housing), ("cost-of-living", cost_of_living),
                      ("economy", economy), ("education", education), ("crime", crime),
                      ("migration", migration), ("health", health), ("environment", environment),
-                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender), ("energy", energy), ("agriculture", agriculture), ("defence", defence)]:
+                     ("irish-language", irish_language), ("public-finances", public_finances), ("transport", transport), ("ai", ai), ("childhood", childhood), ("poverty", poverty), ("gender", gender), ("energy", energy), ("agriculture", agriculture), ("defence", defence), ("elections", elections)]:
         with open(os.path.join(OUT, f"topic-{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn())
         print("wrote", f"images/topic-{name}.svg")

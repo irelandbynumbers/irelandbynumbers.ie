@@ -1,0 +1,14 @@
+---
+title: "Views on elections"
+description: "Satisfaction with how elections are run, trust in the Electoral Commission, and voting as a duty."
+---
+
+Most people see voting as a duty. In 2025, 79% of people in Ireland said voting is a duty rather than a choice, and 78% said they trust the Electoral Commission, An Coimisiún Toghcháin.
+
+{{< chart elections-views-on-voting >}}
+
+## Satisfaction with how elections are run
+
+Younger adults were the most satisfied with how elections are managed. In 2025, 77% of people aged 18 to 29 were satisfied, compared with 62% of those aged 30 to 49. People who voted for a party in government were more satisfied than those who voted for another party.
+
+{{< chart elections-satisfaction >}}

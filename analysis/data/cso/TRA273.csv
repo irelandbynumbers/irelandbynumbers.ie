@@ -1,0 +1,9 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03915V04667,Voting status in last general election,UNIT,VALUE
+TRA273C01,Not satisfied (0-4),2025,2025,10,Voted for a party in Government,%,16.8
+TRA273C01,Not satisfied (0-4),2025,2025,20,Voted for a party not in Government,%,31.6
+TRA273C02,Neutral (5),2025,2025,10,Voted for a party in Government,%,9.1
+TRA273C02,Neutral (5),2025,2025,20,Voted for a party not in Government,%,9.4
+TRA273C03,Satisfied (6-10),2025,2025,10,Voted for a party in Government,%,74.1
+TRA273C03,Satisfied (6-10),2025,2025,20,Voted for a party not in Government,%,59.0
+TRA273C04,Don’t know,2025,2025,10,Voted for a party in Government,%,
+TRA273C04,Don’t know,2025,2025,20,Voted for a party not in Government,%,

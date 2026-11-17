@@ -6,3 +6,5 @@ description: "How far people in Ireland trust the armed forces, compared with ot
 In 2025, 69% of people in Ireland said they trust the armed forces, a little above the average of 66% across the countries in the OECD Trust Survey. Trust in the Defence Forces was about the same as trust in the Gardaí, at 69%, and well above trust in the government or the Oireachtas.
 
 {{< chart defence-trust-armed-forces >}}
+
+Trust in other public institutions, including the electoral system, is covered on the [Trust in institutions](../elections/trust.qmd) page.

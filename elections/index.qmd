@@ -1,0 +1,23 @@
+---
+title: "Elections and trust"
+description: "Turnout at elections, how Ireland compares with the EU, and trust in public institutions."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish elections >}}
+
+These pages show how many people vote at Dáil and European Parliament elections, how turnout compares with other EU countries, how far people trust the electoral system and other public institutions, and what people think of how elections are run. Women in the Dáil are covered in the [Gender equality](../gender/leadership.qmd) topic.
+
+{{< key-facts elections-turnout elections-turnout-eu elections-trust-institutions elections-views-on-voting >}}
+
+:::{#pages}
+:::

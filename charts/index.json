@@ -3729,6 +3729,173 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "elections-satisfaction",
+  "topic": "elections",
+  "title": "Satisfaction with how elections are run",
+  "subtitle": "Share of people satisfied with how elections are managed in Ireland, by age and by how they voted at the last general election, 2025.",
+  "kind": "chart",
+  "page": "/charts/elections-satisfaction.html",
+  "csv": "/charts/elections-satisfaction.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Satisfaction with how elections are managed, by age (TRA269)",
+    "url": "https://data.cso.ie/table/TRA269",
+    "licence": "CC BY 4.0",
+    "code": "TRA269",
+    "updated": "2026-06-29",
+    "checked": "2026-11-17"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Satisfaction with how elections are managed, by voting status (TRA273)",
+    "url": "https://data.cso.ie/table/TRA273",
+    "licence": "CC BY 4.0",
+    "code": "TRA273",
+    "updated": "2026-06-29",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 77% of people aged 18 to 29 were satisfied with how elections are managed in Ireland, compared with 62% of those aged 30 to 49.",
+  "listed": true,
+  "updated": "2026-06-29",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "elections-trust-government-oecd",
+  "topic": "elections",
+  "title": "Trust in national government across countries",
+  "subtitle": "Share of people who trust their national government, OECD Trust Survey countries, 2025.",
+  "kind": "chart",
+  "page": "/charts/elections-trust-government-oecd.html",
+  "csv": "/charts/elections-trust-government-oecd.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "OECD Trust Survey, trust in institutions across countries (TRA312)",
+    "url": "https://data.cso.ie/table/TRA312",
+    "licence": "CC BY 4.0",
+    "code": "TRA312",
+    "updated": "2026-09-15",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 44% of people in Ireland said they trust the national government, compared with an OECD average of 40%. Ireland ranked 13th of the 38 countries with figures.",
+  "listed": true,
+  "updated": "2026-09-15",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "elections-trust-institutions",
+  "topic": "elections",
+  "title": "Trust in public institutions",
+  "subtitle": "Share of people in Ireland who trust each institution, 2025.",
+  "kind": "chart",
+  "page": "/charts/elections-trust-institutions.html",
+  "csv": "/charts/elections-trust-institutions.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Trust Survey, trust in people and institutions (TRA102)",
+    "url": "https://data.cso.ie/table/TRA102",
+    "licence": "CC BY 4.0",
+    "code": "TRA102",
+    "updated": "2026-06-29",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 77% of people in Ireland said they trust the electoral system, compared with 44% for the government and 27% for political parties.",
+  "listed": true,
+  "updated": "2026-06-29",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "elections-turnout",
+  "topic": "elections",
+  "title": "Turnout at elections",
+  "subtitle": "Turnout at Dáil and European Parliament elections in Ireland, 1948 to 2024.",
+  "kind": "chart",
+  "page": "/charts/elections-turnout.html",
+  "csv": "/charts/elections-turnout.csv",
+  "sources": [
+   {
+    "publisher": "International IDEA",
+    "title": "Voter Turnout Database",
+    "url": "https://www.idea.int/data-tools/data/voter-turnout-database",
+    "licence": "CC BY-NC-SA 3.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "Turnout at the 2024 general election was 59.7%, compared with 76.9% in 1969, the highest since 1948. Turnout at the 2024 European Parliament election was 50.1%.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "elections-turnout-eu",
+  "topic": "elections",
+  "title": "Turnout at national elections across the EU",
+  "subtitle": "Turnout at the most recent national parliamentary election in each EU country.",
+  "kind": "chart",
+  "page": "/charts/elections-turnout-eu.html",
+  "csv": "/charts/elections-turnout-eu.csv",
+  "sources": [
+   {
+    "publisher": "International IDEA",
+    "title": "Voter Turnout Database",
+    "url": "https://www.idea.int/data-tools/data/voter-turnout-database",
+    "licence": "CC BY-NC-SA 3.0",
+    "code": ""
+   }
+  ],
+  "key_fact": "Turnout at Ireland's 2024 general election was 59.7%. Comparing each country's most recent national election, Ireland's turnout was the 7th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "elections-views-on-voting",
+  "topic": "elections",
+  "title": "Views on voting and elections",
+  "subtitle": "Share of people in Ireland who hold each view, 2025.",
+  "kind": "chart",
+  "page": "/charts/elections-views-on-voting.html",
+  "csv": "/charts/elections-views-on-voting.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Perception of voting as a duty or choice (TRA274)",
+    "url": "https://data.cso.ie/table/TRA274",
+    "licence": "CC BY 4.0",
+    "code": "TRA274",
+    "updated": "2026-06-29",
+    "checked": "2026-11-17"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Trust in the Electoral Commission (An Coimisiún Toghcháin) (TRA306)",
+    "url": "https://data.cso.ie/table/TRA306",
+    "licence": "CC BY 4.0",
+    "code": "TRA306",
+    "updated": "2026-07-29",
+    "checked": "2026-11-17"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Trust Survey, trust in people and institutions (TRA102)",
+    "url": "https://data.cso.ie/table/TRA102",
+    "licence": "CC BY 4.0",
+    "code": "TRA102",
+    "updated": "2026-06-29",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2025, 79% of people in Ireland saw voting as a duty rather than a choice, and 78% said they trust the Electoral Commission.",
+  "listed": true,
+  "updated": "2026-07-29",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",

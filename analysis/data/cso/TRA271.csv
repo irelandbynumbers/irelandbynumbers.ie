@@ -1,0 +1,13 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03917V04669,Education attained,UNIT,VALUE
+TRA271C01,Not satisfied (0-4),2025,2025,30,Lower than leaving certificate,%,45.7
+TRA271C01,Not satisfied (0-4),2025,2025,40,Leaving certificate or technical/vocational (e.g. PLCs/SOLAS/FÁS) certificate or equivalent,%,30.0
+TRA271C01,Not satisfied (0-4),2025,2025,50,Higher certificate/diploma/ordinary degree or higher,%,17.9
+TRA271C02,Neutral (5),2025,2025,30,Lower than leaving certificate,%,12.5
+TRA271C02,Neutral (5),2025,2025,40,Leaving certificate or technical/vocational (e.g. PLCs/SOLAS/FÁS) certificate or equivalent,%,11.7
+TRA271C02,Neutral (5),2025,2025,50,Higher certificate/diploma/ordinary degree or higher,%,7.5
+TRA271C03,Satisfied (6-10),2025,2025,30,Lower than leaving certificate,%,41.8
+TRA271C03,Satisfied (6-10),2025,2025,40,Leaving certificate or technical/vocational (e.g. PLCs/SOLAS/FÁS) certificate or equivalent,%,58.3
+TRA271C03,Satisfied (6-10),2025,2025,50,Higher certificate/diploma/ordinary degree or higher,%,74.7
+TRA271C04,Don’t know,2025,2025,30,Lower than leaving certificate,%,
+TRA271C04,Don’t know,2025,2025,40,Leaving certificate or technical/vocational (e.g. PLCs/SOLAS/FÁS) certificate or equivalent,%,
+TRA271C04,Don’t know,2025,2025,50,Higher certificate/diploma/ordinary degree or higher,%,
