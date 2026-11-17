@@ -1,0 +1,20 @@
+---
+title: "Children's health"
+description: "Infant mortality, birth weight and children's general health."
+---
+
+Far fewer babies die in their first year than in the past. In 2024, 3.3 babies in every 1,000 born in Ireland died before their first birthday, compared with 29.3 in 1960. Ireland's rate is now close to the EU average.
+
+{{< chart childhood-infant-mortality >}}
+
+## Birth weight
+
+A low birth weight, under 2,500 grams, can be a sign of health problems. In 2023, 6.3% of babies born in Ireland had a low birth weight, compared with 5.3% in 2009.
+
+{{< chart childhood-low-birth-weight >}}
+
+## General health
+
+Most children are in good health. In a CSO household survey in 2025, the health of 94% of children aged 3 to 14 was described as good or very good.
+
+{{< chart childhood-general-health >}}

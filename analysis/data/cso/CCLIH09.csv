@@ -1,0 +1,31 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02258V02730,Type of Family Unit,C03492V04220,Number of Children,UNIT,VALUE
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,620,Married couple with children,10,1 child,%,9.1
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,620,Married couple with children,20,2 children,%,9.2
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,620,Married couple with children,30,3 children,%,12.4
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,620,Married couple with children,40,4 children,%,20.3
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,620,Married couple with children,99,5 or more children,%,41.1
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,620,Married couple with children,-,All households with children,%,12.2
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,618,Cohabiting couple with children,10,1 child,%,11.3
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,618,Cohabiting couple with children,20,2 children,%,16.9
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,618,Cohabiting couple with children,30,3 children,%,27.9
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,618,Cohabiting couple with children,40,4 children,%,42.9
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,618,Cohabiting couple with children,99,5 or more children,%,55.7
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,618,Cohabiting couple with children,-,All households with children,%,20.9
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1101,One parent mother with children,10,1 child,%,20.4
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1101,One parent mother with children,20,2 children,%,28.2
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1101,One parent mother with children,30,3 children,%,38.4
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1101,One parent mother with children,40,4 children,%,50.5
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1101,One parent mother with children,99,5 or more children,%,59.4
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1101,One parent mother with children,-,All households with children,%,30.1
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1112,One parent father with children,10,1 child,%,24.9
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1112,One parent father with children,20,2 children,%,27.3
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1112,One parent father with children,30,3 children,%,37.5
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1112,One parent father with children,40,4 children,%,45.3
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1112,One parent father with children,99,5 or more children,%,56.5
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,1112,One parent father with children,-,All households with children,%,29.3
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,-,All family units,10,1 child,%,12.6
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,-,All family units,20,2 children,%,13.0
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,-,All family units,30,3 children,%,16.8
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,-,All family units,40,4 children,%,26.0
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,-,All family units,99,5 or more children,%,45.6
+CCLIH09C01,Children below 60% median equivalised net administrative income,2022,2022,-,All family units,-,All households with children,%,16.1

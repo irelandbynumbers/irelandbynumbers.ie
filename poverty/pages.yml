@@ -1,0 +1,17 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Poverty and deprivation"
+  path: rates.qmd
+  image: ../images/charts/poverty-rates.png
+  description: "How many people are at risk of poverty or cannot afford basics, and the effect of social welfare."
+- title: "Who is most affected"
+  path: who.qmd
+  image: ../images/charts/poverty-by-household.png
+  description: "Poverty and deprivation by age, type of household and work status."
+- title: "Child poverty"
+  path: child-poverty.qmd
+  image: ../images/charts/poverty-child-low-income-map.png
+  description: "Children at risk of poverty and in low-income households, by county and type of family, compared with the EU."
+- title: "Income inequality"
+  path: inequality.qmd
+  image: ../images/charts/poverty-inequality-eu.png
+  description: "How evenly income is shared, before and after tax and social welfare, compared with the EU."

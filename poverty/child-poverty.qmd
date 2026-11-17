@@ -1,0 +1,32 @@
+---
+title: "Child poverty"
+description: "Children at risk of poverty and in low-income households, by county and type of family, compared with the rest of the EU."
+---
+
+In 2025, 16.9% of children aged under 18 were at risk of poverty, a higher share than for any other age group. 19.6% experienced deprivation, meaning their household could not afford two or more basic items, and 7.8% were in consistent poverty, meaning both at the same time. These figures come from the CSO's Survey on Income and Living Conditions.
+
+{{< chart poverty-child-rates >}}
+
+## Low income by county
+
+The CSO also counts children in low-income households from administrative records, which makes it possible to compare counties. In 2022, 16.1% of children in Ireland lived in a household with an income below 60% of the national median, after adjusting for the size of the household. 
+
+The share varied a lot between counties, from 12.2% in Dublin to 28.2% in Donegal.
+
+{{< chart poverty-child-low-income-map >}}
+
+## Type of family
+
+Children living with one parent were far more likely to be in a low-income household. About 30% of children living with a lone mother or a lone father were in low-income households, compared with 12% of children of married couples.
+
+{{< chart poverty-child-low-income-by-family >}}
+
+Whether parents work makes the biggest difference. 62% of children in households where no parent was at work lived on a low income, compared with 24% where one parent was at work and 4% where two parents were.
+
+{{< chart poverty-child-low-income-by-work >}}
+
+## Compared with the EU
+
+Eurostat compares countries using a wider measure, the share of children at risk of poverty or social exclusion. It counts children in low-income households, in households that cannot afford a number of basic items, and in households where adults work very little. In 2025, 23.7% of children in Ireland were at risk of poverty or social exclusion, close to the EU average of 24.3%. This is a different measure from the CSO figures above, so the two should not be compared directly.
+
+{{< chart poverty-child-eu >}}

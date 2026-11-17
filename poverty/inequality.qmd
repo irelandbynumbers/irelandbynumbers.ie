@@ -1,0 +1,16 @@
+---
+title: "Income inequality"
+description: "How evenly income is shared, before and after tax and social welfare, compared with the EU."
+---
+
+The Gini coefficient is a common measure of how evenly income is shared. It would be 0 if every household had the same income and 100 if one household had all of it.
+
+Income from work and investments is shared unevenly in Ireland, but tax and social welfare narrow the gap a lot. In 2025, the Gini coefficient for household income before tax and social welfare was 45.5. After them, it was 27.4.
+
+{{< chart poverty-inequality >}}
+
+## Compared with the EU
+
+After tax and social welfare, income in Ireland is shared a little more evenly than in the EU as a whole. In 2025, Ireland's Gini coefficient was 27.2, compared with 29.2 for the EU, the 8th lowest of the 27 countries.
+
+{{< chart poverty-inequality-eu >}}

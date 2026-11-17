@@ -1,0 +1,529 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C01781V03128,Household Composition,UNIT,VALUE
+SIA64C01,Median Real Household Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,17150.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,24412.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,37575.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,53099.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,13,3 or more adults,Euro,66015.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,29724.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,57367.0
+SIA64C01,Median Real Household Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,65973.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,17749.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,24217.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,39060.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,52937.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,13,3 or more adults,Euro,73800.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,33533.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,62638.0
+SIA64C01,Median Real Household Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,70419.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,16496.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,23523.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,38034.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,57900.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,13,3 or more adults,Euro,77859.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,34736.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,61218.0
+SIA64C01,Median Real Household Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,73602.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,17967.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,24927.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,40207.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,55550.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,13,3 or more adults,Euro,72008.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,33630.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,59920.0
+SIA64C01,Median Real Household Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,67833.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,17167.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,27375.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,38271.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,55095.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,13,3 or more adults,Euro,73327.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,33303.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,60096.0
+SIA64C01,Median Real Household Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,72364.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,18616.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,26956.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,40160.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,55946.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,13,3 or more adults,Euro,74618.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,32771.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,64056.0
+SIA64C01,Median Real Household Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,74953.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,22460.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,28142.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,46379.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,56710.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,13,3 or more adults,Euro,75274.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,32798.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,66193.0
+SIA64C02,Mean Real Household Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,72423.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,23656.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,28623.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,46080.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,57425.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,13,3 or more adults,Euro,84912.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,34413.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,69189.0
+SIA64C02,Mean Real Household Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,78501.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,23210.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,30049.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,46672.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,61533.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,13,3 or more adults,Euro,87111.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,35096.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,69299.0
+SIA64C02,Mean Real Household Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,83467.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,24092.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,27813.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,48975.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,63291.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,13,3 or more adults,Euro,80993.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,36230.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,67164.0
+SIA64C02,Mean Real Household Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,75439.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,23165.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,30382.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,46828.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,61521.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,13,3 or more adults,Euro,85475.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,33582.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,66017.0
+SIA64C02,Mean Real Household Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,81277.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,24720.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,30707.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,50486.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,62971.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,13,3 or more adults,Euro,84302.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,35318.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,71171.0
+SIA64C02,Mean Real Household Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,83225.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,17150.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,24412.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,37575.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,53099.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,13,3 or more adults,Euro,66015.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,29724.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,57367.0
+SIA64C03,Median Nominal Household Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,65973.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,17690.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,24136.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,38929.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,52760.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,13,3 or more adults,Euro,73553.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,33421.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,62428.0
+SIA64C03,Median Nominal Household Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,70183.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,16826.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,23994.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,38796.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,59060.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,13,3 or more adults,Euro,79419.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,35432.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,62444.0
+SIA64C03,Median Nominal Household Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,75077.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,19753.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,27405.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,44204.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,61073.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,13,3 or more adults,Euro,79167.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,36973.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,65877.0
+SIA64C03,Median Nominal Household Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,74577.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,20067.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,32000.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,44737.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,64403.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,13,3 or more adults,Euro,85716.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,38929.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,70249.0
+SIA64C03,Median Nominal Household Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,84590.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,22237.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,32199.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,47972.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,66828.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,13,3 or more adults,Euro,89132.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,39146.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,76516.0
+SIA64C03,Median Nominal Household Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,89532.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,22460.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,28142.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,46379.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,56710.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,13,3 or more adults,Euro,75274.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,32798.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,66193.0
+SIA64C04,Mean Nominal Household Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,72423.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,23577.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,28527.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,45926.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,57233.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,13,3 or more adults,Euro,84628.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,34298.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,68957.0
+SIA64C04,Mean Nominal Household Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,78238.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,23675.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,30651.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,47607.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,62766.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,13,3 or more adults,Euro,88856.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,35799.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,70687.0
+SIA64C04,Mean Nominal Household Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,85139.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,26487.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,30578.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,53844.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,69583.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,13,3 or more adults,Euro,89045.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,39832.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,73841.0
+SIA64C04,Mean Nominal Household Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,82939.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,27079.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,35515.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,54740.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,71915.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,13,3 or more adults,Euro,99916.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,39256.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,77170.0
+SIA64C04,Mean Nominal Household Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,95009.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,29528.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,36680.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,60306.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,75220.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,13,3 or more adults,Euro,100700.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,42188.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,85015.0
+SIA64C04,Mean Nominal Household Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,99414.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,17150.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,24412.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,22635.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,32457.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,13,3 or more adults,Euro,26824.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,18054.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,24966.0
+SIA64C05,Median Equivalised Real Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,20675.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,17749.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,24217.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,23530.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,32213.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,13,3 or more adults,Euro,29305.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,20090.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,26562.0
+SIA64C05,Median Equivalised Real Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,22433.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,16496.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,23523.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,22912.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,34879.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,13,3 or more adults,Euro,29896.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,18515.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,26605.0
+SIA64C05,Median Equivalised Real Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,23661.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,17967.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,24927.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,24221.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,33464.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,13,3 or more adults,Euro,28296.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,19678.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,25564.0
+SIA64C05,Median Equivalised Real Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,21312.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,17167.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,27375.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,23055.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,33190.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,13,3 or more adults,Euro,29246.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,19788.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,25893.0
+SIA64C05,Median Equivalised Real Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,23098.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,18616.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,26956.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,24193.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,33702.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,13,3 or more adults,Euro,29577.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,18660.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,26925.0
+SIA64C05,Median Equivalised Real Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,23486.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,22460.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,28142.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,27960.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,34874.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,13,3 or more adults,Euro,29874.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,19532.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,28421.0
+SIA64C06,Mean Equivalised Real Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,22708.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,23656.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,28623.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,27759.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,34942.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,13,3 or more adults,Euro,33147.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,20893.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,29600.0
+SIA64C06,Mean Equivalised Real Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,24677.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,23210.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,30049.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,28116.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,37068.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,13,3 or more adults,Euro,33607.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,20257.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,29413.0
+SIA64C06,Mean Equivalised Real Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,26182.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,24092.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,27813.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,29503.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,38126.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,13,3 or more adults,Euro,31869.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,22230.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,28613.0
+SIA64C06,Mean Equivalised Real Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,23814.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,23165.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,30382.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,28220.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,37061.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,13,3 or more adults,Euro,33070.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,20176.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,28318.0
+SIA64C06,Mean Equivalised Real Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,25142.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,24720.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,30707.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,30413.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,37935.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,13,3 or more adults,Euro,32343.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,21535.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,30224.0
+SIA64C06,Mean Equivalised Real Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,25709.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,17150.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,24412.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,22635.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,32457.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,13,3 or more adults,Euro,26824.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,18054.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,24966.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,20675.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,17690.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,24136.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,23451.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,32105.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,13,3 or more adults,Euro,29207.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,20023.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,26473.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,22358.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,16826.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,23994.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,23371.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,35578.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,13,3 or more adults,Euro,30495.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,18886.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,27138.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,24135.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,19753.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,27405.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,26629.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,36791.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,13,3 or more adults,Euro,31109.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,21634.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,28106.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,23431.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,20067.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,32000.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,26950.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,38797.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,13,3 or more adults,Euro,34187.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,23131.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,30268.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,27000.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,22237.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,32199.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,28899.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,40258.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,13,3 or more adults,Euro,35330.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,22290.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,32162.0
+SIA64C07,Median Equivalised Nominal Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,28054.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,9,1 adult aged 65 years and over,Euro,22460.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,10,1 adult aged less than 65 years,Euro,28142.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,11,"2 adults, at least 1 aged 65 years and over",Euro,27960.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,12,"2 adults, both aged less than 65 years",Euro,34874.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,13,3 or more adults,Euro,29874.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,6,"1 adult, with children under 18 years",Euro,19532.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,7,"2 adults, with 1-3 children under 18 years",Euro,28421.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2020,2020,8,Other households with children under 18 years,Euro,22708.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,9,1 adult aged 65 years and over,Euro,23577.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,10,1 adult aged less than 65 years,Euro,28527.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,11,"2 adults, at least 1 aged 65 years and over",Euro,27666.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,12,"2 adults, both aged less than 65 years",Euro,34825.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,13,3 or more adults,Euro,33036.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,6,"1 adult, with children under 18 years",Euro,20823.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,7,"2 adults, with 1-3 children under 18 years",Euro,29501.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2021,2021,8,Other households with children under 18 years,Euro,24594.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,9,1 adult aged 65 years and over,Euro,23675.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,10,1 adult aged less than 65 years,Euro,30651.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,11,"2 adults, at least 1 aged 65 years and over",Euro,28679.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,12,"2 adults, both aged less than 65 years",Euro,37811.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,13,3 or more adults,Euro,34280.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,6,"1 adult, with children under 18 years",Euro,20663.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,7,"2 adults, with 1-3 children under 18 years",Euro,30002.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2022,2022,8,Other households with children under 18 years,Euro,26707.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,9,1 adult aged 65 years and over,Euro,26487.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,10,1 adult aged less than 65 years,Euro,30578.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,11,"2 adults, at least 1 aged 65 years and over",Euro,32436.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,12,"2 adults, both aged less than 65 years",Euro,41917.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,13,3 or more adults,Euro,35037.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,6,"1 adult, with children under 18 years",Euro,24440.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,7,"2 adults, with 1-3 children under 18 years",Euro,31458.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2023,2023,8,Other households with children under 18 years,Euro,26182.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,9,1 adult aged 65 years and over,Euro,27079.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,10,1 adult aged less than 65 years,Euro,35515.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,11,"2 adults, at least 1 aged 65 years and over",Euro,32988.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,12,"2 adults, both aged less than 65 years",Euro,43322.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,13,3 or more adults,Euro,38657.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,6,"1 adult, with children under 18 years",Euro,23585.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,7,"2 adults, with 1-3 children under 18 years",Euro,33102.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2024,2024,8,Other households with children under 18 years,Euro,29390.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,9,1 adult aged 65 years and over,Euro,29528.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,10,1 adult aged less than 65 years,Euro,36680.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,11,"2 adults, at least 1 aged 65 years and over",Euro,36329.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,12,"2 adults, both aged less than 65 years",Euro,45314.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,13,3 or more adults,Euro,38634.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,6,"1 adult, with children under 18 years",Euro,25724.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,7,"2 adults, with 1-3 children under 18 years",Euro,36103.0
+SIA64C08,Mean Equivalised Nominal Disposable Income,2025,2025,8,Other households with children under 18 years,Euro,30710.0
+SIA64C09,At Risk of Poverty Rate,2020,2020,9,1 adult aged 65 years and over,%,21.5
+SIA64C09,At Risk of Poverty Rate,2020,2020,10,1 adult aged less than 65 years,%,26.9
+SIA64C09,At Risk of Poverty Rate,2020,2020,11,"2 adults, at least 1 aged 65 years and over",%,4.7
+SIA64C09,At Risk of Poverty Rate,2020,2020,12,"2 adults, both aged less than 65 years",%,9.1
+SIA64C09,At Risk of Poverty Rate,2020,2020,13,3 or more adults,%,8.3
+SIA64C09,At Risk of Poverty Rate,2020,2020,6,"1 adult, with children under 18 years",%,29.8
+SIA64C09,At Risk of Poverty Rate,2020,2020,7,"2 adults, with 1-3 children under 18 years",%,9.5
+SIA64C09,At Risk of Poverty Rate,2020,2020,8,Other households with children under 18 years,%,19.8
+SIA64C09,At Risk of Poverty Rate,2021,2021,9,1 adult aged 65 years and over,%,29.1
+SIA64C09,At Risk of Poverty Rate,2021,2021,10,1 adult aged less than 65 years,%,27.3
+SIA64C09,At Risk of Poverty Rate,2021,2021,11,"2 adults, at least 1 aged 65 years and over",%,9.2
+SIA64C09,At Risk of Poverty Rate,2021,2021,12,"2 adults, both aged less than 65 years",%,7.4
+SIA64C09,At Risk of Poverty Rate,2021,2021,13,3 or more adults,%,6.4
+SIA64C09,At Risk of Poverty Rate,2021,2021,6,"1 adult, with children under 18 years",%,20.6
+SIA64C09,At Risk of Poverty Rate,2021,2021,7,"2 adults, with 1-3 children under 18 years",%,10.3
+SIA64C09,At Risk of Poverty Rate,2021,2021,8,Other households with children under 18 years,%,14.8
+SIA64C09,At Risk of Poverty Rate,2022,2022,9,1 adult aged 65 years and over,%,41.3
+SIA64C09,At Risk of Poverty Rate,2022,2022,10,1 adult aged less than 65 years,%,32.5
+SIA64C09,At Risk of Poverty Rate,2022,2022,11,"2 adults, at least 1 aged 65 years and over",%,17.3
+SIA64C09,At Risk of Poverty Rate,2022,2022,12,"2 adults, both aged less than 65 years",%,5.5
+SIA64C09,At Risk of Poverty Rate,2022,2022,13,3 or more adults,%,4.7
+SIA64C09,At Risk of Poverty Rate,2022,2022,6,"1 adult, with children under 18 years",%,27.0
+SIA64C09,At Risk of Poverty Rate,2022,2022,7,"2 adults, with 1-3 children under 18 years",%,11.8
+SIA64C09,At Risk of Poverty Rate,2022,2022,8,Other households with children under 18 years,%,10.8
+SIA64C09,At Risk of Poverty Rate,2023,2023,9,1 adult aged 65 years and over,%,15.4
+SIA64C09,At Risk of Poverty Rate,2023,2023,10,1 adult aged less than 65 years,%,27.1
+SIA64C09,At Risk of Poverty Rate,2023,2023,11,"2 adults, at least 1 aged 65 years and over",%,8.4
+SIA64C09,At Risk of Poverty Rate,2023,2023,12,"2 adults, both aged less than 65 years",%,4.7
+SIA64C09,At Risk of Poverty Rate,2023,2023,13,3 or more adults,%,3.5
+SIA64C09,At Risk of Poverty Rate,2023,2023,6,"1 adult, with children under 18 years",%,19.2
+SIA64C09,At Risk of Poverty Rate,2023,2023,7,"2 adults, with 1-3 children under 18 years",%,14.2
+SIA64C09,At Risk of Poverty Rate,2023,2023,8,Other households with children under 18 years,%,10.5
+SIA64C09,At Risk of Poverty Rate,2024,2024,9,1 adult aged 65 years and over,%,25.9
+SIA64C09,At Risk of Poverty Rate,2024,2024,10,1 adult aged less than 65 years,%,24.0
+SIA64C09,At Risk of Poverty Rate,2024,2024,11,"2 adults, at least 1 aged 65 years and over",%,11.4
+SIA64C09,At Risk of Poverty Rate,2024,2024,12,"2 adults, both aged less than 65 years",%,5.0
+SIA64C09,At Risk of Poverty Rate,2024,2024,13,3 or more adults,%,5.3
+SIA64C09,At Risk of Poverty Rate,2024,2024,6,"1 adult, with children under 18 years",%,24.2
+SIA64C09,At Risk of Poverty Rate,2024,2024,7,"2 adults, with 1-3 children under 18 years",%,12.6
+SIA64C09,At Risk of Poverty Rate,2024,2024,8,Other households with children under 18 years,%,13.3
+SIA64C09,At Risk of Poverty Rate,2025,2025,9,1 adult aged 65 years and over,%,30.3
+SIA64C09,At Risk of Poverty Rate,2025,2025,10,1 adult aged less than 65 years,%,20.0
+SIA64C09,At Risk of Poverty Rate,2025,2025,11,"2 adults, at least 1 aged 65 years and over",%,11.4
+SIA64C09,At Risk of Poverty Rate,2025,2025,12,"2 adults, both aged less than 65 years",%,5.2
+SIA64C09,At Risk of Poverty Rate,2025,2025,13,3 or more adults,%,6.4
+SIA64C09,At Risk of Poverty Rate,2025,2025,6,"1 adult, with children under 18 years",%,17.1
+SIA64C09,At Risk of Poverty Rate,2025,2025,7,"2 adults, with 1-3 children under 18 years",%,13.6
+SIA64C09,At Risk of Poverty Rate,2025,2025,8,Other households with children under 18 years,%,16.8
+SIA64C10,Enforced Deprivation Rate,2020,2020,9,1 adult aged 65 years and over,%,11.0
+SIA64C10,Enforced Deprivation Rate,2020,2020,10,1 adult aged less than 65 years,%,22.0
+SIA64C10,Enforced Deprivation Rate,2020,2020,11,"2 adults, at least 1 aged 65 years and over",%,6.6
+SIA64C10,Enforced Deprivation Rate,2020,2020,12,"2 adults, both aged less than 65 years",%,11.4
+SIA64C10,Enforced Deprivation Rate,2020,2020,13,3 or more adults,%,9.2
+SIA64C10,Enforced Deprivation Rate,2020,2020,6,"1 adult, with children under 18 years",%,41.1
+SIA64C10,Enforced Deprivation Rate,2020,2020,7,"2 adults, with 1-3 children under 18 years",%,12.4
+SIA64C10,Enforced Deprivation Rate,2020,2020,8,Other households with children under 18 years,%,20.7
+SIA64C10,Enforced Deprivation Rate,2021,2021,9,1 adult aged 65 years and over,%,12.4
+SIA64C10,Enforced Deprivation Rate,2021,2021,10,1 adult aged less than 65 years,%,19.9
+SIA64C10,Enforced Deprivation Rate,2021,2021,11,"2 adults, at least 1 aged 65 years and over",%,6.7
+SIA64C10,Enforced Deprivation Rate,2021,2021,12,"2 adults, both aged less than 65 years",%,15.0
+SIA64C10,Enforced Deprivation Rate,2021,2021,13,3 or more adults,%,10.6
+SIA64C10,Enforced Deprivation Rate,2021,2021,6,"1 adult, with children under 18 years",%,44.2
+SIA64C10,Enforced Deprivation Rate,2021,2021,7,"2 adults, with 1-3 children under 18 years",%,11.2
+SIA64C10,Enforced Deprivation Rate,2021,2021,8,Other households with children under 18 years,%,15.7
+SIA64C10,Enforced Deprivation Rate,2022,2022,9,1 adult aged 65 years and over,%,17.2
+SIA64C10,Enforced Deprivation Rate,2022,2022,10,1 adult aged less than 65 years,%,23.9
+SIA64C10,Enforced Deprivation Rate,2022,2022,11,"2 adults, at least 1 aged 65 years and over",%,9.0
+SIA64C10,Enforced Deprivation Rate,2022,2022,12,"2 adults, both aged less than 65 years",%,16.0
+SIA64C10,Enforced Deprivation Rate,2022,2022,13,3 or more adults,%,11.7
+SIA64C10,Enforced Deprivation Rate,2022,2022,6,"1 adult, with children under 18 years",%,45.4
+SIA64C10,Enforced Deprivation Rate,2022,2022,7,"2 adults, with 1-3 children under 18 years",%,17.4
+SIA64C10,Enforced Deprivation Rate,2022,2022,8,Other households with children under 18 years,%,16.5
+SIA64C10,Enforced Deprivation Rate,2023,2023,9,1 adult aged 65 years and over,%,20.0
+SIA64C10,Enforced Deprivation Rate,2023,2023,10,1 adult aged less than 65 years,%,25.7
+SIA64C10,Enforced Deprivation Rate,2023,2023,11,"2 adults, at least 1 aged 65 years and over",%,7.2
+SIA64C10,Enforced Deprivation Rate,2023,2023,12,"2 adults, both aged less than 65 years",%,12.4
+SIA64C10,Enforced Deprivation Rate,2023,2023,13,3 or more adults,%,12.8
+SIA64C10,Enforced Deprivation Rate,2023,2023,6,"1 adult, with children under 18 years",%,41.4
+SIA64C10,Enforced Deprivation Rate,2023,2023,7,"2 adults, with 1-3 children under 18 years",%,17.7
+SIA64C10,Enforced Deprivation Rate,2023,2023,8,Other households with children under 18 years,%,22.0
+SIA64C10,Enforced Deprivation Rate,2024,2024,9,1 adult aged 65 years and over,%,11.7
+SIA64C10,Enforced Deprivation Rate,2024,2024,10,1 adult aged less than 65 years,%,22.7
+SIA64C10,Enforced Deprivation Rate,2024,2024,11,"2 adults, at least 1 aged 65 years and over",%,6.9
+SIA64C10,Enforced Deprivation Rate,2024,2024,12,"2 adults, both aged less than 65 years",%,17.6
+SIA64C10,Enforced Deprivation Rate,2024,2024,13,3 or more adults,%,7.9
+SIA64C10,Enforced Deprivation Rate,2024,2024,6,"1 adult, with children under 18 years",%,46.3
+SIA64C10,Enforced Deprivation Rate,2024,2024,7,"2 adults, with 1-3 children under 18 years",%,16.2
+SIA64C10,Enforced Deprivation Rate,2024,2024,8,Other households with children under 18 years,%,19.8
+SIA64C10,Enforced Deprivation Rate,2025,2025,9,1 adult aged 65 years and over,%,18.3
+SIA64C10,Enforced Deprivation Rate,2025,2025,10,1 adult aged less than 65 years,%,21.7
+SIA64C10,Enforced Deprivation Rate,2025,2025,11,"2 adults, at least 1 aged 65 years and over",%,8.0
+SIA64C10,Enforced Deprivation Rate,2025,2025,12,"2 adults, both aged less than 65 years",%,12.2
+SIA64C10,Enforced Deprivation Rate,2025,2025,13,3 or more adults,%,9.8
+SIA64C10,Enforced Deprivation Rate,2025,2025,6,"1 adult, with children under 18 years",%,48.7
+SIA64C10,Enforced Deprivation Rate,2025,2025,7,"2 adults, with 1-3 children under 18 years",%,12.3
+SIA64C10,Enforced Deprivation Rate,2025,2025,8,Other households with children under 18 years,%,21.4
+SIA64C11,Consistent Poverty Rate,2020,2020,9,1 adult aged 65 years and over,%,2.2
+SIA64C11,Consistent Poverty Rate,2020,2020,10,1 adult aged less than 65 years,%,10.7
+SIA64C11,Consistent Poverty Rate,2020,2020,11,"2 adults, at least 1 aged 65 years and over",%,0.4
+SIA64C11,Consistent Poverty Rate,2020,2020,12,"2 adults, both aged less than 65 years",%,3.4
+SIA64C11,Consistent Poverty Rate,2020,2020,13,3 or more adults,%,1.5
+SIA64C11,Consistent Poverty Rate,2020,2020,6,"1 adult, with children under 18 years",%,17.6
+SIA64C11,Consistent Poverty Rate,2020,2020,7,"2 adults, with 1-3 children under 18 years",%,2.8
+SIA64C11,Consistent Poverty Rate,2020,2020,8,Other households with children under 18 years,%,8.3
+SIA64C11,Consistent Poverty Rate,2021,2021,9,1 adult aged 65 years and over,%,5.2
+SIA64C11,Consistent Poverty Rate,2021,2021,10,1 adult aged less than 65 years,%,10.4
+SIA64C11,Consistent Poverty Rate,2021,2021,11,"2 adults, at least 1 aged 65 years and over",%,1.9
+SIA64C11,Consistent Poverty Rate,2021,2021,12,"2 adults, both aged less than 65 years",%,3.0
+SIA64C11,Consistent Poverty Rate,2021,2021,13,3 or more adults,%,2.2
+SIA64C11,Consistent Poverty Rate,2021,2021,6,"1 adult, with children under 18 years",%,11.3
+SIA64C11,Consistent Poverty Rate,2021,2021,7,"2 adults, with 1-3 children under 18 years",%,4.2
+SIA64C11,Consistent Poverty Rate,2021,2021,8,Other households with children under 18 years,%,5.0
+SIA64C11,Consistent Poverty Rate,2022,2022,9,1 adult aged 65 years and over,%,10.5
+SIA64C11,Consistent Poverty Rate,2022,2022,10,1 adult aged less than 65 years,%,14.2
+SIA64C11,Consistent Poverty Rate,2022,2022,11,"2 adults, at least 1 aged 65 years and over",%,2.0
+SIA64C11,Consistent Poverty Rate,2022,2022,12,"2 adults, both aged less than 65 years",%,1.8
+SIA64C11,Consistent Poverty Rate,2022,2022,13,3 or more adults,%,2.3
+SIA64C11,Consistent Poverty Rate,2022,2022,6,"1 adult, with children under 18 years",%,15.5
+SIA64C11,Consistent Poverty Rate,2022,2022,7,"2 adults, with 1-3 children under 18 years",%,4.3
+SIA64C11,Consistent Poverty Rate,2022,2022,8,Other households with children under 18 years,%,6.0
+SIA64C11,Consistent Poverty Rate,2023,2023,9,1 adult aged 65 years and over,%,3.2
+SIA64C11,Consistent Poverty Rate,2023,2023,10,1 adult aged less than 65 years,%,13.0
+SIA64C11,Consistent Poverty Rate,2023,2023,11,"2 adults, at least 1 aged 65 years and over",%,0.9
+SIA64C11,Consistent Poverty Rate,2023,2023,12,"2 adults, both aged less than 65 years",%,1.7
+SIA64C11,Consistent Poverty Rate,2023,2023,13,3 or more adults,%,1.3
+SIA64C11,Consistent Poverty Rate,2023,2023,6,"1 adult, with children under 18 years",%,7.1
+SIA64C11,Consistent Poverty Rate,2023,2023,7,"2 adults, with 1-3 children under 18 years",%,4.5
+SIA64C11,Consistent Poverty Rate,2023,2023,8,Other households with children under 18 years,%,4.0
+SIA64C11,Consistent Poverty Rate,2024,2024,9,1 adult aged 65 years and over,%,5.2
+SIA64C11,Consistent Poverty Rate,2024,2024,10,1 adult aged less than 65 years,%,10.1
+SIA64C11,Consistent Poverty Rate,2024,2024,11,"2 adults, at least 1 aged 65 years and over",%,1.6
+SIA64C11,Consistent Poverty Rate,2024,2024,12,"2 adults, both aged less than 65 years",%,2.1
+SIA64C11,Consistent Poverty Rate,2024,2024,13,3 or more adults,%,1.9
+SIA64C11,Consistent Poverty Rate,2024,2024,6,"1 adult, with children under 18 years",%,11.0
+SIA64C11,Consistent Poverty Rate,2024,2024,7,"2 adults, with 1-3 children under 18 years",%,6.0
+SIA64C11,Consistent Poverty Rate,2024,2024,8,Other households with children under 18 years,%,8.0
+SIA64C11,Consistent Poverty Rate,2025,2025,9,1 adult aged 65 years and over,%,9.6
+SIA64C11,Consistent Poverty Rate,2025,2025,10,1 adult aged less than 65 years,%,8.2
+SIA64C11,Consistent Poverty Rate,2025,2025,11,"2 adults, at least 1 aged 65 years and over",%,1.8
+SIA64C11,Consistent Poverty Rate,2025,2025,12,"2 adults, both aged less than 65 years",%,2.9
+SIA64C11,Consistent Poverty Rate,2025,2025,13,3 or more adults,%,1.8
+SIA64C11,Consistent Poverty Rate,2025,2025,6,"1 adult, with children under 18 years",%,13.4
+SIA64C11,Consistent Poverty Rate,2025,2025,7,"2 adults, with 1-3 children under 18 years",%,4.2
+SIA64C11,Consistent Poverty Rate,2025,2025,8,Other households with children under 18 years,%,7.6

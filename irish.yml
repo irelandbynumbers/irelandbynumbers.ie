@@ -30,6 +30,12 @@ topics:
   ai:
     title: "Intleacht shaorga"
     summary: "Conas a úsáideann gnólachtaí agus daoine IS, agus an méid leictreachais a úsáideann ionaid sonraí."
+  childhood:
+    title: "Óige"
+    summary: "Cé mhéad leanbh atá in Éirinn, sláinte leanaí, agus leanaí faoi chúram."
+  poverty:
+    title: "Bochtaineacht agus neamhionannas"
+    summary: "Cé mhéad duine atá i mbaol bochtaineachta nó gan bhunriachtanais, cé is mó a bhíonn thíos leis, agus cé chomh cothrom is atá ioncam roinnte."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

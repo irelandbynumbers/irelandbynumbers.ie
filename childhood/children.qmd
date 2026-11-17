@@ -1,0 +1,18 @@
+---
+title: "Children in Ireland"
+description: "How many children live in Ireland, and children in the care of the State."
+---
+
+There were about 1.22 million children aged under 18 in Ireland in 2026, 22% of the population. That is close to the highest number in these figures, about 1.25 million in 1981. The rest of the population has grown much faster, so children now make up a smaller share of it. In 1966, 37% of the population were children.
+
+{{< chart childhood-children-population >}}
+
+## Child poverty
+
+In 2025, 16.9% of children were at risk of poverty, more than any other age group. Child poverty, including how it varies by county and type of family, is covered on the [Child poverty](../poverty/child-poverty.qmd) page.
+
+## Children in care
+
+Children who cannot live safely at home can be taken into the care of the State, through Tusla, the Child and Family Agency. In January 2025 there were 5,383 children in care. Most lived with foster families. 62% were in general foster care and 26% were in foster care with relatives, and 9% were in residential care.
+
+{{< chart childhood-in-care >}}

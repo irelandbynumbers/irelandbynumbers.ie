@@ -138,3 +138,26 @@
 - [How familiar people are with the term AI](/charts/ai-familiarity.html). Share of adults by how well they understand the term artificial intelligence (AI), 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/ai-familiarity.csv)
 - [Use of generative AI by age](/charts/ai-generative-ai-by-age.html). Share of people who used generative AI tools in the previous three months, by age, Ireland and the EU, 2025. *Eurostat.* [CSV](/charts/ai-generative-ai-by-age.csv)
 - [Use of generative AI across the EU](/charts/ai-generative-ai-eu.html). Share of people aged 16 to 74 who used generative AI tools in the previous three months, EU countries, 2025. *Eurostat.* [CSV](/charts/ai-generative-ai-eu.csv)
+
+## [Poverty and inequality](/poverty/)
+
+- [Poverty and deprivation by age](/charts/poverty-by-age.html). Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, by age, 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-by-age.csv)
+- [Poverty and deprivation by type of household](/charts/poverty-by-household.html). Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, by type of household, 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-by-household.csv)
+- [Poverty and deprivation by work status](/charts/poverty-by-work.html). Share of people aged 16 and over at risk of poverty, experiencing deprivation, and in consistent poverty, by main economic status, 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-by-work.csv)
+- [Children at risk of poverty or social exclusion across the EU](/charts/poverty-child-eu.html). Share of children aged under 18 at risk of poverty or social exclusion, EU countries, 2025. *Eurostat.* [CSV](/charts/poverty-child-eu.csv)
+- [Children in low-income households by type of family](/charts/poverty-child-low-income-by-family.html). Share of children aged under 18 living in a low-income household, by type of family, 2022. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-low-income-by-family.csv)
+- [Children in low-income households by parents' work](/charts/poverty-child-low-income-by-work.html). Share of children aged under 18 living in a low-income household, by how many parents are at work, 2022. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-low-income-by-work.csv)
+- [Children in low-income households by county](/charts/poverty-child-low-income-map.html). Share of children aged under 18 living in a household with income below 60% of the national median, by county, 2022. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-low-income-map.csv)
+- [Child poverty and deprivation](/charts/poverty-child-rates.html). Share of children aged under 18 at risk of poverty, experiencing deprivation, and in consistent poverty, 2020 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-child-rates.csv)
+- [Income inequality before and after tax and social welfare](/charts/poverty-inequality.html). Gini coefficient of household income, adjusted for household size, 2020 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-inequality.csv)
+- [Income inequality across the EU](/charts/poverty-inequality-eu.html). Gini coefficient of disposable household income, EU countries, 2025. *Eurostat.* [CSV](/charts/poverty-inequality-eu.csv)
+- [Poverty and deprivation](/charts/poverty-rates.html). Share of people at risk of poverty, experiencing deprivation, and in consistent poverty, 2020 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-rates.csv)
+- [Poverty before and after social welfare](/charts/poverty-social-transfers.html). Share of people at risk of poverty, counting income before and after social welfare payments, 2025. *Central Statistics Office (CSO).* [CSV](/charts/poverty-social-transfers.csv)
+
+## [Childhood](/childhood/)
+
+- [Children as a share of the population](/charts/childhood-children-population.html). Children aged under 18 as a share of the population, 1926 to 2026. *Central Statistics Office (CSO).* [CSV](/charts/childhood-children-population.csv)
+- [Children's general health](/charts/childhood-general-health.html). Share of children whose health was described as good or very good, by age, 2025. *Central Statistics Office (CSO).* [CSV](/charts/childhood-general-health.csv)
+- [Children in care by type of placement](/charts/childhood-in-care.html). Number of children in the care of the State, by type of placement, January 2025. *Central Statistics Office (CSO).* [CSV](/charts/childhood-in-care.csv)
+- [Infant mortality in Ireland and the EU](/charts/childhood-infant-mortality.html). Deaths of babies under one year old per 1,000 live births, 1960 to 2024. *Eurostat.* [CSV](/charts/childhood-infant-mortality.csv)
+- [Babies born with a low birth weight](/charts/childhood-low-birth-weight.html). Share of births weighing under 2,500 grams, selected years 2009 to 2023. *Central Statistics Office (CSO).* [CSV](/charts/childhood-low-birth-weight.csv)

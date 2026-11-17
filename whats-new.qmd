@@ -7,6 +7,8 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Changes to the site
 
+**17 November 2026.** Two new topics. [Poverty and inequality](poverty/index.qmd) covers [poverty and deprivation](poverty/rates.qmd), [who is most affected](poverty/who.qmd), [child poverty](poverty/child-poverty.qmd) and [income inequality](poverty/inequality.qmd). [Childhood](childhood/index.qmd) covers [children in Ireland](childhood/children.qmd) and [children's health](childhood/health.qmd). The [data centres](ai/data-centres.qmd) page now maps planning applications for data centres by county. Figures across the site are now checked for updates every Friday.
+
 **16 November 2026.** A new [Artificial intelligence](ai/index.qmd) topic, covering [data centres](ai/data-centres.qmd) and [how businesses and people use AI](ai/ai-use.qmd).
 
 **16 November 2026.** Ten new charts comparing Ireland with Northern Ireland, on population, age, fertility, place of birth, general health, home ownership, household income, cross-border commuting, travel to work and qualifications, mostly from tables the CSO and NISRA publish jointly.

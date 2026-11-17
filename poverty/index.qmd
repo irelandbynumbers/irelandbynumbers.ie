@@ -1,0 +1,23 @@
+---
+title: "Poverty and inequality"
+description: "How many people are at risk of poverty or go without basics, who is most affected, and how evenly income is shared."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish poverty >}}
+
+These pages show how many people in Ireland are at risk of poverty or cannot afford basic items, which groups are most affected, how many children live in low-income households, and how evenly income is shared, with comparisons with the rest of the EU. Household income is also covered in the [Economy](../economy/income.qmd) topic.
+
+{{< key-facts poverty-rates poverty-social-transfers poverty-child-rates poverty-inequality-eu >}}
+
+:::{#pages}
+:::

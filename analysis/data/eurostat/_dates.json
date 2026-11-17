@@ -3,6 +3,10 @@
   "updated": "2026-11-13",
   "checked": "2026-11-16"
  },
+ "demo_minfind": {
+  "updated": "2026-11-13",
+  "checked": "2026-11-17"
+ },
  "edat_lfse_14": {
   "updated": "2026-10-30",
   "checked": "2026-11-16"
@@ -15,9 +19,17 @@
   "updated": "2026-11-04",
   "checked": "2026-11-16"
  },
+ "ilc_di12": {
+  "updated": "2026-11-12",
+  "checked": "2026-11-17"
+ },
  "ilc_peps01n": {
   "updated": "2026-10-20",
   "checked": "2026-11-16"
+ },
+ "ilc_peps01n_children": {
+  "updated": "2026-10-20",
+  "checked": "2026-11-17"
  },
  "isoc_ai_iaiu": {
   "updated": "2026-06-05",

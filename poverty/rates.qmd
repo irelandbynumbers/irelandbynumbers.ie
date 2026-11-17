@@ -1,0 +1,22 @@
+---
+title: "Poverty and deprivation"
+description: "How many people are at risk of poverty or cannot afford basics, and the effect of social welfare."
+---
+
+The CSO measures poverty in three main ways. People are at risk of poverty if their household income, adjusted for the size of the household, is below 60% of the national median. They experience deprivation if their household cannot afford two or more of eleven basic items, such as a warm waterproof coat or keeping the home adequately warm. They are in consistent poverty if both are true.
+
+In 2025, 12.6% of people were at risk of poverty, 15.1% experienced deprivation and 4.7% were in consistent poverty. None of the three has changed much overall since 2020, although deprivation rose to 17.3% in 2023 before falling back.
+
+{{< chart poverty-rates >}}
+
+## The effect of social welfare
+
+Social welfare payments lift many people above the poverty line. In 2025, 33.2% of people would have been at risk of poverty based on their income before social welfare payments. After them, the figure was 12.6%.
+
+{{< chart poverty-social-transfers >}}
+
+## Compared with the EU
+
+Eurostat compares countries using a combined measure, the share of people at risk of poverty or social exclusion. It counts people in low-income households, in households that cannot afford a number of basic items, and in households where adults work very little.
+
+{{< chart economy-poverty-eu >}}
