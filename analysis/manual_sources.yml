@@ -39,11 +39,11 @@
 
 - name: Pobal Early Years Sector Profile
   used_in: Not used yet. Would add childcare fees by county and by age, and numbers using the National Childcare Scheme and ECCE.
-  what: The latest annual report and its data tables (Excel if offered, otherwise the PDF). Upload to the project.
-  url: https://www.pobal.ie/research-analysis/early-years/
-  when: Published once a year.
+  what: Since 2021/22 the yearly report has been replaced by online dashboards with no download. Check whether a download or export has been added, or whether a Dáil reply gives fees by county. Reports from 2012 to 2020/21 were uploaded on 17 November 2026.
+  url: https://www.pobal.ie/EarlyLearningandChildcaredata
+  when: New programme-year data about once a year.
   every_months: 12
-  last_checked: never
+  last_checked: 2026-11-17
 
 - name: OECD Family Database
   used_in: Not used yet. Would add a fuller comparison of leave and childcare costs with EU and OECD countries.
