@@ -38,7 +38,7 @@ quarto preview
 
 `analysis/ibn/` holds the shared parts: `style.py` (colours and layout, shared with [Fianaise](https://github.com/fianaise/fianaise.ie)), `figures.py` (line charts and county maps with a time slider), `cso.py` (fetching CSO tables) and `chart.py` (the chart page). Each chart page also shows when its source was last updated by the publisher and when it was last checked (from `analysis/data/cso/_dates.json`, written whenever a table is fetched), links to the original table, and has a Share link button. `node tools/thumbnails.js` draws the tile thumbnails in `images/charts/` and the link preview images in `images/social/`.
 
-The weekly publish run fetches the latest data, rebuilds every chart, county page and image, and commits the changes.
+The weekly publish run, every Friday evening, fetches the latest data, rebuilds every chart, county page and image, and commits the changes.
 
 ## Regular content
 

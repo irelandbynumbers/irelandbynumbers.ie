@@ -27,6 +27,6 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Latest data
 
-Each week the site checks every source table for new figures. This table shows when each source was last updated by its publisher, and when it was last checked.
+Every Friday the site automatically checks every source table for new figures and updates any chart whose figures have changed. This table shows when each source was last updated by its publisher, and when it was last checked.
 
 {{< include _data-updates.md >}}

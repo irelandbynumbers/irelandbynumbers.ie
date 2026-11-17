@@ -2,7 +2,7 @@ on:
   push:
     branches: main
   schedule:
-    - cron: "0 6 * * 1"   # every Monday morning, pick up new releases
+    - cron: "0 18 * * 5"   # every Friday evening, pick up the week's new releases
   workflow_dispatch:
 
 name: Publish site
