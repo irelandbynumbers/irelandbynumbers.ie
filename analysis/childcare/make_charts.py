@@ -3,6 +3,8 @@ guaranteed childcare place, childcare use and fees compared with the EU,
 the types of childcare families use, family leave entitlements in Ireland
 and Northern Ireland, and fathers' use of paternity benefit. Figures only,
 with no view on policy."""
+import os
+
 import pandas as pd
 import plotly.graph_objects as go
 
@@ -26,6 +28,8 @@ def build():
     affordable_access()
     types()
     fees_eu()
+    fees_trend()
+    fees_county()
     leave_ireland_ni()
     paternity_uptake()
 
@@ -281,6 +285,67 @@ def fees_eu():
                  + ("this was the highest" if higher == 0 else f"{higher} countries were higher")
                  + f" of the {len(shown)} EU countries that give a single figure.",
         data=d[["country", "under3_pps", "under3_euro_or_national", "over3_pps", "over3_national"]], figure=fig,
+    ).write()
+
+
+POBAL_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "pobal")
+POBAL = Source("Pobal", "Annual Early Years Sector Profile reports, 2016/2017 to 2020/2021",
+               "https://www.pobal.ie/EarlyLearningandChildcaredata",
+               licence="Quoted with acknowledgement", licence_url="")
+POBAL_STOPS = ("Pobal published these figures in a yearly report until 2020/21. From 2021/22 the report was replaced by "
+               "online dashboards, which have no option to download the figures, so later years are not shown here. "
+               "Since September 2022, services in the Core Funding scheme have had their fees capped at the level they "
+               "charged in September 2021.")
+POBAL_METHOD = ("Each service reports its weekly fee for one child attending five days a week, for each age group, "
+                "including any part paid by State subsidies such as ECCE. Pobal takes the median of each service's fees and "
+                "averages these across services. Full day care is more than 5 hours a day, part-time 3.5 to 5 hours, and "
+                "sessional about 2.25 to 3.5 hours.")
+
+
+def fees_trend():
+    w = pd.read_csv(os.path.join(POBAL_DIR, "fees_national.csv"))
+    a, b = w.iloc[0], w.iloc[-1]
+    fig = figures.lines(w, "year", {"full_day": "Full day", "part_time": "Part-time", "sessional": "Sessional"},
+                        colours=[style.BLUE, style.GOLD, style.AQUA], value_format=".0f", prefix="€", y_range=[0, None])
+    fig.update_xaxes(type="category")
+    Chart(
+        id="childcare-fees-trend", topic=TOPIC,
+        title="Weekly childcare fees over time",
+        subtitle=f"Average weekly fee per child in early learning and childcare services, by type of care, "
+                 f"{a.year} to {b.year}. Not adjusted for inflation.",
+        sources=[POBAL],
+        notes=[POBAL_METHOD, POBAL_STOPS,
+               "Years up to 2014 are labelled as Pobal labels them. From 2015/16 the figures are for a programme year."],
+        key_fact=f"In {b.year}, the average weekly fee for full day childcare was €{b.full_day:.0f}, compared with "
+                 f"€{a.full_day:.0f} in {a.year}. These are the latest figures in Pobal's yearly reports.",
+        data=w.drop(columns="report"), figure=fig,
+    ).write()
+
+
+def fees_county():
+    d = pd.read_csv(os.path.join(POBAL_DIR, "fees_by_county_2020_21.csv"))
+    ie = d[d.area == "Ireland"].iloc[0]
+    d = d[d.area != "Ireland"].sort_values("full_day", ascending=False).reset_index(drop=True)
+    hi, lo = d.iloc[0], d.iloc[-1]
+    colours = [style.ORANGE if v > ie.full_day else style.BLUE for v in d.full_day]
+    fig = hbars(d, "area", "full_day", ".0f", "", colour=colours)
+    fig.data[0].text = [f"€{v:.0f}" for v in d.full_day]
+    fig.data[0].hovertemplate = "<b>%{y}</b>: €%{x:.2f} a week<extra></extra>"
+    fig.update_xaxes(tickprefix="€")
+    fig.add_vline(x=ie.full_day, line=dict(color=style.INK_3, width=1, dash="dot"))
+    Chart(
+        id="childcare-fees-county", topic=TOPIC, height=720,
+        title="Weekly childcare fees by county",
+        subtitle="Average weekly fee per child for full day childcare, by county or council area, 2020/21. "
+                 "Orange bars are above the national average, shown by the dotted line.",
+        sources=[POBAL],
+        notes=[POBAL_METHOD, POBAL_STOPS,
+               "Dublin and Cork are shown by council area, as Pobal publishes them. The data file also has part-time "
+               "and sessional fees. The same table was given in a Dáil written answer in May 2024."],
+        key_fact=f"In 2020/21, the average weekly fee for full day childcare was €{hi.full_day:.0f} in {hi.area}, the "
+                 f"highest, and €{lo.full_day:.0f} in {lo.area}, the lowest. The national average was "
+                 f"€{ie.full_day:.0f}.",
+        data=d, figure=fig,
     ).write()
 
 
