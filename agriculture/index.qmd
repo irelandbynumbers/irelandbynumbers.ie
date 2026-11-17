@@ -1,0 +1,23 @@
+---
+title: "Agriculture and food"
+description: "Farms and farmers, livestock and milk, farm output and income, fertiliser, organic farming and food waste."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish agriculture >}}
+
+These pages show how many farms there are in Ireland and who runs them, how the number of cattle, sheep and pigs has changed, how much milk Irish farms produce, what farming earns, and how much food is wasted. Emissions from farming are covered in the [Environment and climate](../environment/emissions.qmd) topic, and food prices in [Cost of living](../cost-of-living/energy-and-food.qmd).
+
+{{< key-facts agriculture-farm-types agriculture-cows agriculture-income agriculture-food-waste >}}
+
+:::{#pages}
+:::

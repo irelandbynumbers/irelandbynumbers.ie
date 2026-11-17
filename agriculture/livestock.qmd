@@ -1,0 +1,32 @@
+---
+title: "Livestock, milk and fertiliser"
+description: "Cattle, sheep and pigs, dairy and beef cows, milk output, and fertiliser sales."
+---
+
+There were 6.3 million cattle on Irish farms in December 2024, along with 3.6 million sheep and 1.5 million pigs.
+
+{{< chart agriculture-livestock >}}
+
+## Dairy and beef cows
+
+The number of dairy cows has grown by about half since 2005, while the number of cows kept to rear calves for beef has fallen. In December 2025 there were 1.49 million dairy cows and 0.75 million beef cows.
+
+{{< chart agriculture-cows >}}
+
+## Milk
+
+Milk output rose quickly after EU milk quotas ended in 2015. Irish dairies took in 8.8 billion litres of milk from Irish farms in 2025, compared with 5.6 billion litres in 2014.
+
+{{< chart agriculture-milk >}}
+
+## Fertiliser
+
+Fertiliser sold in Ireland in 2025 contained 349 thousand tonnes of nitrogen, up from 281 thousand tonnes in 2023 but below the 408 thousand tonnes sold in 2018.
+
+{{< chart agriculture-fertiliser >}}
+
+## Emissions
+
+Agriculture is the largest source of greenhouse gas emissions in Ireland. It produced 38% of the country's emissions in 2024.
+
+{{< chart environment-emissions-by-sector >}}

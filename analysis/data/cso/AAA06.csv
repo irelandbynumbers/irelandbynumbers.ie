@@ -1,0 +1,736 @@
+STATISTIC,STATISTIC Label,TLIST(A1),Year,C02148V02965,Type of Animal,UNIT,VALUE
+AAA06,Farm Animals in December,2005,2005,1,Total cattle,Thousand,6390.2
+AAA06,Farm Animals in December,2005,2005,111,Cows,Thousand,2109.5
+AAA06,Farm Animals in December,2005,2005,1111,Dairy cows,Thousand,995.8
+AAA06,Farm Animals in December,2005,2005,1112,Other cows,Thousand,1113.7
+AAA06,Farm Animals in December,2005,2005,113,Bulls,Thousand,59.7
+AAA06,Farm Animals in December,2005,2005,133,Cattle: 2 years and over,Thousand,516.6
+AAA06,Farm Animals in December,2005,2005,1331,Cattle male: 2 years and over,Thousand,237.0
+AAA06,Farm Animals in December,2005,2005,1332,Cattle female: 2 years and over,Thousand,279.6
+AAA06,Farm Animals in December,2005,2005,134,Cattle: 1-2 years,Thousand,1732.3
+AAA06,Farm Animals in December,2005,2005,1341,Cattle male: 1-2 years,Thousand,898.8
+AAA06,Farm Animals in December,2005,2005,1342,Cattle female: 1-2 years,Thousand,833.5
+AAA06,Farm Animals in December,2005,2005,135,Cattle: under 1 year,Thousand,1972.1
+AAA06,Farm Animals in December,2005,2005,1351,Cattle male: under 1 year,Thousand,980.0
+AAA06,Farm Animals in December,2005,2005,1352,Cattle female: under 1 year,Thousand,992.1
+AAA06,Farm Animals in December,2005,2005,136,Total cattle: male,Thousand,2175.5
+AAA06,Farm Animals in December,2005,2005,137,Total cattle: female,Thousand,4214.7
+AAA06,Farm Animals in December,2005,2005,2,Total sheep,Thousand,4257.0
+AAA06,Farm Animals in December,2005,2005,21,Breeding sheep,Thousand,3304.8
+AAA06,Farm Animals in December,2005,2005,211,Ewes,Thousand,3208.6
+AAA06,Farm Animals in December,2005,2005,2111,Ewes: 2 years and over,Thousand,2692.5
+AAA06,Farm Animals in December,2005,2005,2112,Ewes: under 2 years,Thousand,516.1
+AAA06,Farm Animals in December,2005,2005,212,Rams,Thousand,96.2
+AAA06,Farm Animals in December,2005,2005,22,Other sheep,Thousand,952.3
+AAA06,Farm Animals in December,2005,2005,3,Total pigs,Thousand,1670.8
+AAA06,Farm Animals in December,2005,2005,31,Breeding pigs,Thousand,177.0
+AAA06,Farm Animals in December,2005,2005,3111,Gilts in pig,Thousand,21.0
+AAA06,Farm Animals in December,2005,2005,3112,Sows in pig,Thousand,99.2
+AAA06,Farm Animals in December,2005,2005,3113,Other sows for breeding,Thousand,35.5
+AAA06,Farm Animals in December,2005,2005,3114,Gilts not yet served,Thousand,19.0
+AAA06,Farm Animals in December,2005,2005,312,Boars,Thousand,2.3
+AAA06,Farm Animals in December,2005,2005,32,Other pigs,Thousand,1493.8
+AAA06,Farm Animals in December,2005,2005,3211,Other pigs: 20kg and under 50kg,Thousand,482.4
+AAA06,Farm Animals in December,2005,2005,3212,Other pigs: 50kg and under 80kg,Thousand,366.7
+AAA06,Farm Animals in December,2005,2005,3213,Other pigs: 80kg and over,Thousand,166.3
+AAA06,Farm Animals in December,2005,2005,322,Other pigs: under 20kg,Thousand,478.4
+AAA06,Farm Animals in December,2006,2006,1,Total cattle,Thousand,6340.2
+AAA06,Farm Animals in December,2006,2006,111,Cows,Thousand,2181.9
+AAA06,Farm Animals in December,2006,2006,1111,Dairy cows,Thousand,1022.8
+AAA06,Farm Animals in December,2006,2006,1112,Other cows,Thousand,1159.1
+AAA06,Farm Animals in December,2006,2006,113,Bulls,Thousand,56.2
+AAA06,Farm Animals in December,2006,2006,133,Cattle: 2 years and over,Thousand,538.9
+AAA06,Farm Animals in December,2006,2006,1331,Cattle male: 2 years and over,Thousand,252.2
+AAA06,Farm Animals in December,2006,2006,1332,Cattle female: 2 years and over,Thousand,286.7
+AAA06,Farm Animals in December,2006,2006,134,Cattle: 1-2 years,Thousand,1674.6
+AAA06,Farm Animals in December,2006,2006,1341,Cattle male: 1-2 years,Thousand,843.2
+AAA06,Farm Animals in December,2006,2006,1342,Cattle female: 1-2 years,Thousand,831.4
+AAA06,Farm Animals in December,2006,2006,135,Cattle: under 1 year,Thousand,1888.5
+AAA06,Farm Animals in December,2006,2006,1351,Cattle male: under 1 year,Thousand,920.9
+AAA06,Farm Animals in December,2006,2006,1352,Cattle female: under 1 year,Thousand,967.6
+AAA06,Farm Animals in December,2006,2006,136,Total cattle: male,Thousand,2072.6
+AAA06,Farm Animals in December,2006,2006,137,Total cattle: female,Thousand,4267.6
+AAA06,Farm Animals in December,2006,2006,2,Total sheep,Thousand,3826.3
+AAA06,Farm Animals in December,2006,2006,21,Breeding sheep,Thousand,3021.2
+AAA06,Farm Animals in December,2006,2006,211,Ewes,Thousand,2931.5
+AAA06,Farm Animals in December,2006,2006,2111,Ewes: 2 years and over,Thousand,2471.8
+AAA06,Farm Animals in December,2006,2006,2112,Ewes: under 2 years,Thousand,459.7
+AAA06,Farm Animals in December,2006,2006,212,Rams,Thousand,89.7
+AAA06,Farm Animals in December,2006,2006,22,Other sheep,Thousand,805.1
+AAA06,Farm Animals in December,2006,2006,3,Total pigs,Thousand,1620.0
+AAA06,Farm Animals in December,2006,2006,31,Breeding pigs,Thousand,168.9
+AAA06,Farm Animals in December,2006,2006,3111,Gilts in pig,Thousand,21.7
+AAA06,Farm Animals in December,2006,2006,3112,Sows in pig,Thousand,95.5
+AAA06,Farm Animals in December,2006,2006,3113,Other sows for breeding,Thousand,31.4
+AAA06,Farm Animals in December,2006,2006,3114,Gilts not yet served,Thousand,18.3
+AAA06,Farm Animals in December,2006,2006,312,Boars,Thousand,2.0
+AAA06,Farm Animals in December,2006,2006,32,Other pigs,Thousand,1451.1
+AAA06,Farm Animals in December,2006,2006,3211,Other pigs: 20kg and under 50kg,Thousand,459.3
+AAA06,Farm Animals in December,2006,2006,3212,Other pigs: 50kg and under 80kg,Thousand,349.2
+AAA06,Farm Animals in December,2006,2006,3213,Other pigs: 80kg and over,Thousand,221.9
+AAA06,Farm Animals in December,2006,2006,322,Other pigs: under 20kg,Thousand,420.7
+AAA06,Farm Animals in December,2007,2007,1,Total cattle,Thousand,6247.6
+AAA06,Farm Animals in December,2007,2007,111,Cows,Thousand,2180.2
+AAA06,Farm Animals in December,2007,2007,1111,Dairy cows,Thousand,1017.3
+AAA06,Farm Animals in December,2007,2007,1112,Other cows,Thousand,1163.0
+AAA06,Farm Animals in December,2007,2007,113,Bulls,Thousand,53.5
+AAA06,Farm Animals in December,2007,2007,133,Cattle: 2 years and over,Thousand,524.7
+AAA06,Farm Animals in December,2007,2007,1331,Cattle male: 2 years and over,Thousand,234.3
+AAA06,Farm Animals in December,2007,2007,1332,Cattle female: 2 years and over,Thousand,290.4
+AAA06,Farm Animals in December,2007,2007,134,Cattle: 1-2 years,Thousand,1609.6
+AAA06,Farm Animals in December,2007,2007,1341,Cattle male: 1-2 years,Thousand,789.3
+AAA06,Farm Animals in December,2007,2007,1342,Cattle female: 1-2 years,Thousand,820.2
+AAA06,Farm Animals in December,2007,2007,135,Cattle: under 1 year,Thousand,1879.5
+AAA06,Farm Animals in December,2007,2007,1351,Cattle male: under 1 year,Thousand,920.3
+AAA06,Farm Animals in December,2007,2007,1352,Cattle female: under 1 year,Thousand,959.2
+AAA06,Farm Animals in December,2007,2007,136,Total cattle: male,Thousand,1997.5
+AAA06,Farm Animals in December,2007,2007,137,Total cattle: female,Thousand,4250.1
+AAA06,Farm Animals in December,2007,2007,2,Total sheep,Thousand,3530.5
+AAA06,Farm Animals in December,2007,2007,21,Breeding sheep,Thousand,2744.7
+AAA06,Farm Animals in December,2007,2007,211,Ewes,Thousand,2662.9
+AAA06,Farm Animals in December,2007,2007,2111,Ewes: 2 years and over,Thousand,2255.4
+AAA06,Farm Animals in December,2007,2007,2112,Ewes: under 2 years,Thousand,407.4
+AAA06,Farm Animals in December,2007,2007,212,Rams,Thousand,81.9
+AAA06,Farm Animals in December,2007,2007,22,Other sheep,Thousand,785.8
+AAA06,Farm Animals in December,2007,2007,3,Total pigs,Thousand,1500.5
+AAA06,Farm Animals in December,2007,2007,31,Breeding pigs,Thousand,160.2
+AAA06,Farm Animals in December,2007,2007,3111,Gilts in pig,Thousand,22.0
+AAA06,Farm Animals in December,2007,2007,3112,Sows in pig,Thousand,93.6
+AAA06,Farm Animals in December,2007,2007,3113,Other sows for breeding,Thousand,26.4
+AAA06,Farm Animals in December,2007,2007,3114,Gilts not yet served,Thousand,16.6
+AAA06,Farm Animals in December,2007,2007,312,Boars,Thousand,1.6
+AAA06,Farm Animals in December,2007,2007,32,Other pigs,Thousand,1340.2
+AAA06,Farm Animals in December,2007,2007,3211,Other pigs: 20kg and under 50kg,Thousand,398.4
+AAA06,Farm Animals in December,2007,2007,3212,Other pigs: 50kg and under 80kg,Thousand,304.8
+AAA06,Farm Animals in December,2007,2007,3213,Other pigs: 80kg and over,Thousand,201.3
+AAA06,Farm Animals in December,2007,2007,322,Other pigs: under 20kg,Thousand,435.7
+AAA06,Farm Animals in December,2008,2008,1,Total cattle,Thousand,6303.9
+AAA06,Farm Animals in December,2008,2008,111,Cows,Thousand,2199.1
+AAA06,Farm Animals in December,2008,2008,1111,Dairy cows,Thousand,1024.1
+AAA06,Farm Animals in December,2008,2008,1112,Other cows,Thousand,1175.0
+AAA06,Farm Animals in December,2008,2008,113,Bulls,Thousand,50.2
+AAA06,Farm Animals in December,2008,2008,133,Cattle: 2 years and over,Thousand,502.1
+AAA06,Farm Animals in December,2008,2008,1331,Cattle male: 2 years and over,Thousand,224.8
+AAA06,Farm Animals in December,2008,2008,1332,Cattle female: 2 years and over,Thousand,277.3
+AAA06,Farm Animals in December,2008,2008,134,Cattle: 1-2 years,Thousand,1632.3
+AAA06,Farm Animals in December,2008,2008,1341,Cattle male: 1-2 years,Thousand,803.6
+AAA06,Farm Animals in December,2008,2008,1342,Cattle female: 1-2 years,Thousand,828.7
+AAA06,Farm Animals in December,2008,2008,135,Cattle: under 1 year,Thousand,1920.3
+AAA06,Farm Animals in December,2008,2008,1351,Cattle male: under 1 year,Thousand,952.2
+AAA06,Farm Animals in December,2008,2008,1352,Cattle female: under 1 year,Thousand,968.0
+AAA06,Farm Animals in December,2008,2008,136,Total cattle: male,Thousand,2030.8
+AAA06,Farm Animals in December,2008,2008,137,Total cattle: female,Thousand,4273.1
+AAA06,Farm Animals in December,2008,2008,2,Total sheep,Thousand,3422.9
+AAA06,Farm Animals in December,2008,2008,21,Breeding sheep,Thousand,2603.0
+AAA06,Farm Animals in December,2008,2008,211,Ewes,Thousand,2527.3
+AAA06,Farm Animals in December,2008,2008,2111,Ewes: 2 years and over,Thousand,2117.8
+AAA06,Farm Animals in December,2008,2008,2112,Ewes: under 2 years,Thousand,409.5
+AAA06,Farm Animals in December,2008,2008,212,Rams,Thousand,75.6
+AAA06,Farm Animals in December,2008,2008,22,Other sheep,Thousand,820.0
+AAA06,Farm Animals in December,2008,2008,3,Total pigs,Thousand,1510.7
+AAA06,Farm Animals in December,2008,2008,31,Breeding pigs,Thousand,152.1
+AAA06,Farm Animals in December,2008,2008,3111,Gilts in pig,Thousand,18.4
+AAA06,Farm Animals in December,2008,2008,3112,Sows in pig,Thousand,90.8
+AAA06,Farm Animals in December,2008,2008,3113,Other sows for breeding,Thousand,25.6
+AAA06,Farm Animals in December,2008,2008,3114,Gilts not yet served,Thousand,16.0
+AAA06,Farm Animals in December,2008,2008,312,Boars,Thousand,1.3
+AAA06,Farm Animals in December,2008,2008,32,Other pigs,Thousand,1358.6
+AAA06,Farm Animals in December,2008,2008,3211,Other pigs: 20kg and under 50kg,Thousand,409.8
+AAA06,Farm Animals in December,2008,2008,3212,Other pigs: 50kg and under 80kg,Thousand,312.6
+AAA06,Farm Animals in December,2008,2008,3213,Other pigs: 80kg and over,Thousand,225.6
+AAA06,Farm Animals in December,2008,2008,322,Other pigs: under 20kg,Thousand,410.7
+AAA06,Farm Animals in December,2009,2009,1,Total cattle,Thousand,6231.7
+AAA06,Farm Animals in December,2009,2009,111,Cows,Thousand,2157.3
+AAA06,Farm Animals in December,2009,2009,1111,Dairy cows,Thousand,1022.4
+AAA06,Farm Animals in December,2009,2009,1112,Other cows,Thousand,1134.9
+AAA06,Farm Animals in December,2009,2009,113,Bulls,Thousand,48.8
+AAA06,Farm Animals in December,2009,2009,133,Cattle: 2 years and over,Thousand,581.3
+AAA06,Farm Animals in December,2009,2009,1331,Cattle male: 2 years and over,Thousand,275.3
+AAA06,Farm Animals in December,2009,2009,1332,Cattle female: 2 years and over,Thousand,306.0
+AAA06,Farm Animals in December,2009,2009,134,Cattle: 1-2 years,Thousand,1650.2
+AAA06,Farm Animals in December,2009,2009,1341,Cattle male: 1-2 years,Thousand,803.7
+AAA06,Farm Animals in December,2009,2009,1342,Cattle female: 1-2 years,Thousand,846.5
+AAA06,Farm Animals in December,2009,2009,135,Cattle: under 1 year,Thousand,1794.0
+AAA06,Farm Animals in December,2009,2009,1351,Cattle male: under 1 year,Thousand,857.9
+AAA06,Farm Animals in December,2009,2009,1352,Cattle female: under 1 year,Thousand,936.1
+AAA06,Farm Animals in December,2009,2009,136,Total cattle: male,Thousand,1985.7
+AAA06,Farm Animals in December,2009,2009,137,Total cattle: female,Thousand,4246.0
+AAA06,Farm Animals in December,2009,2009,2,Total sheep,Thousand,3182.6
+AAA06,Farm Animals in December,2009,2009,21,Breeding sheep,Thousand,2440.0
+AAA06,Farm Animals in December,2009,2009,211,Ewes,Thousand,2369.4
+AAA06,Farm Animals in December,2009,2009,2111,Ewes: 2 years and over,Thousand,1960.1
+AAA06,Farm Animals in December,2009,2009,2112,Ewes: under 2 years,Thousand,409.3
+AAA06,Farm Animals in December,2009,2009,212,Rams,Thousand,70.6
+AAA06,Farm Animals in December,2009,2009,22,Other sheep,Thousand,742.6
+AAA06,Farm Animals in December,2009,2009,3,Total pigs,Thousand,1501.9
+AAA06,Farm Animals in December,2009,2009,31,Breeding pigs,Thousand,159.8
+AAA06,Farm Animals in December,2009,2009,3111,Gilts in pig,Thousand,21.9
+AAA06,Farm Animals in December,2009,2009,3112,Sows in pig,Thousand,89.9
+AAA06,Farm Animals in December,2009,2009,3113,Other sows for breeding,Thousand,29.6
+AAA06,Farm Animals in December,2009,2009,3114,Gilts not yet served,Thousand,16.8
+AAA06,Farm Animals in December,2009,2009,312,Boars,Thousand,1.6
+AAA06,Farm Animals in December,2009,2009,32,Other pigs,Thousand,1342.2
+AAA06,Farm Animals in December,2009,2009,3211,Other pigs: 20kg and under 50kg,Thousand,415.4
+AAA06,Farm Animals in December,2009,2009,3212,Other pigs: 50kg and under 80kg,Thousand,300.4
+AAA06,Farm Animals in December,2009,2009,3213,Other pigs: 80kg and over,Thousand,241.1
+AAA06,Farm Animals in December,2009,2009,322,Other pigs: under 20kg,Thousand,385.3
+AAA06,Farm Animals in December,2010,2010,1,Total cattle,Thousand,5917.7
+AAA06,Farm Animals in December,2010,2010,111,Cows,Thousand,2097.7
+AAA06,Farm Animals in December,2010,2010,1111,Dairy cows,Thousand,1006.9
+AAA06,Farm Animals in December,2010,2010,1112,Other cows,Thousand,1090.8
+AAA06,Farm Animals in December,2010,2010,113,Bulls,Thousand,48.5
+AAA06,Farm Animals in December,2010,2010,133,Cattle: 2 years and over,Thousand,565.1
+AAA06,Farm Animals in December,2010,2010,1331,Cattle male: 2 years and over,Thousand,251.3
+AAA06,Farm Animals in December,2010,2010,1332,Cattle female: 2 years and over,Thousand,313.8
+AAA06,Farm Animals in December,2010,2010,134,Cattle: 1-2 years,Thousand,1511.8
+AAA06,Farm Animals in December,2010,2010,1341,Cattle male: 1-2 years,Thousand,683.0
+AAA06,Farm Animals in December,2010,2010,1342,Cattle female: 1-2 years,Thousand,828.8
+AAA06,Farm Animals in December,2010,2010,135,Cattle: under 1 year,Thousand,1694.6
+AAA06,Farm Animals in December,2010,2010,1351,Cattle male: under 1 year,Thousand,786.0
+AAA06,Farm Animals in December,2010,2010,1352,Cattle female: under 1 year,Thousand,908.6
+AAA06,Farm Animals in December,2010,2010,136,Total cattle: male,Thousand,1768.8
+AAA06,Farm Animals in December,2010,2010,137,Total cattle: female,Thousand,4148.9
+AAA06,Farm Animals in December,2010,2010,2,Total sheep,Thousand,3122.0
+AAA06,Farm Animals in December,2010,2010,21,Breeding sheep,Thousand,2419.1
+AAA06,Farm Animals in December,2010,2010,211,Ewes,Thousand,2350.4
+AAA06,Farm Animals in December,2010,2010,2111,Ewes: 2 years and over,Thousand,1893.1
+AAA06,Farm Animals in December,2010,2010,2112,Ewes: under 2 years,Thousand,457.3
+AAA06,Farm Animals in December,2010,2010,212,Rams,Thousand,68.7
+AAA06,Farm Animals in December,2010,2010,22,Other sheep,Thousand,702.8
+AAA06,Farm Animals in December,2010,2010,3,Total pigs,Thousand,1500.4
+AAA06,Farm Animals in December,2010,2010,31,Breeding pigs,Thousand,150.9
+AAA06,Farm Animals in December,2010,2010,3111,Gilts in pig,Thousand,19.1
+AAA06,Farm Animals in December,2010,2010,3112,Sows in pig,Thousand,89.4
+AAA06,Farm Animals in December,2010,2010,3113,Other sows for breeding,Thousand,25.9
+AAA06,Farm Animals in December,2010,2010,3114,Gilts not yet served,Thousand,15.0
+AAA06,Farm Animals in December,2010,2010,312,Boars,Thousand,1.4
+AAA06,Farm Animals in December,2010,2010,32,Other pigs,Thousand,1349.6
+AAA06,Farm Animals in December,2010,2010,3211,Other pigs: 20kg and under 50kg,Thousand,399.3
+AAA06,Farm Animals in December,2010,2010,3212,Other pigs: 50kg and under 80kg,Thousand,295.6
+AAA06,Farm Animals in December,2010,2010,3213,Other pigs: 80kg and over,Thousand,248.9
+AAA06,Farm Animals in December,2010,2010,322,Other pigs: under 20kg,Thousand,405.7
+AAA06,Farm Animals in December,2011,2011,1,Total cattle,Thousand,5925.3
+AAA06,Farm Animals in December,2011,2011,111,Cows,Thousand,2118.6
+AAA06,Farm Animals in December,2011,2011,1111,Dairy cows,Thousand,1035.6
+AAA06,Farm Animals in December,2011,2011,1112,Other cows,Thousand,1083.0
+AAA06,Farm Animals in December,2011,2011,113,Bulls,Thousand,49.2
+AAA06,Farm Animals in December,2011,2011,133,Cattle: 2 years and over,Thousand,465.5
+AAA06,Farm Animals in December,2011,2011,1331,Cattle male: 2 years and over,Thousand,169.4
+AAA06,Farm Animals in December,2011,2011,1332,Cattle female: 2 years and over,Thousand,287.1
+AAA06,Farm Animals in December,2011,2011,134,Cattle: 1-2 years,Thousand,1433.0
+AAA06,Farm Animals in December,2011,2011,1341,Cattle male: 1-2 years,Thousand,620.9
+AAA06,Farm Animals in December,2011,2011,1342,Cattle female: 1-2 years,Thousand,812.0
+AAA06,Farm Animals in December,2011,2011,135,Cattle: under 1 year,Thousand,1868.0
+AAA06,Farm Animals in December,2011,2011,1351,Cattle male: under 1 year,Thousand,902.0
+AAA06,Farm Animals in December,2011,2011,1352,Cattle female: under 1 year,Thousand,966.0
+AAA06,Farm Animals in December,2011,2011,136,Total cattle: male,Thousand,1741.5
+AAA06,Farm Animals in December,2011,2011,137,Total cattle: female,Thousand,4183.8
+AAA06,Farm Animals in December,2011,2011,2,Total sheep,Thousand,3321.3
+AAA06,Farm Animals in December,2011,2011,21,Breeding sheep,Thousand,2524.2
+AAA06,Farm Animals in December,2011,2011,211,Ewes,Thousand,2450.8
+AAA06,Farm Animals in December,2011,2011,2111,Ewes: 2 years and over,Thousand,1932.0
+AAA06,Farm Animals in December,2011,2011,2112,Ewes: under 2 years,Thousand,518.8
+AAA06,Farm Animals in December,2011,2011,212,Rams,Thousand,73.4
+AAA06,Farm Animals in December,2011,2011,22,Other sheep,Thousand,797.1
+AAA06,Farm Animals in December,2011,2011,3,Total pigs,Thousand,1552.9
+AAA06,Farm Animals in December,2011,2011,31,Breeding pigs,Thousand,147.7
+AAA06,Farm Animals in December,2011,2011,3111,Gilts in pig,Thousand,18.2
+AAA06,Farm Animals in December,2011,2011,3112,Sows in pig,Thousand,88.9
+AAA06,Farm Animals in December,2011,2011,3113,Other sows for breeding,Thousand,23.4
+AAA06,Farm Animals in December,2011,2011,3114,Gilts not yet served,Thousand,15.9
+AAA06,Farm Animals in December,2011,2011,312,Boars,Thousand,1.2
+AAA06,Farm Animals in December,2011,2011,32,Other pigs,Thousand,1405.3
+AAA06,Farm Animals in December,2011,2011,3211,Other pigs: 20kg and under 50kg,Thousand,402.7
+AAA06,Farm Animals in December,2011,2011,3212,Other pigs: 50kg and under 80kg,Thousand,335.0
+AAA06,Farm Animals in December,2011,2011,3213,Other pigs: 80kg and over,Thousand,219.7
+AAA06,Farm Animals in December,2011,2011,322,Other pigs: under 20kg,Thousand,447.9
+AAA06,Farm Animals in December,2012,2012,1,Total cattle,Thousand,6253.2
+AAA06,Farm Animals in December,2012,2012,111,Cows,Thousand,2188.2
+AAA06,Farm Animals in December,2012,2012,1111,Dairy cows,Thousand,1060.3
+AAA06,Farm Animals in December,2012,2012,1112,Other cows,Thousand,1127.9
+AAA06,Farm Animals in December,2012,2012,113,Bulls,Thousand,49.5
+AAA06,Farm Animals in December,2012,2012,133,Cattle: 2 years and over,Thousand,319.0
+AAA06,Farm Animals in December,2012,2012,1331,Cattle male: 2 years and over,Thousand,159.5
+AAA06,Farm Animals in December,2012,2012,1332,Cattle female: 2 years and over,Thousand,262.6
+AAA06,Farm Animals in December,2012,2012,134,Cattle: 1-2 years,Thousand,1606.9
+AAA06,Farm Animals in December,2012,2012,1341,Cattle male: 1-2 years,Thousand,726.9
+AAA06,Farm Animals in December,2012,2012,1342,Cattle female: 1-2 years,Thousand,880.0
+AAA06,Farm Animals in December,2012,2012,135,Cattle: under 1 year,Thousand,1986.6
+AAA06,Farm Animals in December,2012,2012,1351,Cattle male: under 1 year,Thousand,987.6
+AAA06,Farm Animals in December,2012,2012,1352,Cattle female: under 1 year,Thousand,999.0
+AAA06,Farm Animals in December,2012,2012,136,Total cattle: male,Thousand,1923.4
+AAA06,Farm Animals in December,2012,2012,137,Total cattle: female,Thousand,4329.9
+AAA06,Farm Animals in December,2012,2012,2,Total sheep,Thousand,3430.3
+AAA06,Farm Animals in December,2012,2012,21,Breeding sheep,Thousand,2576.3
+AAA06,Farm Animals in December,2012,2012,211,Ewes,Thousand,2500.9
+AAA06,Farm Animals in December,2012,2012,2111,Ewes: 2 years and over,Thousand,1989.1
+AAA06,Farm Animals in December,2012,2012,2112,Ewes: under 2 years,Thousand,511.8
+AAA06,Farm Animals in December,2012,2012,212,Rams,Thousand,75.4
+AAA06,Farm Animals in December,2012,2012,22,Other sheep,Thousand,854.0
+AAA06,Farm Animals in December,2012,2012,3,Total pigs,Thousand,1493.5
+AAA06,Farm Animals in December,2012,2012,31,Breeding pigs,Thousand,145.7
+AAA06,Farm Animals in December,2012,2012,3111,Gilts in pig,Thousand,20.7
+AAA06,Farm Animals in December,2012,2012,3112,Sows in pig,Thousand,82.6
+AAA06,Farm Animals in December,2012,2012,3113,Other sows for breeding,Thousand,25.7
+AAA06,Farm Animals in December,2012,2012,3114,Gilts not yet served,Thousand,15.2
+AAA06,Farm Animals in December,2012,2012,312,Boars,Thousand,1.5
+AAA06,Farm Animals in December,2012,2012,32,Other pigs,Thousand,1347.9
+AAA06,Farm Animals in December,2012,2012,3211,Other pigs: 20kg and under 50kg,Thousand,412.6
+AAA06,Farm Animals in December,2012,2012,3212,Other pigs: 50kg and under 80kg,Thousand,298.7
+AAA06,Farm Animals in December,2012,2012,3213,Other pigs: 80kg and over,Thousand,228.8
+AAA06,Farm Animals in December,2012,2012,322,Other pigs: under 20kg,Thousand,407.7
+AAA06,Farm Animals in December,2013,2013,1,Total cattle,Thousand,6309.1
+AAA06,Farm Animals in December,2013,2013,111,Cows,Thousand,2167.5
+AAA06,Farm Animals in December,2013,2013,1111,Dairy cows,Thousand,1082.5
+AAA06,Farm Animals in December,2013,2013,1112,Other cows,Thousand,1085.1
+AAA06,Farm Animals in December,2013,2013,113,Bulls,Thousand,48.1
+AAA06,Farm Animals in December,2013,2013,133,Cattle: 2 years and over,Thousand,496.3
+AAA06,Farm Animals in December,2013,2013,1331,Cattle male: 2 years and over,Thousand,207.2
+AAA06,Farm Animals in December,2013,2013,1332,Cattle female: 2 years and over,Thousand,289.1
+AAA06,Farm Animals in December,2013,2013,134,Cattle: 1-2 years,Thousand,1703.8
+AAA06,Farm Animals in December,2013,2013,1341,Cattle male: 1-2 years,Thousand,793.4
+AAA06,Farm Animals in December,2013,2013,1342,Cattle female: 1-2 years,Thousand,910.4
+AAA06,Farm Animals in December,2013,2013,135,Cattle: under 1 year,Thousand,1893.3
+AAA06,Farm Animals in December,2013,2013,1351,Cattle male: under 1 year,Thousand,914.2
+AAA06,Farm Animals in December,2013,2013,1352,Cattle female: under 1 year,Thousand,979.1
+AAA06,Farm Animals in December,2013,2013,136,Total cattle: male,Thousand,1962.9
+AAA06,Farm Animals in December,2013,2013,137,Total cattle: female,Thousand,4346.2
+AAA06,Farm Animals in December,2013,2013,2,Total sheep,Thousand,3324.1
+AAA06,Farm Animals in December,2013,2013,21,Breeding sheep,Thousand,2546.3
+AAA06,Farm Animals in December,2013,2013,211,Ewes,Thousand,2472.8
+AAA06,Farm Animals in December,2013,2013,2111,Ewes: 2 years and over,Thousand,1998.8
+AAA06,Farm Animals in December,2013,2013,2112,Ewes: under 2 years,Thousand,474.0
+AAA06,Farm Animals in December,2013,2013,212,Rams,Thousand,73.4
+AAA06,Farm Animals in December,2013,2013,22,Other sheep,Thousand,777.8
+AAA06,Farm Animals in December,2013,2013,3,Total pigs,Thousand,1469.1
+AAA06,Farm Animals in December,2013,2013,31,Breeding pigs,Thousand,145.8
+AAA06,Farm Animals in December,2013,2013,3111,Gilts in pig,Thousand,19.1
+AAA06,Farm Animals in December,2013,2013,3112,Sows in pig,Thousand,79.4
+AAA06,Farm Animals in December,2013,2013,3113,Other sows for breeding,Thousand,29.8
+AAA06,Farm Animals in December,2013,2013,3114,Gilts not yet served,Thousand,16.0
+AAA06,Farm Animals in December,2013,2013,312,Boars,Thousand,1.5
+AAA06,Farm Animals in December,2013,2013,32,Other pigs,Thousand,1323.3
+AAA06,Farm Animals in December,2013,2013,3211,Other pigs: 20kg and under 50kg,Thousand,380.6
+AAA06,Farm Animals in December,2013,2013,3212,Other pigs: 50kg and under 80kg,Thousand,273.4
+AAA06,Farm Animals in December,2013,2013,3213,Other pigs: 80kg and over,Thousand,242.0
+AAA06,Farm Animals in December,2013,2013,322,Other pigs: under 20kg,Thousand,427.2
+AAA06,Farm Animals in December,2014,2014,1,Total cattle,Thousand,6243.1
+AAA06,Farm Animals in December,2014,2014,111,Cows,Thousand,2168.9
+AAA06,Farm Animals in December,2014,2014,1111,Dairy cows,Thousand,1127.7
+AAA06,Farm Animals in December,2014,2014,1112,Other cows,Thousand,1041.2
+AAA06,Farm Animals in December,2014,2014,113,Bulls,Thousand,51.5
+AAA06,Farm Animals in December,2014,2014,133,Cattle: 2 years and over,Thousand,498.9
+AAA06,Farm Animals in December,2014,2014,1331,Cattle male: 2 years and over,Thousand,194.4
+AAA06,Farm Animals in December,2014,2014,1332,Cattle female: 2 years and over,Thousand,304.5
+AAA06,Farm Animals in December,2014,2014,134,Cattle: 1-2 years,Thousand,1638.0
+AAA06,Farm Animals in December,2014,2014,1341,Cattle male: 1-2 years,Thousand,745.3
+AAA06,Farm Animals in December,2014,2014,1342,Cattle female: 1-2 years,Thousand,892.7
+AAA06,Farm Animals in December,2014,2014,135,Cattle: under 1 year,Thousand,1885.7
+AAA06,Farm Animals in December,2014,2014,1351,Cattle male: under 1 year,Thousand,901.1
+AAA06,Farm Animals in December,2014,2014,1352,Cattle female: under 1 year,Thousand,984.6
+AAA06,Farm Animals in December,2014,2014,136,Total cattle: male,Thousand,1892.3
+AAA06,Farm Animals in December,2014,2014,137,Total cattle: female,Thousand,4350.7
+AAA06,Farm Animals in December,2014,2014,2,Total sheep,Thousand,3324.9
+AAA06,Farm Animals in December,2014,2014,21,Breeding sheep,Thousand,2503.6
+AAA06,Farm Animals in December,2014,2014,211,Ewes,Thousand,2430.2
+AAA06,Farm Animals in December,2014,2014,2111,Ewes: 2 years and over,Thousand,1980.1
+AAA06,Farm Animals in December,2014,2014,2112,Ewes: under 2 years,Thousand,450.1
+AAA06,Farm Animals in December,2014,2014,212,Rams,Thousand,73.4
+AAA06,Farm Animals in December,2014,2014,22,Other sheep,Thousand,821.3
+AAA06,Farm Animals in December,2014,2014,3,Total pigs,Thousand,1505.7
+AAA06,Farm Animals in December,2014,2014,31,Breeding pigs,Thousand,147.0
+AAA06,Farm Animals in December,2014,2014,3111,Gilts in pig,Thousand,19.5
+AAA06,Farm Animals in December,2014,2014,3112,Sows in pig,Thousand,82.5
+AAA06,Farm Animals in December,2014,2014,3113,Other sows for breeding,Thousand,28.3
+AAA06,Farm Animals in December,2014,2014,3114,Gilts not yet served,Thousand,15.2
+AAA06,Farm Animals in December,2014,2014,312,Boars,Thousand,1.5
+AAA06,Farm Animals in December,2014,2014,32,Other pigs,Thousand,1358.6
+AAA06,Farm Animals in December,2014,2014,3211,Other pigs: 20kg and under 50kg,Thousand,384.5
+AAA06,Farm Animals in December,2014,2014,3212,Other pigs: 50kg and under 80kg,Thousand,296.8
+AAA06,Farm Animals in December,2014,2014,3213,Other pigs: 80kg and over,Thousand,238.2
+AAA06,Farm Animals in December,2014,2014,322,Other pigs: under 20kg,Thousand,439.0
+AAA06,Farm Animals in December,2015,2015,1,Total cattle,Thousand,6422.2
+AAA06,Farm Animals in December,2015,2015,111,Cows,Thousand,2293.1
+AAA06,Farm Animals in December,2015,2015,1111,Dairy cows,Thousand,1239.9
+AAA06,Farm Animals in December,2015,2015,1112,Other cows,Thousand,1053.2
+AAA06,Farm Animals in December,2015,2015,113,Bulls,Thousand,52.7
+AAA06,Farm Animals in December,2015,2015,133,Cattle: 2 years and over,Thousand,401.6
+AAA06,Farm Animals in December,2015,2015,1331,Cattle male: 2 years and over,Thousand,160.3
+AAA06,Farm Animals in December,2015,2015,1332,Cattle female: 2 years and over,Thousand,241.3
+AAA06,Farm Animals in December,2015,2015,134,Cattle: 1-2 years,Thousand,1649.2
+AAA06,Farm Animals in December,2015,2015,1341,Cattle male: 1-2 years,Thousand,751.9
+AAA06,Farm Animals in December,2015,2015,1342,Cattle female: 1-2 years,Thousand,897.3
+AAA06,Farm Animals in December,2015,2015,135,Cattle: under 1 year,Thousand,2025.7
+AAA06,Farm Animals in December,2015,2015,1351,Cattle male: under 1 year,Thousand,982.0
+AAA06,Farm Animals in December,2015,2015,1352,Cattle female: under 1 year,Thousand,1043.7
+AAA06,Farm Animals in December,2015,2015,136,Total cattle: male,Thousand,1946.9
+AAA06,Farm Animals in December,2015,2015,137,Total cattle: female,Thousand,4475.4
+AAA06,Farm Animals in December,2015,2015,2,Total sheep,Thousand,3324.8
+AAA06,Farm Animals in December,2015,2015,21,Breeding sheep,Thousand,2485.9
+AAA06,Farm Animals in December,2015,2015,211,Ewes,Thousand,2412.3
+AAA06,Farm Animals in December,2015,2015,2111,Ewes: 2 years and over,Thousand,1946.4
+AAA06,Farm Animals in December,2015,2015,2112,Ewes: under 2 years,Thousand,465.9
+AAA06,Farm Animals in December,2015,2015,212,Rams,Thousand,73.5
+AAA06,Farm Animals in December,2015,2015,22,Other sheep,Thousand,839.0
+AAA06,Farm Animals in December,2015,2015,3,Total pigs,Thousand,1474.5
+AAA06,Farm Animals in December,2015,2015,31,Breeding pigs,Thousand,140.1
+AAA06,Farm Animals in December,2015,2015,3111,Gilts in pig,Thousand,19.9
+AAA06,Farm Animals in December,2015,2015,3112,Sows in pig,Thousand,78.4
+AAA06,Farm Animals in December,2015,2015,3113,Other sows for breeding,Thousand,26.0
+AAA06,Farm Animals in December,2015,2015,3114,Gilts not yet served,Thousand,14.6
+AAA06,Farm Animals in December,2015,2015,312,Boars,Thousand,1.3
+AAA06,Farm Animals in December,2015,2015,32,Other pigs,Thousand,1334.4
+AAA06,Farm Animals in December,2015,2015,3211,Other pigs: 20kg and under 50kg,Thousand,396.9
+AAA06,Farm Animals in December,2015,2015,3212,Other pigs: 50kg and under 80kg,Thousand,290.3
+AAA06,Farm Animals in December,2015,2015,3213,Other pigs: 80kg and over,Thousand,239.2
+AAA06,Farm Animals in December,2015,2015,322,Other pigs: under 20kg,Thousand,408.0
+AAA06,Farm Animals in December,2016,2016,1,Total cattle,Thousand,6613.4
+AAA06,Farm Animals in December,2016,2016,111,Cows,Thousand,2337.3
+AAA06,Farm Animals in December,2016,2016,1111,Dairy cows,Thousand,1295.2
+AAA06,Farm Animals in December,2016,2016,1112,Other cows,Thousand,1042.0
+AAA06,Farm Animals in December,2016,2016,113,Bulls,Thousand,53.6
+AAA06,Farm Animals in December,2016,2016,133,Cattle: 2 years and over,Thousand,379.0
+AAA06,Farm Animals in December,2016,2016,1331,Cattle male: 2 years and over,Thousand,139.7
+AAA06,Farm Animals in December,2016,2016,1332,Cattle female: 2 years and over,Thousand,239.3
+AAA06,Farm Animals in December,2016,2016,134,Cattle: 1-2 years,Thousand,1767.1
+AAA06,Farm Animals in December,2016,2016,1341,Cattle male: 1-2 years,Thousand,813.4
+AAA06,Farm Animals in December,2016,2016,1342,Cattle female: 1-2 years,Thousand,953.6
+AAA06,Farm Animals in December,2016,2016,135,Cattle: under 1 year,Thousand,2076.5
+AAA06,Farm Animals in December,2016,2016,1351,Cattle male: under 1 year,Thousand,1011.3
+AAA06,Farm Animals in December,2016,2016,1352,Cattle female: under 1 year,Thousand,1065.3
+AAA06,Farm Animals in December,2016,2016,136,Total cattle: male,Thousand,2018.0
+AAA06,Farm Animals in December,2016,2016,137,Total cattle: female,Thousand,4595.5
+AAA06,Farm Animals in December,2016,2016,2,Total sheep,Thousand,3438.2
+AAA06,Farm Animals in December,2016,2016,21,Breeding sheep,Thousand,2479.7
+AAA06,Farm Animals in December,2016,2016,211,Ewes,Thousand,2405.2
+AAA06,Farm Animals in December,2016,2016,2111,Ewes: 2 years and over,Thousand,1934.3
+AAA06,Farm Animals in December,2016,2016,2112,Ewes: under 2 years,Thousand,470.9
+AAA06,Farm Animals in December,2016,2016,212,Rams,Thousand,74.6
+AAA06,Farm Animals in December,2016,2016,22,Other sheep,Thousand,958.5
+AAA06,Farm Animals in December,2016,2016,3,Total pigs,Thousand,1527.8
+AAA06,Farm Animals in December,2016,2016,31,Breeding pigs,Thousand,146.6
+AAA06,Farm Animals in December,2016,2016,3111,Gilts in pig,Thousand,18.8
+AAA06,Farm Animals in December,2016,2016,3112,Sows in pig,Thousand,78.9
+AAA06,Farm Animals in December,2016,2016,3113,Other sows for breeding,Thousand,32.0
+AAA06,Farm Animals in December,2016,2016,3114,Gilts not yet served,Thousand,15.7
+AAA06,Farm Animals in December,2016,2016,312,Boars,Thousand,1.2
+AAA06,Farm Animals in December,2016,2016,32,Other pigs,Thousand,1381.2
+AAA06,Farm Animals in December,2016,2016,3211,Other pigs: 20kg and under 50kg,Thousand,409.9
+AAA06,Farm Animals in December,2016,2016,3212,Other pigs: 50kg and under 80kg,Thousand,285.5
+AAA06,Farm Animals in December,2016,2016,3213,Other pigs: 80kg and over,Thousand,259.6
+AAA06,Farm Animals in December,2016,2016,322,Other pigs: under 20kg,Thousand,426.2
+AAA06,Farm Animals in December,2017,2017,1,Total cattle,Thousand,6673.6
+AAA06,Farm Animals in December,2017,2017,111,Cows,Thousand,2361.6
+AAA06,Farm Animals in December,2017,2017,1111,Dairy cows,Thousand,1343.3
+AAA06,Farm Animals in December,2017,2017,1112,Other cows,Thousand,1018.3
+AAA06,Farm Animals in December,2017,2017,113,Bulls,Thousand,53.8
+AAA06,Farm Animals in December,2017,2017,133,Cattle: 2 years and over,Thousand,390.8
+AAA06,Farm Animals in December,2017,2017,1331,Cattle male: 2 years and over,Thousand,143.0
+AAA06,Farm Animals in December,2017,2017,1332,Cattle female: 2 years and over,Thousand,247.9
+AAA06,Farm Animals in December,2017,2017,134,Cattle: 1-2 years,Thousand,1780.8
+AAA06,Farm Animals in December,2017,2017,1341,Cattle male: 1-2 years,Thousand,811.8
+AAA06,Farm Animals in December,2017,2017,1342,Cattle female: 1-2 years,Thousand,969.0
+AAA06,Farm Animals in December,2017,2017,135,Cattle: under 1 year,Thousand,2086.5
+AAA06,Farm Animals in December,2017,2017,1351,Cattle male: under 1 year,Thousand,1008.6
+AAA06,Farm Animals in December,2017,2017,1352,Cattle female: under 1 year,Thousand,1077.9
+AAA06,Farm Animals in December,2017,2017,136,Total cattle: male,Thousand,2017.2
+AAA06,Farm Animals in December,2017,2017,137,Total cattle: female,Thousand,4656.4
+AAA06,Farm Animals in December,2017,2017,2,Total sheep,Thousand,3981.8
+AAA06,Farm Animals in December,2017,2017,21,Breeding sheep,Thousand,2809.0
+AAA06,Farm Animals in December,2017,2017,211,Ewes,Thousand,2723.3
+AAA06,Farm Animals in December,2017,2017,2111,Ewes: 2 years and over,Thousand,1995.1
+AAA06,Farm Animals in December,2017,2017,2112,Ewes: under 2 years,Thousand,728.2
+AAA06,Farm Animals in December,2017,2017,212,Rams,Thousand,85.7
+AAA06,Farm Animals in December,2017,2017,22,Other sheep,Thousand,1172.8
+AAA06,Farm Animals in December,2017,2017,3,Total pigs,Thousand,1616.4
+AAA06,Farm Animals in December,2017,2017,31,Breeding pigs,Thousand,150.2
+AAA06,Farm Animals in December,2017,2017,3111,Gilts in pig,Thousand,20.6
+AAA06,Farm Animals in December,2017,2017,3112,Sows in pig,Thousand,84.7
+AAA06,Farm Animals in December,2017,2017,3113,Other sows for breeding,Thousand,28.9
+AAA06,Farm Animals in December,2017,2017,3114,Gilts not yet served,Thousand,14.8
+AAA06,Farm Animals in December,2017,2017,312,Boars,Thousand,1.2
+AAA06,Farm Animals in December,2017,2017,32,Other pigs,Thousand,1466.2
+AAA06,Farm Animals in December,2017,2017,3211,Other pigs: 20kg and under 50kg,Thousand,417.2
+AAA06,Farm Animals in December,2017,2017,3212,Other pigs: 50kg and under 80kg,Thousand,322.6
+AAA06,Farm Animals in December,2017,2017,3213,Other pigs: 80kg and over,Thousand,276.5
+AAA06,Farm Animals in December,2017,2017,322,Other pigs: under 20kg,Thousand,449.9
+AAA06,Farm Animals in December,2018,2018,1,Total cattle,Thousand,6593.5
+AAA06,Farm Animals in December,2018,2018,111,Cows,Thousand,2351.4
+AAA06,Farm Animals in December,2018,2018,1111,Dairy cows,Thousand,1369.1
+AAA06,Farm Animals in December,2018,2018,1112,Other cows,Thousand,982.3
+AAA06,Farm Animals in December,2018,2018,113,Bulls,Thousand,53.4
+AAA06,Farm Animals in December,2018,2018,133,Cattle: 2 years and over,Thousand,409.7
+AAA06,Farm Animals in December,2018,2018,1331,Cattle male: 2 years and over,Thousand,154.5
+AAA06,Farm Animals in December,2018,2018,1332,Cattle female: 2 years and over,Thousand,255.2
+AAA06,Farm Animals in December,2018,2018,134,Cattle: 1-2 years,Thousand,1779.1
+AAA06,Farm Animals in December,2018,2018,1341,Cattle male: 1-2 years,Thousand,803.0
+AAA06,Farm Animals in December,2018,2018,1342,Cattle female: 1-2 years,Thousand,976.1
+AAA06,Farm Animals in December,2018,2018,135,Cattle: under 1 year,Thousand,1999.9
+AAA06,Farm Animals in December,2018,2018,1351,Cattle male: under 1 year,Thousand,948.5
+AAA06,Farm Animals in December,2018,2018,1352,Cattle female: under 1 year,Thousand,1051.4
+AAA06,Farm Animals in December,2018,2018,136,Total cattle: male,Thousand,1959.4
+AAA06,Farm Animals in December,2018,2018,137,Total cattle: female,Thousand,4634.1
+AAA06,Farm Animals in December,2018,2018,2,Total sheep,Thousand,3798.5
+AAA06,Farm Animals in December,2018,2018,21,Breeding sheep,Thousand,2690.0
+AAA06,Farm Animals in December,2018,2018,211,Ewes,Thousand,2608.1
+AAA06,Farm Animals in December,2018,2018,2111,Ewes: 2 years and over,Thousand,1980.3
+AAA06,Farm Animals in December,2018,2018,2112,Ewes: under 2 years,Thousand,627.9
+AAA06,Farm Animals in December,2018,2018,212,Rams,Thousand,81.9
+AAA06,Farm Animals in December,2018,2018,22,Other sheep,Thousand,1108.5
+AAA06,Farm Animals in December,2018,2018,3,Total pigs,Thousand,1572.2
+AAA06,Farm Animals in December,2018,2018,31,Breeding pigs,Thousand,143.0
+AAA06,Farm Animals in December,2018,2018,3111,Gilts in pig,Thousand,19.1
+AAA06,Farm Animals in December,2018,2018,3112,Sows in pig,Thousand,78.0
+AAA06,Farm Animals in December,2018,2018,3113,Other sows for breeding,Thousand,29.3
+AAA06,Farm Animals in December,2018,2018,3114,Gilts not yet served,Thousand,15.3
+AAA06,Farm Animals in December,2018,2018,312,Boars,Thousand,1.2
+AAA06,Farm Animals in December,2018,2018,32,Other pigs,Thousand,1429.2
+AAA06,Farm Animals in December,2018,2018,3211,Other pigs: 20kg and under 50kg,Thousand,417.3
+AAA06,Farm Animals in December,2018,2018,3212,Other pigs: 50kg and under 80kg,Thousand,315.9
+AAA06,Farm Animals in December,2018,2018,3213,Other pigs: 80kg and over,Thousand,259.1
+AAA06,Farm Animals in December,2018,2018,322,Other pigs: under 20kg,Thousand,436.9
+AAA06,Farm Animals in December,2019,2019,1,Total cattle,Thousand,6559.7
+AAA06,Farm Animals in December,2019,2019,111,Cows,Thousand,2382.6
+AAA06,Farm Animals in December,2019,2019,1111,Dairy cows,Thousand,1425.8
+AAA06,Farm Animals in December,2019,2019,1112,Other cows,Thousand,956.9
+AAA06,Farm Animals in December,2019,2019,113,Bulls,Thousand,52.0
+AAA06,Farm Animals in December,2019,2019,133,Cattle: 2 years and over,Thousand,431.4
+AAA06,Farm Animals in December,2019,2019,1331,Cattle male: 2 years and over,Thousand,170.6
+AAA06,Farm Animals in December,2019,2019,1332,Cattle female: 2 years and over,Thousand,260.9
+AAA06,Farm Animals in December,2019,2019,134,Cattle: 1-2 years,Thousand,1731.2
+AAA06,Farm Animals in December,2019,2019,1341,Cattle male: 1-2 years,Thousand,769.3
+AAA06,Farm Animals in December,2019,2019,1342,Cattle female: 1-2 years,Thousand,962.0
+AAA06,Farm Animals in December,2019,2019,135,Cattle: under 1 year,Thousand,1962.4
+AAA06,Farm Animals in December,2019,2019,1351,Cattle male: under 1 year,Thousand,906.4
+AAA06,Farm Animals in December,2019,2019,1352,Cattle female: under 1 year,Thousand,1056.0
+AAA06,Farm Animals in December,2019,2019,136,Total cattle: male,Thousand,1898.2
+AAA06,Farm Animals in December,2019,2019,137,Total cattle: female,Thousand,4661.4
+AAA06,Farm Animals in December,2019,2019,2,Total sheep,Thousand,3809.4
+AAA06,Farm Animals in December,2019,2019,21,Breeding sheep,Thousand,2652.9
+AAA06,Farm Animals in December,2019,2019,211,Ewes,Thousand,2570.9
+AAA06,Farm Animals in December,2019,2019,2111,Ewes: 2 years and over,Thousand,1974.1
+AAA06,Farm Animals in December,2019,2019,2112,Ewes: under 2 years,Thousand,596.8
+AAA06,Farm Animals in December,2019,2019,212,Rams,Thousand,82.1
+AAA06,Farm Animals in December,2019,2019,22,Other sheep,Thousand,1156.4
+AAA06,Farm Animals in December,2019,2019,3,Total pigs,Thousand,1613.3
+AAA06,Farm Animals in December,2019,2019,31,Breeding pigs,Thousand,145.0
+AAA06,Farm Animals in December,2019,2019,3111,Gilts in pig,Thousand,20.1
+AAA06,Farm Animals in December,2019,2019,3112,Sows in pig,Thousand,79.3
+AAA06,Farm Animals in December,2019,2019,3113,Other sows for breeding,Thousand,28.1
+AAA06,Farm Animals in December,2019,2019,3114,Gilts not yet served,Thousand,16.5
+AAA06,Farm Animals in December,2019,2019,312,Boars,Thousand,1.0
+AAA06,Farm Animals in December,2019,2019,32,Other pigs,Thousand,1468.3
+AAA06,Farm Animals in December,2019,2019,3211,Other pigs: 20kg and under 50kg,Thousand,417.8
+AAA06,Farm Animals in December,2019,2019,3212,Other pigs: 50kg and under 80kg,Thousand,310.0
+AAA06,Farm Animals in December,2019,2019,3213,Other pigs: 80kg and over,Thousand,288.9
+AAA06,Farm Animals in December,2019,2019,322,Other pigs: under 20kg,Thousand,451.6
+AAA06,Farm Animals in December,2020,2020,1,Total cattle,Thousand,6529.4
+AAA06,Farm Animals in December,2020,2020,111,Cows,Thousand,2378.7
+AAA06,Farm Animals in December,2020,2020,1111,Dairy cows,Thousand,1456.0
+AAA06,Farm Animals in December,2020,2020,1112,Other cows,Thousand,922.7
+AAA06,Farm Animals in December,2020,2020,113,Bulls,Thousand,49.7
+AAA06,Farm Animals in December,2020,2020,133,Cattle: 2 years and over,Thousand,345.5
+AAA06,Farm Animals in December,2020,2020,1331,Cattle male: 2 years and over,Thousand,115.8
+AAA06,Farm Animals in December,2020,2020,1332,Cattle female: 2 years and over,Thousand,229.7
+AAA06,Farm Animals in December,2020,2020,134,Cattle: 1-2 years,Thousand,1698.9
+AAA06,Farm Animals in December,2020,2020,1341,Cattle male: 1-2 years,Thousand,743.0
+AAA06,Farm Animals in December,2020,2020,1342,Cattle female: 1-2 years,Thousand,955.9
+AAA06,Farm Animals in December,2020,2020,135,Cattle: under 1 year,Thousand,2056.6
+AAA06,Farm Animals in December,2020,2020,1351,Cattle male: under 1 year,Thousand,976.6
+AAA06,Farm Animals in December,2020,2020,1352,Cattle female: under 1 year,Thousand,1080.0
+AAA06,Farm Animals in December,2020,2020,136,Total cattle: male,Thousand,1885.1
+AAA06,Farm Animals in December,2020,2020,137,Total cattle: female,Thousand,4644.4
+AAA06,Farm Animals in December,2020,2020,2,Total sheep,Thousand,3877.2
+AAA06,Farm Animals in December,2020,2020,21,Breeding sheep,Thousand,2729.6
+AAA06,Farm Animals in December,2020,2020,211,Ewes,Thousand,2642.5
+AAA06,Farm Animals in December,2020,2020,2111,Ewes: 2 years and over,Thousand,2041.1
+AAA06,Farm Animals in December,2020,2020,2112,Ewes: under 2 years,Thousand,601.4
+AAA06,Farm Animals in December,2020,2020,212,Rams,Thousand,87.1
+AAA06,Farm Animals in December,2020,2020,22,Other sheep,Thousand,1147.6
+AAA06,Farm Animals in December,2020,2020,3,Total pigs,Thousand,1678.6
+AAA06,Farm Animals in December,2020,2020,31,Breeding pigs,Thousand,147.8
+AAA06,Farm Animals in December,2020,2020,3111,Gilts in pig,Thousand,21.1
+AAA06,Farm Animals in December,2020,2020,3112,Sows in pig,Thousand,81.8
+AAA06,Farm Animals in December,2020,2020,3113,Other sows for breeding,Thousand,27.3
+AAA06,Farm Animals in December,2020,2020,3114,Gilts not yet served,Thousand,16.8
+AAA06,Farm Animals in December,2020,2020,312,Boars,Thousand,0.9
+AAA06,Farm Animals in December,2020,2020,32,Other pigs,Thousand,1530.7
+AAA06,Farm Animals in December,2020,2020,3211,Other pigs: 20kg and under 50kg,Thousand,436.3
+AAA06,Farm Animals in December,2020,2020,3212,Other pigs: 50kg and under 80kg,Thousand,340.8
+AAA06,Farm Animals in December,2020,2020,3213,Other pigs: 80kg and over,Thousand,326.7
+AAA06,Farm Animals in December,2020,2020,322,Other pigs: under 20kg,Thousand,426.9
+AAA06,Farm Animals in December,2021,2021,1,Total cattle,Thousand,6649.3
+AAA06,Farm Animals in December,2021,2021,111,Cows,Thousand,2394.9
+AAA06,Farm Animals in December,2021,2021,1111,Dairy cows,Thousand,1505.3
+AAA06,Farm Animals in December,2021,2021,1112,Other cows,Thousand,889.7
+AAA06,Farm Animals in December,2021,2021,113,Bulls,Thousand,48.2
+AAA06,Farm Animals in December,2021,2021,133,Cattle: 2 years and over,Thousand,331.7
+AAA06,Farm Animals in December,2021,2021,1331,Cattle male: 2 years and over,Thousand,107.6
+AAA06,Farm Animals in December,2021,2021,1332,Cattle female: 2 years and over,Thousand,224.1
+AAA06,Farm Animals in December,2021,2021,134,Cattle: 1-2 years,Thousand,1766.8
+AAA06,Farm Animals in December,2021,2021,1341,Cattle male: 1-2 years,Thousand,796.9
+AAA06,Farm Animals in December,2021,2021,1342,Cattle female: 1-2 years,Thousand,969.9
+AAA06,Farm Animals in December,2021,2021,135,Cattle: under 1 year,Thousand,2107.7
+AAA06,Farm Animals in December,2021,2021,1351,Cattle male: under 1 year,Thousand,1004.0
+AAA06,Farm Animals in December,2021,2021,1352,Cattle female: under 1 year,Thousand,1103.7
+AAA06,Farm Animals in December,2021,2021,136,Total cattle: male,Thousand,1956.7
+AAA06,Farm Animals in December,2021,2021,137,Total cattle: female,Thousand,4692.6
+AAA06,Farm Animals in December,2021,2021,2,Total sheep,Thousand,4024.7
+AAA06,Farm Animals in December,2021,2021,21,Breeding sheep,Thousand,2784.1
+AAA06,Farm Animals in December,2021,2021,211,Ewes,Thousand,2697.9
+AAA06,Farm Animals in December,2021,2021,2111,Ewes: 2 years and over,Thousand,2070.8
+AAA06,Farm Animals in December,2021,2021,2112,Ewes: under 2 years,Thousand,627.1
+AAA06,Farm Animals in December,2021,2021,212,Rams,Thousand,86.2
+AAA06,Farm Animals in December,2021,2021,22,Other sheep,Thousand,1240.6
+AAA06,Farm Animals in December,2021,2021,3,Total pigs,Thousand,1713.6
+AAA06,Farm Animals in December,2021,2021,31,Breeding pigs,Thousand,145.9
+AAA06,Farm Animals in December,2021,2021,3111,Gilts in pig,Thousand,21.0
+AAA06,Farm Animals in December,2021,2021,3112,Sows in pig,Thousand,79.9
+AAA06,Farm Animals in December,2021,2021,3113,Other sows for breeding,Thousand,27.3
+AAA06,Farm Animals in December,2021,2021,3114,Gilts not yet served,Thousand,16.7
+AAA06,Farm Animals in December,2021,2021,312,Boars,Thousand,1.0
+AAA06,Farm Animals in December,2021,2021,32,Other pigs,Thousand,1567.7
+AAA06,Farm Animals in December,2021,2021,3211,Other pigs: 20kg and under 50kg,Thousand,422.5
+AAA06,Farm Animals in December,2021,2021,3212,Other pigs: 50kg and under 80kg,Thousand,338.5
+AAA06,Farm Animals in December,2021,2021,3213,Other pigs: 80kg and over,Thousand,324.1
+AAA06,Farm Animals in December,2021,2021,322,Other pigs: under 20kg,Thousand,482.6
+AAA06,Farm Animals in December,2022,2022,1,Total cattle,Thousand,6551.8
+AAA06,Farm Animals in December,2022,2022,111,Cows,Thousand,2372.1
+AAA06,Farm Animals in December,2022,2022,1111,Dairy cows,Thousand,1510.3
+AAA06,Farm Animals in December,2022,2022,1112,Other cows,Thousand,861.7
+AAA06,Farm Animals in December,2022,2022,113,Bulls,Thousand,46.2
+AAA06,Farm Animals in December,2022,2022,133,Cattle: 2 years and over,Thousand,336.8
+AAA06,Farm Animals in December,2022,2022,1331,Cattle male: 2 years and over,Thousand,121.1
+AAA06,Farm Animals in December,2022,2022,1332,Cattle female: 2 years and over,Thousand,215.7
+AAA06,Farm Animals in December,2022,2022,134,Cattle: 1-2 years,Thousand,1801.2
+AAA06,Farm Animals in December,2022,2022,1341,Cattle male: 1-2 years,Thousand,805.9
+AAA06,Farm Animals in December,2022,2022,1342,Cattle female: 1-2 years,Thousand,995.4
+AAA06,Farm Animals in December,2022,2022,135,Cattle: under 1 year,Thousand,1995.4
+AAA06,Farm Animals in December,2022,2022,1351,Cattle male: under 1 year,Thousand,922.3
+AAA06,Farm Animals in December,2022,2022,1352,Cattle female: under 1 year,Thousand,1073.1
+AAA06,Farm Animals in December,2022,2022,136,Total cattle: male,Thousand,1895.6
+AAA06,Farm Animals in December,2022,2022,137,Total cattle: female,Thousand,4656.2
+AAA06,Farm Animals in December,2022,2022,2,Total sheep,Thousand,4010.6
+AAA06,Farm Animals in December,2022,2022,21,Breeding sheep,Thousand,2747.8
+AAA06,Farm Animals in December,2022,2022,211,Ewes,Thousand,2662.0
+AAA06,Farm Animals in December,2022,2022,2111,Ewes: 2 years and over,Thousand,2071.4
+AAA06,Farm Animals in December,2022,2022,2112,Ewes: under 2 years,Thousand,590.6
+AAA06,Farm Animals in December,2022,2022,212,Rams,Thousand,85.8
+AAA06,Farm Animals in December,2022,2022,22,Other sheep,Thousand,1262.8
+AAA06,Farm Animals in December,2022,2022,3,Total pigs,Thousand,1570.4
+AAA06,Farm Animals in December,2022,2022,31,Breeding pigs,Thousand,127.5
+AAA06,Farm Animals in December,2022,2022,3111,Gilts in pig,Thousand,15.8
+AAA06,Farm Animals in December,2022,2022,3112,Sows in pig,Thousand,72.4
+AAA06,Farm Animals in December,2022,2022,3113,Other sows for breeding,Thousand,24.6
+AAA06,Farm Animals in December,2022,2022,3114,Gilts not yet served,Thousand,13.8
+AAA06,Farm Animals in December,2022,2022,312,Boars,Thousand,0.9
+AAA06,Farm Animals in December,2022,2022,32,Other pigs,Thousand,1442.9
+AAA06,Farm Animals in December,2022,2022,3211,Other pigs: 20kg and under 50kg,Thousand,386.6
+AAA06,Farm Animals in December,2022,2022,3212,Other pigs: 50kg and under 80kg,Thousand,317.8
+AAA06,Farm Animals in December,2022,2022,3213,Other pigs: 80kg and over,Thousand,319.8
+AAA06,Farm Animals in December,2022,2022,322,Other pigs: under 20kg,Thousand,418.8
+AAA06,Farm Animals in December,2023,2023,1,Total cattle,Thousand,6526.0
+AAA06,Farm Animals in December,2023,2023,111,Cows,Thousand,2329.4
+AAA06,Farm Animals in December,2023,2023,1111,Dairy cows,Thousand,1510.9
+AAA06,Farm Animals in December,2023,2023,1112,Other cows,Thousand,818.6
+AAA06,Farm Animals in December,2023,2023,113,Bulls,Thousand,47.3
+AAA06,Farm Animals in December,2023,2023,133,Cattle: 2 years and over,Thousand,380.5
+AAA06,Farm Animals in December,2023,2023,1331,Cattle male: 2 years and over,Thousand,144.1
+AAA06,Farm Animals in December,2023,2023,1332,Cattle female: 2 years and over,Thousand,236.5
+AAA06,Farm Animals in December,2023,2023,134,Cattle: 1-2 years,Thousand,1794.9
+AAA06,Farm Animals in December,2023,2023,1341,Cattle male: 1-2 years,Thousand,778.6
+AAA06,Farm Animals in December,2023,2023,1342,Cattle female: 1-2 years,Thousand,1016.4
+AAA06,Farm Animals in December,2023,2023,135,Cattle: under 1 year,Thousand,1973.8
+AAA06,Farm Animals in December,2023,2023,1351,Cattle male: under 1 year,Thousand,898.1
+AAA06,Farm Animals in December,2023,2023,1352,Cattle female: under 1 year,Thousand,1075.8
+AAA06,Farm Animals in December,2023,2023,136,Total cattle: male,Thousand,1868.0
+AAA06,Farm Animals in December,2023,2023,137,Total cattle: female,Thousand,4658.0
+AAA06,Farm Animals in December,2023,2023,2,Total sheep,Thousand,3722.8
+AAA06,Farm Animals in December,2023,2023,21,Breeding sheep,Thousand,2645.1
+AAA06,Farm Animals in December,2023,2023,211,Ewes,Thousand,2562.4
+AAA06,Farm Animals in December,2023,2023,2111,Ewes: 2 years and over,Thousand,2033.2
+AAA06,Farm Animals in December,2023,2023,2112,Ewes: under 2 years,Thousand,529.2
+AAA06,Farm Animals in December,2023,2023,212,Rams,Thousand,82.8
+AAA06,Farm Animals in December,2023,2023,22,Other sheep,Thousand,1077.6
+AAA06,Farm Animals in December,2023,2023,3,Total pigs,Thousand,1407.6
+AAA06,Farm Animals in December,2023,2023,31,Breeding pigs,Thousand,126.8
+AAA06,Farm Animals in December,2023,2023,3111,Gilts in pig,Thousand,17.9
+AAA06,Farm Animals in December,2023,2023,3112,Sows in pig,Thousand,62.7
+AAA06,Farm Animals in December,2023,2023,3113,Other sows for breeding,Thousand,30.4
+AAA06,Farm Animals in December,2023,2023,3114,Gilts not yet served,Thousand,14.9
+AAA06,Farm Animals in December,2023,2023,312,Boars,Thousand,0.9
+AAA06,Farm Animals in December,2023,2023,32,Other pigs,Thousand,1280.9
+AAA06,Farm Animals in December,2023,2023,3211,Other pigs: 20kg and under 50kg,Thousand,369.0
+AAA06,Farm Animals in December,2023,2023,3212,Other pigs: 50kg and under 80kg,Thousand,277.0
+AAA06,Farm Animals in December,2023,2023,3213,Other pigs: 80kg and over,Thousand,271.9
+AAA06,Farm Animals in December,2023,2023,322,Other pigs: under 20kg,Thousand,363.0
+AAA06,Farm Animals in December,2024,2024,1,Total cattle,Thousand,6308.3
+AAA06,Farm Animals in December,2024,2024,111,Cows,Thousand,2249.1
+AAA06,Farm Animals in December,2024,2024,1111,Dairy cows,Thousand,1481.3
+AAA06,Farm Animals in December,2024,2024,1112,Other cows,Thousand,767.8
+AAA06,Farm Animals in December,2024,2024,113,Bulls,Thousand,48.5
+AAA06,Farm Animals in December,2024,2024,133,Cattle: 2 years and over,Thousand,396.7
+AAA06,Farm Animals in December,2024,2024,1331,Cattle male: 2 years and over,Thousand,144.5
+AAA06,Farm Animals in December,2024,2024,1332,Cattle female: 2 years and over,Thousand,252.2
+AAA06,Farm Animals in December,2024,2024,134,Cattle: 1-2 years,Thousand,1691.4
+AAA06,Farm Animals in December,2024,2024,1341,Cattle male: 1-2 years,Thousand,724.5
+AAA06,Farm Animals in December,2024,2024,1342,Cattle female: 1-2 years,Thousand,966.9
+AAA06,Farm Animals in December,2024,2024,135,Cattle: under 1 year,Thousand,1922.5
+AAA06,Farm Animals in December,2024,2024,1351,Cattle male: under 1 year,Thousand,867.3
+AAA06,Farm Animals in December,2024,2024,1352,Cattle female: under 1 year,Thousand,1055.1
+AAA06,Farm Animals in December,2024,2024,136,Total cattle: male,Thousand,1785.0
+AAA06,Farm Animals in December,2024,2024,137,Total cattle: female,Thousand,4523.3
+AAA06,Farm Animals in December,2024,2024,2,Total sheep,Thousand,3591.6
+AAA06,Farm Animals in December,2024,2024,21,Breeding sheep,Thousand,2550.0
+AAA06,Farm Animals in December,2024,2024,211,Ewes,Thousand,2467.9
+AAA06,Farm Animals in December,2024,2024,2111,Ewes: 2 years and over,Thousand,1976.8
+AAA06,Farm Animals in December,2024,2024,2112,Ewes: under 2 years,Thousand,491.1
+AAA06,Farm Animals in December,2024,2024,212,Rams,Thousand,82.1
+AAA06,Farm Animals in December,2024,2024,22,Other sheep,Thousand,1041.6
+AAA06,Farm Animals in December,2024,2024,3,Total pigs,Thousand,1473.7
+AAA06,Farm Animals in December,2024,2024,31,Breeding pigs,Thousand,122.2
+AAA06,Farm Animals in December,2024,2024,3111,Gilts in pig,Thousand,17.3
+AAA06,Farm Animals in December,2024,2024,3112,Sows in pig,Thousand,63.3
+AAA06,Farm Animals in December,2024,2024,3113,Other sows for breeding,Thousand,24.5
+AAA06,Farm Animals in December,2024,2024,3114,Gilts not yet served,Thousand,16.2
+AAA06,Farm Animals in December,2024,2024,312,Boars,Thousand,0.8
+AAA06,Farm Animals in December,2024,2024,32,Other pigs,Thousand,1351.5
+AAA06,Farm Animals in December,2024,2024,3211,Other pigs: 20kg and under 50kg,Thousand,373.0
+AAA06,Farm Animals in December,2024,2024,3212,Other pigs: 50kg and under 80kg,Thousand,295.3
+AAA06,Farm Animals in December,2024,2024,3213,Other pigs: 80kg and over,Thousand,297.0
+AAA06,Farm Animals in December,2024,2024,322,Other pigs: under 20kg,Thousand,386.2
+AAA06,Farm Animals in December,2025,2025,1,Total cattle,Thousand,6284.1
+AAA06,Farm Animals in December,2025,2025,111,Cows,Thousand,2241.0
+AAA06,Farm Animals in December,2025,2025,1111,Dairy cows,Thousand,1490.4
+AAA06,Farm Animals in December,2025,2025,1112,Other cows,Thousand,750.6
+AAA06,Farm Animals in December,2025,2025,113,Bulls,Thousand,48.4
+AAA06,Farm Animals in December,2025,2025,133,Cattle: 2 years and over,Thousand,414.6
+AAA06,Farm Animals in December,2025,2025,1331,Cattle male: 2 years and over,Thousand,158.5
+AAA06,Farm Animals in December,2025,2025,1332,Cattle female: 2 years and over,Thousand,256.1
+AAA06,Farm Animals in December,2025,2025,134,Cattle: 1-2 years,Thousand,1674.5
+AAA06,Farm Animals in December,2025,2025,1341,Cattle male: 1-2 years,Thousand,710.6
+AAA06,Farm Animals in December,2025,2025,1342,Cattle female: 1-2 years,Thousand,963.9
+AAA06,Farm Animals in December,2025,2025,135,Cattle: under 1 year,Thousand,1905.7
+AAA06,Farm Animals in December,2025,2025,1351,Cattle male: under 1 year,Thousand,869.2
+AAA06,Farm Animals in December,2025,2025,1352,Cattle female: under 1 year,Thousand,1036.5
+AAA06,Farm Animals in December,2025,2025,136,Total cattle: male,Thousand,1786.7
+AAA06,Farm Animals in December,2025,2025,137,Total cattle: female,Thousand,4497.4
+AAA06,Farm Animals in December,2025,2025,2,Total sheep,Thousand,3689.7
+AAA06,Farm Animals in December,2025,2025,21,Breeding sheep,Thousand,2575.4
+AAA06,Farm Animals in December,2025,2025,211,Ewes,Thousand,2494.8
+AAA06,Farm Animals in December,2025,2025,2111,Ewes: 2 years and over,Thousand,1972.4
+AAA06,Farm Animals in December,2025,2025,2112,Ewes: under 2 years,Thousand,522.4
+AAA06,Farm Animals in December,2025,2025,212,Rams,Thousand,80.6
+AAA06,Farm Animals in December,2025,2025,22,Other sheep,Thousand,1114.3
+AAA06,Farm Animals in December,2025,2025,3,Total pigs,Thousand,1459.5
+AAA06,Farm Animals in December,2025,2025,31,Breeding pigs,Thousand,122.8
+AAA06,Farm Animals in December,2025,2025,3111,Gilts in pig,Thousand,16.0
+AAA06,Farm Animals in December,2025,2025,3112,Sows in pig,Thousand,67.9
+AAA06,Farm Animals in December,2025,2025,3113,Other sows for breeding,Thousand,25.6
+AAA06,Farm Animals in December,2025,2025,3114,Gilts not yet served,Thousand,12.4
+AAA06,Farm Animals in December,2025,2025,312,Boars,Thousand,0.8
+AAA06,Farm Animals in December,2025,2025,32,Other pigs,Thousand,1336.7
+AAA06,Farm Animals in December,2025,2025,3211,Other pigs: 20kg and under 50kg,Thousand,303.3
+AAA06,Farm Animals in December,2025,2025,3212,Other pigs: 50kg and under 80kg,Thousand,305.7
+AAA06,Farm Animals in December,2025,2025,3213,Other pigs: 80kg and over,Thousand,380.8
+AAA06,Farm Animals in December,2025,2025,322,Other pigs: under 20kg,Thousand,347.0

@@ -1,0 +1,14 @@
+---
+title: "Output and income"
+description: "What Irish farms produce, and the income farming earns."
+---
+
+Milk and cattle make up about two thirds of the value of what Irish farms produce. In 2025, farms produced goods worth €13.2 billion, of which milk made up 34% and cattle 32%.
+
+{{< chart agriculture-output >}}
+
+## Farm income
+
+Income from farming rises and falls with prices for milk, cattle and inputs such as feed and fertiliser. Total farm income was €4.6 billion in 2025, the highest in the period shown, and €3.5 billion in 2024. These figures are not adjusted for inflation.
+
+{{< chart agriculture-income >}}

@@ -1,0 +1,10 @@
+---
+title: "Food waste"
+description: "How much food is wasted in Ireland and the EU, and where along the chain."
+---
+
+Ireland wasted 157 kg of food per person in 2023, compared with 129 kg across the EU. Households in Ireland wasted less food per person than the EU average, but food manufacturing and restaurants wasted more.
+
+{{< chart agriculture-food-waste >}}
+
+The prices people pay for food are shown on the [Energy and food prices](../cost-of-living/energy-and-food.qmd) page.

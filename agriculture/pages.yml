@@ -1,0 +1,17 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Farms and farmers"
+  path: farms.qmd
+  image: ../images/charts/agriculture-dairy-map.png
+  description: "Types of farm, the age of farmers, dairy farms by county, and organic farming."
+- title: "Livestock, milk and fertiliser"
+  path: livestock.qmd
+  image: ../images/charts/agriculture-cows.png
+  description: "Cattle, sheep and pigs, dairy and beef cows, milk output, and fertiliser sales."
+- title: "Output and income"
+  path: output-and-income.qmd
+  image: ../images/charts/agriculture-output.png
+  description: "What Irish farms produce, and the income farming earns."
+- title: "Food waste"
+  path: food.qmd
+  image: ../images/charts/agriculture-food-waste.png
+  description: "How much food is wasted in Ireland and the EU, and where along the chain."
