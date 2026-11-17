@@ -3992,6 +3992,28 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "childcare-fees-county",
+  "topic": "childcare",
+  "title": "Weekly childcare fees by county",
+  "subtitle": "Average weekly fee per child for full day childcare, by county or council area, 2020/21. Orange bars are above the national average, shown by the dotted line.",
+  "kind": "chart",
+  "page": "/charts/childcare-fees-county.html",
+  "csv": "/charts/childcare-fees-county.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Annual Early Years Sector Profile reports, 2016/2017 to 2020/2021",
+    "url": "https://www.pobal.ie/EarlyLearningandChildcaredata",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2020/21, the average weekly fee for full day childcare was €244 in Dún Laoghaire-Rathdown, the highest, and €152 in Carlow, the lowest. The national average was €187.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
   "id": "childcare-fees-eu",
   "topic": "childcare",
   "title": "Childcare fees for under-3s across the EU",
@@ -4009,6 +4031,28 @@
    }
   ],
   "key_fact": "Childcare for children under 3 in Ireland cost an average of €491 a month after state supports in 2023/2024. Adjusted for prices, this was the highest of the 16 EU countries that give a single figure.",
+  "listed": true,
+  "updated": "",
+  "checked": ""
+ },
+ {
+  "id": "childcare-fees-trend",
+  "topic": "childcare",
+  "title": "Weekly childcare fees over time",
+  "subtitle": "Average weekly fee per child in early learning and childcare services, by type of care, 2011 to 2020/21. Not adjusted for inflation.",
+  "kind": "chart",
+  "page": "/charts/childcare-fees-trend.html",
+  "csv": "/charts/childcare-fees-trend.csv",
+  "sources": [
+   {
+    "publisher": "Pobal",
+    "title": "Annual Early Years Sector Profile reports, 2016/2017 to 2020/2021",
+    "url": "https://www.pobal.ie/EarlyLearningandChildcaredata",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "In 2020/21, the average weekly fee for full day childcare was €187, compared with €166 in 2011. These are the latest figures in Pobal's yearly reports.",
   "listed": true,
   "updated": "",
   "checked": ""

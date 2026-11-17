@@ -9,4 +9,18 @@ Adjusted for differences in prices between countries, the fee for under-3s in Ir
 
 {{< chart childcare-fees-eu >}}
 
+## Fees in Ireland over time
+
+Pobal, which administers the State's childcare funding schemes, surveys childcare services every year. In 2020/21 the average weekly fee for one child in full day care was €187, compared with €166 in 2011. These are full fees, including any part paid by State subsidies such as ECCE.
+
+Pobal published these figures in a yearly report until 2020/21. From 2021/22 the report was replaced by online dashboards, which have no option to download the figures, so the charts on this page stop at 2020/21. Since September 2022, services in the Core Funding scheme have had their fees capped at the level they charged in September 2021.
+
+{{< chart childcare-fees-trend >}}
+
+## Fees by county
+
+Fees were highest in the four Dublin council areas and Wicklow. In 2020/21 the average weekly fee for full day care was €244 in Dún Laoghaire-Rathdown and €152 in Carlow.
+
+{{< chart childcare-fees-county >}}
+
 The fees take account of the National Childcare Scheme, which pays a subsidy towards the cost of registered childcare, and of the ECCE scheme. Families' own costs depend on the child's age, the hours used, the provider and, for income-based subsidies, household income.
