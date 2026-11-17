@@ -1,0 +1,11 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02076V03371,Age Group,UNIT,VALUE
+IFS14C01,Age of holder,2020,2020,455,Under 35 years,%,6.9
+IFS14C01,Age of holder,2020,2020,465,35 - 44 years,%,13.8
+IFS14C01,Age of holder,2020,2020,500,45 - 54 years,%,21.9
+IFS14C01,Age of holder,2020,2020,535,55 - 64 years,%,24.6
+IFS14C01,Age of holder,2020,2020,575,65 years and over,%,32.7
+IFS14C01,Age of holder,2023,2023,455,Under 35 years,%,4.3
+IFS14C01,Age of holder,2023,2023,465,35 - 44 years,%,11.2
+IFS14C01,Age of holder,2023,2023,500,45 - 54 years,%,20.2
+IFS14C01,Age of holder,2023,2023,535,55 - 64 years,%,26.4
+IFS14C01,Age of holder,2023,2023,575,65 years and over,%,37.8

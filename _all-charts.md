@@ -181,3 +181,17 @@
 - [Reliance on imported energy](/charts/energy-import-dependency.html). Net energy imports as a share of all energy used, Ireland and the EU, 1990 to 2024. *Eurostat.* [CSV](/charts/energy-import-dependency.csv)
 - [Renewable electricity across the EU](/charts/energy-renewable-electricity-eu.html). Share of electricity consumption from renewable sources, EU countries, 2025. *Eurostat.* [CSV](/charts/energy-renewable-electricity-eu.csv)
 - [Renewable energy in Ireland and the EU](/charts/energy-renewables.html). Share of energy used that comes from renewable sources, 2004 to 2025. *Eurostat.* [CSV](/charts/energy-renewables.csv)
+
+## [Agriculture and food](/agriculture/)
+
+- [Dairy and beef cows](/charts/agriculture-cows.html). Number of dairy cows and other cows in Ireland in December, in millions, 2005 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-cows.csv)
+- [Dairy farms by county](/charts/agriculture-dairy-map.html). Specialist dairy farms as a share of all farms in each county, 2020. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-dairy-map.csv)
+- [Types of farm](/charts/agriculture-farm-types.html). Share of farms in Ireland, by main type of farming, 2023. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-farm-types.csv)
+- [Fertiliser sales](/charts/agriculture-fertiliser.html). Nitrogen, phosphorus and potassium in fertiliser sold in Ireland, in thousands of tonnes, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-fertiliser.csv)
+- [Food waste](/charts/agriculture-food-waste.html). Food wasted per person in Ireland and the EU, in kilograms, by where it was wasted, 2023. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-food-waste.csv)
+- [Age of farmers](/charts/agriculture-holder-age.html). Farm holders in Ireland by age group, 2023. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/agriculture-holder-age.csv)
+- [Farm income](/charts/agriculture-income.html). Total income from farming in Ireland, in billions of euro at current prices, 1990 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-income.csv)
+- [Cattle, sheep and pigs](/charts/agriculture-livestock.html). Number of cattle, sheep and pigs on farms in Ireland in December, in millions, 1980 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-livestock.csv)
+- [Milk from Irish farms](/charts/agriculture-milk.html). Cows' milk taken in by dairies from farms in Ireland, in billions of litres, 1992 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-milk.csv)
+- [Organic farming across the EU](/charts/agriculture-organic-eu.html). Share of farmed land used for organic farming, EU countries, 2024. *Eurostat.* [CSV](/charts/agriculture-organic-eu.csv)
+- [What Irish farms produce](/charts/agriculture-output.html). Value of goods produced by farms in Ireland, by product, as a share of the total, 2025. *Central Statistics Office (CSO).* [CSV](/charts/agriculture-output.csv)

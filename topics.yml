@@ -69,3 +69,7 @@
   path: energy/index.qmd
   image: images/topic-energy.svg
   description: Renewable energy, where Ireland's electricity comes from, reliance on imported energy, and electricity prices.
+- title: Agriculture and food
+  path: agriculture/index.qmd
+  image: images/topic-agriculture.svg
+  description: Farms and farmers, livestock and milk, farm output and income, fertiliser, organic farming and food waste.

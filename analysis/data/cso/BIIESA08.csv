@@ -1,0 +1,25 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C04483V05266,NACE Rev 2 Sectors & Households,C04026V04766,Country,UNIT,VALUE
+BIIESA08C01,Food waste per capita,2022,2022,70,"Primary production of food - agriculture, fishing and aquaculture (A1, A3)",EU272020,EU27 countries (from 2020),Kg,12
+BIIESA08C01,Food waste per capita,2022,2022,70,"Primary production of food - agriculture, fishing and aquaculture (A1, A3)",IE,Ireland,Kg,10
+BIIESA08C01,Food waste per capita,2022,2022,75,"Manufacture of food products and beverages (C10, C11)",EU272020,EU27 countries (from 2020),Kg,23
+BIIESA08C01,Food waste per capita,2022,2022,75,"Manufacture of food products and beverages (C10, C11)",IE,Ireland,Kg,44
+BIIESA08C01,Food waste per capita,2022,2022,80,"Retail and other distribution of food (G46, G47)",EU272020,EU27 countries (from 2020),Kg,10
+BIIESA08C01,Food waste per capita,2022,2022,80,"Retail and other distribution of food (G46, G47)",IE,Ireland,Kg,17
+BIIESA08C01,Food waste per capita,2022,2022,85,"Restaurants and food services (I55, I56, N to S)",EU272020,EU27 countries (from 2020),Kg,15
+BIIESA08C01,Food waste per capita,2022,2022,85,"Restaurants and food services (I55, I56, N to S)",IE,Ireland,Kg,30
+BIIESA08C01,Food waste per capita,2022,2022,55,Households (EP_HH),EU272020,EU27 countries (from 2020),Kg,68
+BIIESA08C01,Food waste per capita,2022,2022,55,Households (EP_HH),IE,Ireland,Kg,42
+BIIESA08C01,Food waste per capita,2022,2022,60,NACE activities plus households (TOTAL_HH),EU272020,EU27 countries (from 2020),Kg,129
+BIIESA08C01,Food waste per capita,2022,2022,60,NACE activities plus households (TOTAL_HH),IE,Ireland,Kg,144
+BIIESA08C01,Food waste per capita,2023,2023,70,"Primary production of food - agriculture, fishing and aquaculture (A1, A3)",EU272020,EU27 countries (from 2020),Kg,11
+BIIESA08C01,Food waste per capita,2023,2023,70,"Primary production of food - agriculture, fishing and aquaculture (A1, A3)",IE,Ireland,Kg,9
+BIIESA08C01,Food waste per capita,2023,2023,75,"Manufacture of food products and beverages (C10, C11)",EU272020,EU27 countries (from 2020),Kg,24
+BIIESA08C01,Food waste per capita,2023,2023,75,"Manufacture of food products and beverages (C10, C11)",IE,Ireland,Kg,57
+BIIESA08C01,Food waste per capita,2023,2023,80,"Retail and other distribution of food (G46, G47)",EU272020,EU27 countries (from 2020),Kg,10
+BIIESA08C01,Food waste per capita,2023,2023,80,"Retail and other distribution of food (G46, G47)",IE,Ireland,Kg,16
+BIIESA08C01,Food waste per capita,2023,2023,85,"Restaurants and food services (I55, I56, N to S)",EU272020,EU27 countries (from 2020),Kg,14
+BIIESA08C01,Food waste per capita,2023,2023,85,"Restaurants and food services (I55, I56, N to S)",IE,Ireland,Kg,33
+BIIESA08C01,Food waste per capita,2023,2023,55,Households (EP_HH),EU272020,EU27 countries (from 2020),Kg,69
+BIIESA08C01,Food waste per capita,2023,2023,55,Households (EP_HH),IE,Ireland,Kg,42
+BIIESA08C01,Food waste per capita,2023,2023,60,NACE activities plus households (TOTAL_HH),EU272020,EU27 countries (from 2020),Kg,129
+BIIESA08C01,Food waste per capita,2023,2023,60,NACE activities plus households (TOTAL_HH),IE,Ireland,Kg,157

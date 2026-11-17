@@ -15,7 +15,7 @@ listing:
 
 {{< irish environment >}}
 
-These pages show Ireland's greenhouse gas emissions, which parts of the economy they come from, and how emissions per person compare with the rest of the EU. Renewable energy and the electricity supply are covered in the [Energy](../energy/index.qmd) topic.
+These pages show Ireland's greenhouse gas emissions, which parts of the economy they come from, and how emissions per person compare with the rest of the EU. Renewable energy and the electricity supply are covered in the [Energy](../energy/index.qmd) topic, and farming in [Agriculture and food](../agriculture/index.qmd).
 
 {{< key-facts environment-emissions-by-sector environment-emissions-per-person environment-forest-map >}}
 

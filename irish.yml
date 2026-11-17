@@ -42,6 +42,9 @@ topics:
   energy:
     title: "Fuinneamh"
     summary: "Fuinneamh in-athnuaite, foinsí leictreachais na hÉireann, spleáchas ar fhuinneamh allmhairithe, agus praghsanna leictreachais."
+  agriculture:
+    title: "Talmhaíocht agus bia"
+    summary: "Feirmeacha agus feirmeoirí, beostoc agus bainne, aschur agus ioncam feirme, leasachán, feirmeoireacht orgánach agus cur amú bia."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

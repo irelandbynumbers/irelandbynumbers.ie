@@ -3312,6 +3312,279 @@
   "checked": "2026-11-17"
  },
  {
+  "id": "agriculture-cows",
+  "topic": "agriculture",
+  "title": "Dairy and beef cows",
+  "subtitle": "Number of dairy cows and other cows in Ireland in December, in millions, 2005 to 2025.",
+  "kind": "chart",
+  "page": "/charts/agriculture-cows.html",
+  "csv": "/charts/agriculture-cows.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Farm Animals in December (AAA06)",
+    "url": "https://data.cso.ie/table/AAA06",
+    "licence": "CC BY 4.0",
+    "code": "AAA06",
+    "updated": "2026-05-12",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "There were 1.49 million dairy cows in Ireland in December 2025, up from 1.00 million in 2005. Beef cows fell from 1.11 million to 0.75 million.",
+  "listed": true,
+  "updated": "2026-05-12",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-dairy-map",
+  "topic": "agriculture",
+  "title": "Dairy farms by county",
+  "subtitle": "Specialist dairy farms as a share of all farms in each county, 2020.",
+  "kind": "map",
+  "page": "/charts/agriculture-dairy-map.html",
+  "csv": "/charts/agriculture-dairy-map.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Agriculture 2020 (AVA34)",
+    "url": "https://data.cso.ie/table/AVA34",
+    "licence": "CC BY 4.0",
+    "code": "AVA34",
+    "updated": "2021-12-09",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2020, 28% of farms in Cork were dairy farms, the highest share of any county, followed by Waterford at 26%. Leitrim had the lowest share, at 1%.",
+  "listed": true,
+  "updated": "2021-12-09",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-farm-types",
+  "topic": "agriculture",
+  "title": "Types of farm",
+  "subtitle": "Share of farms in Ireland, by main type of farming, 2023.",
+  "kind": "chart",
+  "page": "/charts/agriculture-farm-types.html",
+  "csv": "/charts/agriculture-farm-types.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Farm Structure Survey 2023 (IFS08)",
+    "url": "https://data.cso.ie/table/IFS08",
+    "licence": "CC BY 4.0",
+    "code": "IFS08",
+    "updated": "2024-12-17",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "There were 133,174 farms in Ireland in 2023. 56% were specialist beef farms, the most common type.",
+  "listed": true,
+  "updated": "2024-12-17",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-fertiliser",
+  "topic": "agriculture",
+  "title": "Fertiliser sales",
+  "subtitle": "Nitrogen, phosphorus and potassium in fertiliser sold in Ireland, in thousands of tonnes, 2000 to 2025.",
+  "kind": "chart",
+  "page": "/charts/agriculture-fertiliser.html",
+  "csv": "/charts/agriculture-fertiliser.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Nutrient Content of Fertiliser Sales (PFSA01)",
+    "url": "https://data.cso.ie/table/PFSA01",
+    "licence": "CC BY 4.0",
+    "code": "PFSA01",
+    "updated": "2026-04-17",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Fertiliser sold in Ireland in 2025 contained 349 thousand tonnes of nitrogen, compared with 408 thousand tonnes in 2000.",
+  "listed": true,
+  "updated": "2026-04-17",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-food-waste",
+  "topic": "agriculture",
+  "title": "Food waste",
+  "subtitle": "Food wasted per person in Ireland and the EU, in kilograms, by where it was wasted, 2023.",
+  "kind": "chart",
+  "page": "/charts/agriculture-food-waste.html",
+  "csv": "/charts/agriculture-food-waste.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Food Waste per Capita (BIIESA08)",
+    "url": "https://data.cso.ie/table/BIIESA08",
+    "licence": "CC BY 4.0",
+    "code": "BIIESA08",
+    "updated": "2026-04-30",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Ireland wasted 157 kg of food per person in 2023, compared with 129 kg across the EU. Households wasted 42 kg per person.",
+  "listed": true,
+  "updated": "2026-04-30",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-holder-age",
+  "topic": "agriculture",
+  "title": "Age of farmers",
+  "subtitle": "Farm holders in Ireland by age group, 2023.",
+  "kind": "chart",
+  "page": "/charts/agriculture-holder-age.html",
+  "csv": "/charts/agriculture-holder-age.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Farm Structure Survey 2023 (IFS14)",
+    "url": "https://data.cso.ie/table/IFS14",
+    "licence": "CC BY 4.0",
+    "code": "IFS14",
+    "updated": "2024-12-17",
+    "checked": "2026-11-17"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Census of Agriculture 2020 (AVA43)",
+    "url": "https://data.cso.ie/table/AVA43",
+    "licence": "CC BY 4.0",
+    "code": "AVA43",
+    "updated": "2022-12-08",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2023, 38% of farm holders were aged 65 or over and 4% were under 35. The average age of a farm holder was 57 in 2020, up from 51 in 2000.",
+  "listed": true,
+  "updated": "2024-12-17",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-income",
+  "topic": "agriculture",
+  "title": "Farm income",
+  "subtitle": "Total income from farming in Ireland, in billions of euro at current prices, 1990 to 2025.",
+  "kind": "chart",
+  "page": "/charts/agriculture-income.html",
+  "csv": "/charts/agriculture-income.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Value at Current Prices for Output, Input and Income in Agriculture (AEA01)",
+    "url": "https://data.cso.ie/table/AEA01",
+    "licence": "CC BY 4.0",
+    "code": "AEA01",
+    "updated": "2026-07-31",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Farm income in Ireland was €4.6 billion in 2025, compared with €1.6 billion in 1990. The lowest in the period was €0.9 billion in 2009.",
+  "listed": true,
+  "updated": "2026-07-31",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-livestock",
+  "topic": "agriculture",
+  "title": "Cattle, sheep and pigs",
+  "subtitle": "Number of cattle, sheep and pigs on farms in Ireland in December, in millions, 1980 to 2024.",
+  "kind": "chart",
+  "page": "/charts/agriculture-livestock.html",
+  "csv": "/charts/agriculture-livestock.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Ireland cattle, sheep and pigs December (EIIA18)",
+    "url": "https://data.cso.ie/table/EIIA18",
+    "licence": "CC BY 4.0",
+    "code": "EIIA18",
+    "updated": "2025-12-03",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "There were 6.3 million cattle on Irish farms in December 2024, compared with 5.8 million in 1980. Sheep numbers peaked at 6.1 million in 1992.",
+  "listed": true,
+  "updated": "2025-12-03",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-milk",
+  "topic": "agriculture",
+  "title": "Milk from Irish farms",
+  "subtitle": "Cows' milk taken in by dairies from farms in Ireland, in billions of litres, 1992 to 2025.",
+  "kind": "chart",
+  "page": "/charts/agriculture-milk.html",
+  "csv": "/charts/agriculture-milk.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Intake of Cows Milk by Milk Processors and Co-Ops (AKA01)",
+    "url": "https://data.cso.ie/table/AKA01",
+    "licence": "CC BY 4.0",
+    "code": "AKA01",
+    "updated": "2026-02-06",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Irish dairies took in 8.8 billion litres of milk from Irish farms in 2025, compared with 5.7 billion litres in 2014, the last full year of EU milk quotas.",
+  "listed": true,
+  "updated": "2026-02-06",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-organic-eu",
+  "topic": "agriculture",
+  "title": "Organic farming across the EU",
+  "subtitle": "Share of farmed land used for organic farming, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/agriculture-organic-eu.html",
+  "csv": "/charts/agriculture-organic-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Area under organic farming (sdg_02_40)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "sdg_02_40",
+    "updated": "2026-11-04",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "In 2024, 5.0% of farmed land in Ireland was organic or being converted to organic. Ireland's share was the 4th lowest of the 25 EU countries.",
+  "listed": true,
+  "updated": "2026-11-04",
+  "checked": "2026-11-17"
+ },
+ {
+  "id": "agriculture-output",
+  "topic": "agriculture",
+  "title": "What Irish farms produce",
+  "subtitle": "Value of goods produced by farms in Ireland, by product, as a share of the total, 2025.",
+  "kind": "chart",
+  "page": "/charts/agriculture-output.html",
+  "csv": "/charts/agriculture-output.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Value at Current Prices for Output, Input and Income in Agriculture (AEA01)",
+    "url": "https://data.cso.ie/table/AEA01",
+    "licence": "CC BY 4.0",
+    "code": "AEA01",
+    "updated": "2026-07-31",
+    "checked": "2026-11-17"
+   }
+  ],
+  "key_fact": "Milk made up 34% of the value of goods produced by Irish farms in 2025, and cattle 32%. Farms produced goods worth €13.2 billion in total.",
+  "listed": true,
+  "updated": "2026-07-31",
+  "checked": "2026-11-17"
+ },
+ {
   "id": "county-carlow-population",
   "topic": "counties",
   "title": "Population of County Carlow at each census",

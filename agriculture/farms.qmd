@@ -1,0 +1,26 @@
+---
+title: "Farms and farmers"
+description: "Types of farm, the age of farmers, dairy farms by county, and organic farming."
+---
+
+There were 133,174 farms in Ireland in 2023. Most raise cattle. More than half were specialist beef farms, and beef, sheep, dairy and mixed livestock farms together made up 86% of all farms.
+
+{{< chart agriculture-farm-types >}}
+
+## Who farms
+
+In 2023, 38% of farm holders were aged 65 or over, and 4% were under 35. The average age of a farm holder rose from 51 in 2000 to 57 in 2020.
+
+{{< chart agriculture-holder-age >}}
+
+## Dairy farms by county
+
+Dairy farming is concentrated in the south. In 2020, more than a quarter of farms in Cork and Waterford were dairy farms, compared with 1% in Leitrim.
+
+{{< chart agriculture-dairy-map >}}
+
+## Organic farming
+
+A small share of Ireland's farmland is farmed organically. In 2024, 5.0% of farmed land was organic or being converted to organic, among the lowest shares in the EU.
+
+{{< chart agriculture-organic-eu >}}

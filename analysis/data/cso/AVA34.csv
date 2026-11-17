@@ -1,0 +1,469 @@
+STATISTIC,Statistic Label,TLIST(A1),Census Year,C03867V04617,County,C02084V02518,Farm Type,UNIT,VALUE
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,-,All farms,Number,6297.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,01,Specialist tillage,Number,6.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,02,Specialist dairying,Number,484.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,03,Specialist beef production,Number,5109.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,04,Specialist sheep,Number,96.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,05,Mixed grazing livestock,Number,154.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,065,Mixed field crops,Number,419.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,07,Other,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,-,All farms,Number,13704.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,01,Specialist tillage,Number,745.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,02,Specialist dairying,Number,3801.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,03,Specialist beef production,Number,5857.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,04,Specialist sheep,Number,826.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,05,Mixed grazing livestock,Number,530.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,06,Mixed crops and livestock,Number,202.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,065,Mixed field crops,Number,1509.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,07,Other,Number,234.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,-,All farms,Number,5111.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,01,Specialist tillage,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,02,Specialist dairying,Number,550.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,03,Specialist beef production,Number,3493.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,04,Specialist sheep,Number,404.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,05,Mixed grazing livestock,Number,238.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,065,Mixed field crops,Number,298.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,07,Other,Number,122.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,-,All farms,Number,1723.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,01,Specialist tillage,Number,234.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,02,Specialist dairying,Number,158.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,03,Specialist beef production,Number,598.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,04,Specialist sheep,Number,271.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,05,Mixed grazing livestock,Number,171.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,06,Mixed crops and livestock,Number,111.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,065,Mixed field crops,Number,153.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,07,Other,Number,27.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,-,All farms,Number,9347.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,01,Specialist tillage,Number,103.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,02,Specialist dairying,Number,183.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,03,Specialist beef production,Number,3069.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,04,Specialist sheep,Number,4193.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,05,Mixed grazing livestock,Number,972.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,06,Mixed crops and livestock,Number,87.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,065,Mixed field crops,Number,674.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,07,Other,Number,66.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,-,All farms,Number,699.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,01,Specialist tillage,Number,177.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,02,Specialist dairying,Number,25.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,03,Specialist beef production,Number,199.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,04,Specialist sheep,Number,115.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,05,Mixed grazing livestock,Number,37.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,06,Mixed crops and livestock,Number,14.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,065,Mixed field crops,Number,107.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,07,Other,Number,25.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,-,All farms,Number,12717.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,01,Specialist tillage,Number,55.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,02,Specialist dairying,Number,436.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,03,Specialist beef production,Number,8451.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,04,Specialist sheep,Number,1531.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,05,Mixed grazing livestock,Number,1121.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,06,Mixed crops and livestock,Number,51.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,065,Mixed field crops,Number,1000.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,07,Other,Number,72.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,-,All farms,Number,2534.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,01,Specialist tillage,Number,387.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,02,Specialist dairying,Number,151.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,03,Specialist beef production,Number,1082.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,04,Specialist sheep,Number,296.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,05,Mixed grazing livestock,Number,166.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,06,Mixed crops and livestock,Number,93.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,065,Mixed field crops,Number,303.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,07,Other,Number,56.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,-,All farms,Number,3573.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,01,Specialist tillage,Number,222.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,02,Specialist dairying,Number,841.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,03,Specialist beef production,Number,1610.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,04,Specialist sheep,Number,171.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,05,Mixed grazing livestock,Number,168.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,06,Mixed crops and livestock,Number,98.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,065,Mixed field crops,Number,407.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,07,Other,Number,56.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,-,All farms,Number,8207.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,01,Specialist tillage,Number,54.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,02,Specialist dairying,Number,1344.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,03,Specialist beef production,Number,3902.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,04,Specialist sheep,Number,1674.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,05,Mixed grazing livestock,Number,511.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,06,Mixed crops and livestock,Number,31.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,065,Mixed field crops,Number,621.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,07,Other,Number,70.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,-,All farms,Number,2515.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,01,Specialist tillage,Number,6.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,02,Specialist dairying,Number,128.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,03,Specialist beef production,Number,1976.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,04,Specialist sheep,Number,106.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,05,Mixed grazing livestock,Number,101.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,06,Mixed crops and livestock,Number,5.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,065,Mixed field crops,Number,174.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,07,Other,Number,19.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,-,All farms,Number,1629.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,01,Specialist tillage,Number,279.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,02,Specialist dairying,Number,149.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,03,Specialist beef production,Number,651.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,04,Specialist sheep,Number,204.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,05,Mixed grazing livestock,Number,71.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,06,Mixed crops and livestock,Number,77.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,065,Mixed field crops,Number,173.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,07,Other,Number,25.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,-,All farms,Number,5630.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,01,Specialist tillage,Number,14.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,02,Specialist dairying,Number,1321.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,03,Specialist beef production,Number,3455.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,04,Specialist sheep,Number,64.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,05,Mixed grazing livestock,Number,198.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,065,Mixed field crops,Number,472.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,07,Other,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,-,All farms,Number,3445.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,01,Specialist tillage,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,02,Specialist dairying,Number,31.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,03,Specialist beef production,Number,2247.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,04,Specialist sheep,Number,655.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,05,Mixed grazing livestock,Number,214.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,065,Mixed field crops,Number,267.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,07,Other,Number,27.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,-,All farms,Number,3203.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,01,Specialist tillage,Number,246.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,02,Specialist dairying,Number,416.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,03,Specialist beef production,Number,1829.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,04,Specialist sheep,Number,108.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,05,Mixed grazing livestock,Number,137.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,06,Mixed crops and livestock,Number,147.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,065,Mixed field crops,Number,278.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,07,Other,Number,42.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,-,All farms,Number,4508.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,01,Specialist tillage,Number,409.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,02,Specialist dairying,Number,487.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,03,Specialist beef production,Number,2253.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,04,Specialist sheep,Number,382.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,05,Mixed grazing livestock,Number,347.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,06,Mixed crops and livestock,Number,80.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,065,Mixed field crops,Number,480.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,07,Other,Number,70.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,-,All farms,Number,4478.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,01,Specialist tillage,Number,12.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,02,Specialist dairying,Number,538.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,03,Specialist beef production,Number,3005.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,04,Specialist sheep,Number,191.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,05,Mixed grazing livestock,Number,176.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,06,Mixed crops and livestock,Number,9.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,065,Mixed field crops,Number,287.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,07,Other,Number,260.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,-,All farms,Number,11920.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,01,Specialist tillage,Number,11.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,02,Specialist dairying,Number,266.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,03,Specialist beef production,Number,6853.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,04,Specialist sheep,Number,2883.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,05,Mixed grazing livestock,Number,897.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,065,Mixed field crops,Number,934.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,07,Other,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,-,All farms,Number,3300.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,01,Specialist tillage,Number,125.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,02,Specialist dairying,Number,317.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,03,Specialist beef production,Number,2171.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,04,Specialist sheep,Number,144.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,05,Mixed grazing livestock,Number,151.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,06,Mixed crops and livestock,Number,96.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,065,Mixed field crops,Number,260.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,07,Other,Number,36.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,-,All farms,Number,6089.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,01,Specialist tillage,Number,10.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,02,Specialist dairying,Number,90.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,03,Specialist beef production,Number,4368.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,04,Specialist sheep,Number,589.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,05,Mixed grazing livestock,Number,555.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,065,Mixed field crops,Number,432.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,07,Other,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,-,All farms,Number,4181.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,01,Specialist tillage,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,02,Specialist dairying,Number,105.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,03,Specialist beef production,Number,2694.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,04,Specialist sheep,Number,752.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,05,Mixed grazing livestock,Number,310.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,06,Mixed crops and livestock,Number,
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,065,Mixed field crops,Number,296.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,07,Other,Number,18.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,-,All farms,Number,7404.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,01,Specialist tillage,Number,309.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,02,Specialist dairying,Number,1592.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,03,Specialist beef production,Number,3978.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,04,Specialist sheep,Number,276.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,05,Mixed grazing livestock,Number,347.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,06,Mixed crops and livestock,Number,126.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,065,Mixed field crops,Number,703.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,07,Other,Number,73.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,-,All farms,Number,2600.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,01,Specialist tillage,Number,101.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,02,Specialist dairying,Number,689.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,03,Specialist beef production,Number,1033.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,04,Specialist sheep,Number,170.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,05,Mixed grazing livestock,Number,144.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,06,Mixed crops and livestock,Number,50.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,065,Mixed field crops,Number,344.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,07,Other,Number,69.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,-,All farms,Number,2456.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,01,Specialist tillage,Number,163.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,02,Specialist dairying,Number,210.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,03,Specialist beef production,Number,676.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,04,Specialist sheep,Number,740.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,05,Mixed grazing livestock,Number,335.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,06,Mixed crops and livestock,Number,73.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,065,Mixed field crops,Number,216.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,07,Other,Number,43.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,-,All farms,Number,3437.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,01,Specialist tillage,Number,62.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,02,Specialist dairying,Number,267.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,03,Specialist beef production,Number,2344.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,04,Specialist sheep,Number,206.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,05,Mixed grazing livestock,Number,214.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,06,Mixed crops and livestock,Number,42.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,065,Mixed field crops,Number,259.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,07,Other,Number,43.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,-,All farms,Number,4330.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,01,Specialist tillage,Number,829.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,02,Specialist dairying,Number,740.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,03,Specialist beef production,Number,1256.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,04,Specialist sheep,Number,388.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,05,Mixed grazing livestock,Number,243.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,06,Mixed crops and livestock,Number,330.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,065,Mixed field crops,Number,450.0
+AVA34C01,Number of Farms,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,07,Other,Number,94.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,01,Specialist tillage,%,0.1
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,02,Specialist dairying,%,7.69
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,03,Specialist beef production,%,81.13
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,04,Specialist sheep,%,1.52
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,05,Mixed grazing livestock,%,2.4
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,065,Mixed field crops,%,6.65
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1450-13a3-e055-000000000001,Co. Clare,07,Other,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,01,Specialist tillage,%,5.44
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,02,Specialist dairying,%,27.74
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,03,Specialist beef production,%,42.74
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,04,Specialist sheep,%,6.03
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,05,Mixed grazing livestock,%,3.87
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,06,Mixed crops and livestock,%,1.47
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,065,Mixed field crops,%,11.01
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1451-13a3-e055-000000000001,Co. Cork,07,Other,%,1.71
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,01,Specialist tillage,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,02,Specialist dairying,%,10.76
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,03,Specialist beef production,%,68.34
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,04,Specialist sheep,%,7.9
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,05,Mixed grazing livestock,%,4.66
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,065,Mixed field crops,%,5.83
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1448-13a3-e055-000000000001,Co. Cavan,07,Other,%,2.39
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,01,Specialist tillage,%,13.58
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,02,Specialist dairying,%,9.17
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,03,Specialist beef production,%,34.71
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,04,Specialist sheep,%,15.73
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,05,Mixed grazing livestock,%,9.92
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,06,Mixed crops and livestock,%,6.44
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,065,Mixed field crops,%,8.88
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143d-13a3-e055-000000000001,Co. Carlow,07,Other,%,1.57
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,01,Specialist tillage,%,1.1
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,02,Specialist dairying,%,1.96
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,03,Specialist beef production,%,32.83
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,04,Specialist sheep,%,44.86
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,05,Mixed grazing livestock,%,10.4
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,06,Mixed crops and livestock,%,0.93
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,065,Mixed field crops,%,7.21
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1452-13a3-e055-000000000001,Co. Donegal,07,Other,%,0.71
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,01,Specialist tillage,%,25.32
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,02,Specialist dairying,%,3.58
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,03,Specialist beef production,%,28.47
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,04,Specialist sheep,%,16.45
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,05,Mixed grazing livestock,%,5.29
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,06,Mixed crops and livestock,%,2.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,065,Mixed field crops,%,15.31
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144f-13a3-e055-000000000001,Co. Dublin,07,Other,%,3.58
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,01,Specialist tillage,%,0.43
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,02,Specialist dairying,%,3.43
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,03,Specialist beef production,%,66.45
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,04,Specialist sheep,%,12.04
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,05,Mixed grazing livestock,%,8.81
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,06,Mixed crops and livestock,%,0.4
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,065,Mixed field crops,%,7.86
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1453-13a3-e055-000000000001,Co. Galway,07,Other,%,0.57
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,01,Specialist tillage,%,15.27
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,02,Specialist dairying,%,5.96
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,03,Specialist beef production,%,42.7
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,04,Specialist sheep,%,11.68
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,05,Mixed grazing livestock,%,6.55
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,06,Mixed crops and livestock,%,3.67
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,065,Mixed field crops,%,11.96
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1455-13a3-e055-000000000001,Co. Kildare,07,Other,%,2.21
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,01,Specialist tillage,%,6.21
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,02,Specialist dairying,%,23.54
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,03,Specialist beef production,%,45.06
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,04,Specialist sheep,%,4.79
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,05,Mixed grazing livestock,%,4.7
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,06,Mixed crops and livestock,%,2.74
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,065,Mixed field crops,%,11.39
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1456-13a3-e055-000000000001,Co. Kilkenny,07,Other,%,1.57
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,01,Specialist tillage,%,0.66
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,02,Specialist dairying,%,16.38
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,03,Specialist beef production,%,47.54
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,04,Specialist sheep,%,20.4
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,05,Mixed grazing livestock,%,6.23
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,06,Mixed crops and livestock,%,0.38
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,065,Mixed field crops,%,7.57
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1454-13a3-e055-000000000001,Co. Kerry,07,Other,%,0.85
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,01,Specialist tillage,%,0.24
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,02,Specialist dairying,%,5.09
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,03,Specialist beef production,%,78.57
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,04,Specialist sheep,%,4.21
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,05,Mixed grazing livestock,%,4.02
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,06,Mixed crops and livestock,%,0.2
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,065,Mixed field crops,%,6.92
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1441-13a3-e055-000000000001,Co. Longford,07,Other,%,0.76
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,01,Specialist tillage,%,17.13
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,02,Specialist dairying,%,9.1
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,03,Specialist beef production,%,39.96
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,04,Specialist sheep,%,12.52
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,05,Mixed grazing livestock,%,4.36
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,06,Mixed crops and livestock,%,4.73
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,065,Mixed field crops,%,10.62
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1442-13a3-e055-000000000001,Co. Louth,07,Other,%,1.53
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,01,Specialist tillage,%,0.2
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,02,Specialist dairying,%,23.46
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,03,Specialist beef production,%,61.37
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,04,Specialist sheep,%,1.14
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,05,Mixed grazing livestock,%,3.52
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,065,Mixed field crops,%,8.38
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1440-13a3-e055-000000000001,Co. Limerick,07,Other,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,01,Specialist tillage,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,02,Specialist dairying,%,0.9
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,03,Specialist beef production,%,65.22
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,04,Specialist sheep,%,19.01
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,05,Mixed grazing livestock,%,6.21
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,065,Mixed field crops,%,7.75
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143f-13a3-e055-000000000001,Co. Leitrim,07,Other,%,0.78
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,01,Specialist tillage,%,7.68
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,02,Specialist dairying,%,12.99
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,03,Specialist beef production,%,57.1
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,04,Specialist sheep,%,3.37
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,05,Mixed grazing livestock,%,4.28
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,06,Mixed crops and livestock,%,4.59
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,065,Mixed field crops,%,8.68
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-143e-13a3-e055-000000000001,Co. Laois,07,Other,%,1.31
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,01,Specialist tillage,%,9.07
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,02,Specialist dairying,%,10.8
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,03,Specialist beef production,%,49.98
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,04,Specialist sheep,%,8.47
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,05,Mixed grazing livestock,%,7.7
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,06,Mixed crops and livestock,%,1.77
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,065,Mixed field crops,%,10.6
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1444-13a3-e055-000000000001,Co. Meath,07,Other,%,1.55
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,01,Specialist tillage,%,0.27
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,02,Specialist dairying,%,12.01
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,03,Specialist beef production,%,67.11
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,04,Specialist sheep,%,4.27
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,05,Mixed grazing livestock,%,3.93
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,06,Mixed crops and livestock,%,0.2
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,065,Mixed field crops,%,6.41
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1445-13a3-e055-000000000001,Co. Monaghan,07,Other,%,5.81
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,01,Specialist tillage,%,0.09
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,02,Specialist dairying,%,2.23
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,03,Specialist beef production,%,57.49
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,04,Specialist sheep,%,24.19
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,05,Mixed grazing livestock,%,7.53
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,065,Mixed field crops,%,7.84
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1443-13a3-e055-000000000001,Co. Mayo,07,Other,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,01,Specialist tillage,%,3.79
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,02,Specialist dairying,%,9.61
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,03,Specialist beef production,%,65.79
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,04,Specialist sheep,%,4.36
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,05,Mixed grazing livestock,%,4.58
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,06,Mixed crops and livestock,%,2.91
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,065,Mixed field crops,%,7.88
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1446-13a3-e055-000000000001,Co. Offaly,07,Other,%,1.09
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,01,Specialist tillage,%,0.16
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,02,Specialist dairying,%,1.48
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,03,Specialist beef production,%,71.74
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,04,Specialist sheep,%,9.67
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,05,Mixed grazing livestock,%,9.11
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,065,Mixed field crops,%,7.09
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1447-13a3-e055-000000000001,Co. Roscommon,07,Other,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,01,Specialist tillage,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,02,Specialist dairying,%,2.51
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,03,Specialist beef production,%,64.43
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,04,Specialist sheep,%,17.99
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,05,Mixed grazing livestock,%,7.41
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,06,Mixed crops and livestock,%,
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,065,Mixed field crops,%,7.08
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-1449-13a3-e055-000000000001,Co. Sligo,07,Other,%,0.43
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,01,Specialist tillage,%,4.17
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,02,Specialist dairying,%,21.5
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,03,Specialist beef production,%,53.73
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,04,Specialist sheep,%,3.73
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,05,Mixed grazing livestock,%,4.69
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,06,Mixed crops and livestock,%,1.7
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,065,Mixed field crops,%,9.49
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144a-13a3-e055-000000000001,Co. Tipperary,07,Other,%,0.99
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,01,Specialist tillage,%,3.88
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,02,Specialist dairying,%,26.5
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,03,Specialist beef production,%,39.73
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,04,Specialist sheep,%,6.54
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,05,Mixed grazing livestock,%,5.54
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,06,Mixed crops and livestock,%,1.92
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,065,Mixed field crops,%,13.23
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144b-13a3-e055-000000000001,Co. Waterford,07,Other,%,2.65
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,01,Specialist tillage,%,6.64
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,02,Specialist dairying,%,8.55
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,03,Specialist beef production,%,27.52
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,04,Specialist sheep,%,30.13
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,05,Mixed grazing livestock,%,13.64
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,06,Mixed crops and livestock,%,2.97
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,065,Mixed field crops,%,8.79
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144e-13a3-e055-000000000001,Co. Wicklow,07,Other,%,1.75
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,01,Specialist tillage,%,1.8
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,02,Specialist dairying,%,7.77
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,03,Specialist beef production,%,68.2
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,04,Specialist sheep,%,5.99
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,05,Mixed grazing livestock,%,6.23
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,06,Mixed crops and livestock,%,1.22
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,065,Mixed field crops,%,7.54
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144c-13a3-e055-000000000001,Co. Westmeath,07,Other,%,1.25
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,-,All farms,%,100.0
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,01,Specialist tillage,%,19.1
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,02,Specialist dairying,%,17.09
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,03,Specialist beef production,%,29.01
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,04,Specialist sheep,%,8.96
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,05,Mixed grazing livestock,%,5.61
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,06,Mixed crops and livestock,%,7.62
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,065,Mixed field crops,%,10.39
+AVA34C02,Percentage of Agricultural Holdings,2020,2020,2ae19629-144d-13a3-e055-000000000001,Co. Wexford,07,Other,%,2.17
