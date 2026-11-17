@@ -1,0 +1,13 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02028V02456,Employment status,UNIT,VALUE
+TRA270C01,Not satisfied (0-4),2025,2025,15,Employed,%,26.5
+TRA270C01,Not satisfied (0-4),2025,2025,20,"Unemployed, in training or other",%,26.4
+TRA270C01,Not satisfied (0-4),2025,2025,55,Retired,%,19.5
+TRA270C02,Neutral (5),2025,2025,15,Employed,%,9.7
+TRA270C02,Neutral (5),2025,2025,20,"Unemployed, in training or other",%,10.3
+TRA270C02,Neutral (5),2025,2025,55,Retired,%,8.3
+TRA270C03,Satisfied (6-10),2025,2025,15,Employed,%,63.8
+TRA270C03,Satisfied (6-10),2025,2025,20,"Unemployed, in training or other",%,63.3
+TRA270C03,Satisfied (6-10),2025,2025,55,Retired,%,72.1
+TRA270C04,Don’t know,2025,2025,15,Employed,%,
+TRA270C04,Don’t know,2025,2025,20,"Unemployed, in training or other",%,
+TRA270C04,Don’t know,2025,2025,55,Retired,%,

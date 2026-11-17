@@ -1,0 +1,13 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Turnout"
+  path: turnout.qmd
+  image: ../images/charts/elections-turnout.png
+  description: "How many people vote at Dáil and European Parliament elections, compared with the EU."
+- title: "Trust in institutions"
+  path: trust.qmd
+  image: ../images/charts/elections-trust-institutions.png
+  description: "How far people trust the electoral system, the government and other institutions."
+- title: "Views on elections"
+  path: views.qmd
+  image: ../images/charts/elections-satisfaction.png
+  description: "Satisfaction with how elections are run, trust in the Electoral Commission, and voting as a duty."

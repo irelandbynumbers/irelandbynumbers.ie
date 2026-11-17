@@ -1,0 +1,16 @@
+---
+title: "Trust in institutions"
+description: "How far people trust the electoral system, the government and other institutions."
+---
+
+People in Ireland trust the electoral system more than any other institution asked about in the CSO's Trust Survey. In 2025, 77% said they trust the electoral system, compared with 44% for the government and 27% for political parties.
+
+{{< chart elections-trust-institutions >}}
+
+## Compared with other countries
+
+Trust in the national government in Ireland was a little above the average across the countries in the OECD Trust Survey. In 2025, 44% of people in Ireland said they trust the government, compared with an OECD average of 40%.
+
+{{< chart elections-trust-government-oecd >}}
+
+Trust in the Defence Forces compared with other countries is shown on the [Trust in the Defence Forces](../defence/trust.qmd) page.

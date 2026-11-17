@@ -53,6 +53,8 @@ website:
             text: Agriculture and food
           - href: defence/index.qmd
             text: Defence and security
+          - href: elections/index.qmd
+            text: Elections and trust
           - href: ai/index.qmd
             text: Artificial intelligence
           - href: childhood/index.qmd

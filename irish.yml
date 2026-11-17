@@ -48,6 +48,9 @@ topics:
   defence:
     title: "Cosaint agus slándáil"
     summary: "Caiteachas ar chosaint i gcomparáid leis an AE, muinín as Óglaigh na hÉireann, agus teagmhais chibearshlándála."
+  elections:
+    title: "Toghcháin agus muinín"
+    summary: "Líon na vótálaithe i dtoghcháin, comparáid leis an AE, agus muinín as institiúidí poiblí."
   counties:
     title: "Contaetha"
     summary: "Daonra agus cíosanna i ngach ceann de na 26 contae."

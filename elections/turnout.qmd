@@ -1,0 +1,16 @@
+---
+title: "Turnout"
+description: "How many people vote at Dáil and European Parliament elections, compared with the EU."
+---
+
+Turnout at Dáil elections has fallen since the 1980s. At the 2024 general election, 59.7% of people on the electoral register voted, compared with 76.9% in 1969, the highest since 1948. Turnout at European Parliament elections is usually lower, at 50.1% in 2024.
+
+{{< chart elections-turnout >}}
+
+## Compared with the EU
+
+Comparing each country's most recent national election, Ireland's turnout was the 7th lowest in the EU. Voting is compulsory in Belgium, Greece and Luxembourg.
+
+{{< chart elections-turnout-eu >}}
+
+Women's share of Dáil seats is shown on the [Politics and business](../gender/leadership.qmd) page.

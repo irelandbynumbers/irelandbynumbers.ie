@@ -7,6 +7,8 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Changes to the site
 
+**17 November 2026.** A new [Elections and trust](elections/index.qmd) topic, covering [turnout](elections/turnout.qmd), [trust in institutions](elections/trust.qmd) and [views on elections](elections/views.qmd).
+
 **17 November 2026.** A new [Defence and security](defence/index.qmd) topic, covering [defence spending](defence/spending.qmd), [trust in the Defence Forces](defence/trust.qmd) and [cyber security](defence/cyber-security.qmd).
 
 **17 November 2026.** A new [Agriculture and food](agriculture/index.qmd) topic, covering [farms and farmers](agriculture/farms.qmd), [livestock, milk and fertiliser](agriculture/livestock.qmd), [farm output and income](agriculture/output-and-income.qmd) and [food waste](agriculture/food.qmd).

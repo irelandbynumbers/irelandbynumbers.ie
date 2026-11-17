@@ -77,3 +77,7 @@
   path: defence/index.qmd
   image: images/topic-defence.svg
   description: Defence spending compared with the EU, trust in the Defence Forces, and cyber security incidents.
+- title: Elections and trust
+  path: elections/index.qmd
+  image: images/topic-elections.svg
+  description: Turnout at elections, how Ireland compares with the EU, and trust in public institutions.

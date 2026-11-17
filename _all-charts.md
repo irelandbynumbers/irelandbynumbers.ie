@@ -204,3 +204,12 @@
 - [Defence as a share of government spending](/charts/defence-spending-share.html). Defence as a share of total government spending, Ireland and the EU, 1995 to 2024. *Eurostat.* [CSV](/charts/defence-spending-share.csv)
 - [Defence spending in Ireland](/charts/defence-spending-trend.html). Government spending on defence in Ireland, in millions of euro at current prices, 1995 to 2024. *Eurostat.* [CSV](/charts/defence-spending-trend.csv)
 - [Trust in the armed forces](/charts/defence-trust-armed-forces.html). Share of people who trust their country's armed forces, OECD Trust Survey countries, 2025. *Central Statistics Office (CSO).* [CSV](/charts/defence-trust-armed-forces.csv)
+
+## [Elections and trust](/elections/)
+
+- [Satisfaction with how elections are run](/charts/elections-satisfaction.html). Share of people satisfied with how elections are managed in Ireland, by age and by how they voted at the last general election, 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/elections-satisfaction.csv)
+- [Trust in national government across countries](/charts/elections-trust-government-oecd.html). Share of people who trust their national government, OECD Trust Survey countries, 2025. *Central Statistics Office (CSO).* [CSV](/charts/elections-trust-government-oecd.csv)
+- [Trust in public institutions](/charts/elections-trust-institutions.html). Share of people in Ireland who trust each institution, 2025. *Central Statistics Office (CSO).* [CSV](/charts/elections-trust-institutions.csv)
+- [Turnout at elections](/charts/elections-turnout.html). Turnout at Dáil and European Parliament elections in Ireland, 1948 to 2024. *International IDEA.* [CSV](/charts/elections-turnout.csv)
+- [Turnout at national elections across the EU](/charts/elections-turnout-eu.html). Turnout at the most recent national parliamentary election in each EU country. *International IDEA.* [CSV](/charts/elections-turnout-eu.csv)
+- [Views on voting and elections](/charts/elections-views-on-voting.html). Share of people in Ireland who hold each view, 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/elections-views-on-voting.csv)
