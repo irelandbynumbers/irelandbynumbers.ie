@@ -30,6 +30,7 @@ def build():
     fees_eu()
     fees_trend()
     fees_county()
+    fees_deprivation()
     leave_ireland_ni()
     paternity_uptake()
 
@@ -346,6 +347,66 @@ def fees_county():
                  f"highest, and €{lo.full_day:.0f} in {lo.area}, the lowest. The national average was "
                  f"€{ie.full_day:.0f}.",
         data=d, figure=fig,
+    ).write()
+
+
+HP_AREAS = {"Dun Laoghaire/Rathdown": "Dún Laoghaire-Rathdown", "Dublin Fingal": "Fingal",
+            "South County Dublin": "South Dublin", "County Cork": "Cork County", "County Galway": "Galway",
+            "Galway City": "Galway", "County Limerick": "Limerick", "Limerick City": "Limerick",
+            "County Waterford": "Waterford", "Waterford City": "Waterford", "Tipperary NR": "Tipperary",
+            "Tipperary SR": "Tipperary"}
+
+
+def fees_deprivation():
+    hp = pd.read_csv(os.path.join(POBAL_DIR, "hp_index_2016_ed.csv"))
+    hp["area"] = hp.area.replace(HP_AREAS)
+    hp["weighted"] = hp.relative_score * hp.population
+    a = hp.groupby("area")[["weighted", "population"]].sum()
+    a = (a.weighted / a.population).round(1).rename("deprivation_score").reset_index()
+    f = pd.read_csv(os.path.join(POBAL_DIR, "fees_by_county_2020_21.csv"))
+    d = f[f.area != "Ireland"].merge(a, on="area", how="left")
+    assert d.deprivation_score.notna().all(), d[d.deprivation_score.isna()].area.tolist()
+    top = d.set_index("area").loc["Dún Laoghaire-Rathdown"]
+    low = d[d.deprivation_score < 0]
+    below_n = int((low.full_day < 185).sum())
+    dub = d.area.isin(["Dún Laoghaire-Rathdown", "Fingal", "South Dublin", "Dublin City"])
+    fig = go.Figure()
+    for mask, name, colour in [(~dub, "Other counties and cities", style.BLUE), (dub, "Dublin council areas", style.ORANGE)]:
+        p = d[mask]
+        fig.add_scatter(x=p.deprivation_score, y=p.full_day, mode="markers", name=name,
+                        marker=dict(color=colour, size=10, line=dict(color="#ffffff", width=1)), text=p.area,
+                        hovertemplate="<b>%{text}</b><br>Deprivation index: %{x:+.1f}<br>Full day fee: €%{y:.0f} a week"
+                                      "<extra></extra>")
+    for _, row in d[d.area.isin(["Dún Laoghaire-Rathdown", "Carlow", "Donegal", "Wicklow", "Kildare",
+                                 "Longford", "Meath"])].iterrows():
+        fig.add_annotation(x=row.deprivation_score, y=row.full_day, text=row.area, showarrow=False, yshift=12,
+                           font=dict(size=11, color=style.INK_2))
+    fig.update_layout(style.base_layout(margin=dict(l=8, r=16, t=40, b=48), showlegend=True,
+                                        legend=style.legend_top(),
+                                        xaxis=style.value_axis(title=dict(text="More deprived ← average Pobal HP Deprivation "
+                                                                              "Index score, 2016 → more affluent",
+                                                                         font=dict(size=12, color=style.INK_3)),
+                                                               zeroline=True, zerolinecolor=style.CONTEXT),
+                                        yaxis=style.value_axis(tickprefix="€")))
+    Chart(
+        id="childcare-fees-deprivation", topic=TOPIC, height=520,
+        title="Childcare fees and affluence",
+        subtitle="Average weekly fee for full day childcare in 2020/21, against the average Pobal HP Deprivation Index "
+                 "score in 2016, by county or council area.",
+        sources=[POBAL, Source("Pobal", "Pobal HP Deprivation Index 2016, scores by electoral division "
+                                       "(Haase and Pratschke)", "https://www.pobal.ie/",
+                               licence="Quoted with acknowledgement", licence_url="")],
+        notes=[POBAL_METHOD, POBAL_STOPS,
+               "The deprivation score for each area is the population-weighted average of the 2016 relative scores of "
+               "its electoral divisions. The 2016 index is used because it is closer in time to the 2020/21 fees. "
+               "Higher scores mean more affluent areas.",
+               "Galway, Limerick and Waterford cities are combined with their counties, as in Pobal's fee table.",
+               "More affluent areas are also more often urban, and Pobal reports that fees are higher in urban areas, "
+               "so the chart does not show that one causes the other."],
+        key_fact=f"In 2020/21, childcare fees were generally higher in more affluent areas. Dún Laoghaire-Rathdown, "
+                 f"the most affluent area on the index, had the highest full day fee, at €{top.full_day:.0f} a week, while "
+                 f"{below_n} of the {len(low)} areas with below-average scores had fees under €185.",
+        data=d[["area", "full_day", "part_time", "sessional", "deprivation_score"]], figure=fig,
     ).write()
 
 
