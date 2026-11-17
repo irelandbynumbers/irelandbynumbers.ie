@@ -1,0 +1,13 @@
+# Subtopic pages, shown as tiles on this topic's page.
+- title: "Defence spending"
+  path: spending.qmd
+  image: ../images/charts/defence-spending-eu.png
+  description: "Government spending on defence, per person and as a share of all spending, compared with the EU."
+- title: "Trust in the Defence Forces"
+  path: trust.qmd
+  image: ../images/charts/defence-trust-armed-forces.png
+  description: "How far people in Ireland trust the armed forces, compared with other countries."
+- title: "Cyber security"
+  path: cyber-security.qmd
+  image: ../images/charts/defence-cyber-incidents-eu.png
+  description: "How often businesses have ICT security incidents, and what kind."

@@ -73,3 +73,7 @@
   path: agriculture/index.qmd
   image: images/topic-agriculture.svg
   description: Farms and farmers, livestock and milk, farm output and income, fertiliser, organic farming and food waste.
+- title: Defence and security
+  path: defence/index.qmd
+  image: images/topic-defence.svg
+  description: Defence spending compared with the EU, trust in the Defence Forces, and cyber security incidents.

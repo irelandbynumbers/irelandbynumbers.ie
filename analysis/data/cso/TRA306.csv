@@ -1,0 +1,13 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C03919V04671,Gender,UNIT,VALUE
+TRA306C01,Don't trust (0-4),2025,2025,10,Male,%,10.6
+TRA306C01,Don't trust (0-4),2025,2025,20,Female,%,13.0
+TRA306C01,Don't trust (0-4),2025,2025,25,Both male and female,%,11.8
+TRA306C02,Neutral (5),2025,2025,10,Male,%,8.0
+TRA306C02,Neutral (5),2025,2025,20,Female,%,11.8
+TRA306C02,Neutral (5),2025,2025,25,Both male and female,%,9.8
+TRA306C03,Trust (6-10),2025,2025,10,Male,%,81.5
+TRA306C03,Trust (6-10),2025,2025,20,Female,%,75.2
+TRA306C03,Trust (6-10),2025,2025,25,Both male and female,%,78.5
+TRA306C04,Don't know,2025,2025,10,Male,%,
+TRA306C04,Don't know,2025,2025,20,Female,%,
+TRA306C04,Don't know,2025,2025,25,Both male and female,%,

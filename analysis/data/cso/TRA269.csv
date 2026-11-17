@@ -1,0 +1,13 @@
+STATISTIC,Statistic Label,TLIST(A1),Year,C02076V03371,Age,UNIT,VALUE
+TRA269C01,Not satisfied (0-4),2025,2025,3502,18 - 29 years,%,14.9
+TRA269C01,Not satisfied (0-4),2025,2025,4504,30 - 49 years,%,28.0
+TRA269C01,Not satisfied (0-4),2025,2025,512,50 years and over,%,25.8
+TRA269C02,Neutral (5),2025,2025,3502,18 - 29 years,%,7.9
+TRA269C02,Neutral (5),2025,2025,4504,30 - 49 years,%,9.4
+TRA269C02,Neutral (5),2025,2025,512,50 years and over,%,10.2
+TRA269C03,Satisfied (6-10),2025,2025,3502,18 - 29 years,%,77.1
+TRA269C03,Satisfied (6-10),2025,2025,4504,30 - 49 years,%,62.5
+TRA269C03,Satisfied (6-10),2025,2025,512,50 years and over,%,64.0
+TRA269C04,Don’t know,2025,2025,3502,18 - 29 years,%,
+TRA269C04,Don’t know,2025,2025,4504,30 - 49 years,%,
+TRA269C04,Don’t know,2025,2025,512,50 years and over,%,

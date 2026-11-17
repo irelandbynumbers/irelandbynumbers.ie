@@ -1,0 +1,23 @@
+---
+title: "Defence and security"
+description: "Defence spending compared with the EU, trust in the Defence Forces, and cyber security incidents."
+listing:
+  id: pages
+  contents: pages.yml
+  type: grid
+  grid-columns: 3
+  image-height: 100%
+  fields: [image, title, description]
+  sort: false
+  filter-ui: false
+  sort-ui: false
+---
+
+{{< irish defence >}}
+
+These pages show how much the government spends on defence compared with other EU countries, how far people trust the Defence Forces, and how often businesses are hit by cyber security incidents. Crime and policing are covered in the [Crime](../crime/index.qmd) topic.
+
+{{< key-facts defence-spending-eu defence-spending-share defence-trust-armed-forces defence-cyber-incidents-eu >}}
+
+:::{#pages}
+:::

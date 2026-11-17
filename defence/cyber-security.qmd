@@ -1,0 +1,14 @@
+---
+title: "Cyber security"
+description: "How often businesses have ICT security incidents, and what kind."
+---
+
+In 2024, 13% of businesses in Ireland had an ICT security incident, such as a system going down or data being lost or disclosed, compared with 22% across the EU.
+
+{{< chart defence-cyber-incidents-eu >}}
+
+## Types of incident
+
+Most incidents come from hardware or software failures rather than attacks. In 2024, 1.2% of businesses in Ireland had services go down because of an outside attack such as ransomware, compared with 10.4% because of a failure.
+
+{{< chart defence-cyber-incident-types >}}

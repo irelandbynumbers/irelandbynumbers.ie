@@ -1,0 +1,7 @@
+incident,eu_average,ireland
+"Services down, from a hardware or software failure",17.97,10.37
+"Services down, from an outside attack",3.43,1.22
+"Data lost or corrupted, from a failure",3.87,1.43
+"Data lost or corrupted, from malware or intrusion",1.89,0.76
+"Confidential data disclosed, from intrusion or phishing",1.57,0.7
+"Confidential data disclosed, by staff by mistake",1.15,0.85
