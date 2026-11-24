@@ -1,0 +1,141 @@
+/* Evidence-policy ecosystem map */
+.eco-root {
+  --eco-surface: #fcfcfb;
+  --eco-ink: #0b0b0b;
+  --eco-ink-2: #52514e;
+  --eco-line: #e8e7e3;
+  margin: 1rem 0 2rem;
+}
+.eco-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+.eco-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid #cfcdc6;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--eco-ink);
+  font-size: 0.92rem;
+  cursor: pointer;
+}
+.eco-chip[aria-pressed="false"] {
+  opacity: 0.45;
+  text-decoration: line-through;
+}
+.eco-chip:focus-visible, .eco-node:focus-visible { outline: 2px solid #2a78d6; outline-offset: 2px; }
+.eco-node:focus:not(:focus-visible) { outline: none; }
+.eco-count { color: var(--eco-ink-2); font-variant-numeric: tabular-nums; }
+
+.eco-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 1rem;
+  align-items: start;
+}
+@media (max-width: 991px) {
+  .eco-layout { grid-template-columns: 1fr; }
+}
+.eco-canvas {
+  position: relative;
+  background: var(--eco-surface);
+  border: 1px solid var(--eco-line);
+  border-radius: 6px;
+}
+.eco-map { display: block; width: 100%; height: auto; }
+
+.eco-ring { fill: none; stroke: #d9d7d0; stroke-width: 1; }
+.eco-link { fill: none; opacity: 0.8; transition: opacity 0.15s; }
+.eco-link.is-faded { opacity: 0.07; }
+.eco-link.is-hot { opacity: 1; }
+
+.eco-node { cursor: pointer; transition: opacity 0.15s; }
+.eco-node.is-faded { opacity: 0.18; }
+.eco-hit { fill: transparent; }
+.eco-dot { stroke: var(--eco-surface); stroke-width: 2; }
+.eco-node:hover .eco-dot, .eco-node.is-selected .eco-dot { stroke: var(--eco-ink); stroke-width: 2.5; }
+
+.eco-hub-label, .eco-node-label, .eco-member-label {
+  fill: var(--eco-ink);
+  paint-order: stroke;
+  stroke: var(--eco-surface);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+.eco-hub-label { font-size: 22px; font-weight: 700; }
+.eco-node-label { font-size: 18px; fill: #2b2a28; }
+.eco-member-label { font-size: 16px; fill: #2b2a28; }
+.eco-node.hide-label .eco-hub-label { display: none; }
+.eco-member-label.is-selected { font-weight: 700; fill: var(--eco-ink); }
+
+.eco-tooltip {
+  position: absolute;
+  max-width: 260px;
+  padding: 0.45rem 0.6rem;
+  background: #fff;
+  border: 1px solid #cfcdc6;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  font-size: 0.88rem;
+  line-height: 1.3;
+  pointer-events: none;
+  z-index: 2;
+}
+.eco-tooltip strong { display: block; }
+.eco-tooltip span { color: var(--eco-ink-2); }
+
+.eco-panel {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--eco-line);
+  border-radius: 6px;
+  background: #fff;
+  font-size: 0.95rem;
+  max-height: 900px;
+  overflow-y: auto;
+}
+.eco-panel h3 { font-size: 1.2rem; margin: 0 0 0.6rem; }
+.eco-panel h4 { font-size: 1rem; margin: 1rem 0 0.4rem; }
+.eco-panel ul { padding-left: 0; list-style: none; margin: 0; }
+.eco-panel li { margin: 0.3rem 0; }
+.eco-kicker { margin: 0 0 0.2rem; font-size: 0.85rem; color: var(--eco-ink-2); }
+.eco-kicker::before {
+  content: "";
+  display: inline-block;
+  width: 0.7em; height: 0.7em;
+  margin-right: 0.4em;
+  border-radius: 50%;
+  background: var(--c);
+}
+.eco-swatch {
+  display: inline-block;
+  width: 14px; height: 3px;
+  margin: 0 0.45em 0.2em 0;
+  background: var(--c);
+  vertical-align: middle;
+}
+.eco-jump {
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #1f5fae;
+  text-align: left;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+.eco-members li { font-size: 0.9rem; }
+.eco-muted { color: var(--eco-ink-2); }
+.eco-stats dt { font-weight: 600; }
+.eco-stats dd { margin: 0 0 0.5rem; }
+
+.eco-list { margin-top: 1rem; }
+.eco-list summary { cursor: pointer; font-weight: 600; }
+.eco-list-body { columns: 2 320px; margin-top: 0.75rem; font-size: 0.92rem; }
+.eco-list-body h4 { font-size: 1rem; break-after: avoid; }
+.eco-list-body ul { padding-left: 1.1rem; }

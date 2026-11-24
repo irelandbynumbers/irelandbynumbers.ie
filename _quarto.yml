@@ -3,9 +3,12 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    - "evidence-ecosystem/*.qmd"
   resources:
     - CNAME
     - figures/**
+    - evidence-ecosystem/*.csv
+    - evidence-ecosystem/*.js
 
 website:
   title: "Ireland by Numbers"
