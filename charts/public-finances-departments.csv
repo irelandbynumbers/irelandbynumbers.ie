@@ -1,0 +1,726 @@
+year,vote_number,department,programme,programme_name,subhead,subhead_name,planned_euro_thousand,spent_euro_thousand
+2025,1,President’s Establishment,A,President’s Establishment,A.1,Administration – pay,2519,2478
+2025,1,President’s Establishment,A,President’s Establishment,A.2,Administration − non pay,1261,801
+2025,1,President’s Establishment,B,Centenarians’ Bounty,B.1,Administration – pay,72,67
+2025,1,President’s Establishment,B,Centenarians’ Bounty,B.2,Administration – non pay,10,4
+2025,1,President’s Establishment,B,Centenarians’ Bounty,B.3,Centenarians’ bounty,1684,1426
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.1,Administration – pay,22474,22275
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.2,Administration – non pay,5874,4578
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.3,National Economic and Social Development Office,2722,2674
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.4,Tribunals of Inquiry,6785,6552
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.5,Commissions of Investigation,2764,2704
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.6,Citizens’ assembly,150,141
+2025,2,Department of the Taoiseach,A,Supporting the work of the Taoiseach and Government,A.7,COVID-19 Evaluation,800,511
+2025,3,Office of the Attorney General,A,"Delivery of professional legal services to Government, departments and offices",A.1,Administration – pay,18350,16723
+2025,3,Office of the Attorney General,A,"Delivery of professional legal services to Government, departments and offices",A.2,Administration – non pay,4281,3585
+2025,3,Office of the Attorney General,A,"Delivery of professional legal services to Government, departments and offices",A.3,Contributions to international organisations,95,95
+2025,3,Office of the Attorney General,A,"Delivery of professional legal services to Government, departments and offices",A.4,Law Reform Commission,3350,3298
+2025,3,Office of the Attorney General,A,"Delivery of professional legal services to Government, departments and offices",A.5,General law expenses,190,93
+2025,4,Central Statistics Office,,,A,Delivery of annual statistical programme,94815,94640
+2025,5,Office of the Director of Public Prosecutions,A,Provision of prosecution service,A.1,Administration – pay,28218,25759
+2025,5,Office of the Director of Public Prosecutions,A,Provision of prosecution service,A.2,Administration – non pay,4511,4850
+2025,5,Office of the Director of Public Prosecutions,A,Provision of prosecution service,A.3,Fees to counsel,28128,30279
+2025,5,Office of the Director of Public Prosecutions,A,Provision of prosecution service,A.4,General law expenses,1846,1573
+2025,5,Office of the Director of Public Prosecutions,A,Provision of prosecution service,A.5,Local State Solicitor service,10420,10381
+2025,6,Office of the Chief State Solicitor,A,Provision of legal services,A.1,Administration − pay,31732,30380
+2025,6,Office of the Chief State Solicitor,A,Provision of legal services,A.2,Administration – non pay,4696,4789
+2025,6,Office of the Chief State Solicitor,A,Provision of legal services,A.3,External legal services,312,278
+2025,6,Office of the Chief State Solicitor,A,Provision of legal services,A.4,Fees to counsel,17801,18496
+2025,6,Office of the Chief State Solicitor,A,Provision of legal services,A.5,General law expenses,800,860
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.1,Administration – pay,30899,30792
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.2,Administration – non pay,4775,4055
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.3,Committees and commissions,310,258
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.4,"Policy reviews, consultancy services and research",2674,2553
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.5,Fuel grant,11919,11870
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.6,Office of the Financial Services and Pensions Ombudsman,828,828
+2025,7,Office of the Minister for Finance,A,"Economic, fiscal, banking and financial services policy",A.7,Pension for certain bodies under the aegis,350,350
+2025,8,Office of the Comptroller and Auditor General,,,A,Audit and reporting,19028,18439
+2025,9,Office of the Revenue Commissioners,,,A,"Administration and collection of taxes and duties, and frontier management",628186,625110
+2025,10,Tax Appeals Commission,,,A,Facilitation of hearing tax appeals,4009,3387
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.1,Administration − pay,34087,33702
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.2,Administration − non pay,4610,3724
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.3,Irish Government Economic and Evaluation Service,225,146
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.4,Economic and Social Research Institute,3900,3900
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.5,Structural funds technical assistance and other costs,2223,1571
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.6,Technical assistance costs of regional assemblies,2214,1889
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.7,Special EU Programmes Body North/South programmes,4940,5004
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.8,Ireland/Wales and transnational INTERREG,197,158
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.9,Construction innovation support,500,493
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.10,Public service transformation,625,366
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.11,Employee assistance officer shared service,1807,1585
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.12,Civil service learning and development programme,363,295
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.13,Institute of Public Administration,6350,6350
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.14,Single public service pension administration project,177,22
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.15,Implementation of Protected Disclosures Act,369,369
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.16,Pensions for bodies under the aegis of the Department,2206,1787
+2025,11,"Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",A,Public expenditure management and reform,A.17,Digital Transformation Fund,456,152
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.1,"Superannuation allowances, compensation allowances, pensions and certain children’s allowances",713752,708960
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.2,"Payments under the contributory pension schemes for spouses and children of civil servants, members of the judiciary and court officers",50605,52651
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.3,"Ex-gratia pensions for widows and children of civil servants, members of the judiciary and court officers",120,90
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.4,Additional allowances and gratuities in respect of established officers and payments in respect of transferred service,142114,120250
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.5,"Pensions, allowances and gratuities in respect of unestablished officers and their spouses and children and other pensions and payments in respect of transferred service",24800,27347
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.6,Injury grants and medical fees,355,303
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.7,Pension related fees and other expenses,720,680
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.8,Payments in respect of liability under Chapter 2C of the Taxes Consolidation Act,900,2850
+2025,12,Superannuation and Retired Allowances,A,Superannuation and retired allowances,A.9,Pension liabilities of former public service bodies payable under statute,55,55
+2025,13,Office of Public Works,A,Climate Responsive Flood Risk Management,A.1,Administration – pay,21979,21026
+2025,13,Office of Public Works,A,Climate Responsive Flood Risk Management,A.2,Administration – non pay,3771,5015
+2025,13,Office of Public Works,A,Climate Responsive Flood Risk Management,A.3,Purchase of plant and machinery,9000,7075
+2025,13,Office of Public Works,A,Climate Responsive Flood Risk Management,A.4,Hydrometric and hydrological investigation and monitoring,1238,1244
+2025,13,Office of Public Works,A,Climate Responsive Flood Risk Management,A.5,Flood risk management,98475,104445
+2025,13,Office of Public Works,A,Climate Responsive Flood Risk Management,A.6,Arterial drainage maintenance,22347,22202
+2025,13,Office of Public Works,B,Estate management,B.1,Administration – pay,56055,57166
+2025,13,Office of Public Works,B,Estate management,B.2,Administration – non pay,13901,12503
+2025,13,Office of Public Works,B,Estate management,B.3,President’s household staff – Áras an Uachtaráin,1363,1456
+2025,13,Office of Public Works,B,Estate management,B.4,Grants for works and related services,4200,4563
+2025,13,Office of Public Works,B,Estate management,B.5,Purchase of sites and buildings,37613,36559
+2025,13,Office of Public Works,B,Estate management,B.6,"New works, alterations and additions",157050,146346
+2025,13,Office of Public Works,B,Estate management,B.7,Property maintenance and supplies,80401,80526
+2025,13,Office of Public Works,B,Estate management,B.8,Rents and miscellaneous fees,110493,106444
+2025,13,Office of Public Works,B,Estate management,B.9,Service charges and utilities,18069,18494
+2025,13,Office of Public Works,B,Estate management,B.10,Unitary payments,23216,23216
+2025,13,Office of Public Works,B,Estate management,B.11,Heritage services,58941,58882
+2025,13,Office of Public Works,B,Estate management,B.12,National Recovery and Resilience Plan,28601,30850
+2025,13,Office of Public Works,B,Estate management,B.13,EU Presidency,5590,4873
+2025,14,State Laboratory,,,A,Government analytical laboratory and advisory service,16601,16433
+2025,15,Secret Service,,,A,Secret service,2000,1244
+2025,16,Tailte Éireann,A,"Provision of surveying, property registration and valuation services within the State",A.1,Administration – pay,65249,62527
+2025,16,Tailte Éireann,A,"Provision of surveying, property registration and valuation services within the State",A.2,Administration – non pay,24335,22723
+2025,16,Tailte Éireann,A,"Provision of surveying, property registration and valuation services within the State",A.3,Surveying,1522,1562
+2025,16,Tailte Éireann,A,"Provision of surveying, property registration and valuation services within the State",A.4,Property registration archive and digitisation,40,29
+2025,16,Tailte Éireann,A,"Provision of surveying, property registration and valuation services within the State",A.5,Compensation costs and other legal fees,500,263
+2025,17,Public Appointments Service,,,A,Civil and public service – redeployment/recruitment/ selection,25415,24647
+2025,18,National Shared Services Office,A,NSSO Function,A.1,Administration – pay,13941,13751
+2025,18,National Shared Services Office,A,NSSO Function,A.2,Administration – non pay,20974,18758
+2025,18,National Shared Services Office,A,NSSO Function,A.3,Financial Management Shared Services Project,13099,11522
+2025,18,National Shared Services Office,B,Employee Services,B.1,Administration – pay,27602,27136
+2025,18,National Shared Services Office,B,Employee Services,B.2,Administration – non pay,1829,1425
+2025,18,National Shared Services Office,C,Finance Shared Services,C.1,Administration – pay,4045,3689
+2025,18,National Shared Services Office,C,Finance Shared Services,C.2,Administration – non pay,1736,1235
+2025,19,Office of the Ombudsman,,,A,Ombudsman function/Office of the Commission for Public Service Appointments/Office of the Protected Disclosures Commissioner/Standards in Public Office Commission/Office of the Information Commissioner/Office of the Commissioner for Environmental Information,17481,15147
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.1,Administration – pay,1564449,1556749
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.2,Administration – non pay,292177,302596
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.3,Clothing and accessories,10000,9153
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.5,Transport,43008,42080
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.6,Communications and other equipment,39784,39631
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.7,Aircraft,17014,9647
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.8,"Superannuation, etc.",456576,453814
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.9,Witnesses’ expenses,3722,3413
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.10,Compensation,30003,31375
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.11,Witness security programme,1275,1200
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.12,Capital building programme,49992,39771
+2025,20,Garda Síochána,A,Working with communities to protect and serve,A.13,Garda College,49039,49563
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.1,Administration – pay,370191,369685
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.2,Administration – non pay,31452,30302
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.3,Buildings and equipment,80088,80663
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.4,Prisoner care and rehabilitation,53895,53945
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.5,Custody and security operations,11430,11210
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.6,Educational services,2129,2079
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.7,Legal and compensation,6500,6493
+2025,21,Prisons,A,"Administration and provision of safe, secure and humane rehabilitative custody for people who are sent to prison",A.8,Social disadvantage measures (dormant accounts funded),456,456
+2025,22,Courts Service,A,Manage the courts and support the judiciary,A.1,Administration – pay,82016,81851
+2025,22,Courts Service,A,Manage the courts and support the judiciary,A.2,Administration – non pay,67883,68826
+2025,22,Courts Service,A,Manage the courts and support the judiciary,A.3,Courthouses,9739,4309
+2025,22,Courts Service,A,Manage the courts and support the judiciary,A.4,PPP costs,39210,38089
+2025,22,Courts Service,A,Manage the courts and support the judiciary,A.5,Judicial Appointments Commission,712,693
+2025,22,Courts Service,A,Manage the courts and support the judiciary,A.6,Judicial Council,1265,1151
+2025,23,An Coimisiún Toghcháin,A,Manage the functions of An Coimisiún Toghcháin,A.1,Administration – pay,4000,3129
+2025,23,An Coimisiún Toghcháin,A,Manage the functions of An Coimisiún Toghcháin,A.2,Administration – non pay,7595,4274
+2025,23,An Coimisiún Toghcháin,A,Manage the functions of An Coimisiún Toghcháin,A.3,An Coimisiún Toghcháin,204,197
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.1,Administration – pay,53080,49441
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.2,Administration – non pay,39531,41830
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.3,Office of the Inspector of Prisons,1755,1844
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.6,Criminal Assets Bureau,13274,13588
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.7,"Probation Service – salaries, wages and allowances",31890,32189
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.8,Probation Service – operating expenses,5525,5628
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.9,Probation Service – services to offenders,21032,21014
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.10,Community Service Order Scheme,3574,3576
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.11,Youth justice interventions,38076,38093
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.12,Victims of crime,3574,3897
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.13,Mental Health (Criminal Law) Review Board,439,354
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.14,Compensation for personal injuries criminally inflicted,17880,17687
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.15,Legal aid – criminal,120544,120643
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.16,Legal aid – custody issues,5770,5441
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.17,Parole Board,2661,2492
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.18,Crime prevention measures,915,752
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.19,Private Security Authority,4892,4923
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.20,"Domestic, sexual and genderbased violence (non-agency)",61210,62153
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.21,Forensic Science Ireland,30816,32129
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.22,Office of the State Pathologist,1802,1811
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.23,Commissions and special inquiries,2739,1663
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.24,Social disadvantage measure (dormant accounts funded),7000,6721
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.25,Community Safety Innovation Fund,4000,3624
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.26,Cuan,4837,5038
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.27,Irish Passenger Information Unit (IPIU),1801,1745
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.28,Appellate bodies (criminal justice),11,5
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.29,Office of the Independent Examiner,933,900
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.30,National Office of Community Safety,4135,3733
+2025,24,"Justice, Home Affairs and Migration",A,Criminal justice pillar,A.31,National Cyber Security Centre,6676,6373
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.1,Administration – pay,100248,104380
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.2,Administration – non pay,79018,77467
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.3,Central authorities,135,141
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.6,Insolvency Service of Ireland,7664,7629
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.7,Gambling Regulatory Authority,6926,7271
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.10,Coroner Service,11371,11096
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.11,Legal Aid Board,64111,64111
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.12,Free Legal Advice Centres,500,500
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.13,Immigration and international protection programmes,10204,9905
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.14,International Protection Appeals Tribunal,9117,8449
+2025,24,"Justice, Home Affairs and Migration",B,Civil justice pillar,B.17,Court advocate - children,600,0
+2025,24,"Justice, Home Affairs and Migration",C,Immigration,C.1,Administration - pay,20183,20635
+2025,24,"Justice, Home Affairs and Migration",C,Immigration,C.2,Administration – non pay,1711,2041
+2025,24,"Justice, Home Affairs and Migration",C,Immigration,C.3,Refugee and migrant Integration,7838,5088
+2025,24,"Justice, Home Affairs and Migration",C,Immigration,C.4,"Asylum, Migration and Integration Fund",2453,2322
+2025,24,"Justice, Home Affairs and Migration",C,Immigration,C.5,International protection seekers accommodation,1366100,1364013
+2025,24,"Justice, Home Affairs and Migration",C,Immigration,C.6,Ukraine accommodation and related costs,727572,723888
+2025,25,Irish Human Rights and Equality Commission,A,Irish Human Rights and Equality Commission function,A.1,Administration – pay,6086,5611
+2025,25,Irish Human Rights and Equality Commission,A,Irish Human Rights and Equality Commission function,A.2,Administration – non pay,3374,3154
+2025,25,Irish Human Rights and Equality Commission,A,Irish Human Rights and Equality Commission function,A.3,Irish Human Rights and Equality Grants scheme,350,350
+2025,26,Education and Youth,A,"First, second and early years education",A.1,Administration – pay,151476,146256
+2025,26,Education and Youth,A,"First, second and early years education",A.2,Administration – non pay,44725,40229
+2025,26,Education and Youth,A,"First, second and early years education",A.3,"Salaries, wages and allowances (including incidental payments) of primary school teachers",3609484,3586505
+2025,26,Education and Youth,A,"First, second and early years education",A.4,"Salaries, wages and allowances (including incidental payments) of secondary, comprehensive and community school teachers",1899198,1887167
+2025,26,Education and Youth,A,"First, second and early years education",A.5,Grants to education and training boards in respect of ETB teachers' salaries,941182,941945
+2025,26,Education and Youth,A,"First, second and early years education",A.6,"Salaries, wages and allowances (including incidental payments) of special needs assistants in primary and post primary schools",1049661,1051072
+2025,26,Education and Youth,A,"First, second and early years education",A.7,"Salaries, wages and allowances (including incidental payments) of non-teaching staff in primary and post primary schools (excluding special needs assistants)",213105,211814
+2025,26,Education and Youth,A,"First, second and early years education",A.8,Superannuation etc. in respect of teaching and non-teaching staff,1641522,1642213
+2025,26,Education and Youth,A,"First, second and early years education",A.9,School transport services,478669,478720
+2025,26,Education and Youth,A,"First, second and early years education",A.10,"Grants (including capitation) payable to primary and post primary schools, education and training boards and other educational organisations and institutions",812813,809664
+2025,26,Education and Youth,A,"First, second and early years education",A.11,Grants to education bodies working in the primary and post primary sectors,231832,224130
+2025,26,Education and Youth,A,"First, second and early years education",A.12,Teacher education,53437,50133
+2025,26,Education and Youth,A,"First, second and early years education",A.13,Payments in respect of residential institutions redress and costs associated with the Child Abuse Commission,7910,1830
+2025,26,Education and Youth,A,"First, second and early years education",A.14,Miscellaneous grants and services,101292,92031
+2025,26,Education and Youth,A,"First, second and early years education",A.15,Primary and post primary infrastructure,1505500,1503657
+2025,26,Education and Youth,A,"First, second and early years education",A.16,Public private partnership costs,70000,67172
+2025,27,International Co-operation,A,Work on poverty and hunger reduction,A.1,Administration – pay,28260,28342
+2025,27,International Co-operation,A,Work on poverty and hunger reduction,A.2,Administration – non pay,20050,17632
+2025,27,International Co-operation,A,Work on poverty and hunger reduction,A.3,Bilateral co-operation and humanitarian assistance,693179,693479
+2025,27,International Co-operation,A,Work on poverty and hunger reduction,A.4,Contributions to international funds for the benefit of developing countries,20485,20137
+2025,27,International Co-operation,A,Work on poverty and hunger reduction,A.5,Contributions to United Nations and other development agencies,48375,48272
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.1,Administration – pay,128382,129031
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.2,Administration – non pay,138195,129675
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.3,Reconciliation and North-South cooperation,9045,8152
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.4,International Fund For Ireland,4150,4830
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.5,Support for the diaspora,16495,19871
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.6,Contributions to multilateral organisations,67616,67585
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.7,Measures in support of the EU common foreign and security policy,418,363
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.8,Measures in support of EU enlargement and fundamental rights in Europe,1000,978
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.9,EU engagement,2215,1979
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.10,Irish personnel in EU and international institutions,4000,4107
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.11,Promoting Ireland,13046,10734
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.12,Communications,2402,2290
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.13,Fulbright Commission,404,404
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.14,Emergency consular assistance,79,232
+2025,28,Foreign Affairs and Trade,A,Advancing Ireland’s foreign policy goals,A.15,Ukraine assistance,200000,200000
+2025,28,Foreign Affairs and Trade,B,Passport service,B.1,Administration – pay,25966,26620
+2025,28,Foreign Affairs and Trade,B,Passport service,B.2,Administration – non pay,35504,37512
+2025,28,Foreign Affairs and Trade,B,Passport service,B.4,Passport contingency,10000,8204
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.1,Administration – pay,9449,10579
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.2,Administration – non pay,3561,2678
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.3,Environmental Protection Agency,48544,48627
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.4,Environmental and climate research,17100,16953
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.5,International climate change commitments,27750,27750
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.6,Climate initiatives,12275,10668
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.7,Just Transition Fund (IE and EU),22439,18938
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.8,Shared Island Fund,1600,886
+2025,29,"Climate, Energy and the Environment",A,Climate action and environment leadership,A.9,Subscriptions to international organisations,2380,2062
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.1,Administration – pay,17380,19038
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.2,Administration – non pay,5407,4377
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.3,Sustainable Energy Authority of Ireland – administration and general expenses,32294,31494
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.4,Residential/community retrofit programmes,566870,462182
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.5,Other energy efficiency programmes,43370,31660
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.6,Other energy programmes (national/international),6160,2560
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.7,Energy research programmes,28949,21876
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.8,Gas services,45,28
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.10,Single scheme pension payment to CRU,6,0
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.12,Subscriptions to international organisations,575,554
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.13,Regulation of district heating,662,0
+2025,29,"Climate, Energy and the Environment",B,Energy transformation,B.14,Residential Retrofit Loan Guarantee Scheme,3000,1931
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.1,Administration – pay,18470,20187
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.2,Administration – non pay,5895,5356
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.3,Mining and petroleum services,2754,577
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.4,Geological survey programmes,14800,12971
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.5,Inland Fisheries,39484,39264
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.6,Waste management programmes,34340,25618
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.7,Subscriptions to international organisations,230,153
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.9,Foreshore,2171,172
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.10,Marine spatial planning,2200,1305
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.11,Maritime Area Regulatory Authority,10234,7654
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.12,Planning advisory,250,85
+2025,29,"Climate, Energy and the Environment",C,Circular economy development,C.13,Marine environment,5725,3684
+2025,30,"Agriculture, Food and the Marine",A,"Food Safety, Animal and Plant Health and Animal Welfare",A.1,Administration – pay,157074,155986
+2025,30,"Agriculture, Food and the Marine",A,"Food Safety, Animal and Plant Health and Animal Welfare",A.2,Administration – non pay,84717,80039
+2025,30,"Agriculture, Food and the Marine",A,"Food Safety, Animal and Plant Health and Animal Welfare",A.3,"Food safety, animal and plant health and animal welfare",98870,100080
+2025,30,"Agriculture, Food and the Marine",A,"Food Safety, Animal and Plant Health and Animal Welfare",A.4,Bovine TB and brucellosis eradication,136500,122747
+2025,30,"Agriculture, Food and the Marine",A,"Food Safety, Animal and Plant Health and Animal Welfare",A.5,Laboratory services,23534,21081
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.1,Administration – pay,76861,76328
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.2,Administration – non pay,36665,35371
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.3,Agri-environmental schemes,63723,54400
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.4,Areas of natural constraint scheme,249000,248051
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.5,Development of agriculture and food (farm),84450,82628
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.6,Beef sustainability schemes,94761,96797
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.7,Knowledge transfer,7532,7404
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.8,Animal welfare scheme for sheep,20000,20042
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.9,Early retirement scheme,0,-28
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.10,Forestry and bio energy,91007,82110
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.11,Control and other support scheme costs,14567,13819
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.12,Other schemes,22138,22202
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.13,Carbon tax measures and Just Transition Fund,3000,2397
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.14,Agri-Climate Rural Environment Scheme,295000,304239
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.15,Organic Farming Scheme,60798,60237
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.16,Tillage and Horticulture Scheme,32400,32184
+2025,30,"Agriculture, Food and the Marine",B,Farm/Sector Support and Controls,B.17,Long Established Young Farmers Scheme,2250,2225
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.1,Administration – pay,21904,21752
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.2,Administration – non pay,7659,7341
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.3,"Research, quality and certification",42895,38956
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.4,Development and promotion of agriculture and food (non-farm),12727,10444
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.5,Teagasc grant,175437,172309
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.6,An Bord Bia grant,59048,58995
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.7,Horse and Greyhound Racing Fund,99103,99102
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.8,CEDRA Rural Innovation and Development Fund,1760,1994
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.10,SBCI loan schemes,300,167
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.11,Other services,12044,11445
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.12,Other equine supports,5200,5600
+2025,30,"Agriculture, Food and the Marine",C,Policy and Strategy,C.13,An Rialálaí Agraibhia/the Agri-Food Regulator,1927,1937
+2025,30,"Agriculture, Food and the Marine",D,Seafood Sector,D.1,Administration – pay,12937,12847
+2025,30,"Agriculture, Food and the Marine",D,Seafood Sector,D.2,Administration – non pay,8366,8052
+2025,30,"Agriculture, Food and the Marine",D,Seafood Sector,D.3,Fisheries,38425,37152
+2025,30,"Agriculture, Food and the Marine",D,Seafood Sector,D.4,Marine Institute grant,44093,44093
+2025,30,"Agriculture, Food and the Marine",D,Seafood Sector,D.5,Bord Iascaigh Mhara grant,45515,43875
+2025,30,"Agriculture, Food and the Marine",D,Seafood Sector,D.6,Sea Fisheries Protection Authority,25534,24182
+2025,31,Transport,A,Sustainable mobility − active travel and greenways,A.1,Administration – pay,854,832
+2025,31,Transport,A,Sustainable mobility − active travel and greenways,A.2,Administration – non pay,978,174
+2025,31,Transport,A,Sustainable mobility − active travel and greenways,A.3,Active travel infrastructure,297650,302150
+2025,31,Transport,A,Sustainable mobility − active travel and greenways,A.4,Greenways,75800,52114
+2025,31,Transport,B,Sustainable mobility − public transport,B.1,Administration – pay,3093,3207
+2025,31,Transport,B,Sustainable mobility − public transport,B.2,Administration – non pay,1471,695
+2025,31,Transport,B,Sustainable mobility − public transport,B.3,Public transport services,871775,847381
+2025,31,Transport,B,Sustainable mobility − public transport,B.4,Public transport investment,1161436,1141725
+2025,31,Transport,B,Sustainable mobility − public transport,B.5,Public transport agencies and expenses,55467,49333
+2025,31,Transport,B,Sustainable mobility − public transport,B.6,Miscellaneous services Original —,47,0
+2025,31,Transport,C,Road networks and road safety,C.1,Administration – pay,6078,4544
+2025,31,Transport,C,Road networks and road safety,C.2,Administration – non pay,1831,984
+2025,31,Transport,C,Road networks and road safety,C.3,National roads investment,636750,729250
+2025,31,Transport,C,Road networks and road safety,C.4,Regional and local roads investment,713667,703849
+2025,31,Transport,C,Road networks and road safety,C.5,Transport Infrastructure Ireland operational costs,40625,40242
+2025,31,Transport,C,Road networks and road safety,C.6,Road safety agencies and expenses,9239,9479
+2025,31,Transport,C,Road networks and road safety,C.7,EV grants and infrastructure,139030,105760
+2025,31,Transport,D,Civil aviation,D.1,Administration – pay,6291,6147
+2025,31,Transport,D,Civil aviation,D.2,Administration – non pay,2023,1331
+2025,31,Transport,D,Civil aviation,D.3,Regional airports,25869,24028
+2025,31,Transport,D,Civil aviation,D.4,Miscellaneous services,12727,12925
+2025,31,Transport,E,Maritime transport and safety,E.1,Administration – pay,21112,17023
+2025,31,Transport,E,Maritime transport and safety,E.2,Administration – non pay,5238,3704
+2025,31,Transport,E,Maritime transport and safety,E.3,Irish Coast Guard (IRCG),145520,127812
+2025,31,Transport,E,Maritime transport and safety,E.4,Commissioners of Irish Lights,8075,6230
+2025,31,Transport,E,Maritime transport and safety,E.5,Marine casualty investigation,351,412
+2025,31,Transport,E,Maritime transport and safety,E.6,Marine Survey Office and maritime transport,47,6
+2025,31,Transport,E,Maritime transport and safety,E.7,Miscellaneous services,106,106
+2025,31,Transport,F,"Information technology, engagement and research delivery",F.1,Administration – pay,14714,21649
+2025,31,Transport,F,"Information technology, engagement and research delivery",F.2,Administration – non pay,3269,4689
+2025,31,Transport,F,"Information technology, engagement and research delivery",F.3,Digital hub,48302,39474
+2025,31,Transport,F,"Information technology, engagement and research delivery",F.4,Climate engagement,1310,2369
+2025,31,Transport,F,"Information technology, engagement and research delivery",F.5,Research programmes,4100,1342
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.1,Administration – pay,16013,17629
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.2,Administration − non pay,3611,4266
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.3,Agency legacy pensions,43181,41833
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.4,InterTrade Ireland,15506,15600
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.5,IDA Ireland,278084,267384
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.6,NSAI – grant for administration and general expenses,16336,16047
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.7,Enterprise Ireland,198524,187839
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.8,Local enterprise development,62797,60111
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.9,Temporary partial credit guarantee scheme,8000,7513
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.10,Matching funding for PEACEPLUS,1040,1125
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.11,"Subscriptions to international organisations, etc.",1,0
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.12,"Commissions, committees and special inquiries",301,88
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.13,Legal costs and other services,130,15
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.14,Strategic Banking Corporation of Ireland loan schemes,1,0
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.15,Humanitarian relief scheme,115,115
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.16,Microfinance Ireland,12501,12500
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.17,National Design Centre,1,0
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.18,National Clustering Programme,384,334
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.19,Shared Island Fund contribution to the Department for the Economy,250,0
+2025,32,"Enterprise, Tourism and Employment",A,Jobs and enterprise development,A.20,ICOB and Power Up,13000,12933
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.1,Administration – pay,11123,9571
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.2,Administration − non pay,3422,2895
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.3,Intellectual Property Office of Ireland,3866,3788
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.4,Science and Technology Development Programme,158615,152901
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.5,"Subscriptions to international organisations, etc.",44214,44214
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.6,"Commissions, committees and special inquiries",1,0
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.7,Legal costs and other services,130,0
+2025,32,"Enterprise, Tourism and Employment",B,Enterprise innovation and commercialisation,B.8,Disruptive Technologies Innovation Fund,36852,36000
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.1,Administration – pay,17668,16707
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.2,Administration − non pay,5001,4146
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.3,Workplace Relations Programme,24867,22195
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.4,Grants for trade union education and advisory services – cash limited,900,895
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.5,Health and Safety Authority – grant for administration and general expenses,34757,35390
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.6,Trade union amalgamations,60,0
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.7,Corporate Enforcement Authority,10182,7300
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.8,Competition and Consumer Protection Commission,28447,28463
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.9,Personal Injuries Assessment Board,413,433
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.10,Low Pay Commission,528,413
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.11,Companies Registration Office and Registry of Friendly Societies – grant for administration and general expenses,9139,8793
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.12,Irish Auditing and Accounting Supervisory Authority,2356,1663
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.13,"Subscriptions to international organisations, etc.",1847,1872
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.14,"Commissions, committees and special inquiries",439,286
+2025,32,"Enterprise, Tourism and Employment",C,Regulation,C.15,Legal costs and other services,1205,378
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.1,Administration – pay,3778,2864
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.2,Administration − non pay,1088,911
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.3,Fáilte Ireland,99684,99505
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.4,Tourism Ireland,23948,24270
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.5,Overseas Tourism Marketing Fund,66639,60536
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.6,Tourism product development —,25019,22997
+2025,32,"Enterprise, Tourism and Employment",D,Tourism,D.7,EU Just Transition Fund,23193,8331
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.1,Administration – pay,16104,15601
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.2,Administration – non pay,2614,1852
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.3,Payments to match resources generated by National Archives,40,34
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.4,General expenses of National Archives and Advisory Council,2726,2158
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.5,"General expenses of the Irish Museum of Modern Art, Chester Beatty Library, National Concert Hall and the Crawford gallery (note 7.1)",28510,28510
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.6,"Regional museums, galleries, cultural centres and projects",26081,25119
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.7,Cultural infrastructure and development,37935,36035
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.8,Culture Ireland,8000,7985
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.9,An Chomhairle Ealaíon (part funded by the National Lottery),139038,138174
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.10,General expenses of the National Museum of Ireland,20761,20761
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.11,General expenses of the National Library of Ireland,11508,11508
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.12,Fís Éireann/Screen Ireland,40858,40858
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.13,General expenses of the National Gallery of Ireland,14568,14568
+2025,33,"Culture, Communications and Sport",A,Arts and culture,A.16,Cultural supports,35000,34431
+2025,33,"Culture, Communications and Sport",B,Communications,B.1,Administration – pay,10214,9492
+2025,33,"Culture, Communications and Sport",B,Communications,B.2,Administration – non pay,700,1089
+2025,33,"Culture, Communications and Sport",B,Communications,B.3,National Broadband Plan,445049,445988
+2025,33,"Culture, Communications and Sport",B,Communications,B.4,Other communications infrastructure,7760,5576
+2025,33,"Culture, Communications and Sport",B,Communications,B.5,Other digital economy programmes,11730,10779
+2025,33,"Culture, Communications and Sport",B,Communications,B.6,Public warning system,400,122
+2025,33,"Culture, Communications and Sport",B,Communications,B.7,Digital Connectivity Office,500,330
+2025,33,"Culture, Communications and Sport",B,Communications,B.8,Post Office network,10000,10254
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.1,Administration – pay,4492,3520
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.2,Administration – non pay,704,429
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.3,Grant to Raidió Teilifís Éireann for broadcasting licence fees,187000,183715
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.4,Payment to An Post for collection of broadcasting licence fees,9000,9000
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.5,Deontas i leith Theilifís na Gaeilge,61090,61090
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.6,Broadcasting and media fund,31000,29828
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.7,Coimisiún na Meán,1060,1012
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.8,Interim funding for Raidió Teilifís Éireann,42000,41285
+2025,33,"Culture, Communications and Sport",C,Broadcasting,C.9,Irish Film Classification Office,772,589
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.1,Administration – pay,5054,5849
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.2,Administration – non pay,1077,733
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.3,Community Sport Facilities Fund,72151,72150
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.5,Sport Ireland (part funded by National Lottery),117355,117355
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.6,Dormant accounts funding for sports measures,10000,10000
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.7,Large scale sport infrastructure fund,24776,24776
+2025,33,"Culture, Communications and Sport",D,Sports and recreation services,D.8,Major sport events,15055,15041
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.1,Administration – pay,30999,31875
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.2,Administration – non pay,7362,4850
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.3,Local authority housing,1934154,2015287
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.4,Social housing current expenditure programme,637300,654799
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.5,Rental accommodation scheme,105000,104216
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.6,Housing assistance payment scheme,492700,493274
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.7,Capital assistance scheme,156000,146255
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.8,Capital loans and subsidy scheme,60600,60565
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.9,Communal facilities,500,249
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.10,Mortgage to rent,11000,9329
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.11,Capital advance leasing facility,710000,744193
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.12,Traveller accommodation and support,30000,29679
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.13,Accommodation for homeless,480010,468429
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.14,Housing for people with a disability and older people,2200,1622
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.15,Regeneration and refurbishment,50000,47884
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.16,Energy efficiency retrofitting,90000,89996
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.17,Repair and leasing scheme,10000,6307
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.18,Private housing grants,100000,95667
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.19,Mortgage allowances,500,340
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.20,Affordable housing/shared ownership subsidy,1100,1093
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.21,Local infrastructure housing activation fund,15646,10575
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.22,Defective homes remediation (cash limited),165000,164995
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.23,Housing and Sustainable Communities Agency,40000,38800
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.24,Residential Tenancies Board,19417,19417
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.25,Rented accommodation inspection,10500,10572
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.26,Approved Housing Bodies Regulatory Authority,3900,3550
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.27,Planned maintenance/ voids,31000,30945
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.28,Cost rental equity loan,605300,567486
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.29,Disabled Persons Grant Scheme/improvements/ remedials,25000,25000
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.30,First Home Scheme,80000,80000
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.31,Affordable Housing Fund,155000,155000
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.32,Croí Cónaithe Cities,18000,17262
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.33,Social housing PPP programme,28000,22054
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.34,Ukraine measures,5000,1799
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.35,Secure tenancy affordable rental scheme (STAR),109000,107324
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.36,Croí Cónaithe Towns and vacancy supports,143000,144948
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.37,Land Aggregation Scheme (LAGS),2800,2798
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.38,PSRA/PSAB,4256,4101
+2025,34,"Housing, Local Government and Heritage",A,Housing,A.39,Other services,9515,10930
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.1,Administration – pay,5667,5669
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.2,Administration – non pay,1233,1196
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.3,Water quality programme,38975,39938
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.4,Rural water programme,67000,61035
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.5,Uisce Éireann,1703666,1703545
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.6,Local authorities,26600,25783
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.7,Legacy water environmental issues,4000,2432
+2025,34,"Housing, Local Government and Heritage",B,Water and Marine,B.8,Other services,34,2
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.1,Administration – pay,13838,13126
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.2,Administration – non pay,3286,2184
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.3,Local Government Fund,645357,645357
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.4,Fire and emergency services,70500,70519
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.5,Franchise,8015,6005
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.6,Valuation Tribunal,2483,1104
+2025,34,"Housing, Local Government and Heritage",C,Local Government,C.7,Other services,31745,23354
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.1,Administration – pay,7103,6646
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.2,Administration − non pay,1687,1107
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.3,An Bord Pleanála,40600,45100
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.4,Planning Tribunal,100,0
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.5,Office of the Planning Regulator,5180,5961
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.6,Planning policy,2000,1125
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.7,"National, regional and urban planning",6823,5370
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.8,Planning spatial data,500,342
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.9,Urban renewal/regeneration,171020,159925
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.10,Land Development Agency,550,457
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.11,EU and international planning regulation,450,119
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.12,LA planning resources and supports,13000,6605
+2025,34,"Housing, Local Government and Heritage",D,Planning,D.13,Other services,1200,356
+2025,34,"Housing, Local Government and Heritage",E,Met Éireann,E.1,Administration – pay,24910,20806
+2025,34,"Housing, Local Government and Heritage",E,Met Éireann,E.2,Administration – non pay,22742,19796
+2025,34,"Housing, Local Government and Heritage",E,Met Éireann,E.3,Subscriptions to international meteorological organisations,11000,9659
+2025,34,"Housing, Local Government and Heritage",E,Met Éireann,E.4,Flood forecasting and warning service,2820,869
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.1,Administration – pay,43823,45362
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.2,Administration − non pay,10407,8355
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.3,Heritage Council (part funded by the National Lottery),18789,18789
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.4,Built heritage,25550,25191
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.5,National heritage (National Parks and Wildlife),70950,65143
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.6,Irish Heritage Trust,3650,3886
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.7,"Peatlands restoration, conservation and management",14000,17213
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.8,Waterways Ireland,48360,49360
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.9,Strategic built heritage projects,1650,500
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.10,Climate adaptation,200,201
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.11,Narrow Water Bridge,42000,46500
+2025,34,"Housing, Local Government and Heritage",F,Heritage,F.12,Other services,1,6
+2025,35,Army Pensions,A,Provision for Defence Forces’ pension benefits,A.1,Administration – pay,105,83
+2025,35,Army Pensions,A,Provision for Defence Forces’ pension benefits,A.2,Defence Forces superannuation benefits and related payments,316757,296224
+2025,35,Army Pensions,A,Provision for Defence Forces’ pension benefits,A.3,Wound and disability benefits re former Defence Forces members,11960,11616
+2025,35,Army Pensions,A,Provision for Defence Forces’ pension benefits,A.4,Payments to spouses of veterans of the War of Independence,60,52
+2025,35,Army Pensions,A,Provision for Defence Forces’ pension benefits,A.5,Compensation payments,245,74
+2025,35,Army Pensions,A,Provision for Defence Forces’ pension benefits,A.6,"Medical appliances, travelling and incidental expenses",200,159
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.1,Administration – pay,31750,31735
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.2,Administration − non pay,12300,12195
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.3,Permanent Defence Force: pay,463900,457744
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.4,Permanent Defence Force: allowances,46800,47714
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.5,"Reserve Defence Force: pay, etc.",3500,3542
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.6,Chaplains and officiating clergy: pay and allowances,1350,1132
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.7,"Defence Forces civilian support: pay and allowances, etc.",30500,28414
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.8,Defence Forces: capability development,159940,157570
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.9,Air Corps: equipment and support,40050,46994
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.10,Military transport,21190,18309
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.11,Naval Service: equipment and support,18500,21451
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.12,Barrack expenses and engineering equipment,21320,22400
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.13,Defence Forces built infrastructure: construction and maintenance,62500,67666
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.14,"Defence Forces uniforms, clothing, equipment and catering",22500,21269
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.15,Defence Forces communications and IT,22000,24480
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.16,Military education and training,6450,5249
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.17,Defence Forces logistics and travel,6200,7259
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.18,Defence Forces medical and healthcare support,12850,13107
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.19,Lands,3600,1305
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.20,Equitation,1200,1266
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.21,Litigation and compensation costs,11000,9145
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.22,Miscellaneous expenditure (including dormant accounts funding),8159,8443
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.23,Costs arising directly from Ireland’s participation in the EU Common Security and Defence Policy,15100,13846
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.24,Civil Defence (including dormant accounts funding),6500,6347
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.25,Irish Red Cross Society,1060,1060
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.26,Independent Review Group implementation,8100,8407
+2025,36,Defence,A,"Defence policy and support, military capabilities and operational outputs",A.27,External Oversight Body,1050,620
+2025,37,Social Protection,,Administration,A.1,Administration – pay,391415,390358
+2025,37,Social Protection,,Administration,A.2,Administration – non pay,283980,274463
+2025,37,Social Protection,,Pensions,A.3,State Pension (Non-Contributory),1335864,1335828
+2025,37,Social Protection,,Working Age – Income Supports,A.4,Jobseeker’s Allowance,1764268,1752165
+2025,37,Social Protection,,Working Age – Income Supports,A.5,One Parent Family Payment,754589,755926
+2025,37,Social Protection,,Working Age – Income Supports,A.6,"Widow(er)s’, Surviving Civil Partner’s (Non-Contributory) Pension",12158,12183
+2025,37,Social Protection,,Working Age – Income Supports,A.7,Deserted Wife’s Allowance,333,276
+2025,37,Social Protection,,Working Age – Income Supports,A.8,Basic Supplementary Welfare Allowance Payments,111436,91534
+2025,37,Social Protection,,Working Age – Income Supports,A.9,Farm Assist,47618,47599
+2025,37,Social Protection,,Working Age – Income Supports,A.10,Additional Needs Payments,62111,61135
+2025,37,Social Protection,,Working Age – Income Supports,A.11,Other Working-Age – Income Supports,63853,66663
+2025,37,Social Protection,,Working Age – Income Supports,A.12,Beneficiaries of Temporary Protection Payment,22063,17395
+2025,37,Social Protection,,Working Age – Employment Supports,A.13,Community Employment Programme,386738,385220
+2025,37,Social Protection,,Working Age – Employment Supports,A.14,Rural Social Scheme,50930,50633
+2025,37,Social Protection,,Working Age – Employment Supports,A.15,Tús,85066,84538
+2025,37,Social Protection,,Working Age – Employment Supports,A.16,Job Initiative,8910,8811
+2025,37,Social Protection,,Working Age – Employment Supports,A.17,Back to Work Enterprise Allowance,30007,29608
+2025,37,Social Protection,,Working Age – Employment Supports,A.18,Back to Education Allowance,32032,33500
+2025,37,Social Protection,,Working Age – Employment Supports,A.19,JobsPlus,2523,2546
+2025,37,Social Protection,,Working Age – Employment Supports,A.20,Work Placement Experience Programme,6254,5053
+2025,37,Social Protection,,Working Age – Employment Supports,A.21,Other Working-Age Employment Supports,5685,4824
+2025,37,Social Protection,,Working Age – Employment Supports,A.22,Contracted Public Employment,80000,80082
+2025,37,Social Protection,,Working Age – Employment Supports,A.yy,Covid-19 Temporary Wage Subsidy Scheme (TWSS),100,64
+2025,37,Social Protection,,Working Age – Employment Supports,A.zz,Covid-19 Employment Wage Subsidy Scheme (EWSS),300,132
+2025,37,Social Protection,,"Illness, Disability and Carers",A.23,Disability Allowance,2479840,2477346
+2025,37,Social Protection,,"Illness, Disability and Carers",A.24,Blind Pension,12576,12707
+2025,37,Social Protection,,"Illness, Disability and Carers",A.25,Carer’s Allowance,1299317,1305687
+2025,37,Social Protection,,"Illness, Disability and Carers",A.26,Domiciliary Care Allowance,328551,328719
+2025,37,Social Protection,,"Illness, Disability and Carers",A.27,Carer’s Support Grant,348957,349650
+2025,37,Social Protection,,"Illness, Disability and Carers",A.28,Wage Subsidy Scheme,21742,22109
+2025,37,Social Protection,,"Illness, Disability and Carers",A.29,Disability Activation Supports,26045,22884
+2025,37,Social Protection,,Children,A.30,Child Benefit,2233890,2229349
+2025,37,Social Protection,,Children,A.31,Working Family Payment,472753,467941
+2025,37,Social Protection,,Children,A.32,Back to Work Family Dividend,9502,9757
+2025,37,Social Protection,,Children,A.33,Back to School Clothing and Footwear Allowance,55395,55420
+2025,37,Social Protection,,Children,A.34,School Meals,248960,230029
+2025,37,Social Protection,,Children,A.35,Other Child Related Payments,10916,10985
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.36,Rent Supplement,51961,52246
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.37,Telephone Support Allowance,8875,8918
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.38,Household Benefits Package,107861,107922
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.39,Free Travel,102000,102445
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.40,Fuel Allowance,245542,233168
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.41,Grant to the Citizens Information Board,66543,64991
+2025,37,Social Protection,,"Supplementary Payments, Agencies and Miscellaneous Services",A.43,Miscellaneous services,11881,11776
+2025,38,Health,,Administration,A.1,"Salaries, wages and allowances",56357,54605
+2025,38,Health,,Administration,A.2,Travel and subsistence,800,550
+2025,38,Health,,Administration,A.3,Training and development,770,711
+2025,38,Health,,Administration,A.4,"Operational services, supplies and sundry equipment",1949,1313
+2025,38,Health,,Administration,A.5,Digital capital investment and IT expenses,2560,2130
+2025,38,Health,,Administration,A.6,Premises expenses,1339,1038
+2025,38,Health,,Administration,A.7,"Policy reviews, consultancy services and research",1834,716
+2025,38,Health,,Grants,B.1,Grants to research bodies,58070,56701
+2025,38,Health,,Grants,B.2,Healthy Ireland fund,16969,16617
+2025,38,Health,,Grants,B.3,Drugs initiative,11626,6936
+2025,38,Health,,Other services,C,Expenses re WHO and other international bodies,4703,4816
+2025,38,Health,,Other services,D,Statutory and non-statutory inquiries and miscellaneous legal fees and settlements,11073,4404
+2025,38,Health,,Other services,E.1,"Developmental, consultative, supervisory and advisory bodies",138337,110874
+2025,38,Health,,Other services,E.2,The Food Safety Promotion Board,6335,6333
+2025,38,Health,,Other services,E.3,The National Treatment Purchase Fund,230022,240000
+2025,38,Health,,Other services,E.4,Ireland/Northern Ireland INTERREG,1662,1650
+2025,38,Health,,Other services,F.2,Payments in respect of persons claiming vaccination damage,1,0
+2025,38,Health,,Other services,F.3,Payments to a special account established under Section 10 of the Hepatitis C Compensation Tribunal Acts 1997 and,15500,14374
+2025,38,Health,,Other services,F.4,Payments to a reparation fund established under Section 11 of the Hepatitis C Compensation Tribunal Acts 1997 and 2002,2500,2456
+2025,38,Health,,Other services,G,"Information, conferences and publication for health and health services",3463,3381
+2025,38,Health,,Other services,H,Sláintecare,8300,5548
+2025,38,Health,,Corporate administrative,I,Net pension costs,889531,881027
+2025,38,Health,,HSE health and social care services,J.1,HSE core services – national,2267591,2370102
+2025,38,Health,,Other HSE services,K.1,Health agencies and similar organisations (National Lottery),4513,0
+2025,38,Health,,Other HSE services,K.2,Payments to Special Account – Health (Repayment) Act 2006,1700,0
+2025,38,Health,,Other HSE services,K.3,Payment to special account established under Section 4 of the Hepatitis C Compensation Tribunal (Amendment) Act 2006 – Insurance Scheme,1000,762
+2025,38,Health,,Other HSE services,K.4,Payments to State Claims Agency re clinical negligence,426761,405253
+2025,38,Health,,Other HSE services,K.5,Economic and social disadvantage (dormant account funding),1985,0
+2025,38,Health,,Care programme,L.1,Primary care reimbursement services,4218121,4160000
+2025,38,Health,,Care programme,L.2,Local demand led schemes,379403,385000
+2025,38,Health,,Care programme,L.3,Long term residential care,1254825,1274270
+2025,38,Health,,Capital services,M.1,"Grants in respect of building, equipment (including ICT)",19927,15865
+2025,38,Health,,Capital services,M.2,Building and equipment (health facilities),1194097,1198102
+2025,38,Health,,Capital services,M.3,Information systems for health agencies,620318,623970
+2025,38,Health,,HSE core services — regional health areas,O.1,RHA 1 Dublin and North East,3138260,3113923
+2025,38,Health,,HSE core services — regional health areas,P.1,RHA 2 Dublin and Midlands,3339999,3374206
+2025,38,Health,,HSE core services — regional health areas,Q.1,RHA 3 Dublin and South East,2449909,2447242
+2025,38,Health,,HSE core services — regional health areas,R.1,RHA 4 Mid West,1079302,1101179
+2025,38,Health,,HSE core services — regional health areas,S.1,RHA 5 South West,1844008,1841546
+2025,38,Health,,HSE core services — regional health areas,T.1,RHA 6 West and Northwest,2350078,2306643
+2025,39,Office of Government Procurement,A,Delivery of central procurement service,A.1,Administration – pay,16465,15234
+2025,39,Office of Government Procurement,A,Delivery of central procurement service,A.2,Administration – non pay,1075,724
+2025,39,Office of Government Procurement,A,Delivery of central procurement service,A.3,Procurement consultancy and other costs,3556,2666
+2025,40,"Children, Disability and Equality",A,Children and family support programme,A.1,Administration – pay,5778,5650
+2025,40,"Children, Disability and Equality",A,Children and family support programme,A.2,Administration – non pay,1184,966
+2025,40,"Children, Disability and Equality",A,Children and family support programme,A.3,Child and Family Agency,1135723,1135723
+2025,40,"Children, Disability and Equality",A,Children and family support programme,A.4,Youth justice – including Oberstown Children Detention Campus,31048,31014
+2025,40,"Children, Disability and Equality",A,Children and family support programme,A.5,Guardian ad Litem Executive Office,400,330
+2025,40,"Children, Disability and Equality",A,Children and family support programme,A.6,Child and Family Agency contingency related supports,123847,123846
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.1,Administration – pay,9335,9125
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.2,Administration – non pay,1916,1560
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.3,ECCE and AIM preschool programmes,347108,342466
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.4,National Childcare Scheme and other childcare programmes,533796,524739
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.5,Childcare programmes: delivery supports and other initiatives,465318,450187
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.6,Play and recreation,500,500
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.7,Creative Ireland,225,225
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.8,Economic and social disadvantage measures (Dormant Accounts funded),5484,5262
+2025,40,"Children, Disability and Equality",B,Sectoral programmes for children and young people,B.10,Early Learning and Care/ School Age Childcare contingency supports,12392,11530
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.1,Administration – pay,17778,17382
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.2,Administration – non pay,3647,2971
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.3,Miscellaneous legal fees and settlements,1143,1256
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.4,"Research, data and analytics",2150,2058
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.5,Children and young people’s policy framework and other programmes,12358,11978
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.6,Adoption Authority of Ireland,7247,6996
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.7,Office of the Ombudsman for Children,5026,5026
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.8,Response to legacy of mother and baby institutions,14743,10213
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.9,Mother and Baby Institutions Payment Scheme,34890,32373
+2025,40,"Children, Disability and Equality",C,Policy and legislation programme,C.10,Magdalen Fund,50,36
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.1,Administration – pay,11555,11299
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.2,Administration – non pay,2371,1931
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.3,National Disability Authority,7501,7333
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.5,Grants to national women’s organisations,720,720
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.6,Traveller and Roma initiatives,6500,6025
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.7,Positive action for gender equality,5500,4723
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.8,Equality and LGBTI initiatives,1850,1813
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.9,Decision Support Service,10438,10438
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.10,Disability equality,6418,4437
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.11,Specialist disability services,3488369,3488209
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.12,Specialist disability services Covid-19,18028,18028
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.13,Farrelly Commission of Investigation,2000,2555
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.14,Disability programmes and regulatory bodies,6866,6096
+2025,40,"Children, Disability and Equality",D,An equal and inclusive society,D.15,Payments in respect of Thalidomide,370,341
+2025,41,An tÚdaras Póilíneachta agus Sábháilteachta Pobail,,,A,Provision of independent oversight and inspection of the policing functions of An Garda Síochána,6284,4572
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.1,Administration - pay,8674,9991
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.2,Administration – non pay,1112,1305
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.3,Western Development Commission,2858,2977
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.4,Rural supports,61032,58582
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.5,LEADER – rural economy sub programme,27000,23098
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.6,Rural regeneration and development,96000,95465
+2025,42,Rural and Community Development and the Gaeltacht,A,Rural Development and Regional Affairs,A.7,Islands,16039,16754
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.1,Administration – pay,5953,6477
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.2,Administration – non pay,927,768
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.3,Supports for community and voluntary sector (part funded by the National Lottery),23872,23767
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.4,"SICAP, local/regional development supports (part funded by the National Lottery)",72475,71974
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.5,Local community development committees (support),3405,3202
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.6,Supports for disadvantaged communities,7500,7500
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.7,Dormant account measures,11570,10543
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.8,Programme for Peace and Reconciliation,7337,9737
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.9,Water Safety Ireland,2492,2492
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.10,Library development and archive service,8101,5352
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.11,Community Enhancement Programme,22001,10000
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.12,Community Services Programme,55400,58100
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.13,ESF social innovation supports,3500,3500
+2025,42,Rural and Community Development and the Gaeltacht,B,Community Development,B.14,Ukraine supports – community fund,25000,22000
+2025,42,Rural and Community Development and the Gaeltacht,C,Charities Regulatory Authority,C.1,Administration – pay,76,142
+2025,42,Rural and Community Development and the Gaeltacht,C,Charities Regulatory Authority,C.2,Administration − non pay,32,18
+2025,42,Rural and Community Development and the Gaeltacht,C,Charities Regulatory Authority,C.3,Charities Regulatory Authority,5943,5749
+2025,42,Rural and Community Development and the Gaeltacht,C,Charities Regulatory Authority,C.4,Charities Appeal Tribunal,25,13
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.1,Administration – pay,7607,3342
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.2,Administration – non pay,1811,360
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.3,Gaeltacht support schemes,13584,12289
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.4,Irish language support schemes (part funded by National Lottery),14750,11240
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.5,An Coimisinéar Teanga,1677,1637
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.6,Údarás na Gaeltachta - administration,16453,16453
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.7,Údarás na Gaeltachta – current programme expenditure,7000,7000
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.8,Údarás na Gaeltachta – grants for projects and capital expenditure,16404,17554
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.9,Cross border cooperation/ comhoibriú thuaidh theas,20744,19200
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.10,Language planning process,7400,8810
+2025,42,Rural and Community Development and the Gaeltacht,D,Gaeltacht,D.11,Tionscnaimh seirbhíse poiblí/public service initiatives,1500,659
+2025,43,Office of the Government Chief Information Officer,A,Government ICT services,A.1,Administration – pay,8700,7977
+2025,43,Office of the Government Chief Information Officer,A,Government ICT services,A.2,Administration – non pay,1838,1550
+2025,43,Office of the Government Chief Information Officer,A,Government ICT services,A.3,Government ICT services,31653,31131
+2025,43,Office of the Government Chief Information Officer,A,Government ICT services,A.4,Public Service Transformation Fund,11400,10787
+2025,43,Office of the Government Chief Information Officer,A,Government ICT services,A.5,Data centre,5000,2668
+2025,44,Data Protection Commission,,,A,Data Protection Regulation,29411,27166
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.1,Administration – pay,10097,9279
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.2,Administration – non pay,1089,1248
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.3,"SOLAS admin, capital and general expenses",30082,29839
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.4,European Social Fund (ESF) and European Globalisation Adjustment Fund (EGF) enterprise supports,600,254
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.5,Grants to SOLAS in respect of further education and training activities,576799,562492
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.6,Grant to Quality and Qualifications Ireland (QQI),8683,8683
+2025,45,"Further and Higher Education, Research, Innovation and Science",A,Skills development,A.7,"Superannuation for former ETB (further education), FÁS, SOLAS and AnCO staff",36599,36599
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.1,Administration – pay,11558,11165
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.2,Administration – non pay,1260,1502
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.3,Grants for general expenses of the Higher Education Authority,18154,18037
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.4,"General current grants to universities, institutes of technology and other designated institutions of higher education",1547309,1556309
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.5,Shared services,42751,39135
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.6,Dublin Dental Hospital (grant),16439,16434
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.7,Dublin Institute for Advanced Studies (grant),9747,9747
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.8,Royal Irish Academy of Music (grant),4997,4997
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.9,Grants to certain third level institutions,9444,8544
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.10,Superannuation for former staff of universities and institutes of technology,300050,299194
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.11,Student supports and related expenses,401251,404052
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.12,Public private partnership costs,63981,64200
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.13,"EU, international, north/south activities",16799,15941
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.14,Grangegorman Development Agency,5226,4555
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.15,Miscellaneous grants and services,7307,6051
+2025,45,"Further and Higher Education, Research, Innovation and Science",B,Higher education,B.16,Third level infrastructure,164696,171606
+2025,45,"Further and Higher Education, Research, Innovation and Science",C,"Research, innovation and science",C.1,Administration – pay,3073,2581
+2025,45,"Further and Higher Education, Research, Innovation and Science",C,"Research, innovation and science",C.2,Administration – non pay,327,347
+2025,45,"Further and Higher Education, Research, Innovation and Science",C,"Research, innovation and science",C.3,Science and technology development programme,330328,330327
+2025,45,"Further and Higher Education, Research, Innovation and Science",C,"Research, innovation and science",C.4,Programme for research in third level institutions,44142,46541
+2025,45,"Further and Higher Education, Research, Innovation and Science",C,"Research, innovation and science",C.5,Subscriptions to international organisations,15152,12625
+2025,45,"Further and Higher Education, Research, Innovation and Science",C,"Research, innovation and science",C.6,Legal costs and other services (including Global Science Forum),50,6
+2025,46,Fiosrú,,,A,Fiosrú,21118,19261
