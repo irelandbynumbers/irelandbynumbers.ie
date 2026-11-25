@@ -1,0 +1,43 @@
+date,region,hospital,ed_trolleys,ward_trolleys,total
+2026-11-25,HSE Dublin & Midlands,CHI at Crumlin,0,0,0
+2026-11-25,HSE Dublin & Midlands,CHI at Tallaght,0,0,0
+2026-11-25,HSE Dublin & Midlands,CHI at Temple Street,3,0,3
+2026-11-25,HSE Dublin & Midlands,MRH Mullingar,8,0,8
+2026-11-25,HSE Dublin & Midlands,MRH Portlaoise,9,0,9
+2026-11-25,HSE Dublin & Midlands,MRH Tullamore,0,0,0
+2026-11-25,HSE Dublin & Midlands,Naas General Hospital,16,0,16
+2026-11-25,HSE Dublin & Midlands,St. James's Hospital,20,0,20
+2026-11-25,HSE Dublin & Midlands,St. Luke's Radiation Oncology Network,,,
+2026-11-25,HSE Dublin & Midlands,Tallaght University Hospital,24,8,32
+2026-11-25,HSE Dublin & North East,Beaumont Hospital,12,0,12
+2026-11-25,HSE Dublin & North East,Cavan General Hospital,5,0,5
+2026-11-25,HSE Dublin & North East,Connolly Hospital,1,0,1
+2026-11-25,HSE Dublin & North East,Louth County Hospital,,,
+2026-11-25,HSE Dublin & North East,Mater Misericordiae University Hospital,12,0,12
+2026-11-25,HSE Dublin & North East,National Orthopaedic Hospital Cappagh,,,
+2026-11-25,HSE Dublin & North East,Our Lady of Lourdes Hospital,0,0,0
+2026-11-25,HSE Dublin & North East,Our Lady's Hospital Navan,0,0,0
+2026-11-25,HSE Dublin & South East,National Rehabilitation Hospital,,,
+2026-11-25,HSE Dublin & South East,St Luke's General Hospital Kilkenny,13,13,26
+2026-11-25,HSE Dublin & South East,St. Columcille's Hospital,,,
+2026-11-25,HSE Dublin & South East,St. Michael's Hospital,,,
+2026-11-25,HSE Dublin & South East,St. Vincent's University Hospital,40,15,55
+2026-11-25,HSE Dublin & South East,Tipperary University Hospital,14,0,14
+2026-11-25,HSE Dublin & South East,UH Waterford,0,0,0
+2026-11-25,HSE Dublin & South East,Wexford General Hospital,2,8,10
+2026-11-25,HSE Mid West,Ennis Hospital,,,
+2026-11-25,HSE Mid West,Nenagh Hospital,,,
+2026-11-25,HSE Mid West,St. John's Hospital Limerick,,,
+2026-11-25,HSE Mid West,UH Limerick,2,22,24
+2026-11-25,HSE South West,Bantry General Hospital,,,
+2026-11-25,HSE South West,Cork University Hospital,35,19,54
+2026-11-25,HSE South West,Mallow General Hospital,,,
+2026-11-25,HSE South West,Mercy University Hospital,31,5,36
+2026-11-25,HSE South West,South Infirmary Victoria University Hospital,,,
+2026-11-25,HSE South West,UH Kerry,5,0,5
+2026-11-25,HSE West & North West,Galway University Hospital,20,22,42
+2026-11-25,HSE West & North West,Letterkenny University Hospital,15,8,23
+2026-11-25,HSE West & North West,Mayo University Hospital,6,11,17
+2026-11-25,HSE West & North West,Portiuncula University Hospital,0,0,0
+2026-11-25,HSE West & North West,Roscommon University Hospital,,,
+2026-11-25,HSE West & North West,Sligo University Hospital,14,13,27

@@ -90,6 +90,7 @@
 - [Spending on health care](/charts/health-spending.html). Current spending on health care in Ireland, by the State and by households and insurers, € billion, 2000 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-spending.csv)
 - [Health spending across the EU](/charts/health-spending-eu.html). Current spending on health care per person, public and private, adjusted for price levels, EU countries, 2024. *Eurostat.* [CSV](/charts/health-spending-eu.csv)
 - [Patients waiting on trolleys](/charts/health-trolleys.html). Average number of admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, by month, January 2016 to December 2025. *Central Statistics Office (CSO).* [CSV](/charts/health-trolleys.csv)
+- [Patients on trolleys, day by day](/charts/health-trolleys-daily.html). Admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, for the most recent year available. *Central Statistics Office (CSO); Health Service Executive.* [CSV](/charts/health-trolleys-daily.csv)
 
 ## [Environment and climate](/environment/)
 

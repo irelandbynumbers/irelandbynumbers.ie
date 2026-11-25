@@ -7,6 +7,8 @@ New charts, topics and features are listed here, newest first. Corrections are l
 
 ## Changes to the site
 
+**25 November 2026.** A new chart of [patients on trolleys day by day](health/health-service.qmd), and a comparison of hospital beds with the rest of the EU. The site now saves the HSE's daily 8am trolley count each morning, because the official CSO series is published months later.
+
 **17 November 2026.** A new [Childcare and family leave](childcare/index.qmd) topic, covering [the childcare gap](childcare/gap.qmd), [use of childcare](childcare/use.qmd), [childcare costs](childcare/costs.qmd) and [family leave](childcare/leave.qmd), with comparisons with Northern Ireland and the EU. A new [Gender-based violence](gender/violence.qmd) page in the Gender equality topic, and a new [Deprivation by area](poverty/deprivation.qmd) page in Poverty and inequality, using the Pobal HP Deprivation Index.
 
 **17 November 2026.** A new [Elections and trust](elections/index.qmd) topic, covering [turnout](elections/turnout.qmd), [trust in institutions](elections/trust.qmd) and [views on elections](elections/views.qmd).

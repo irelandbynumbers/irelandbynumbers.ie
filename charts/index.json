@@ -1724,6 +1724,37 @@
   "checked": "2026-11-25"
  },
  {
+  "id": "health-trolleys-daily",
+  "topic": "health",
+  "title": "Patients on trolleys, day by day",
+  "subtitle": "Admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, for the most recent year available.",
+  "kind": "chart",
+  "page": "/charts/health-trolleys-daily.html",
+  "csv": "/charts/health-trolleys-daily.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Admitted Patients Waiting on Trolleys in Public Acute Hospital Eds at 8 am (KTA02)",
+    "url": "https://data.cso.ie/table/KTA02",
+    "licence": "CC BY 4.0",
+    "code": "KTA02",
+    "updated": "2026-06-05",
+    "checked": "2026-11-25"
+   },
+   {
+    "publisher": "Health Service Executive",
+    "title": "TrolleyGAR daily report, Urgent and Emergency Care",
+    "url": "https://uec.hse.ie/uec/TGAR.php",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "On 31 December 2025, 127 admitted patients were waiting on trolleys in emergency departments at 8am.",
+  "listed": true,
+  "updated": "2026-06-05",
+  "checked": "2026-11-25"
+ },
+ {
   "id": "environment-emissions-by-sector",
   "topic": "environment",
   "title": "Greenhouse gas emissions by sector",
