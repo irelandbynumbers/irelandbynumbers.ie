@@ -20,6 +20,8 @@ def build():
     revenue()
     tax_trends()
     spending()
+    flows()
+    by_purpose()
     balance()
     debt()
     eu_comparisons()
@@ -205,3 +207,242 @@ def eu_comparisons():
                "Ireland's debt looks smaller here than it is relative to the incomes of people in Ireland. Measured "
                "against GNI*, Ireland's debt is much higher; see the chart of government debt above."],
         value_format=".0f", suffix="%")
+
+
+# Spending by purpose, from the EU's classification of the functions of government (COFOG).
+# Plainer names for the ten areas, and for the sub-areas whose official names are hard to follow.
+AREAS = {
+    "GF01": "Government and debt interest", "GF02": "Defence", "GF03": "Police, courts and prisons",
+    "GF04": "Transport and the economy", "GF05": "Environment", "GF06": "Housing and water",
+    "GF07": "Health", "GF08": "Culture and sport", "GF09": "Education",
+    "GF10": "Social protection",
+}
+SUB_AREAS = {
+    "GF0101": "Government, tax collection and foreign affairs", "GF0103": "General services of government",
+    "GF0104": "Basic research", "GF0107": "Interest on government debt",
+    "GF0108": "Transfers between levels of government", "GF0302": "Fire services",
+    "GF0401": "Business, trade and employment supports", "GF0402": "Agriculture, forestry and fishing",
+    "GF0403": "Fuel and energy", "GF0404": "Mining, manufacturing and construction",
+    "GF0601": "Housing development", "GF0603": "Water supply",
+    "GF0701": "Medicines and medical equipment", "GF0702": "GP, dental and other outpatient services",
+    "GF0703": "Hospitals", "GF0704": "Public health services",
+    "GF0801": "Sport and recreation", "GF0803": "Broadcasting and publishing", "GF0804": "Religious and community services",
+    "GF0901": "Pre-primary and primary schools", "GF0902": "Secondary schools",
+    "GF0903": "Further education", "GF0904": "Third level", "GF0906": "School transport, meals and other services",
+    "GF1001": "Illness and disability", "GF1002": "Old age, including pensions", "GF1003": "Widows, widowers and other survivors",
+    "GF1004": "Families and children", "GF1005": "Unemployment", "GF1006": "Housing supports, such as rent supports",
+    "GF1007": "Other help for people on low incomes",
+}
+COFOG_NOTE = ("Spending by purpose follows the EU's classification of the functions of government (COFOG). Eurostat "
+              "last revised this breakdown before the CSO's latest totals, so each area has been scaled by the same "
+              "small amount so that the areas add up to the CSO's total spending for the year. The adjustment is "
+              "{adj} or less in every year shown.")
+POOLED_NOTE = ("Taxes and other revenue go into a common pool rather than being set aside for particular services, so "
+               "the chart shows totals in and out, not which tax pays for which service. The main exception is "
+               "PRSI, which is paid into the Social Insurance Fund and pays for State pensions and other social "
+               "insurance benefits. That fund is part of general government, so it is included in both sides.")
+
+
+def _sub_label(code, label):
+    if code in SUB_AREAS:
+        return SUB_AREAS[code]
+    label = label.replace(" n.e.c.", ", other")
+    return label[0].upper() + label[1:]
+
+
+def _cofog():
+    """COFOG spending by area and sub-area, € million, scaled to the CSO's total spending for each year.
+    Returns the rows and the largest scaling adjustment, in percent."""
+    df = eurostat.fetch("gov_10a_exp", name="gov_cofog_ie", geo="IE", sector="S13", na_item="TE", unit="MIO_EUR")
+    df = df[df.time >= 2000]
+    te = _item(cso.fetch("GFA04"), "Code (TE)").set_index("Year").VALUE
+    rows, adj = [], 0.0
+    for year, y in df.groupby("time"):
+        total = float(y[y.cofog99 == "TOTAL"].value.iloc[0])
+        factor = float(te.loc[year]) / total
+        adj = max(adj, abs(factor - 1) * 100)
+        for _, r in y[y.cofog99.str.len() == 6].iterrows():
+            rows.append(dict(Year=int(year), area_code=r.cofog99[:4], area=AREAS[r.cofog99[:4]],
+                             sub_area_code=r.cofog99, sub_area=_sub_label(r.cofog99, r.cofog99_label),
+                             euro_million=round(r.value * factor, 1)))
+    d = pd.DataFrame(rows)
+    # Each area's sub-areas should add up to the area as published.
+    areas = df[df.cofog99.str.len() == 4].groupby(["time", "cofog99"]).value.sum()
+    subs = df[df.cofog99.str.len() == 6].assign(a=lambda x: x.cofog99.str[:4]).groupby(["time", "a"]).value.sum()
+    assert (areas.values - subs.reindex(areas.index).values).__abs__().max() < 5, "COFOG sub-areas should add up"
+    return d, adj
+
+
+def _revenue_by_source():
+    """General government revenue by source, € million, for every year, as in the revenue chart."""
+    df = cso.fetch("GFA03")
+    out = []
+    for year, y in df.groupby("Year"):
+        v = lambda code: float(_item(y, code).VALUE.iloc[0])
+        total, taxes = v("Code (TR)"), v("Code (D2 + D5 + D91)")
+        income, corporation, vat = v("Income tax"), v("Corporation tax"), v("Code (D211)")
+        social = v("Total Social contributions")
+        for source, value in [("Income tax and USC", income), ("PRSI", social),
+                              ("VAT", vat), ("Corporation tax", corporation),
+                              ("Other taxes", taxes - income - corporation - vat),
+                              ("Other revenue", total - taxes - social)]:
+            out.append(dict(Year=int(year), source=source, euro_million=value))
+    return pd.DataFrame(out)
+
+
+def flows():
+    """Money in, by source, and money out, by purpose, as a flow chart with a year slider."""
+    cofog, adj = _cofog()
+    rev = _revenue_by_source()
+    balance = cso.fetch("GFA10")
+    balance = balance[balance.UNIT == "Euro Million"].set_index("Year").VALUE
+    years = sorted(set(cofog.Year) & set(rev.Year))
+    sources = list(rev.source.unique())
+    rows = []
+    for year in years:
+        r = rev[rev.Year == year]
+        s = cofog[cofog.Year == year].groupby("area").euro_million.sum().sort_values(ascending=False)
+        inflow, outflow = r.euro_million.sum(), s.sum()
+        assert abs((inflow - outflow) - float(balance.loc[year])) < 5, f"revenue less spending should equal the balance in {year}"
+        for _, x in r.iterrows():
+            rows.append(dict(Year=year, direction="in", item=x.source, euro_million=round(x.euro_million, 1)))
+        if inflow < outflow:
+            rows.append(dict(Year=year, direction="in", item="Borrowing", euro_million=round(outflow - inflow, 1)))
+        for area, value in s.items():
+            rows.append(dict(Year=year, direction="out", item=area, euro_million=round(value, 1)))
+        if inflow > outflow:
+            rows.append(dict(Year=year, direction="out", item="Surplus", euro_million=round(inflow - outflow, 1)))
+    d = pd.DataFrame(rows)
+    d["euro_billion"] = (d.euro_million / 1000).round(1)
+
+    in_colour = {s: style.BLUE for s in sources} | {"Borrowing": style.RED}
+    out_colour = {"Surplus": style.AQUA}
+    POOL = "Public money"
+
+    def rgba(hex_, a):
+        h = hex_.lstrip("#")
+        return f"rgba({int(h[0:2], 16)},{int(h[2:4], 16)},{int(h[4:6], 16)},{a})"
+
+    def trace(year):
+        y = d[d.Year == year]
+        ins, outs = y[y.direction == "in"], y[y.direction == "out"]
+        total_in = ins.euro_million.sum()
+        labels = [f"{i} €{v:.1f}bn" for i, v in zip(ins.item, ins.euro_billion)]
+        labels += [f"{POOL} €{total_in / 1000:.0f}bn"]
+        labels += [f"{i} €{v:.1f}bn" for i, v in zip(outs.item, outs.euro_billion)]
+        n_in, pool = len(ins), len(ins)
+        colours = [in_colour[i] for i in ins.item] + [style.INK_2] + [out_colour.get(i, style.ORANGE) for i in outs.item]
+        share = lambda v: v / total_in * 100
+        return go.Sankey(
+            arrangement="fixed", valueformat=".1f", valuesuffix="bn",
+            textfont=dict(family=style.FONT, size=12, color=style.INK),
+            node=dict(label=labels, color=colours, pad=10, thickness=14, line=dict(width=0),
+                      customdata=[f"€{v:.1f} billion" for v in list(ins.euro_billion) + [round(total_in / 1000, 1)] + list(outs.euro_billion)],
+                      hovertemplate="%{customdata}<extra></extra>"),
+            link=dict(source=list(range(n_in)) + [pool] * len(outs),
+                      target=[pool] * n_in + list(range(n_in + 1, n_in + 1 + len(outs))),
+                      value=list(ins.euro_billion) + list(outs.euro_billion),
+                      color=[rgba(in_colour[i], 0.35) for i in ins.item] + [rgba(out_colour.get(i, style.ORANGE), 0.3) for i in outs.item],
+                      customdata=[f"<b>{i}</b><br>€{v:.1f} billion, {share(m):.0f}% of the total"
+                                  for i, v, m in zip(list(ins.item) + list(outs.item),
+                                                     list(ins.euro_billion) + list(outs.euro_billion),
+                                                     list(ins.euro_million) + list(outs.euro_million))],
+                      hovertemplate="%{customdata}<extra></extra>"),
+        )
+
+    latest = years[-1]
+    fig = go.Figure(data=[trace(latest)])
+    fig.frames = [go.Frame(name=str(y), data=[trace(y)]) for y in years]
+    fig.update_layout(style.base_layout(margin=dict(l=8, r=8, t=8, b=70), sliders=[dict(
+        active=len(years) - 1, x=0.05, len=0.9, y=0, yanchor="top", pad=dict(t=10, b=0),
+        currentvalue=dict(prefix="", font=dict(size=14, color=style.INK)),
+        font=dict(color=style.INK_3, size=11), bgcolor=style.LAND, bordercolor=style.GRID, activebgcolor=style.BLUE,
+        steps=[dict(label=str(y), method="animate",
+                    args=[[str(y)], dict(mode="immediate", frame=dict(duration=0, redraw=True), transition=dict(duration=0))])
+               for y in years])]))
+
+    y = d[d.Year == latest]
+    total_in = y[y.direction == "in"].euro_million.sum()
+    outs = y[(y.direction == "out") & (y.item != "Surplus")].sort_values("euro_million", ascending=False)
+    first, second = outs.iloc[0], outs.iloc[1]
+    surplus = y[y.item == "Surplus"].euro_billion
+    tail = (f" This left a surplus of €{surplus.iloc[0]:.1f} billion."
+            if len(surplus) else "")
+    Chart(
+        id="public-finances-flows", topic=TOPIC, height=640,
+        title="Money in and money out",
+        subtitle=f"General government revenue by source and spending by purpose, € billion, {years[0]} to {latest}. "
+                 "Use the slider to choose a year.",
+        sources=[Source.cso("GFA03", "General Government: Detailed classification of revenue and output"),
+                 Source.cso("GFA04", "General Government: Detailed classification of expenditure and consumption"),
+                 Source.cso("GFA10", "General Government Surplus/Deficit ESA2010"),
+                 Source.eurostat("gov_10a_exp", "General government expenditure by function (COFOG)", name="gov_cofog_ie")],
+        notes=[GG_NOTE, POOLED_NOTE,
+               "In years when the State spends more than it raises, the gap is shown as borrowing. In years when it raises "
+               "more than it spends, the difference is shown as a surplus. The surplus in 2024 includes a once-off "
+               "payment of tax owed by Apple, following a ruling of the Court of Justice of the European Union. Borrowing in "
+               "2010 includes the cost of supporting the banks, which is counted under transport and the economy.",
+               COFOG_NOTE.format(adj=f"{adj:.1f}%"),
+               "Income tax includes the Universal Social Charge. Social protection covers pensions, jobseeker and "
+               "disability payments, child benefit and housing supports. Government and debt interest covers running "
+               "departments, collecting taxes, foreign affairs and interest on government debt. Transport and the economy "
+               "covers roads and public transport, farming, energy, research and supports for business and employment. "
+               "PRSI includes other social contributions, such as those paid by public servants towards their pensions.",
+               NOMINAL],
+        key_fact=f"In {latest}, €{total_in / 1000:.0f} billion came in. The largest areas of spending were "
+                 f"{first['item'].lower()}, at €{first.euro_billion:.1f} billion, and {second['item'].lower()}, at "
+                 f"€{second.euro_billion:.1f} billion.{tail}",
+        data=d[["Year", "direction", "item", "euro_million", "euro_billion"]], figure=fig,
+    ).write()
+
+
+def by_purpose():
+    """Spending in the latest year as a treemap, from ten areas down to sub-areas."""
+    cofog, adj = _cofog()
+    year = int(cofog.Year.max())
+    d = cofog[(cofog.Year == year) & (cofog.euro_million > 0)].copy()
+    pop = cso.fetch("PEA01")
+    pop = pop[(pop["Age Group"] == "All ages") & (pop["Sex"] == "Both sexes")].set_index("Year").VALUE * 1000
+    people = float(pop.loc[year])
+    total = d.euro_million.sum()
+    d["euro_billion"] = (d.euro_million / 1000).round(2)
+    d["percent"] = (d.euro_million / total * 100).round(1)
+    d["euro_per_person"] = (d.euro_million * 1e6 / people).round(0).astype(int)
+    d = d.sort_values(["area", "euro_million"], ascending=[True, False])
+
+    areas = d.groupby("area").euro_million.sum().sort_values(ascending=False)
+    colour = {a: style.SLOTS[i % len(style.SLOTS)] for i, a in enumerate(areas.index)}
+    ROOT = "All spending"
+    ids = [ROOT] + list(areas.index) + [f"{a}/{s}" for a, s in zip(d.area, d.sub_area)]
+    labels = [ROOT] + list(areas.index) + list(d.sub_area)
+    parents = [""] + [ROOT] * len(areas) + list(d.area)
+    values = [total] + list(areas.values) + list(d.euro_million)
+    colours = [style.SURFACE] + [colour[a] for a in areas.index] + [colour[a] for a in d.area]
+    custom = [[v / 1000, v / total * 100, v * 1e6 / people] for v in values]
+    fig = go.Figure(go.Treemap(
+        ids=ids, labels=labels, parents=parents, values=values, branchvalues="total", maxdepth=2,
+        marker=dict(colors=colours, line=dict(color=style.SURFACE, width=1.5)),
+        customdata=custom, texttemplate="<b>%{label}</b><br>€%{customdata[0]:.1f}bn", textfont=dict(family=style.FONT),
+        hovertemplate="<b>%{label}</b><br>€%{customdata[0]:.2f} billion, %{customdata[1]:.1f}% of all spending"
+                      "<br>About €%{customdata[2]:,.0f} per person<extra></extra>",
+        pathbar=dict(visible=True, textfont=dict(family=style.FONT, size=13)), tiling=dict(pad=2),
+        root=dict(color=style.SURFACE)))
+    fig.update_layout(style.base_layout(margin=dict(l=0, r=0, t=28, b=0)))
+
+    health = areas.get("Health", 0)
+    Chart(
+        id="public-finances-by-purpose", topic=TOPIC, height=600,
+        title="What public money is spent on",
+        subtitle=f"General government spending by purpose, € billion, {year}. Select an area to see what it is made up of.",
+        sources=[Source.eurostat("gov_10a_exp", "General government expenditure by function (COFOG)", name="gov_cofog_ie"),
+                 Source.cso("GFA04", "General Government: Detailed classification of expenditure and consumption"),
+                 Source.cso("PEA01", "Population Estimates (Persons in April)")],
+        notes=[GG_NOTE, COFOG_NOTE.format(adj=f"{adj:.1f}%"),
+               "Spending per person divides each amount by the estimated population in April of the same year.",
+               "Some spending is counted under its purpose rather than the department that pays it. For example, rent "
+               "supports appear under social protection, and school transport under education."],
+        key_fact=f"Public spending in {year} came to about €{total * 1e6 / people:,.0f} for every person living in "
+                 f"the State, including €{health * 1e6 / people:,.0f} on health.",
+        data=d[["Year", "area", "sub_area", "sub_area_code", "euro_million", "euro_billion", "percent", "euro_per_person"]],
+        figure=fig,
+    ).write()

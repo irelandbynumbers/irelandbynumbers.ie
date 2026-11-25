@@ -109,6 +109,16 @@ if (card) {
 }
 const gd = document.getElementById("plot");
 if (card) gd.style.height = (630 - gd.getBoundingClientRect().top - 52) + "px";
+// Flow charts on a narrow screen: names only, so the labels do not overlap. Amounts show on tap.
+if (gd.clientWidth < 640) {
+  [FIG.data].concat((FIG.frames || []).map((f) => f.data)).forEach((traces) => traces.forEach((t) => {
+    if (t.type !== "sankey" || !t.node || !t.node.label) return;
+    // A node with flows both in and out sits in the middle, where its label would cover the others.
+    const middle = (i) => t.link.source.includes(i) && t.link.target.includes(i);
+    t.node.label = t.node.label.map((l, i) => middle(i) ? "" : l.replace(/ €[\d.,]+bn$/, ""));
+    t.textfont = Object.assign({}, t.textfont, {size: 11});
+  }));
+}
 Plotly.newPlot(gd, FIG.data, FIG.layout, CONFIG).then(() => {
   if (FIG.frames && FIG.frames.length) Plotly.addFrames(gd, FIG.frames);
 });

@@ -106,8 +106,10 @@
 ## [Public finances](/public-finances/)
 
 - [Government surplus or deficit](/charts/public-finances-balance.html). General government surplus (above zero) or deficit (below zero), € billion, 1995 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-balance.csv)
+- [What public money is spent on](/charts/public-finances-by-purpose.html). General government spending by purpose, € billion, 2024. Select an area to see what it is made up of. *Eurostat; Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/public-finances-by-purpose.csv)
 - [Government debt](/charts/public-finances-debt.html). Gross general government debt at the end of each year, € billion, 2000 to 2025. *Central Statistics Office (CSO); Central Statistics Office (CSO).* [CSV](/charts/public-finances-debt.csv)
 - [Government debt across the EU](/charts/public-finances-debt-eu.html). Gross general government debt, % of GDP, EU countries, 2025. *Eurostat.* [CSV](/charts/public-finances-debt-eu.csv)
+- [Money in and money out](/charts/public-finances-flows.html). General government revenue by source and spending by purpose, € billion, 2000 to 2024. Use the slider to choose a year. *Central Statistics Office (CSO); Central Statistics Office (CSO); Central Statistics Office (CSO); Eurostat.* [CSV](/charts/public-finances-flows.csv)
 - [Where the State's money comes from](/charts/public-finances-revenue.html). General government revenue by source, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-revenue.csv)
 - [What the State spends money on](/charts/public-finances-spending.html). General government spending by type, € billion, 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-spending.csv)
 - [The three biggest taxes](/charts/public-finances-tax-trends.html). Revenue from income tax, corporation tax and VAT, € billion, 2000 to 2025. *Central Statistics Office (CSO).* [CSV](/charts/public-finances-tax-trends.csv)
