@@ -50,7 +50,7 @@
 .eco-map { display: block; width: 100%; height: auto; }
 
 .eco-ring { fill: none; stroke: #d9d7d0; stroke-width: 1; }
-.eco-link { fill: none; opacity: 0.8; transition: opacity 0.15s; }
+.eco-link { fill: none; opacity: 0.7; transition: opacity 0.15s; }
 .eco-link.is-faded { opacity: 0.07; }
 .eco-link.is-hot { opacity: 1; }
 

@@ -37,4 +37,4 @@ Research funding is money for research, for example from Research Ireland or the
 
 ## About this map
 
-This is a working draft. It is redrawn from a map of the Irish evidence-policy ecosystem built with the Participatory System Mapper, and the groups and organisations follow that map. Some links in the original could not be traced with confidence and are left out until they are checked. The organisations, links and figures are kept in plain data files ([organisations](nodes.csv), [links](links.csv), [figures](stats.csv)) so the map can be corrected and extended.
+This is a working draft. It is redrawn from a map of the Irish evidence-policy ecosystem built with the Participatory System Mapper, and every organisation and link is taken directly from that map. Names have been written out in full where the original used abbreviations. The organisations, links and figures are kept in plain data files ([organisations](nodes.csv), [links](links.csv), [figures](stats.csv)) so the map can be corrected and extended.

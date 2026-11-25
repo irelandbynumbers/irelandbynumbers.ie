@@ -6,4 +6,5 @@ The page `index.qmd` draws an interactive network from the CSV files in this fol
 - `links.csv` lists the links. `type` is `funding`, `demand`, `supply` or `synthesis`. Set `both_ways` to `yes` for a link with arrows at both ends.
 - `layout.csv` gives the position of each hub and stand-alone node on a 1300 by 1110 canvas, the radius of each hub's ring, and where its label sits (`above`, `below`, `left` or `right`). Members are spread evenly around their hub automatically.
 - `stats.csv` holds figures to attach to any organisation or group. Each row has a `node_id` from `nodes.csv`, a `label`, a `value`, an optional `unit` and `year`, and a source. All rows for an organisation appear under "Figures" when it is selected.
-- `links-to-check.csv` lists links seen in the original Participatory System Mapper map that could not be traced with confidence from screenshots. They are not drawn. Once confirmed, move them into `links.csv`.
+
+`nodes.csv` and `links.csv` were exported from the Participatory System Mapper room for this map. PRSM's four link styles map to `funding`, `demand`, `supply` and `synthesis`, and pairs of links running both ways between the same two nodes are stored once with `both_ways` set to `yes`. Members are placed in the same order around each ring as in PRSM.
