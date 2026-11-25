@@ -20,6 +20,7 @@ def build():
     outpatient_waits()
     spending()
     eu_comparisons()
+    hospital_beds_eu()
     ni_comparisons()
 
 
@@ -242,6 +243,23 @@ def eu_comparisons():
         notes=["Figures are in purchasing power standards (PPS), an artificial currency that adjusts for differences in "
                "price levels between countries, so the amounts are not euro. Covers spending by the State, health "
                "insurance and people themselves, but not investment in buildings and equipment."],
+        value_format=",.0f")
+
+
+def hospital_beds_eu():
+    df = eurostat.fetch("hlth_rs_bds1", name="hospital_beds", geo=EU_GEO)
+    df = df[(df.unit == "P_HTHAB") & (df.facility == "HBEDT") & (df.hlthcare == "TOTAL")]
+    eu.rank_chart(
+        "health-hospital-beds-eu", TOPIC, "Hospital beds across the EU",
+        "Hospital beds per 100,000 people, all types of care, EU countries, {year}.",
+        Source.eurostat("hlth_rs_bds1", "Hospital beds by type of care and healthcare provider", name="hospital_beds"),
+        df,
+        lambda y, ie, ev, place: f"In {y}, Ireland had {ie:.0f} hospital beds per 100,000 people, compared with "
+                                 f"{ev:.0f} across the EU. Ireland's figure was {place}.",
+        notes=["Counts beds that are staffed and available in public and private hospitals, including beds for acute, "
+               "rehabilitation, long-term and psychiatric care. Beds in nursing homes are not included.",
+               "Countries organise care differently. Some treat more patients as day cases or in the community, so a "
+               "lower number of beds does not on its own mean less care."],
         value_format=",.0f")
 
 

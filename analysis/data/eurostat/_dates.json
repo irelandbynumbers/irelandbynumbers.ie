@@ -43,6 +43,10 @@
   "updated": "2026-11-04",
   "checked": "2026-11-16"
  },
+ "hospital_beds": {
+  "updated": "2026-07-13",
+  "checked": "2026-11-25"
+ },
  "ilc_di12": {
   "updated": "2026-11-12",
   "checked": "2026-11-17"

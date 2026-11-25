@@ -1556,6 +1556,30 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "health-hospital-beds-eu",
+  "topic": "health",
+  "title": "Hospital beds across the EU",
+  "subtitle": "Hospital beds per 100,000 people, all types of care, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/health-hospital-beds-eu.html",
+  "csv": "/charts/health-hospital-beds-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Hospital beds by type of care and healthcare provider (hlth_rs_bds1)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_bds1/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "hospital_beds",
+    "updated": "2026-07-13",
+    "checked": "2026-11-25"
+   }
+  ],
+  "key_fact": "In 2024, Ireland had 293 hospital beds per 100,000 people, compared with 507 across the EU. Ireland's figure was the 6th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-07-13",
+  "checked": "2026-11-25"
+ },
+ {
   "id": "health-life-expectancy",
   "topic": "health",
   "title": "Life expectancy in Ireland and the EU",
@@ -1691,13 +1715,13 @@
     "licence": "CC BY 4.0",
     "code": "KTA02",
     "updated": "2026-06-05",
-    "checked": "2026-11-16"
+    "checked": "2026-11-25"
    }
   ],
   "key_fact": "On an average morning in 2025, 265 admitted patients were waiting on trolleys in emergency departments. The highest single count was 804, on 3 January 2023.",
   "listed": true,
   "updated": "2026-06-05",
-  "checked": "2026-11-16"
+  "checked": "2026-11-25"
  },
  {
   "id": "environment-emissions-by-sector",
