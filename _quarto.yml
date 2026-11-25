@@ -4,6 +4,8 @@ project:
   render:
     - "*.qmd"
     - "*/*.qmd"
+    # Draft pages kept out of the published site until they are ready.
+    - "!evidence-ecosystem/"
   resources:
     - CNAME
     - charts/**
