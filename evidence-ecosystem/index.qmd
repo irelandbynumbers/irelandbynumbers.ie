@@ -3,6 +3,8 @@ title: "How evidence reaches policy in Ireland"
 subtitle: "A map of the organisations that fund, produce, request and pass on research to government"
 search: false
 css: ecosystem.css
+resources:
+  - layout.csv
 ---
 
 Government decisions draw on research from many places. Universities and research institutes carry out studies, funders pay for them, statistical services publish data, advisory bodies weigh up the findings, and government departments, the Oireachtas and local government ask for and use the results. This map shows those organisations and the main routes along which money, requests and evidence travel between them.
