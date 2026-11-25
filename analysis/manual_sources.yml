@@ -68,3 +68,11 @@
   when: Published once a year.
   every_months: 12
   last_checked: never
+
+- name: Appropriation Accounts
+  used_in: Public finances, Where public money goes page (analysis/data/per/appropriation_accounts_<year>.csv, read by analysis/public-finances/make_charts.py)
+  what: Planned and actual spending on every subhead of every department, audited by the Comptroller and Auditor General. When the accounts for a new year are out, run analysis/public-finances/appropriation_accounts.py with the year and the link to the combined PDF, then set ACCOUNTS_YEAR in make_charts.py to the new year.
+  url: https://www.audit.gov.ie/en/publications/appropriation-accounts/
+  when: Each autumn, usually in September.
+  every_months: 12
+  last_checked: 2026-11-25

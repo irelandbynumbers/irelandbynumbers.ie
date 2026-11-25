@@ -87,6 +87,10 @@ class Source:
         if self.code and self.publisher == "Eurostat":
             from .eurostat import dates
             return dates(self.code)
+        if self.code and (self.publisher.startswith("Department of Public Expenditure")
+                          or self.publisher == "Comptroller and Auditor General"):
+            from .per import dates
+            return dates(self.code)
         return {}
 
     def html(self):
@@ -113,6 +117,8 @@ class Chart:
     key_fact: str = ""      # one plain sentence on what the chart shows, worked out from `data`,
                             # shown in the key facts at the top of the topic page
     listed: bool = True     # False keeps it off the All charts page and topic key facts (county pages)
+    controls: str = ""      # optional HTML shown just above the chart, such as a search box
+    script: str = ""        # optional JavaScript run after the chart is drawn, for those controls (gd is the chart)
 
     def write(self):
         assert self.topic in TOPICS, f"{self.id}: unknown topic {self.topic!r} (see topics.yml)"
@@ -175,6 +181,8 @@ class Chart:
             topic=self.topic, topic_name=html.escape(topic_name), sources=sources,
             notes_block=(f'<details class="notes"><summary>About this data</summary>{notes}</details>' if notes else ""),
             fig=fig_json, meta=json.dumps(meta).replace("</", "<\\/"),
+            controls=("\n  " + self.controls if self.controls else ""),
+            script=("\n" + self.script.replace("</", "<\\/") if self.script else ""),
             font=style.FONT.replace('"', "'"), ink=style.INK, ink2=style.INK_2, ink3=style.INK_3, grid=style.GRID,
         )
 
@@ -321,7 +329,7 @@ TEMPLATE = """<!doctype html>
 <nav class="site"><a class="brand" href="/">Ireland by Numbers</a> &nbsp;›&nbsp; <a href="/{topic}/">{topic_name}</a></nav>
 <main>
   <h1>{title}</h1>
-  <p class="sub">{sub}</p>
+  <p class="sub">{sub}</p>{controls}
   <div id="plot" role="img" aria-label="{title}. {sub} Select Show table below the chart to read the data as a table." style="height:{height}px"></div>
   <div class="table-wrap" hidden><table><caption>{title}</caption><thead></thead><tbody></tbody></table></div>
   <footer>
@@ -373,7 +381,7 @@ if (gd.clientWidth < 640) {{
 }}
 Plotly.newPlot(gd, FIG.data, FIG.layout, CONFIG).then(() => {{
   if (FIG.frames && FIG.frames.length) Plotly.addFrames(gd, FIG.frames);
-}});
+}});{script}
 
 // Embedded on a page: tell the page how tall the chart is, so the frame fits.
 function postHeight() {{

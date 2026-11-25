@@ -1,6 +1,6 @@
 ---
 title: "Where public money goes"
-description: "How money comes in to the State, and what it is spent on, from health and pensions down to hospitals and schools."
+description: "How money comes in to the State, and what it is spent on, from health and pensions down to hospitals, schools and individual schemes."
 ---
 
 Every year the State collects money through taxes such as income tax, VAT and corporation tax, through PRSI, and through fees and other income. That money goes into a common pool, which pays for public services, welfare payments and interest on government debt. The chart below follows the money from where it comes from to what it is spent on.
@@ -14,3 +14,17 @@ The chart below breaks each area of spending into its parts, such as hospitals w
 {{< chart public-finances-by-purpose >}}
 
 These figures cover all of general government, including local authorities, the HSE and other public bodies, and are measured the same way across the EU. They are arranged by purpose rather than by government department, so a single department's budget can appear across several areas.
+
+## Department by department
+
+Each year the Dáil votes money to every government department and office, which is why a department's budget is called a Vote. Each Vote is split into programmes, and each programme into subheads, the individual lines such as Child Benefit, school transport or the National Treatment Purchase Fund. After the year ends, each department publishes an account of what it planned to spend and what it actually spent on every subhead, and the Comptroller and Auditor General audits it.
+
+The chart below shows those accounts for every department. Select a department to see its programmes and schemes, and hover over or tap a box to compare what was planned with what was spent. The search box finds any scheme by name.
+
+{{< chart public-finances-departments >}}
+
+The next chart shows how much each department has been allocated for the current year, set against what it spent in the latest year with audited accounts.
+
+{{< chart public-finances-departments-budget >}}
+
+Department figures count only the money voted by the Dáil, in cash. They leave out interest on the national debt, the Social Insurance Fund, which pays the State Pension (Contributory), and local authorities' own income. Because of this, and because they are counted differently, they do not add up to the general government figures earlier on this page, and the two should not be compared directly.

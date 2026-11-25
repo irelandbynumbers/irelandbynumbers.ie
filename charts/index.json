@@ -1967,6 +1967,60 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "public-finances-departments",
+  "topic": "public-finances",
+  "title": "Department budgets and what was spent",
+  "subtitle": "Spending by government department, programme and scheme, 2025. Box sizes show what was spent. Select a box to see what it is made up of, or search for a scheme.",
+  "kind": "chart",
+  "page": "/charts/public-finances-departments.html",
+  "csv": "/charts/public-finances-departments.csv",
+  "sources": [
+   {
+    "publisher": "Comptroller and Auditor General",
+    "title": "Appropriation Accounts 2025",
+    "url": "https://www.audit.gov.ie/en/publications/appropriation-accounts/appropriation-accounts-2025/",
+    "licence": "Public sector information",
+    "code": "accounts-2025",
+    "checked": "2026-11-25"
+   }
+  ],
+  "key_fact": "Government departments spent €94.5 billion in 2025, €748 million less than planned. Health spent the most, €26.0 billion.",
+  "listed": true,
+  "updated": "",
+  "checked": "2026-11-25"
+ },
+ {
+  "id": "public-finances-departments-budget",
+  "topic": "public-finances",
+  "title": "Department budgets for 2026",
+  "subtitle": "Gross voted spending allocated to each government department, € billion, 2026, with what each spent in 2025.",
+  "kind": "chart",
+  "page": "/charts/public-finances-departments-budget.html",
+  "csv": "/charts/public-finances-departments-budget.csv",
+  "sources": [
+   {
+    "publisher": "Department of Public Expenditure, Infrastructure, Public Service Reform and Digitalisation",
+    "title": "Databank, voted public expenditure",
+    "url": "https://data.gov.ie/dataset/voted-public-expenditure",
+    "licence": "CC BY 4.0",
+    "code": "databank",
+    "checked": "2026-11-25"
+   },
+   {
+    "publisher": "Comptroller and Auditor General",
+    "title": "Appropriation Accounts 2025",
+    "url": "https://www.audit.gov.ie/en/publications/appropriation-accounts/appropriation-accounts-2025/",
+    "licence": "Public sector information",
+    "code": "accounts-2025",
+    "checked": "2026-11-25"
+   }
+  ],
+  "key_fact": "Government departments were allocated €102 billion for 2026. The largest budget is Health's, at €27.4 billion.",
+  "listed": true,
+  "updated": "",
+  "checked": "2026-11-25"
+ },
+ {
   "id": "public-finances-flows",
   "topic": "public-finances",
   "title": "Money in and money out",
