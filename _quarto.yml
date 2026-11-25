@@ -3,6 +3,8 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    # Draft pages kept out of the published site until they are ready.
+    - "!evidence-ecosystem/"
   resources:
     - CNAME
     - figures/**
