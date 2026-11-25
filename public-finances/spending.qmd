@@ -8,3 +8,5 @@ The State spent €134 billion in 2025. A third of this went on social welfare a
 {{< chart public-finances-spending >}}
 
 Interest on government debt cost €2.9 billion in 2025, about 2% of all spending.
+
+For spending by purpose, such as health, education and social protection, and how it matches the money coming in, see [Where public money goes](where-money-goes.qmd).

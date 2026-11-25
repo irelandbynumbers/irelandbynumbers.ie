@@ -1868,6 +1868,48 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "public-finances-by-purpose",
+  "topic": "public-finances",
+  "title": "What public money is spent on",
+  "subtitle": "General government spending by purpose, € billion, 2024. Select an area to see what it is made up of.",
+  "kind": "chart",
+  "page": "/charts/public-finances-by-purpose.html",
+  "csv": "/charts/public-finances-by-purpose.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "General government expenditure by function (COFOG) (gov_10a_exp)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "gov_cofog_ie",
+    "updated": "2026-10-21",
+    "checked": "2026-11-25"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government: Detailed classification of expenditure and consumption (GFA04)",
+    "url": "https://data.cso.ie/table/GFA04",
+    "licence": "CC BY 4.0",
+    "code": "GFA04",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Population Estimates (Persons in April) (PEA01)",
+    "url": "https://data.cso.ie/table/PEA01",
+    "licence": "CC BY 4.0",
+    "code": "PEA01",
+    "updated": "2026-08-24",
+    "checked": "2026-11-13"
+   }
+  ],
+  "key_fact": "Public spending in 2024 came to about €23,365 for every person living in the State, including €5,423 on health.",
+  "listed": true,
+  "updated": "2026-10-21",
+  "checked": "2026-11-13"
+ },
+ {
   "id": "public-finances-debt",
   "topic": "public-finances",
   "title": "Government debt",
@@ -1920,6 +1962,57 @@
    }
   ],
   "key_fact": "Ireland's government debt was 35% of GDP in 2025, the 5th lowest of the 27 EU countries. The EU average was 82%.",
+  "listed": true,
+  "updated": "2026-10-21",
+  "checked": "2026-11-16"
+ },
+ {
+  "id": "public-finances-flows",
+  "topic": "public-finances",
+  "title": "Money in and money out",
+  "subtitle": "General government revenue by source and spending by purpose, € billion, 2000 to 2024. Use the slider to choose a year.",
+  "kind": "chart",
+  "page": "/charts/public-finances-flows.html",
+  "csv": "/charts/public-finances-flows.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government: Detailed classification of revenue and output (GFA03)",
+    "url": "https://data.cso.ie/table/GFA03",
+    "licence": "CC BY 4.0",
+    "code": "GFA03",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government: Detailed classification of expenditure and consumption (GFA04)",
+    "url": "https://data.cso.ie/table/GFA04",
+    "licence": "CC BY 4.0",
+    "code": "GFA04",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "General Government Surplus/Deficit ESA2010 (GFA10)",
+    "url": "https://data.cso.ie/table/GFA10",
+    "licence": "CC BY 4.0",
+    "code": "GFA10",
+    "updated": "2026-10-20",
+    "checked": "2026-11-16"
+   },
+   {
+    "publisher": "Eurostat",
+    "title": "General government expenditure by function (COFOG) (gov_10a_exp)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "gov_cofog_ie",
+    "updated": "2026-10-21",
+    "checked": "2026-11-25"
+   }
+  ],
+  "key_fact": "In 2024, €149 billion came in. The largest areas of spending were social protection, at €45.7 billion, and health, at €29.2 billion. This left a surplus of €23.4 billion.",
   "listed": true,
   "updated": "2026-10-21",
   "checked": "2026-11-16"

@@ -1,4 +1,8 @@
 # Subtopic pages, shown as tiles on this topic's page.
+- title: "Where public money goes"
+  path: where-money-goes.qmd
+  image: ../images/charts/public-finances-by-purpose.png
+  description: "How money comes in to the State, and what it is spent on."
 - title: "Tax and revenue"
   path: revenue.qmd
   image: ../images/charts/public-finances-revenue.png

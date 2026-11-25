@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en-IE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What public money is spent on | Ireland by Numbers</title>
+<meta name="description" content="General government spending by purpose, € billion, 2024. Select an area to see what it is made up of.">
+<link rel="canonical" href="https://irelandbynumbers.ie/charts/public-finances-by-purpose.html">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://irelandbynumbers.ie/charts/public-finances-by-purpose.html">
+<meta property="og:title" content="What public money is spent on">
+<meta property="og:description" content="General government spending by purpose, € billion, 2024. Select an area to see what it is made up of.">
+<meta property="og:site_name" content="Ireland by Numbers">
+<meta property="og:image" content="https://irelandbynumbers.ie/images/social/public-finances-by-purpose.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Chart. What public money is spent on">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; background: #fff; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color: #52514e; font-size: 15px; line-height: 1.45; }
+  a { color: #1f5fae; }
+  .site { display: none; padding: 12px 16px; border-bottom: 1px solid #e8e7e3; font-size: 14px; }
+  .site a { text-decoration: none; }
+  .site .brand { font-weight: 700; color: #0b0b0b; }
+  .is-top .site { display: block; }
+  main { max-width: 980px; margin: 0 auto; padding: 14px 16px 12px; }
+  .is-top main { padding-top: 24px; }
+  h1 { font-size: 1.3rem; line-height: 1.25; margin: 0 0 4px; color: #0b0b0b; }
+  .sub { margin: 0 0 8px; }
+  #plot { width: 100%; }
+  footer { margin-top: 8px; font-size: 13px; color: #52514e; }
+  footer p { margin: 0 0 6px; }
+  .lic { color: #8a8984; }
+  details.notes { margin: 0 0 8px; }
+  details.notes summary { cursor: pointer; color: #1f5fae; }
+  details.notes p { margin: 6px 0; }
+  .actions { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+  .actions a, .actions button {
+    font: inherit; font-size: 13px; color: #0b0b0b; background: #f3f2ee; border: 1px solid #e8e7e3;
+    border-radius: 4px; padding: 4px 10px; cursor: pointer; text-decoration: none; }
+  .actions a:hover, .actions button:hover { background: #e8e7e3; }
+  .is-top .only-embedded { display: none; }
+  .embed textarea { width: 100%; height: 64px; font: 12px ui-monospace, monospace; }
+  .credit { color: #8a8984; }
+  :focus-visible { outline: 3px solid #1f5fae; outline-offset: 2px; }
+  .table-wrap { max-height: 420px; overflow: auto; border: 1px solid #e8e7e3; border-radius: 4px; margin: 4px 0 8px; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+  caption { text-align: left; padding: 6px 8px; color: #0b0b0b; font-weight: 600; }
+  th, td { padding: 4px 8px; border-bottom: 1px solid #e8e7e3; text-align: left; }
+  td.num, th.num { text-align: right; }
+  thead th { position: sticky; top: 0; background: #f3f2ee; color: #0b0b0b; }
+  .dates { color: #8a8984; }
+  .copied { color: #8a8984; font-size: 13px; align-self: center; }
+  /* ?card: the chart alone at 1200x630, for the preview image social media shows with a link. */
+  .is-card .site, .is-card footer { display: none !important; }
+  .is-card main { max-width: none; padding: 36px 48px 0; }
+  .is-card h1 { font-size: 2rem; }
+  .is-card .sub { font-size: 1.1rem; margin-bottom: 12px; }
+  .is-card .brand-card { display: flex; }
+  .brand-card { display: none; position: fixed; left: 48px; right: 48px; bottom: 18px; justify-content: space-between;
+    font-size: 15px; color: #8a8984; }
+  .brand-card b { color: #0b0b0b; }
+</style>
+<script src="lib/plotly-4.1.1.min.js"></script>
+</head>
+<body>
+<nav class="site"><a class="brand" href="/">Ireland by Numbers</a> &nbsp;›&nbsp; <a href="/public-finances/">Public finances</a></nav>
+<main>
+  <h1>What public money is spent on</h1>
+  <p class="sub">General government spending by purpose, € billion, 2024. Select an area to see what it is made up of.</p>
+  <div id="plot" role="img" aria-label="What public money is spent on. General government spending by purpose, € billion, 2024. Select an area to see what it is made up of. Select Show table below the chart to read the data as a table." style="height:600px"></div>
+  <div class="table-wrap" hidden><table><caption>What public money is spent on</caption><thead></thead><tbody></tbody></table></div>
+  <footer>
+    <p>Data from Eurostat, <a href="https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en">General government expenditure by function (COFOG) (gov_10a_exp)</a> <span class="lic">(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</span>; Central Statistics Office (CSO), <a href="https://data.cso.ie/table/GFA04">General Government: Detailed classification of expenditure and consumption (GFA04)</a> <span class="lic">(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</span>; Central Statistics Office (CSO), <a href="https://data.cso.ie/table/PEA01">Population Estimates (Persons in April) (PEA01)</a> <span class="lic">(<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</span>.</p>
+    <p class="dates">Source last updated 21 October 2026. Checked for new figures 13 November 2026.</p>
+    <details class="notes"><summary>About this data</summary><p>Figures are for general government, which covers central government, local authorities and other public bodies, measured under the EU's ESA 2010 rules. They differ from the Exchequer figures the Department of Finance publishes each month, which cover central government only.</p><p>Spending by purpose follows the EU's classification of the functions of government (COFOG). Eurostat last revised this breakdown before the CSO's latest totals, so each area has been scaled by the same small amount so that the areas add up to the CSO's total spending for the year. The adjustment is 0.3% or less in every year shown.</p><p>Spending per person divides each amount by the estimated population in April of the same year.</p><p>Some spending is counted under its purpose rather than the department that pays it. For example, rent supports appear under social protection, and school transport under education.</p></details>
+    <div class="actions">
+      <button type="button" id="table" aria-expanded="false">Show table</button>
+      <button type="button" id="png">Download PNG</button>
+      <a href="public-finances-by-purpose.csv" download>Download data (CSV)</a>
+      <a href="https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=en">Original table (gov_cofog_ie)</a><a href="https://data.cso.ie/table/GFA04">Original table (GFA04)</a><a href="https://data.cso.ie/table/PEA01">Original table (PEA01)</a>
+      <button type="button" id="embed">Embed</button>
+      <button type="button" id="share">Share link</button>
+      <a class="only-embedded" href="public-finances-by-purpose.html" target="_top">Open chart page</a>
+      <span class="copied" role="status" aria-live="polite"></span>
+    </div>
+    <div class="embed" hidden>
+      <p>Copy this code to show the chart on your own site.</p>
+      <textarea readonly></textarea>
+    </div>
+    <p class="credit"><a href="/">Ireland by Numbers</a> · Chart licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, free to reuse with credit to Ireland by Numbers and the source above.</p>
+  </footer>
+</main>
+<div class="brand-card" aria-hidden="true"><span><b>Ireland by Numbers</b> · irelandbynumbers.ie</span><span>Data from Eurostat, Central Statistics Office (CSO)</span></div>
+<script>
+const FIG = {"data":[{"branchvalues":"total","customdata":[[125.7084,100.0,23364.570748843],[45.6938,36.3490427051812,8492.797799379217],[29.176,23.209268433931225,5422.745943534747],[15.038799999999998,11.96324191541695,2795.160121182834],[11.6458,9.264138275564719,2164.526141664963],[11.1345,8.857403323882892,2069.49426611899],[4.1526000000000005,3.3033592027263103,771.8156980094047],[3.3809,2.6894781892061315,628.3850342917681],[2.3429,1.863757712292894,435.45898927569095],[2.3042999999999996,1.8330517292400508,428.2846681411816],[0.8388,0.6672585125576334,155.90208724420572],[0.947,0.7533307241202656,176.01249000985075],[0.6842999999999999,0.5443550311673683,127.18621638198613],[0.6103999999999999,0.4855681879651639,113.45092281099566],[0.046799999999999994,0.03722901572209972,8.698399717487872],[0.01,0.007954917889337547,1.8586324182666394],[0.0058,0.004613852375815777,1.0780068025946508],[0.698,0.5552532686757607,129.73254279501143],[0.0648,0.0515478679229073,12.043938070367822],[0.0508,0.04041098287783474,9.441852684794528],[0.0252,0.020046393081130615,4.683753694031931],[6.257,4.977392123358503,1162.9463041094364],[4.5253000000000005,3.59983899246192,841.0869282382023],[2.4591999999999996,1.9562734073458894,457.07488430013194],[0.8108,0.6449847424674883,150.6979164730591],[0.42219999999999996,0.3358566332878312,78.47146069921752],[0.36510000000000004,0.29043405213971385,67.858669590915],[0.18919999999999998,0.15050704646626636,35.165325353604814],[0.01,0.007954917889337547,1.8586324182666394],[1.0557,0.8398006815773648,196.21582439640912],[0.7099,0.5647196209640725,131.94431537274872],[0.21769999999999998,0.1731785624508784,40.46242774566474],[0.18409999999999999,0.14645003834270423,34.21742282028883],[0.1477,0.11749413722551556,27.452000817798265],[0.027800000000000002,0.02211467173235838,5.166998122781258],[5.1629,4.107044557086081,959.5933312268833],[3.4119,2.7141384346630777,634.1467947883947],[1.4421,1.1471787088213674,268.03338103823205],[0.546,0.43433851675783003,101.48133003735852],[0.49660000000000004,0.3950412223845026,92.29968589112131],[0.07479999999999999,0.05950278581224484,13.902570488634463],[0.0002,0.00015909835778675095,0.03717264836533279],[15.1748,12.07142879871194,2820.43752207126],[9.1262,7.259817164167233,1696.2251175585004],[3.2807,2.609769911954969,609.7615374607363],[0.817,0.6499167915588776,151.85026857238444],[0.6831,0.5434004410206478,126.96318049179413],[0.0942,0.07493532651755969,17.508317380071745],[1.611,1.2815372719722786,299.4256825827556],[0.9008999999999999,0.7166585526504196,167.44419456164155],[0.6672,0.5307521215766011,124.00795494675017],[0.1709,0.13594954672877868,31.764028028176867],[0.030899999999999997,0.024580696278053017,5.743174172443916],[2.249,1.7890610333120143,418.00643086816723],[0.7627999999999999,0.606801136598668,141.77648086537926],[0.5895,0.46894240957644834,109.56638105681839],[0.416,0.33092458419644194,77.3191085998922],[0.1352,0.10755048986384362,25.128710294964964],[0.0001,7.954917889337548e-05,0.018586324182666394],[16.7882,13.35487525097766,3120.3092764343996],[8.4668,6.735269878544313,1573.666895897998],[6.0303,4.797054134807221,1120.8111071873316],[5.4315,4.320713651593689,1009.5161979815252],[3.5655,2.8363259734433024,662.6953887329703],[3.0829,2.4524216361038724,572.9977882274222],[1.9590999999999998,1.5584479637001185,364.1246770626173],[0.3487,0.27738798680120025,64.81051242495772],[0.0208,0.016546229209822096,3.86595542999461],[6.3852,5.07937417069981,1186.7739717116146],[1.5757999999999999,1.2535359610018104,292.883296470457],[1.4382000000000001,1.1440762908445261,267.3085143951081],[0.7996,0.6360752344314302,148.61624816460048],[0.4686,0.3727674522943575,87.09551511997472],[0.36269999999999997,0.2885248718462728,67.41259781053101],[0.3216,0.2558301593210955,59.773618571455124],[0.2127,0.1692011035062096,39.53311153653142],[0.0814,0.06475303161920763,15.129267884690444]],"hovertemplate":"\u003cb\u003e%{label}\u003c\u002fb\u003e\u003cbr\u003e\u20ac%{customdata[0]:.2f} billion, %{customdata[1]:.1f}% of all spending\u003cbr\u003eAbout \u20ac%{customdata[2]:,.0f} per person\u003cextra\u003e\u003c\u002fextra\u003e","ids":["All spending","Social protection","Health","Education","Transport and the economy","Government and debt interest","Police, courts and prisons","Housing and water","Environment","Culture and sport","Defence","Culture and sport\u002fCultural services","Culture and sport\u002fBroadcasting and publishing","Culture and sport\u002fSport and recreation","Culture and sport\u002fReligious and community services","Culture and sport\u002fRecreation, culture and religion, other","Culture and sport\u002fR&D Recreation, culture and religion","Defence\u002fMilitary defence","Defence\u002fForeign military aid","Defence\u002fDefence, other","Defence\u002fCivil defence","Education\u002fPre-primary and primary schools","Education\u002fSecondary schools","Education\u002fThird level","Education\u002fFurther education","Education\u002fSchool transport, meals and other services","Education\u002fEducation, other","Education\u002fEducation not definable by level","Education\u002fR&D Education","Environment\u002fWaste water management","Environment\u002fPollution abatement","Environment\u002fEnvironmental protection, other","Environment\u002fWaste management","Environment\u002fProtection of biodiversity and landscape","Environment\u002fR&D Environmental protection","Government and debt interest\u002fGovernment, tax collection and foreign affairs","Government and debt interest\u002fInterest on government debt","Government and debt interest\u002fGeneral services of government","Government and debt interest\u002fForeign economic aid","Government and debt interest\u002fBasic research","Government and debt interest\u002fGeneral public services, other","Government and debt interest\u002fR&D General public services","Health\u002fHospitals","Health\u002fGP, dental and other outpatient services","Health\u002fMedicines and medical equipment","Health\u002fPublic health services","Health\u002fHealth, other","Health\u002fR&D Health","Housing and water\u002fWater supply","Housing and water\u002fHousing development","Housing and water\u002fCommunity development","Housing and water\u002fHousing and community amenities, other","Housing and water\u002fStreet lighting","Police, courts and prisons\u002fPolice services","Police, courts and prisons\u002fLaw courts","Police, courts and prisons\u002fPrisons","Police, courts and prisons\u002fFire services","Police, courts and prisons\u002fPublic order and safety, other","Police, courts and prisons\u002fR&D Public order and safety","Social protection\u002fOld age, including pensions","Social protection\u002fFamilies and children","Social protection\u002fIllness and disability","Social protection\u002fHousing supports, such as rent supports","Social protection\u002fUnemployment","Social protection\u002fOther help for people on low incomes","Social protection\u002fWidows, widowers and other survivors","Social protection\u002fSocial protection, other","Social protection\u002fR&D Social protection","Transport and the economy\u002fTransport","Transport and the economy\u002fBusiness, trade and employment supports","Transport and the economy\u002fAgriculture, forestry and fishing","Transport and the economy\u002fR&D Economic affairs","Transport and the economy\u002fEconomic affairs, other","Transport and the economy\u002fFuel and energy","Transport and the economy\u002fOther industries","Transport and the economy\u002fMining, manufacturing and construction","Transport and the economy\u002fCommunication"],"labels":["All spending","Social protection","Health","Education","Transport and the economy","Government and debt interest","Police, courts and prisons","Housing and water","Environment","Culture and sport","Defence","Cultural services","Broadcasting and publishing","Sport and recreation","Religious and community services","Recreation, culture and religion, other","R&D Recreation, culture and religion","Military defence","Foreign military aid","Defence, other","Civil defence","Pre-primary and primary schools","Secondary schools","Third level","Further education","School transport, meals and other services","Education, other","Education not definable by level","R&D Education","Waste water management","Pollution abatement","Environmental protection, other","Waste management","Protection of biodiversity and landscape","R&D Environmental protection","Government, tax collection and foreign affairs","Interest on government debt","General services of government","Foreign economic aid","Basic research","General public services, other","R&D General public services","Hospitals","GP, dental and other outpatient services","Medicines and medical equipment","Public health services","Health, other","R&D Health","Water supply","Housing development","Community development","Housing and community amenities, other","Street lighting","Police services","Law courts","Prisons","Fire services","Public order and safety, other","R&D Public order and safety","Old age, including pensions","Families and children","Illness and disability","Housing supports, such as rent supports","Unemployment","Other help for people on low incomes","Widows, widowers and other survivors","Social protection, other","R&D Social protection","Transport","Business, trade and employment supports","Agriculture, forestry and fishing","R&D Economic affairs","Economic affairs, other","Fuel and energy","Other industries","Mining, manufacturing and construction","Communication"],"marker":{"colors":["#ffffff","#2a78d6","#eb6834","#1baf7a","#7a5cc7","#c9930e","#c93a3a","#2a78d6","#eb6834","#1baf7a","#7a5cc7","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#1baf7a","#eb6834","#eb6834","#eb6834","#eb6834","#eb6834","#eb6834","#c9930e","#c9930e","#c9930e","#c9930e","#c9930e","#c9930e","#c9930e","#eb6834","#eb6834","#eb6834","#eb6834","#eb6834","#eb6834","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#c93a3a","#c93a3a","#c93a3a","#c93a3a","#c93a3a","#c93a3a","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#2a78d6","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7","#7a5cc7"],"line":{"color":"#ffffff","width":1.5}},"maxdepth":2,"parents":["","All spending","All spending","All spending","All spending","All spending","All spending","All spending","All spending","All spending","All spending","Culture and sport","Culture and sport","Culture and sport","Culture and sport","Culture and sport","Culture and sport","Defence","Defence","Defence","Defence","Education","Education","Education","Education","Education","Education","Education","Education","Environment","Environment","Environment","Environment","Environment","Environment","Government and debt interest","Government and debt interest","Government and debt interest","Government and debt interest","Government and debt interest","Government and debt interest","Government and debt interest","Health","Health","Health","Health","Health","Health","Housing and water","Housing and water","Housing and water","Housing and water","Housing and water","Police, courts and prisons","Police, courts and prisons","Police, courts and prisons","Police, courts and prisons","Police, courts and prisons","Police, courts and prisons","Social protection","Social protection","Social protection","Social protection","Social protection","Social protection","Social protection","Social protection","Social protection","Transport and the economy","Transport and the economy","Transport and the economy","Transport and the economy","Transport and the economy","Transport and the economy","Transport and the economy","Transport and the economy","Transport and the economy"],"pathbar":{"textfont":{"family":"-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","size":13},"visible":true},"root":{"color":"#ffffff"},"textfont":{"family":"-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"},"texttemplate":"\u003cb\u003e%{label}\u003c\u002fb\u003e\u003cbr\u003e\u20ac%{customdata[0]:.1f}bn","tiling":{"pad":2},"values":[125708.4,45693.8,29176.0,15038.8,11645.8,11134.5,4152.6,3380.9,2342.9,2304.2999999999997,838.8,947.0,684.3,610.4,46.8,10.0,5.8,698.0,64.8,50.8,25.2,6257.0,4525.3,2459.2,810.8,422.2,365.1,189.2,10.0,1055.7,709.9,217.7,184.1,147.7,27.8,5162.9,3411.9,1442.1,546.0,496.6,74.8,0.2,15174.8,9126.2,3280.7,817.0,683.1,94.2,1611.0,900.9,667.2,170.9,30.9,2249.0,762.8,589.5,416.0,135.2,0.1,16788.2,8466.8,6030.3,5431.5,3565.5,3082.9,1959.1,348.7,20.8,6385.2,1575.8,1438.2,799.6,468.6,362.7,321.6,212.7,81.4],"type":"treemap"}],"layout":{"template":{"data":{"histogram2dcontour":[{"type":"histogram2dcontour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"choropleth":[{"type":"choropleth","colorbar":{"outlinewidth":0,"ticks":""}}],"histogram2d":[{"type":"histogram2d","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"heatmap":[{"type":"heatmap","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"contourcarpet":[{"type":"contourcarpet","colorbar":{"outlinewidth":0,"ticks":""}}],"contour":[{"type":"contour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"surface":[{"type":"surface","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"mesh3d":[{"type":"mesh3d","colorbar":{"outlinewidth":0,"ticks":""}}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"parcoords":[{"type":"parcoords","line":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolargl":[{"type":"scatterpolargl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"scattergeo":[{"type":"scattergeo","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolar":[{"type":"scatterpolar","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"scattergl":[{"type":"scattergl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatter3d":[{"type":"scatter3d","line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermap":[{"type":"scattermap","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterternary":[{"type":"scatterternary","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattercarpet":[{"type":"scattercarpet","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"type":"carpet"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}],"barpolar":[{"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"pie":[{"automargin":true,"type":"pie"}]},"layout":{"autotypenumbers":"strict","colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"hovermode":"closest","hoverlabel":{"align":"left"},"paper_bgcolor":"white","plot_bgcolor":"#E5ECF6","polar":{"bgcolor":"#E5ECF6","angularaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"radialaxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"ternary":{"bgcolor":"#E5ECF6","aaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"baxis":{"gridcolor":"white","linecolor":"white","ticks":""},"caxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]]},"xaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"yaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"scene":{"xaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"yaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"zaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"geo":{"bgcolor":"white","landcolor":"#E5ECF6","subunitcolor":"white","showland":true,"showlakes":true,"lakecolor":"white"},"title":{"x":0.05}}},"font":{"family":"-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","size":14,"color":"#52514e"},"hoverlabel":{"font":{"family":"-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif","size":13,"color":"#0b0b0b"},"bgcolor":"white","bordercolor":"#e8e7e3"},"margin":{"l":0,"r":0,"t":28,"b":0},"paper_bgcolor":"#ffffff","plot_bgcolor":"#ffffff","showlegend":false}};
+const META = {"id": "public-finances-by-purpose", "title": "What public money is spent on", "subtitle": "General government spending by purpose, \u20ac billion, 2024. Select an area to see what it is made up of.", "source": "Data from Eurostat, General government expenditure by function (COFOG) (gov_10a_exp); Central Statistics Office (CSO), General Government: Detailed classification of expenditure and consumption (GFA04); Central Statistics Office (CSO), Population Estimates (Persons in April) (PEA01)", "credit": "irelandbynumbers.ie/charts/public-finances-by-purpose \u00b7 CC BY 4.0"};
+const CONFIG = {displayModeBar: false, responsive: true, scrollZoom: false,
+  topojsonURL: new URL("lib/topojson/", location.href).href};
+const top_ = window.self === window.top;
+if (top_) document.documentElement.classList.add("is-top");
+const card = new URLSearchParams(location.search).has("card");
+if (card) {
+  document.documentElement.classList.add("is-card");
+  const sub = document.querySelector(".sub");
+  sub.textContent = sub.textContent.replace(/ Use the slider.*$/, "");
+}
+const gd = document.getElementById("plot");
+if (card) gd.style.height = (630 - gd.getBoundingClientRect().top - 52) + "px";
+// Flow charts on a narrow screen: names only, so the labels do not overlap. Amounts show on tap.
+if (gd.clientWidth < 640) {
+  [FIG.data].concat((FIG.frames || []).map((f) => f.data)).forEach((traces) => traces.forEach((t) => {
+    if (t.type !== "sankey" || !t.node || !t.node.label) return;
+    // A node with flows both in and out sits in the middle, where its label would cover the others.
+    const middle = (i) => t.link.source.includes(i) && t.link.target.includes(i);
+    t.node.label = t.node.label.map((l, i) => middle(i) ? "" : l.replace(/ €[\d.,]+bn$/, ""));
+    t.textfont = Object.assign({}, t.textfont, {size: 11});
+  }));
+}
+Plotly.newPlot(gd, FIG.data, FIG.layout, CONFIG).then(() => {
+  if (FIG.frames && FIG.frames.length) Plotly.addFrames(gd, FIG.frames);
+});
+
+// Embedded on a page: tell the page how tall the chart is, so the frame fits.
+function postHeight() {
+  if (top_) return;
+  parent.postMessage({ibnChart: META.id, height: document.documentElement.scrollHeight}, "*");
+}
+new ResizeObserver(postHeight).observe(document.body);
+window.addEventListener("load", postHeight);
+
+// PNG: the chart as shown, with its title, subtitle, source and credit drawn in.
+document.getElementById("png").addEventListener("click", () => {
+  const W = 1200, H = Math.round(W * 0.66);
+  const layout = JSON.parse(JSON.stringify(gd.layout));
+  delete layout.sliders; delete layout.updatemenus; delete layout.title;
+  let sub = META.subtitle;
+  const s = (gd.layout.sliders || [])[0];
+  if (s && s.steps && s.steps[s.active || 0]) sub += " Shown for " + s.steps[s.active || 0].label + ".";
+  const wrap = (t, n) => t.replace(new RegExp("(.{1," + n + "})(\\s|$)", "g"), "$1<br>").replace(/<br>$/, "");
+  const m = layout.margin || {};
+  const T = layout.geo ? 150 : 120, B = (m.b || 0) + 70;
+  layout.margin = Object.assign({}, m, {t: T, b: B});
+  const ph = H - T - B;  // plot height; header and footer sit outside it, in paper units
+  const note = (text, px, anchor, size, colour) => ({text, x: 0, xref: "paper", y: px / ph, yref: "paper",
+    xanchor: "left", yanchor: anchor, showarrow: false, align: "left", font: {size, color: colour}});
+  layout.annotations = (layout.annotations || []).concat([
+    note("<b>" + META.title + "</b>", ph + T - 18, "top", 22, "#0b0b0b"),
+    note(wrap(sub, 130), ph + T - 52, "top", 15, "#52514e"),
+    note(wrap(META.source, 150), -(B - 32), "bottom", 12, "#52514e"),
+    note(META.credit, -(B - 12), "bottom", 12, "#8a8984")]);
+  layout.width = W; layout.height = H;
+  Plotly.downloadImage({data: gd.data, layout: layout, config: CONFIG},
+    {format: "png", width: W, height: H, scale: 2, filename: META.id});
+});
+
+// The data as a table, from the same CSV people download.
+document.getElementById("table").addEventListener("click", async (e) => {
+  const wrap = document.querySelector(".table-wrap");
+  const btn = e.currentTarget;
+  if (!wrap.dataset.loaded) {
+    const text = await (await fetch(META.id + ".csv")).text();
+    const rows = parseCSV(text.trim());
+    const head = rows.shift();
+    const isNum = head.map((_, i) => rows.length && rows.every((r) => r[i] === "" || !isNaN(+r[i])));
+    const plain = head.map((h) => /year|period|date|quarter|month|code/i.test(h));
+    const cell = (tag, v, i) => { const el = document.createElement(tag); el.textContent = isNum[i] && !plain[i] && v !== "" && tag === "td" ? (+v).toLocaleString("en-IE") : v; if (isNum[i]) el.className = "num"; return el; };
+    const tr = document.createElement("tr"); head.forEach((h, i) => { const th = cell("th", h, i); th.scope = "col"; tr.append(th); });
+    wrap.querySelector("thead").append(tr);
+    const body = wrap.querySelector("tbody");
+    rows.forEach((r) => { const tr = document.createElement("tr"); r.forEach((v, i) => tr.append(cell("td", v, i))); body.append(tr); });
+    wrap.dataset.loaded = "1";
+  }
+  wrap.hidden = !wrap.hidden;
+  btn.textContent = wrap.hidden ? "Show table" : "Hide table";
+  btn.setAttribute("aria-expanded", String(!wrap.hidden));
+  postHeight();
+});
+function parseCSV(t) {
+  const rows = [[]]; let f = "", q = false;
+  for (let i = 0; i < t.length; i++) {
+    const c = t[i];
+    if (q) { if (c === '"' && t[i + 1] === '"') { f += '"'; i++; } else if (c === '"') q = false; else f += c; }
+    else if (c === '"') q = true;
+    else if (c === ",") { rows[rows.length - 1].push(f); f = ""; }
+    else if (c === "\n") { rows[rows.length - 1].push(f.replace(/\r$/, "")); rows.push([]); f = ""; }
+    else f += c;
+  }
+  rows[rows.length - 1].push(f);
+  return rows;
+}
+
+// Share: the phone's share sheet where there is one, otherwise copy the link.
+document.getElementById("share").addEventListener("click", async () => {
+  const url = "https://irelandbynumbers.ie/charts/" + META.id + ".html";
+  const status = document.querySelector(".copied");
+  if (navigator.share) {
+    try { await navigator.share({title: META.title, text: META.subtitle, url}); } catch (e) {}
+    return;
+  }
+  try { await navigator.clipboard.writeText(url); status.textContent = "Link copied"; }
+  catch (e) { status.textContent = url; }
+  setTimeout(() => { status.textContent = ""; }, 4000);
+});
+
+// Embed code, pointing at this chart's page.
+document.getElementById("embed").addEventListener("click", () => {
+  const box = document.querySelector(".embed");
+  box.hidden = !box.hidden;
+  const url = "https://irelandbynumbers.ie/charts/" + META.id + ".html";
+  box.querySelector("textarea").value =
+    '<iframe src="' + url + '" title="' + META.title.replace(/"/g, "&quot;") +
+    '" width="100%" height="' + (document.documentElement.scrollHeight + 20) + '" style="border:0" loading="lazy"></iframe>';
+  postHeight();
+});
+</script>
+</body>
+</html>
