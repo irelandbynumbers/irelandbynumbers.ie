@@ -1556,6 +1556,30 @@
   "checked": "2026-11-16"
  },
  {
+  "id": "health-hospital-beds-eu",
+  "topic": "health",
+  "title": "Hospital beds across the EU",
+  "subtitle": "Hospital beds per 100,000 people, all types of care, EU countries, 2024.",
+  "kind": "chart",
+  "page": "/charts/health-hospital-beds-eu.html",
+  "csv": "/charts/health-hospital-beds-eu.csv",
+  "sources": [
+   {
+    "publisher": "Eurostat",
+    "title": "Hospital beds by type of care and healthcare provider (hlth_rs_bds1)",
+    "url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_bds1/default/table?lang=en",
+    "licence": "CC BY 4.0",
+    "code": "hospital_beds",
+    "updated": "2026-07-13",
+    "checked": "2026-11-25"
+   }
+  ],
+  "key_fact": "In 2024, Ireland had 293 hospital beds per 100,000 people, compared with 507 across the EU. Ireland's figure was the 6th lowest of the 27 EU countries.",
+  "listed": true,
+  "updated": "2026-07-13",
+  "checked": "2026-11-25"
+ },
+ {
   "id": "health-life-expectancy",
   "topic": "health",
   "title": "Life expectancy in Ireland and the EU",
@@ -1691,13 +1715,44 @@
     "licence": "CC BY 4.0",
     "code": "KTA02",
     "updated": "2026-06-05",
-    "checked": "2026-11-16"
+    "checked": "2026-11-25"
    }
   ],
   "key_fact": "On an average morning in 2025, 265 admitted patients were waiting on trolleys in emergency departments. The highest single count was 804, on 3 January 2023.",
   "listed": true,
   "updated": "2026-06-05",
-  "checked": "2026-11-16"
+  "checked": "2026-11-25"
+ },
+ {
+  "id": "health-trolleys-daily",
+  "topic": "health",
+  "title": "Patients on trolleys, day by day",
+  "subtitle": "Admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, for the most recent year available.",
+  "kind": "chart",
+  "page": "/charts/health-trolleys-daily.html",
+  "csv": "/charts/health-trolleys-daily.csv",
+  "sources": [
+   {
+    "publisher": "Central Statistics Office (CSO)",
+    "title": "Admitted Patients Waiting on Trolleys in Public Acute Hospital Eds at 8 am (KTA02)",
+    "url": "https://data.cso.ie/table/KTA02",
+    "licence": "CC BY 4.0",
+    "code": "KTA02",
+    "updated": "2026-06-05",
+    "checked": "2026-11-25"
+   },
+   {
+    "publisher": "Health Service Executive",
+    "title": "TrolleyGAR daily report, Urgent and Emergency Care",
+    "url": "https://uec.hse.ie/uec/TGAR.php",
+    "licence": "Quoted with acknowledgement",
+    "code": ""
+   }
+  ],
+  "key_fact": "On 31 December 2025, 127 admitted patients were waiting on trolleys in emergency departments at 8am.",
+  "listed": true,
+  "updated": "2026-06-05",
+  "checked": "2026-11-25"
  },
  {
   "id": "environment-emissions-by-sector",

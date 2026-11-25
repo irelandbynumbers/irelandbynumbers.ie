@@ -1,0 +1,34 @@
+on:
+  schedule:
+    - cron: "30 9 * * *"   # every morning, after the HSE's 8am trolley count is published
+  workflow_dispatch:
+
+name: Save the daily trolley count
+
+permissions:
+  contents: write
+
+# The HSE's TrolleyGAR page shows only the current day, so this saves each
+# morning's count to analysis/data/hse/ to keep a day-by-day record. It only
+# saves data. The charts are rebuilt by the Friday update.
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save today's count
+        run: |
+          pip install pandas
+          cd analysis && python3 -m ibn.trolleygar
+      - name: Commit the new reading
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add analysis/data/hse
+          if ! git diff --cached --quiet; then
+            git commit -m "Save the daily trolley count"
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 10; done
+          fi

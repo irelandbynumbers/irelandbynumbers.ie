@@ -1,0 +1,42 @@
+---
+title: "How evidence reaches policy in Ireland"
+subtitle: "A map of the organisations that fund, produce, request and pass on research to government"
+search: false
+css: ecosystem.css
+---
+
+Government decisions draw on research from many places. Universities and research institutes carry out studies, funders pay for them, statistical services publish data, advisory bodies weigh up the findings, and government departments, the Oireachtas and local government ask for and use the results. This map shows those organisations and the main routes along which money, requests and evidence travel between them.
+
+The map is the work of Mark G. Boyle, Caoilfhionn D'Arcy, Seán Ó Foghlú and John O'Connor of the Maynooth University Social Sciences Institute, who built it as an interactive map of the organisations, relationships and connections within Ireland's evidence-policy ecosystem. This page redraws their [original map](https://prsm.uk/prsm.html?room=GZM-PEM-HOE-NQC) so that figures can be added to it.
+
+Each large circle stands for a group of similar organisations, such as government departments or higher education institutions, and the small dots around it are the members of that group. Lines show four kinds of relationship. Select any circle or dot to see its members, its links and any figures attached to it.
+
+::: {.column-screen-inset}
+```{=html}
+<div class="eco-root" data-base="">
+  <div class="eco-filters" role="group" aria-label="Show or hide link types"></div>
+  <div class="eco-layout">
+    <div class="eco-canvas">
+      <svg class="eco-map" role="img" aria-label="Network map of Ireland's evidence-policy ecosystem. A full list of organisations follows the map."></svg>
+      <div class="eco-tooltip" hidden></div>
+    </div>
+    <div class="eco-panel" aria-live="polite">
+      <h3>Explore the map</h3>
+      <p>Select a group or organisation to see who it is connected to. The other parts of the map fade into the background.</p>
+      <p>Use the buttons above the map to show or hide each kind of link. Turning off all but one makes the picture much easier to follow.</p>
+      <p class="eco-muted">Links are drawn between groups as a whole, as in the original map, rather than between individual organisations.</p>
+    </div>
+  </div>
+  <details class="eco-list"><summary>All organisations in the map</summary><div class="eco-list-body"></div></details>
+</div>
+<script src="ecosystem.js"></script>
+```
+:::
+
+## What the links mean
+
+Research funding is money for research, for example from Research Ireland or the Higher Education Authority to universities. Demand for evidence is a request for research or analysis, usually from government. Supply of research-based evidence is research, data or analysis passed to the people who asked for it or who can use it. Evidence synthesis and advice is the step where findings are weighed up and turned into advice for decision makers.
+
+## About this map
+
+This is a working draft. The [original map](https://prsm.uk/prsm.html?room=GZM-PEM-HOE-NQC) was created by Mark G. Boyle, Caoilfhionn D'Arcy, Seán Ó Foghlú and John O'Connor at the Maynooth University Social Sciences Institute, using the Participatory System Mapper. Every organisation and link on this page is taken directly from their map, and all credit for its content belongs to them. Names have been written out in full where the original used abbreviations. The organisations, links and figures are kept in plain data files ([organisations](nodes.csv), [links](links.csv), [figures](stats.csv)) so the map can be corrected and extended.

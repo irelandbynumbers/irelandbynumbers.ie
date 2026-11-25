@@ -3,6 +3,9 @@
 # (YYYY-MM-DD), a chart id from charts/index.json, and a short note on what the
 # chart shows. Check every figure in the note against the chart's data.
 weeks:
+  - date: 2026-11-25
+    chart: health-trolleys
+    note: "Each morning at 8am, public hospitals count the patients who have been admitted but are still waiting in an emergency department for a bed. In 2025 there were 265 on an average morning, down from 336 in 2022. Ireland also has fewer hospital beds for its population than most EU countries, with 293 per 100,000 people in 2024 compared with 507 across the EU, as shown on the [health service](health/health-service.qmd) page."
   - date: 2026-11-13
     chart: economy-gdp-gni
     note: "Ireland's gross domestic product (GDP) is pushed up by the accounts of a number of large multinational companies, so the Central Statistics Office also publishes modified gross national income (GNI\\*), a measure of the domestic economy. In 2025, GNI\\* was €334 billion, a little over half of GDP."

@@ -1,7 +1,7 @@
 """Health charts: life expectancy, causes of death, access and the health service."""
 import pandas as pd
 
-from ibn import cso, eu, eurostat, figures, ni, style
+from ibn import cso, trolleygar, eu, eurostat, figures, ni, style
 from ibn.chart import Chart, Source
 from ibn.counties import SUMMED_NOTE, add_up, county
 
@@ -20,6 +20,8 @@ def build():
     outpatient_waits()
     spending()
     eu_comparisons()
+    hospital_beds_eu()
+    trolleys_daily()
     ni_comparisons()
 
 
@@ -143,6 +145,46 @@ def trolleys():
     ).write()
 
 
+def trolleys_daily():
+    df = cso.fetch("KTA02")
+    d = df[df["Statistic Label"].str.startswith("Admitted")].copy()
+    d["date"] = _months(d.Day, "%Y %B %d")
+    cso_end = d.date.max()
+    c = d[d.date > cso_end - pd.Timedelta(days=365)][["date", "VALUE"]].rename(columns={"VALUE": "cso"})
+    h = trolleygar.fetch()
+    h = h[h.date > cso_end][["date", "ed_trolleys"]].rename(columns={"ed_trolleys": "hse_daily"})
+    w = pd.concat([c, h]).sort_values("date").reset_index(drop=True)
+    series = {"cso": "CSO"} | ({"hse_daily": "HSE, saved daily"} if len(h) else {})
+    fig = figures.lines(w, "date", series, colours=[style.BLUE, style.ORANGE], hover_x="%-d %B %Y",
+                        y_range=[0, w[list(series)].max().max() * 1.15], label_last=False)
+    last = (h.iloc[-1] if len(h) else c.iloc[-1])
+    last_value = last.hse_daily if len(h) else last.cso
+    gap = ("Daily figures after the CSO's latest release are saved from the HSE's TrolleyGAR page each morning."
+           if len(h) else
+           f"The CSO's figures run to {cso_end:%-d %B %Y}. From November 2026 the site saves the HSE's count each "
+           f"morning, and those readings will appear here after the CSO's figures.")
+    Chart(
+        id="health-trolleys-daily", topic=TOPIC,
+        title="Patients on trolleys, day by day",
+        subtitle="Admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, "
+                 "for the most recent year available.",
+        sources=[Source.cso("KTA02", "Admitted Patients Waiting on Trolleys in Public Acute Hospital Eds at 8 am"),
+                 Source("Health Service Executive", "TrolleyGAR daily report, Urgent and Emergency Care", trolleygar.PAGE,
+                        licence="Quoted with acknowledgement", licence_url="")],
+        notes=["Both sources count patients who have been admitted to hospital but are still waiting in an emergency "
+               "department for a bed, at 8am. The CSO publishes the HSE's daily count some months later, so the "
+               "site saves the HSE's own figure each morning to keep the record up to date.",
+               gap,
+               "The HSE page gives a weekday but no date, so a saved reading is used only when that weekday matches "
+               "the day it was saved. Readings are not checked against the CSO's figures until the CSO publishes them.",
+               "The Irish Nurses and Midwives Organisation publishes its own daily count, which is usually higher "
+               "because it also includes patients on trolleys on wards."],
+        key_fact=f"On {last.date:%-d %B %Y}, {last_value:.0f} admitted patients were waiting on trolleys in emergency "
+                 f"departments at 8am.",
+        data=w, figure=fig,
+    ).write()
+
+
 def emergency_department_times():
     df = cso.fetch("KTA03")
     d = df.pivot_table(index="Month", columns="Percentile", values="VALUE").reset_index()
@@ -242,6 +284,23 @@ def eu_comparisons():
         notes=["Figures are in purchasing power standards (PPS), an artificial currency that adjusts for differences in "
                "price levels between countries, so the amounts are not euro. Covers spending by the State, health "
                "insurance and people themselves, but not investment in buildings and equipment."],
+        value_format=",.0f")
+
+
+def hospital_beds_eu():
+    df = eurostat.fetch("hlth_rs_bds1", name="hospital_beds", geo=EU_GEO)
+    df = df[(df.unit == "P_HTHAB") & (df.facility == "HBEDT") & (df.hlthcare == "TOTAL")]
+    eu.rank_chart(
+        "health-hospital-beds-eu", TOPIC, "Hospital beds across the EU",
+        "Hospital beds per 100,000 people, all types of care, EU countries, {year}.",
+        Source.eurostat("hlth_rs_bds1", "Hospital beds by type of care and healthcare provider", name="hospital_beds"),
+        df,
+        lambda y, ie, ev, place: f"In {y}, Ireland had {ie:.0f} hospital beds per 100,000 people, compared with "
+                                 f"{ev:.0f} across the EU. Ireland's figure was {place}.",
+        notes=["Counts beds that are staffed and available in public and private hospitals, including beds for acute, "
+               "rehabilitation, long-term and psychiatric care. Beds in nursing homes are not included.",
+               "Countries organise care differently. Some treat more patients as day cases or in the community, so a "
+               "lower number of beds does not on its own mean less care."],
         value_format=",.0f")
 
 

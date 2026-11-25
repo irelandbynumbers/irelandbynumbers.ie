@@ -83,12 +83,14 @@
 - [Distance to hospital emergency department by county](/charts/health-distance-emergency-department-map.html). Median distance by road from people's homes to the nearest hospital emergency department, in kilometres, 2026. *Central Statistics Office (CSO).* [CSV](/charts/health-distance-emergency-department-map.csv)
 - [Distance to GP by county](/charts/health-distance-gp-map.html). Median distance by road from people's homes to the nearest GP, in kilometres, 2026. *Central Statistics Office (CSO).* [CSV](/charts/health-distance-gp-map.csv)
 - [Time spent in emergency departments](/charts/health-ed-times.html). Hours within which half of patients, and 95% of patients, left a public hospital emergency department after arriving, by month, January 2016 to December 2025. *Central Statistics Office (CSO).* [CSV](/charts/health-ed-times.csv)
+- [Hospital beds across the EU](/charts/health-hospital-beds-eu.html). Hospital beds per 100,000 people, all types of care, EU countries, 2024. *Eurostat.* [CSV](/charts/health-hospital-beds-eu.csv)
 - [Life expectancy in Ireland and the EU](/charts/health-life-expectancy.html). Life expectancy at birth in years, Ireland and the 27 EU countries, 2018 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-life-expectancy.csv)
 - [General health in Ireland and Northern Ireland](/charts/health-ni-general-health.html). How people rated their own general health, census 2022 in Ireland and 2021 in Northern Ireland. *Central Statistics Office (CSO).* [CSV](/charts/health-ni-general-health.csv)
 - [Outpatient waiting times](/charts/health-outpatient-waits.html). Percentage of people on the hospital outpatient waiting list who had been waiting less than 15 months, July 2021 to September 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-outpatient-waits.csv)
 - [Spending on health care](/charts/health-spending.html). Current spending on health care in Ireland, by the State and by households and insurers, € billion, 2000 to 2024. *Central Statistics Office (CSO).* [CSV](/charts/health-spending.csv)
 - [Health spending across the EU](/charts/health-spending-eu.html). Current spending on health care per person, public and private, adjusted for price levels, EU countries, 2024. *Eurostat.* [CSV](/charts/health-spending-eu.csv)
 - [Patients waiting on trolleys](/charts/health-trolleys.html). Average number of admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, by month, January 2016 to December 2025. *Central Statistics Office (CSO).* [CSV](/charts/health-trolleys.csv)
+- [Patients on trolleys, day by day](/charts/health-trolleys-daily.html). Admitted patients waiting on trolleys in public hospital emergency departments at 8am each day, for the most recent year available. *Central Statistics Office (CSO); Health Service Executive.* [CSV](/charts/health-trolleys-daily.csv)
 
 ## [Environment and climate](/environment/)
 

@@ -1,11 +1,19 @@
 ---
 title: "The health service"
-description: "Trolleys, time spent in emergency departments, outpatient waiting times and spending on health care."
+description: "Trolleys, hospital beds compared with the EU, time spent in emergency departments, outpatient waiting times and spending on health care."
 ---
 
 Trolley numbers are usually highest in January and February. On an average morning in 2025, 265 patients who had been admitted to hospital were still waiting on trolleys in emergency departments for a bed. Numbers fell sharply in 2020, during the Covid-19 pandemic, and reached their highest in 2022 and 2023.
 
 {{< chart health-trolleys >}}
+
+The CSO publishes the daily count some months after the HSE, so its figures currently end in December 2025. To keep the record current, the site now saves the HSE's 8am count every morning, and these readings will be added to the chart below after the CSO's figures.
+
+{{< chart health-trolleys-daily >}}
+
+Ireland has fewer hospital beds for its population than most EU countries. In 2024 there were 293 beds per 100,000 people, compared with 507 across the EU, the 6th lowest of the 27 countries. Sweden, the Netherlands and Denmark had fewer. Countries organise care differently, so the number of beds is only one measure of capacity.
+
+{{< chart health-hospital-beds-eu >}}
 
 Half of patients who attended an emergency department in 2025 left within about five hours, either to go home or to a ward. One in twenty spent more than 20 hours there.
 
