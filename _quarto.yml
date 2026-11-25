@@ -3,12 +3,11 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "evidence-ecosystem/*.qmd"
+    # Draft pages kept out of the published site until they are ready.
+    - "!evidence-ecosystem/"
   resources:
     - CNAME
     - figures/**
-    - evidence-ecosystem/*.csv
-    - evidence-ecosystem/*.js
 
 website:
   title: "Ireland by Numbers"
