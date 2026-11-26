@@ -43,6 +43,7 @@ The weekly publish run, every Friday evening, fetches the latest data, rebuilds 
 ## Regular content
 
 - Chart of the week: add an entry at the top of `chart-of-the-week.yml`. The homepage shows the newest, and `chart-of-the-week.qmd` lists them all.
+- Newsletter posts (Substack and similar): open the chart's page and use Download PNG (narrow). It is drawn at a column width with the title, source and chart link built in, so it stays readable in an email or on a phone. Substack does not accept embed codes, so paste the image, then paste the chart's page link on its own line, which shows as a preview card.
 - What's new: add a dated line to `whats-new.qmd`. The table of source update dates under it is generated.
 - Corrections: add every correction to `corrections.qmd`.
 - Irish titles and summaries for each topic are in `irish.yml`, and appear on the topic pages once `approved: true` is set.
