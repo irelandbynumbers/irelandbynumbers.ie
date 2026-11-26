@@ -338,7 +338,8 @@ TEMPLATE = """<!doctype html>
     {notes_block}
     <div class="actions">
       <button type="button" id="table" aria-expanded="false">Show table</button>
-      <button type="button" id="png">Download PNG</button>
+      <button type="button" id="png">Download PNG (wide)</button>
+      <button type="button" id="png-narrow">Download PNG (narrow)</button>
       <a href="{id}.csv" download>Download data (CSV)</a>
       {tables}
       <button type="button" id="embed">Embed</button>
@@ -392,29 +393,41 @@ new ResizeObserver(postHeight).observe(document.body);
 window.addEventListener("load", postHeight);
 
 // PNG: the chart as shown, with its title, subtitle, source and credit drawn in.
-document.getElementById("png").addEventListener("click", () => {{
-  const W = 1200, H = Math.round(W * 0.66);
+// "wide" suits slides and web pages. "narrow" is drawn at a column width with the same type
+// sizes, so the text stays readable when the image sits in a newsletter or is read on a phone.
+const PNG_SIZES = {{wide: [1200, 792], narrow: [640, 760]}};
+function downloadPNG(size) {{
+  const [W, H] = PNG_SIZES[size];
   const layout = JSON.parse(JSON.stringify(gd.layout));
   delete layout.sliders; delete layout.updatemenus; delete layout.title;
-  let sub = META.subtitle;
+  let sub = META.subtitle.replace(/ Use the slider[^.]*\\./, "");
   const s = (gd.layout.sliders || [])[0];
   if (s && s.steps && s.steps[s.active || 0]) sub += " Shown for " + s.steps[s.active || 0].label + ".";
-  const wrap = (t, n) => t.replace(new RegExp("(.{{1," + n + "}})(\\\\s|$)", "g"), "$1<br>").replace(/<br>$/, "");
+  // Break text into lines of at most n characters, at spaces.
+  const lines = (t, n) => (t.match(new RegExp(".{{1," + n + "}}(\\\\s|$)", "g")) || [t]).map((l) => l.trim());
+  const inner = W - ((layout.margin || {{}}).l || 56) - 24;
+  const title = lines(META.title, Math.floor(inner / 12.5));
+  const subtitle = lines(sub, Math.floor(inner / 8.2));
+  const source = lines(META.source, Math.floor(inner / 6.6));
   const m = layout.margin || {{}};
-  const T = layout.geo ? 150 : 120, B = (m.b || 0) + 70;
+  const T = 24 + title.length * 28 + 8 + subtitle.length * 20 + (layout.geo ? 64 : 24) + (layout.showlegend ? 28 : 0);
+  const B = (m.b || 0) + 24 + source.length * 16 + 18;
   layout.margin = Object.assign({{}}, m, {{t: T, b: B}});
   const ph = H - T - B;  // plot height; header and footer sit outside it, in paper units
   const note = (text, px, anchor, size, colour) => ({{text, x: 0, xref: "paper", y: px / ph, yref: "paper",
     xanchor: "left", yanchor: anchor, showarrow: false, align: "left", font: {{size, color: colour}}}});
   layout.annotations = (layout.annotations || []).concat([
-    note("<b>" + META.title + "</b>", ph + T - 18, "top", 22, "{ink}"),
-    note(wrap(sub, 130), ph + T - 52, "top", 15, "{ink2}"),
-    note(wrap(META.source, 150), -(B - 32), "bottom", 12, "{ink2}"),
+    note("<b>" + title.join("<br>") + "</b>", ph + T - 18, "top", 22, "{ink}"),
+    note(subtitle.join("<br>"), ph + T - 18 - title.length * 28 - 8, "top", 15, "{ink2}"),
+    note(source.join("<br>"), -(B - 32), "bottom", 12, "{ink2}"),
     note(META.credit, -(B - 12), "bottom", 12, "{ink3}")]);
   layout.width = W; layout.height = H;
   Plotly.downloadImage({{data: gd.data, layout: layout, config: CONFIG}},
-    {{format: "png", width: W, height: H, scale: 2, filename: META.id}});
-}});
+    {{format: "png", width: W, height: H, scale: size === "narrow" ? 3 : 2,
+      filename: META.id + (size === "narrow" ? "-narrow" : "")}});
+}}
+document.getElementById("png").addEventListener("click", () => downloadPNG("wide"));
+document.getElementById("png-narrow").addEventListener("click", () => downloadPNG("narrow"));
 
 // The data as a table, from the same CSV people download.
 document.getElementById("table").addEventListener("click", async (e) => {{
